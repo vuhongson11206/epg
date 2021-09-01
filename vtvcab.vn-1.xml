@@ -1,0 +1,1181 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Asian Food Channel">
+    <display-name lang="vi">Asian Food Channel</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="BBC EARTH">
+    <display-name lang="vi">BBC EARTH</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="BBC LIFESTYLE">
+    <display-name lang="vi">BBC LIFESTYLE</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="BBC World News">
+    <display-name lang="vi">BBC World News</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="Bloomberg">
+    <display-name lang="vi">Bloomberg</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="Blue Ant Entertainment">
+    <display-name lang="vi">Blue Ant Entertainment</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="Blue Ant Extreme">
+    <display-name lang="vi">Blue Ant Extreme</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="Bóng đá TV HD">
+    <display-name lang="vi">Bóng đá TV HD</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="BOX Movie 1">
+    <display-name lang="vi">BOX Movie 1</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="CARTOON  NETWORK">
+    <display-name lang="vi">CARTOON  NETWORK</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="CNN">
+    <display-name lang="vi">CNN</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="Da Vinci">
+    <display-name lang="vi">Da Vinci</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="Dr. Fit">
+    <display-name lang="vi">Dr. Fit</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="Fashion TV HD">
+    <display-name lang="vi">Fashion TV HD</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="FOX">
+    <display-name lang="vi">FOX</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="Fox Family Movies">
+    <display-name lang="vi">Fox Family Movies</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="FOX Life HD">
+    <display-name lang="vi">FOX Life HD</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="FOX Movies HD">
+    <display-name lang="vi">FOX Movies HD</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="FOXSPORTS">
+    <display-name lang="vi">FOXSPORTS</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <channel id="FOXSPORTS 2">
+    <display-name lang="vi">FOXSPORTS 2</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
+  </channel>
+  <programme start="20210901002000 +0700" stop="20210901005000 +0700" channel="Asian Food Channel">
+    <title lang="vi">Ho Chak Japan (S1)</title>
+  </programme>
+  <programme start="20210901005000 +0700" stop="20210901011500 +0700" channel="Asian Food Channel">
+    <title lang="vi">Rachel Khoo's Simple Pleasures (S1)</title>
+  </programme>
+  <programme start="20210901011500 +0700" stop="20210901014500 +0700" channel="Asian Food Channel">
+    <title lang="vi">Rachel Khoo's Simple Pleasures (S1)</title>
+  </programme>
+  <programme start="20210901014500 +0700" stop="20210901021000 +0700" channel="Asian Food Channel">
+    <title lang="vi">Bake With Anna Olson (S3)</title>
+  </programme>
+  <programme start="20210901021000 +0700" stop="20210901024000 +0700" channel="Asian Food Channel">
+    <title lang="vi">Bake With Anna Olson (S3)</title>
+  </programme>
+  <programme start="20210901024000 +0700" stop="20210901033500 +0700" channel="Asian Food Channel">
+    <title lang="vi">Old Taste Detective (S2)</title>
+  </programme>
+  <programme start="20210901033500 +0700" stop="20210901040000 +0700" channel="Asian Food Channel">
+    <title lang="vi">Rachel Khoo's Simple Pleasures (S1)</title>
+  </programme>
+  <programme start="20210901040000 +0700" stop="20210901043000 +0700" channel="Asian Food Channel">
+    <title lang="vi">Rachel Khoo's Simple Pleasures (S1)</title>
+  </programme>
+  <programme start="20210901043000 +0700" stop="20210901050000 +0700" channel="Asian Food Channel">
+    <title lang="vi">Bake With Anna Olson (S3)</title>
+  </programme>
+  <programme start="20210901050000 +0700" stop="20210901052500 +0700" channel="Asian Food Channel">
+    <title lang="vi">Jack Stein: Inside the Box (S1)</title>
+  </programme>
+  <programme start="20210901052500 +0700" stop="20210901055000 +0700" channel="Asian Food Channel">
+    <title lang="vi">Jack Stein: Inside the Box (S1)</title>
+  </programme>
+  <programme start="20210901055000 +0700" stop="20210901061500 +0700" channel="Asian Food Channel">
+    <title lang="vi">Malaysian Flavours (S1)</title>
+  </programme>
+  <programme start="20210901061500 +0700" stop="20210901064500 +0700" channel="Asian Food Channel">
+    <title lang="vi">Malaysian Flavours (S1)</title>
+  </programme>
+  <programme start="20210901064500 +0700" stop="20210901074000 +0700" channel="Asian Food Channel">
+    <title lang="vi">National Flavours (S1)</title>
+  </programme>
+  <programme start="20210901074000 +0700" stop="20210901080500 +0700" channel="Asian Food Channel">
+    <title lang="vi">Comfort Food Recipes (S2)</title>
+  </programme>
+  <programme start="20210901080500 +0700" stop="20210901083500 +0700" channel="Asian Food Channel">
+    <title lang="vi">Comfort Food Recipes (S2)</title>
+  </programme>
+  <programme start="20210901083500 +0700" stop="20210901090000 +0700" channel="Asian Food Channel">
+    <title lang="vi">Everyday Gourmet (S10)</title>
+  </programme>
+  <programme start="20210901090000 +0700" stop="20210901093000 +0700" channel="Asian Food Channel">
+    <title lang="vi">Everyday Gourmet (S10)</title>
+  </programme>
+  <programme start="20210901093000 +0700" stop="20210901095500 +0700" channel="Asian Food Channel">
+    <title lang="vi">Destination Flavour: Singapore (S1)</title>
+  </programme>
+  <programme start="20210901095500 +0700" stop="20210901102500 +0700" channel="Asian Food Channel">
+    <title lang="vi">Destination Flavour: Singapore (S1)</title>
+  </programme>
+  <programme start="20210901102500 +0700" stop="20210901105000 +0700" channel="Asian Food Channel">
+    <title lang="vi">Bake With Anna Olson (S3)</title>
+  </programme>
+  <programme start="20210901105000 +0700" stop="20210901112000 +0700" channel="Asian Food Channel">
+    <title lang="vi">Bake With Anna Olson (S3)</title>
+  </programme>
+  <programme start="20210901112000 +0700" stop="20210901114500 +0700" channel="Asian Food Channel">
+    <title lang="vi">Malaysian Flavours (S1)</title>
+  </programme>
+  <programme start="20210901114500 +0700" stop="20210901121500 +0700" channel="Asian Food Channel">
+    <title lang="vi">Malaysian Flavours (S1)</title>
+  </programme>
+  <programme start="20210901121500 +0700" stop="20210901131000 +0700" channel="Asian Food Channel">
+    <title lang="vi">Local Fine Produce (S1)</title>
+  </programme>
+  <programme start="20210901131000 +0700" stop="20210901133500 +0700" channel="Asian Food Channel">
+    <title lang="vi">Rachel Khoo's Simple Pleasures (S1)</title>
+  </programme>
+  <programme start="20210901133500 +0700" stop="20210901140500 +0700" channel="Asian Food Channel">
+    <title lang="vi">Rachel Khoo's Simple Pleasures (S1)</title>
+  </programme>
+  <programme start="20210901140500 +0700" stop="20210901143000 +0700" channel="Asian Food Channel">
+    <title lang="vi">Comfort Food Recipes (S2)</title>
+  </programme>
+  <programme start="20210901143000 +0700" stop="20210901150000 +0700" channel="Asian Food Channel">
+    <title lang="vi">Comfort Food Recipes (S2)</title>
+  </programme>
+  <programme start="20210901150000 +0700" stop="20210901153000 +0700" channel="Asian Food Channel">
+    <title lang="vi">Everyday Gourmet (S10)</title>
+  </programme>
+  <programme start="20210901153000 +0700" stop="20210901160000 +0700" channel="Asian Food Channel">
+    <title lang="vi">Everyday Gourmet (S10)</title>
+  </programme>
+  <programme start="20210901160000 +0700" stop="20210901163000 +0700" channel="Asian Food Channel">
+    <title lang="vi">Ho Chak Japan (S1)</title>
+  </programme>
+  <programme start="20210901163000 +0700" stop="20210901170000 +0700" channel="Asian Food Channel">
+    <title lang="vi">Ho Chak Japan (S1)</title>
+  </programme>
+  <programme start="20210901170000 +0700" stop="20210901173000 +0700" channel="Asian Food Channel">
+    <title lang="vi">Jack Stein: Inside the Box (S1)</title>
+  </programme>
+  <programme start="20210901173000 +0700" stop="20210901180000 +0700" channel="Asian Food Channel">
+    <title lang="vi">Jack Stein: Inside the Box (S1)</title>
+  </programme>
+  <programme start="20210901180000 +0700" stop="20210901183000 +0700" channel="Asian Food Channel">
+    <title lang="vi">Cooking With Queen (S1)</title>
+  </programme>
+  <programme start="20210901183000 +0700" stop="20210901190000 +0700" channel="Asian Food Channel">
+    <title lang="vi">Cooking With Queen (S1)</title>
+  </programme>
+  <programme start="20210901190000 +0700" stop="20210901200000 +0700" channel="Asian Food Channel">
+    <title lang="vi">Siba’s Bites (S1)</title>
+  </programme>
+  <programme start="20210901200000 +0700" stop="20210901210000 +0700" channel="Asian Food Channel">
+    <title lang="vi">Old Taste Detective (S2)</title>
+  </programme>
+  <programme start="20210901210000 +0700" stop="20210901213000 +0700" channel="Asian Food Channel">
+    <title lang="vi">Maximum Foodie (S1)</title>
+  </programme>
+  <programme start="20210901213000 +0700" stop="20210901220000 +0700" channel="Asian Food Channel">
+    <title lang="vi">Maximum Foodie (S1)</title>
+  </programme>
+  <programme start="20210901220000 +0700" stop="20210901223000 +0700" channel="Asian Food Channel">
+    <title lang="vi">Cooking With Queen (S1)</title>
+  </programme>
+  <programme start="20210901223000 +0700" stop="20210901230000 +0700" channel="Asian Food Channel">
+    <title lang="vi">Cooking With Queen (S1)</title>
+  </programme>
+  <programme start="20210901230000 +0700" stop="20210901235500 +0700" channel="Asian Food Channel">
+    <title lang="vi">King Of Culinary (S2)</title>
+  </programme>
+  <programme start="20210901003500 +0700" stop="20210901013000 +0700" channel="BBC EARTH">
+    <title lang="vi">TRIBAL BOOTCAMP</title>
+  </programme>
+  <programme start="20210901013000 +0700" stop="20210901022500 +0700" channel="BBC EARTH">
+    <title lang="vi">INSIDE THE FACTORY</title>
+  </programme>
+  <programme start="20210901022500 +0700" stop="20210901025000 +0700" channel="BBC EARTH">
+    <title lang="vi">FOOD FACTORY</title>
+  </programme>
+  <programme start="20210901025000 +0700" stop="20210901031500 +0700" channel="BBC EARTH">
+    <title lang="vi">FOOD FACTORY</title>
+  </programme>
+  <programme start="20210901031500 +0700" stop="20210901041000 +0700" channel="BBC EARTH">
+    <title lang="vi">MISSION GALÁPAGOS</title>
+  </programme>
+  <programme start="20210901041000 +0700" stop="20210901050500 +0700" channel="BBC EARTH">
+    <title lang="vi">TRIBAL BOOTCAMP</title>
+  </programme>
+  <programme start="20210901000000 +0700" stop="20210901010000 +0700" channel="Bloomberg">
+    <title lang="vi">Bloomberg Markets: European Close</title>
+  </programme>
+  <programme start="20210901010000 +0700" stop="20210901020000 +0700" channel="Bloomberg">
+    <title lang="vi">Bloomberg: Balance of Power</title>
+  </programme>
+  <programme start="20210901020000 +0700" stop="20210901030000 +0700" channel="Bloomberg">
+    <title lang="vi">Bloomberg Markets: Americas</title>
+  </programme>
+  <programme start="20210901030000 +0700" stop="20210901050000 +0700" channel="Bloomberg">
+    <title lang="vi">Bloomberg Markets: The Close</title>
+  </programme>
+  <programme start="20210901013100 +0700" stop="20210901032400 +0700" channel="Blue Ant Entertainment">
+    <title lang="vi">Vũ khí tối thượng 2</title>
+  </programme>
+  <programme start="20210901032400 +0700" stop="20210901052200 +0700" channel="Blue Ant Entertainment">
+    <title lang="vi">Thuỷ triều đen</title>
+  </programme>
+  <programme start="20210901052200 +0700" stop="20210901065000 +0700" channel="Blue Ant Entertainment">
+    <title lang="vi">Người gác đêm</title>
+  </programme>
+  <programme start="20210901065000 +0700" stop="20210901084600 +0700" channel="Blue Ant Entertainment">
+    <title lang="vi">Bước đi thế kỉ</title>
+  </programme>
+  <programme start="20210901084600 +0700" stop="20210901102800 +0700" channel="Blue Ant Entertainment">
+    <title lang="vi">Truy Nã</title>
+  </programme>
+  <programme start="20210901102800 +0700" stop="20210901123400 +0700" channel="Blue Ant Entertainment">
+    <title lang="vi">Phát súng cuối cùng</title>
+  </programme>
+  <programme start="20210901123400 +0700" stop="20210901141600 +0700" channel="Blue Ant Entertainment">
+    <title lang="vi">Dấu hiệu</title>
+  </programme>
+  <programme start="20210901141600 +0700" stop="20210901155200 +0700" channel="Blue Ant Entertainment">
+    <title lang="vi">Những đứa trẻ to xác 2</title>
+  </programme>
+  <programme start="20210901155200 +0700" stop="20210901174900 +0700" channel="Blue Ant Entertainment">
+    <title lang="vi">Nàng Bạch Tuyết và gã thợ săn</title>
+  </programme>
+  <programme start="20210901174900 +0700" stop="20210901195900 +0700" channel="Blue Ant Entertainment">
+    <title lang="vi">Người sói: Trận chiến cuối cùng</title>
+  </programme>
+  <programme start="20210901195900 +0700" stop="20210901220000 +0700" channel="Blue Ant Entertainment">
+    <title lang="vi">Phi vụ thế kỉ 2</title>
+  </programme>
+  <programme start="20210901005000 +0700" stop="20210901013800 +0700" channel="Blue Ant Extreme">
+    <title lang="vi">KẺ HỦY DIỆT: BIÊN NIÊN SỬ SARAH CONNOR</title>
+  </programme>
+  <programme start="20210901013800 +0700" stop="20210901022600 +0700" channel="Blue Ant Extreme">
+    <title lang="vi">BÍ MẬT GIẤU KÍN</title>
+  </programme>
+  <programme start="20210901022600 +0700" stop="20210901031400 +0700" channel="Blue Ant Extreme">
+    <title lang="vi">SÁT THỦ NIKITA</title>
+  </programme>
+  <programme start="20210901031400 +0700" stop="20210901044600 +0700" channel="Blue Ant Extreme">
+    <title lang="vi">ĐỘI CỨU HỎA CHICAGO</title>
+  </programme>
+  <programme start="20210901044600 +0700" stop="20210901062000 +0700" channel="Blue Ant Extreme">
+    <title lang="vi">ARN</title>
+  </programme>
+  <programme start="20210901062000 +0700" stop="20210901075500 +0700" channel="Blue Ant Extreme">
+    <title lang="vi">SÁT THỦ NIKITA</title>
+  </programme>
+  <programme start="20210901075500 +0700" stop="20210901084200 +0700" channel="Blue Ant Extreme">
+    <title lang="vi">ĐỘI CỨU HỎA CHICAGO</title>
+  </programme>
+  <programme start="20210901084200 +0700" stop="20210901101900 +0700" channel="Blue Ant Extreme">
+    <title lang="vi">KẺ HỦY DIỆT: BIÊN NIÊN SỬ SARAH CONNOR</title>
+  </programme>
+  <programme start="20210901101900 +0700" stop="20210901110600 +0700" channel="Blue Ant Extreme">
+    <title lang="vi">BÍ MẬT GIẤU KÍN</title>
+  </programme>
+  <programme start="20210901110600 +0700" stop="20210901124200 +0700" channel="Blue Ant Extreme">
+    <title lang="vi">JACK RYAN S02</title>
+  </programme>
+  <programme start="20210901124200 +0700" stop="20210901141600 +0700" channel="Blue Ant Extreme">
+    <title lang="vi">ĐỘI CỨU HỎA CHICAGO</title>
+  </programme>
+  <programme start="20210901141600 +0700" stop="20210901150300 +0700" channel="Blue Ant Extreme">
+    <title lang="vi">SÁT THỦ NIKITA</title>
+  </programme>
+  <programme start="20210901150300 +0700" stop="20210901165400 +0700" channel="Blue Ant Extreme">
+    <title lang="vi">SIÊU HACKER</title>
+  </programme>
+  <programme start="20210901165400 +0700" stop="20210901182600 +0700" channel="Blue Ant Extreme">
+    <title lang="vi">BẦU TRỜI SỤP ĐỔ</title>
+  </programme>
+  <programme start="20210901182600 +0700" stop="20210901191500 +0700" channel="Blue Ant Extreme">
+    <title lang="vi">ĐỘI CỨU HỎA CHICAGO</title>
+  </programme>
+  <programme start="20210901191500 +0700" stop="20210901204900 +0700" channel="Blue Ant Extreme">
+    <title lang="vi">ARN</title>
+  </programme>
+  <programme start="20210901204900 +0700" stop="20210901213700 +0700" channel="Blue Ant Extreme">
+    <title lang="vi">BÍ MẬT GIẤU KÍN</title>
+  </programme>
+  <programme start="20210901213700 +0700" stop="20210901222200 +0700" channel="Blue Ant Extreme">
+    <title lang="vi">SÁT THỦ NIKITA</title>
+  </programme>
+  <programme start="20210901222200 +0700" stop="20210901230900 +0700" channel="Blue Ant Extreme">
+    <title lang="vi">ĐỘI CỨU HỎA CHICAGO</title>
+  </programme>
+  <programme start="20210901000000 +0700" stop="20210901001500 +0700" channel="Bóng đá TV HD">
+    <title lang="vi">Bản tin Thể thao Việt Nam 19H45 Plại</title>
+  </programme>
+  <programme start="20210901001500 +0700" stop="20210901004500 +0700" channel="Bóng đá TV HD">
+    <title lang="vi">Bản tin ( 20H)</title>
+  </programme>
+  <programme start="20210901004500 +0700" stop="20210901023000 +0700" channel="Bóng đá TV HD">
+    <title lang="vi">VĐQG Italia - Serie A 21/22 Vòng 2</title>
+  </programme>
+  <programme start="20210901023000 +0700" stop="20210901024500 +0700" channel="Bóng đá TV HD">
+    <title lang="vi">Bản tin Thể thao Việt Nam 19H45 Plại</title>
+  </programme>
+  <programme start="20210901024500 +0700" stop="20210901043000 +0700" channel="Bóng đá TV HD">
+    <title lang="vi">VĐQG Italia - Serie A 21/22 Vòng 2</title>
+  </programme>
+  <programme start="20210901043000 +0700" stop="20210901050000 +0700" channel="Bóng đá TV HD">
+    <title lang="vi">Bản tin ( 20H)</title>
+  </programme>
+  <programme start="20210901050000 +0700" stop="20210901053000 +0700" channel="Bóng đá TV HD">
+    <title lang="vi">Tổng hợp hạng nhất Anh 20/21</title>
+  </programme>
+  <programme start="20210901053000 +0700" stop="20210901054500 +0700" channel="Bóng đá TV HD">
+    <title lang="vi">Bản tin Thể thao Việt Nam 19H45 Plại</title>
+  </programme>
+  <programme start="20210901054500 +0700" stop="20210901060000 +0700" channel="Bóng đá TV HD">
+    <title lang="vi">Thể thao &amp; Thời tiết Mới</title>
+  </programme>
+  <programme start="20210901060000 +0700" stop="20210901061500 +0700" channel="Bóng đá TV HD">
+    <title lang="vi">Bản tin Thế giới thể thao ( 6H) Live</title>
+  </programme>
+  <programme start="20210901061500 +0700" stop="20210901063000 +0700" channel="Bóng đá TV HD">
+    <title lang="vi">Bản tin Thể thao Việt Nam 19H45 Plại</title>
+  </programme>
+  <programme start="20210901063000 +0700" stop="20210901081500 +0700" channel="Bóng đá TV HD">
+    <title lang="vi">VĐQG Tây Ban Nha - La Liga 21/22 Vòng 3</title>
+  </programme>
+  <programme start="20210901081500 +0700" stop="20210901083000 +0700" channel="Bóng đá TV HD">
+    <title lang="vi">Bản tin Thế giới thể thao ( 6H) Plại</title>
+  </programme>
+  <programme start="20210901083000 +0700" stop="20210901084500 +0700" channel="Bóng đá TV HD">
+    <title lang="vi">Bản tin Thể thao Việt Nam 19H45 Plại</title>
+  </programme>
+  <programme start="20210901084500 +0700" stop="20210901103000 +0700" channel="Bóng đá TV HD">
+    <title lang="vi">VĐQG Italia - Serie A 21/22 Vòng 2</title>
+  </programme>
+  <programme start="20210901103000 +0700" stop="20210901113000 +0700" channel="Bóng đá TV HD">
+    <title lang="vi">Cafe Đội tuyển Preview</title>
+  </programme>
+  <programme start="20210901113000 +0700" stop="20210901114500 +0700" channel="Bóng đá TV HD">
+    <title lang="vi">Bản tin Thể thao Việt Nam 11H30 Live</title>
+  </programme>
+  <programme start="20210901114500 +0700" stop="20210901120000 +0700" channel="Bóng đá TV HD">
+    <title lang="vi">Bản tin Thế giới thể thao ( 6H) Plại</title>
+  </programme>
+  <programme start="20210901120000 +0700" stop="20210901121500 +0700" channel="Bóng đá TV HD">
+    <title lang="vi">Thể thao &amp; Thời tiết + ĐỆM</title>
+  </programme>
+  <programme start="20210901121500 +0700" stop="20210901124500 +0700" channel="Bóng đá TV HD">
+    <title lang="vi">LaLiga World</title>
+  </programme>
+  <programme start="20210901124500 +0700" stop="20210901143000 +0700" channel="Bóng đá TV HD">
+    <title lang="vi">Hạng Nhất Pháp 21/22 Vòng 4</title>
+  </programme>
+  <programme start="20210901143000 +0700" stop="20210901144500 +0700" channel="Bóng đá TV HD">
+    <title lang="vi">Bản tin Thể thao Việt Nam 11H30 Plại</title>
+  </programme>
+  <programme start="20210901144500 +0700" stop="20210901150000 +0700" channel="Bóng đá TV HD">
+    <title lang="vi">Thể thao &amp; Thời tiết + ĐỆM</title>
+  </programme>
+  <programme start="20210901150000 +0700" stop="20210901164500 +0700" channel="Bóng đá TV HD">
+    <title lang="vi">VĐQG Tây Ban Nha - La Liga 21/22 Vòng 3</title>
+  </programme>
+  <programme start="20210901164500 +0700" stop="20210901170000 +0700" channel="Bóng đá TV HD">
+    <title lang="vi">Bản tin Thế giới thể thao ( 6H) Plại</title>
+  </programme>
+  <programme start="20210901170000 +0700" stop="20210901184500 +0700" channel="Bóng đá TV HD">
+    <title lang="vi">VĐQG Italia - Serie A 21/22 Vòng 2</title>
+  </programme>
+  <programme start="20210901184500 +0700" stop="20210901194500 +0700" channel="Bóng đá TV HD">
+    <title lang="vi">Đặng Phương Nam Show</title>
+  </programme>
+  <programme start="20210901194500 +0700" stop="20210901200000 +0700" channel="Bóng đá TV HD">
+    <title lang="vi">Bản tin Thể thao Việt Nam 19H45 Live</title>
+  </programme>
+  <programme start="20210901200000 +0700" stop="20210901203000 +0700" channel="Bóng đá TV HD">
+    <title lang="vi">Bản tin ( 20H) Live</title>
+  </programme>
+  <programme start="20210901203000 +0700" stop="20210901210000 +0700" channel="Bóng đá TV HD">
+    <title lang="vi">V - League World 2021</title>
+  </programme>
+  <programme start="20210901210000 +0700" stop="20210901230000 +0700" channel="Bóng đá TV HD">
+    <title lang="vi">VL World Cup KV Châu Âu 2022 Bảng D</title>
+  </programme>
+  <programme start="20210901035400 +0700" stop="20210901055500 +0700" channel="BOX Movie 1">
+    <title lang="vi">Đã đến lúc</title>
+  </programme>
+  <programme start="20210901055500 +0700" stop="20210901074300 +0700" channel="BOX Movie 1">
+    <title lang="vi">Thư gửi Juliet</title>
+  </programme>
+  <programme start="20210901074300 +0700" stop="20210901091300 +0700" channel="BOX Movie 1">
+    <title lang="vi">Cặp đôi hoàn hảo</title>
+  </programme>
+  <programme start="20210901091300 +0700" stop="20210901105600 +0700" channel="BOX Movie 1">
+    <title lang="vi">Cuộc đua tử thần 3: Hỏa ngục</title>
+  </programme>
+  <programme start="20210901105600 +0700" stop="20210901124100 +0700" channel="BOX Movie 1">
+    <title lang="vi">Sóng tử thần</title>
+  </programme>
+  <programme start="20210901124100 +0700" stop="20210901141800 +0700" channel="BOX Movie 1">
+    <title lang="vi">Biển xanh sâu thẳm 2</title>
+  </programme>
+  <programme start="20210901141800 +0700" stop="20210901155700 +0700" channel="BOX Movie 1">
+    <title lang="vi">Tam giác quỷ</title>
+  </programme>
+  <programme start="20210901155700 +0700" stop="20210901180600 +0700" channel="BOX Movie 1">
+    <title lang="vi">Đua</title>
+  </programme>
+  <programme start="20210901180600 +0700" stop="20210901195900 +0700" channel="BOX Movie 1">
+    <title lang="vi">Bão tuyết kinh hoàng</title>
+  </programme>
+  <programme start="20210901195900 +0700" stop="20210901214600 +0700" channel="BOX Movie 1">
+    <title lang="vi">Báo thù</title>
+  </programme>
+  <programme start="20210901214600 +0700" stop="20210901232500 +0700" channel="BOX Movie 1">
+    <title lang="vi">Cá sấu ăn thịt người</title>
+  </programme>
+  <programme start="20210901000600 +0700" stop="20210901001500 +0700" channel="Da Vinci">
+    <title lang="vi">Khoa Học Tuyệt Vời Của Bong Bóng Xà Phòng</title>
+  </programme>
+  <programme start="20210901001500 +0700" stop="20210901003900 +0700" channel="Da Vinci">
+    <title lang="vi">Khám Phá Rạn San Hô Lớn</title>
+  </programme>
+  <programme start="20210901003900 +0700" stop="20210901004800 +0700" channel="Da Vinci">
+    <title lang="vi">Sự Thật Về Thói Cắn Móng Tay</title>
+  </programme>
+  <programme start="20210901004800 +0700" stop="20210901010000 +0700" channel="Da Vinci">
+    <title lang="vi">Ngặn Chặn Mùi Hương Xấu Hổ</title>
+  </programme>
+  <programme start="20210901010000 +0700" stop="20210901014500 +0700" channel="Da Vinci">
+    <title lang="vi">Phục Hồi Não Bộ</title>
+  </programme>
+  <programme start="20210901014500 +0700" stop="20210901020000 +0700" channel="Da Vinci">
+    <title lang="vi">Mẹo Xây Nhà Của Người Viking</title>
+  </programme>
+  <programme start="20210901020000 +0700" stop="20210901024200 +0700" channel="Da Vinci">
+    <title lang="vi">Android Lloyd Webber</title>
+  </programme>
+  <programme start="20210901024200 +0700" stop="20210901025400 +0700" channel="Da Vinci">
+    <title lang="vi">Động Vật Sống Cùng Thời Với Khủng Long</title>
+  </programme>
+  <programme start="20210901025400 +0700" stop="20210901030000 +0700" channel="Da Vinci">
+    <title lang="vi">Người Viking Ở Pháp</title>
+  </programme>
+  <programme start="20210901030000 +0700" stop="20210901030600 +0700" channel="Da Vinci">
+    <title lang="vi">Berthe Morisot</title>
+  </programme>
+  <programme start="20210901030600 +0700" stop="20210901031500 +0700" channel="Da Vinci">
+    <title lang="vi">Caravaggio</title>
+  </programme>
+  <programme start="20210901031500 +0700" stop="20210901032100 +0700" channel="Da Vinci">
+    <title lang="vi">Chứng Tỏ Bản Thân</title>
+  </programme>
+  <programme start="20210901032100 +0700" stop="20210901033000 +0700" channel="Da Vinci">
+    <title lang="vi">Cười Lên Nhé!</title>
+  </programme>
+  <programme start="20210901033000 +0700" stop="20210901034200 +0700" channel="Da Vinci">
+    <title lang="vi">Oliver Twist</title>
+  </programme>
+  <programme start="20210901034200 +0700" stop="20210901040000 +0700" channel="Da Vinci">
+    <title lang="vi">Chiến Tranh Giữa Các Thế Giới</title>
+  </programme>
+  <programme start="20210901040000 +0700" stop="20210901041200 +0700" channel="Da Vinci">
+    <title lang="vi">Lễ Hội Bong Bóng Xà Phòng</title>
+  </programme>
+  <programme start="20210901041200 +0700" stop="20210901042100 +0700" channel="Da Vinci">
+    <title lang="vi">Bộ Sưu Tập Quý Giá Của Darwin - Tinh Thể Và Vàng</title>
+  </programme>
+  <programme start="20210901042100 +0700" stop="20210901043000 +0700" channel="Da Vinci">
+    <title lang="vi">Portable Video Games</title>
+  </programme>
+  <programme start="20210901043000 +0700" stop="20210901044200 +0700" channel="Da Vinci">
+    <title lang="vi">Ngày Nhà Khảo Cổ</title>
+  </programme>
+  <programme start="20210901044200 +0700" stop="20210901045700 +0700" channel="Da Vinci">
+    <title lang="vi">Người Tốt, Kẻ Xấu, Krash</title>
+  </programme>
+  <programme start="20210901045700 +0700" stop="20210901050000 +0700" channel="Da Vinci">
+    <title lang="vi">Gió Dưới Đôi Cánh</title>
+  </programme>
+  <programme start="20210901050000 +0700" stop="20210901052100 +0700" channel="Da Vinci">
+    <title lang="vi">Không Cảm Xúc Và Tai Nạn Kì Cục</title>
+  </programme>
+  <programme start="20210901052100 +0700" stop="20210901052400 +0700" channel="Da Vinci">
+    <title lang="vi">Lý Do Bầu Trời Màu Xanh</title>
+  </programme>
+  <programme start="20210901052400 +0700" stop="20210901053000 +0700" channel="Da Vinci">
+    <title lang="vi">Động Vật Có Sống Sót Trong Không Gian?</title>
+  </programme>
+  <programme start="20210901053000 +0700" stop="20210901054200 +0700" channel="Da Vinci">
+    <title lang="vi">Sợi Cáp Quang Học</title>
+  </programme>
+  <programme start="20210901054200 +0700" stop="20210901060000 +0700" channel="Da Vinci">
+    <title lang="vi">Sức Căng Và Động Hóa Học</title>
+  </programme>
+  <programme start="20210901060000 +0700" stop="20210901060900 +0700" channel="Da Vinci">
+    <title lang="vi">Hokusai</title>
+  </programme>
+  <programme start="20210901060900 +0700" stop="20210901061800 +0700" channel="Da Vinci">
+    <title lang="vi">Henri Rousseau</title>
+  </programme>
+  <programme start="20210901061800 +0700" stop="20210901062400 +0700" channel="Da Vinci">
+    <title lang="vi">Sự Kiên Nhẫn</title>
+  </programme>
+  <programme start="20210901062400 +0700" stop="20210901063000 +0700" channel="Da Vinci">
+    <title lang="vi">Rừng Amazon</title>
+  </programme>
+  <programme start="20210901063000 +0700" stop="20210901064500 +0700" channel="Da Vinci">
+    <title lang="vi">Oliver Twist</title>
+  </programme>
+  <programme start="20210901064500 +0700" stop="20210901070000 +0700" channel="Da Vinci">
+    <title lang="vi">Chiến Tranh Giữa Các Thế Giới</title>
+  </programme>
+  <programme start="20210901070000 +0700" stop="20210901071200 +0700" channel="Da Vinci">
+    <title lang="vi">Buồng Tắm Mới Của Burpees - Cách Xây Tường Đá</title>
+  </programme>
+  <programme start="20210901071200 +0700" stop="20210901073000 +0700" channel="Da Vinci">
+    <title lang="vi">Vịt Lam Con - Kính Tiềm Vọng Hoạt Động Ra Sao</title>
+  </programme>
+  <programme start="20210901073000 +0700" stop="20210901074500 +0700" channel="Da Vinci">
+    <title lang="vi">Ngày Nhà Khảo Cổ</title>
+  </programme>
+  <programme start="20210901074500 +0700" stop="20210901080000 +0700" channel="Da Vinci">
+    <title lang="vi">Người Tốt, Kẻ Xấu, Krash</title>
+  </programme>
+  <programme start="20210901080000 +0700" stop="20210901083000 +0700" channel="Da Vinci">
+    <title lang="vi">Không Cảm Xúc Và Tai Nạn Kì Cục</title>
+  </programme>
+  <programme start="20210901083000 +0700" stop="20210901084500 +0700" channel="Da Vinci">
+    <title lang="vi">Sợi Cáp Quang Học</title>
+  </programme>
+  <programme start="20210901084500 +0700" stop="20210901090000 +0700" channel="Da Vinci">
+    <title lang="vi">Sức Căng Và Động Hóa Học</title>
+  </programme>
+  <programme start="20210901090000 +0700" stop="20210901091500 +0700" channel="Da Vinci">
+    <title lang="vi">Nước Nóng Và Kem Đánh Răng</title>
+  </programme>
+  <programme start="20210901091500 +0700" stop="20210901091800 +0700" channel="Da Vinci">
+    <title lang="vi">Chú Sâu Háu Ăn</title>
+  </programme>
+  <programme start="20210901091800 +0700" stop="20210901092100 +0700" channel="Da Vinci">
+    <title lang="vi">Chú Chim Chân Khổng Lồ</title>
+  </programme>
+  <programme start="20210901092100 +0700" stop="20210901092400 +0700" channel="Da Vinci">
+    <title lang="vi">Suối Nước Nóng Có Thần Kỳ Không?</title>
+  </programme>
+  <programme start="20210901092400 +0700" stop="20210901093000 +0700" channel="Da Vinci">
+    <title lang="vi">Cá Phát Sáng Trong Tối Như Thế Nào?</title>
+  </programme>
+  <programme start="20210901093000 +0700" stop="20210901100000 +0700" channel="Da Vinci">
+    <title lang="vi">Nắm Bắt Chuyển Động</title>
+  </programme>
+  <programme start="20210901100000 +0700" stop="20210901102400 +0700" channel="Da Vinci">
+    <title lang="vi">Tự Nhiên Và Cuộc Sống: Chủ Nghĩa Hiện Thực Trong Hội Hoạ Giữa Thế Kỷ 19</title>
+  </programme>
+  <programme start="20210901102400 +0700" stop="20210901103000 +0700" channel="Da Vinci">
+    <title lang="vi">Bảy Kỳ Quan Của Thế Giới Cổ Đại</title>
+  </programme>
+  <programme start="20210901103000 +0700" stop="20210901105400 +0700" channel="Da Vinci">
+    <title lang="vi">Bay Lượn Như Siêu Nhân</title>
+  </programme>
+  <programme start="20210901105400 +0700" stop="20210901110000 +0700" channel="Da Vinci">
+    <title lang="vi">Lục Giác Khổng Lồ Trong Tự Nhiên</title>
+  </programme>
+  <programme start="20210901110000 +0700" stop="20210901111800 +0700" channel="Da Vinci">
+    <title lang="vi">Ngày Thứ Ba Ở Malaysia</title>
+  </programme>
+  <programme start="20210901111800 +0700" stop="20210901112400 +0700" channel="Da Vinci">
+    <title lang="vi">Cộng Hòa Thổ Nhĩ Kỳ</title>
+  </programme>
+  <programme start="20210901112400 +0700" stop="20210901113000 +0700" channel="Da Vinci">
+    <title lang="vi">Cái Bẫy Côn Trùng Xinh Xắn</title>
+  </programme>
+  <programme start="20210901113000 +0700" stop="20210901115700 +0700" channel="Da Vinci">
+    <title lang="vi">Cederberg - Thư Viện Cổ Bí Mật</title>
+  </programme>
+  <programme start="20210901115700 +0700" stop="20210901120000 +0700" channel="Da Vinci">
+    <title lang="vi">Lý Do Bầu Trời Màu Xanh</title>
+  </programme>
+  <programme start="20210901120000 +0700" stop="20210901121500 +0700" channel="Da Vinci">
+    <title lang="vi">Máng Trượt Công Viên Nước Và Vỏ Ốc Quế</title>
+  </programme>
+  <programme start="20210901121500 +0700" stop="20210901121800 +0700" channel="Da Vinci">
+    <title lang="vi">Chú Mèo Blobcat</title>
+  </programme>
+  <programme start="20210901121800 +0700" stop="20210901122100 +0700" channel="Da Vinci">
+    <title lang="vi">Chú Sư Tử Một Sừng Thần Thoại</title>
+  </programme>
+  <programme start="20210901122100 +0700" stop="20210901123000 +0700" channel="Da Vinci">
+    <title lang="vi">Doll</title>
+  </programme>
+  <programme start="20210901123000 +0700" stop="20210901130000 +0700" channel="Da Vinci">
+    <title lang="vi">Chúng Ta Là Siêu Anh Hùng</title>
+  </programme>
+  <programme start="20210901130000 +0700" stop="20210901132400 +0700" channel="Da Vinci">
+    <title lang="vi">Thế Giới Ánh Sáng Và Màu Sắc: Trường Phái Ấn Tượng Thế Kỷ 19</title>
+  </programme>
+  <programme start="20210901132400 +0700" stop="20210901133000 +0700" channel="Da Vinci">
+    <title lang="vi">Cờ Tướng</title>
+  </programme>
+  <programme start="20210901133000 +0700" stop="20210901140000 +0700" channel="Da Vinci">
+    <title lang="vi">Louis Pasteur Và Vũ Trụ Bí Ẩn Của Vi Sinh Vật</title>
+  </programme>
+  <programme start="20210901140000 +0700" stop="20210901141500 +0700" channel="Da Vinci">
+    <title lang="vi">Sử Thi Gilgamesh Của Tác Giả Khuyết Danh</title>
+  </programme>
+  <programme start="20210901141500 +0700" stop="20210901143000 +0700" channel="Da Vinci">
+    <title lang="vi">The Vortex Của José Eustasio Rivera</title>
+  </programme>
+  <programme start="20210901143000 +0700" stop="20210901144500 +0700" channel="Da Vinci">
+    <title lang="vi">Y Dược Và Bộ Sơ Cứu</title>
+  </programme>
+  <programme start="20210901144500 +0700" stop="20210901145700 +0700" channel="Da Vinci">
+    <title lang="vi">Những Ứng Dụng Của Nam Châm</title>
+  </programme>
+  <programme start="20210901145700 +0700" stop="20210901150000 +0700" channel="Da Vinci">
+    <title lang="vi">Phản Xạ Ức Chế</title>
+  </programme>
+  <programme start="20210901150000 +0700" stop="20210901151500 +0700" channel="Da Vinci">
+    <title lang="vi">Bỏng Ngô Và Pasta</title>
+  </programme>
+  <programme start="20210901151500 +0700" stop="20210901151800 +0700" channel="Da Vinci">
+    <title lang="vi">Bé Khủng Long Từ Đất Sét</title>
+  </programme>
+  <programme start="20210901151800 +0700" stop="20210901152100 +0700" channel="Da Vinci">
+    <title lang="vi">Chú Voi Lai Chuột</title>
+  </programme>
+  <programme start="20210901152100 +0700" stop="20210901153000 +0700" channel="Da Vinci">
+    <title lang="vi">Rubik's Cube</title>
+  </programme>
+  <programme start="20210901153000 +0700" stop="20210901160000 +0700" channel="Da Vinci">
+    <title lang="vi">Chụp Và Ghi Bàn</title>
+  </programme>
+  <programme start="20210901160000 +0700" stop="20210901162400 +0700" channel="Da Vinci">
+    <title lang="vi">Tiền Bối Của Mỹ Thuật Hiện Đại: Chủ Nghĩa Hậu Ấn Tượng Cuối Thế Kỷ 19</title>
+  </programme>
+  <programme start="20210901162400 +0700" stop="20210901163000 +0700" channel="Da Vinci">
+    <title lang="vi">Alexander Đại Đế</title>
+  </programme>
+  <programme start="20210901163000 +0700" stop="20210901170000 +0700" channel="Da Vinci">
+    <title lang="vi">Cơ Vòng Náo Động</title>
+  </programme>
+  <programme start="20210901170000 +0700" stop="20210901173000 +0700" channel="Da Vinci">
+    <title lang="vi">Khoa Học Du Hành</title>
+  </programme>
+  <programme start="20210901173000 +0700" stop="20210901180000 +0700" channel="Da Vinci">
+    <title lang="vi">Giảm Cân Và Giữ Dáng</title>
+  </programme>
+  <programme start="20210901180000 +0700" stop="20210901181800 +0700" channel="Da Vinci">
+    <title lang="vi">Ngày Thứ Ba Ở Guatemala</title>
+  </programme>
+  <programme start="20210901181800 +0700" stop="20210901182400 +0700" channel="Da Vinci">
+    <title lang="vi">Các Tiểu Vương Quốc Ả Rập Thống Nhất</title>
+  </programme>
+  <programme start="20210901182400 +0700" stop="20210901183000 +0700" channel="Da Vinci">
+    <title lang="vi">Ốc Nón Tung Đòn</title>
+  </programme>
+  <programme start="20210901183000 +0700" stop="20210901184500 +0700" channel="Da Vinci">
+    <title lang="vi">Dòng Điện Và Năng Lượng</title>
+  </programme>
+  <programme start="20210901184500 +0700" stop="20210901185700 +0700" channel="Da Vinci">
+    <title lang="vi">Năng Lượng Xanh Và Tái Chế</title>
+  </programme>
+  <programme start="20210901185700 +0700" stop="20210901190000 +0700" channel="Da Vinci">
+    <title lang="vi">Suối Nước Nóng Có Thần Kỳ Không?</title>
+  </programme>
+  <programme start="20210901190000 +0700" stop="20210901193000 +0700" channel="Da Vinci">
+    <title lang="vi">Trí Nhớ Của Cơ</title>
+  </programme>
+  <programme start="20210901193000 +0700" stop="20210901195400 +0700" channel="Da Vinci">
+    <title lang="vi">Văn Hóa Học</title>
+  </programme>
+  <programme start="20210901195400 +0700" stop="20210901200000 +0700" channel="Da Vinci">
+    <title lang="vi">Siêu Hình Học!</title>
+  </programme>
+  <programme start="20210901200000 +0700" stop="20210901203000 +0700" channel="Da Vinci">
+    <title lang="vi">Hành Tinh Bị Xâm Lấn</title>
+  </programme>
+  <programme start="20210901203000 +0700" stop="20210901210000 +0700" channel="Da Vinci">
+    <title lang="vi">Nam Và Nữ Thực Sự Khác Nhau Thế Nào?</title>
+  </programme>
+  <programme start="20210901210000 +0700" stop="20210901213000 +0700" channel="Da Vinci">
+    <title lang="vi">Cười, Khóc, La Hét: Tại Sao Chúng Tốt Cho Sức Khỏe?</title>
+  </programme>
+  <programme start="20210901213000 +0700" stop="20210901220000 +0700" channel="Da Vinci">
+    <title lang="vi">Điều Gì Khiến Bạn Là Bạn?</title>
+  </programme>
+  <programme start="20210901220000 +0700" stop="20210901220300 +0700" channel="Da Vinci">
+    <title lang="vi">Học Hỏi Các Kỹ Năng Mới</title>
+  </programme>
+  <programme start="20210901220300 +0700" stop="20210901230600 +0700" channel="Da Vinci">
+    <title lang="vi">Cách Mạng</title>
+  </programme>
+  <programme start="20210901230600 +0700" stop="20210901230900 +0700" channel="Da Vinci">
+    <title lang="vi">Ký Ức Dài Hạn</title>
+  </programme>
+  <programme start="20210901001200 +0700" stop="20210901003500 +0700" channel="Dr. Fit">
+    <title lang="vi">Julieanna Sẽ Làm Gì?</title>
+  </programme>
+  <programme start="20210901003500 +0700" stop="20210901010500 +0700" channel="Dr. Fit">
+    <title lang="vi">Rèn Luyện Cơ Thể</title>
+  </programme>
+  <programme start="20210901010500 +0700" stop="20210901014300 +0700" channel="Dr. Fit">
+    <title lang="vi">Dr.Fit Yoga</title>
+  </programme>
+  <programme start="20210901014300 +0700" stop="20210901023200 +0700" channel="Dr. Fit">
+    <title lang="vi">Tập Yoga Cùng Jai Sugrim</title>
+  </programme>
+  <programme start="20210901023200 +0700" stop="20210901025900 +0700" channel="Dr. Fit">
+    <title lang="vi">Những Trò Chơi Lý Thú</title>
+  </programme>
+  <programme start="20210901025900 +0700" stop="20210901033200 +0700" channel="Dr. Fit">
+    <title lang="vi">Khám Phá Bí Mật Cùng Bác Sĩ Holly</title>
+  </programme>
+  <programme start="20210901033200 +0700" stop="20210901043200 +0700" channel="Dr. Fit">
+    <title lang="vi">Tập Yoga Cùng Jai Sugrim</title>
+  </programme>
+  <programme start="20210901043200 +0700" stop="20210901053000 +0700" channel="Dr. Fit">
+    <title lang="vi">Yoga Sôi Động</title>
+  </programme>
+  <programme start="20210901053000 +0700" stop="20210901061600 +0700" channel="Dr. Fit">
+    <title lang="vi">Tập Yoga Cùng Jai Sugrim</title>
+  </programme>
+  <programme start="20210901061600 +0700" stop="20210901065300 +0700" channel="Dr. Fit">
+    <title lang="vi">Dr.Fit Yoga</title>
+  </programme>
+  <programme start="20210901065300 +0700" stop="20210901073800 +0700" channel="Dr. Fit">
+    <title lang="vi">Yoga Sôi Động</title>
+  </programme>
+  <programme start="20210901073800 +0700" stop="20210901080700 +0700" channel="Dr. Fit">
+    <title lang="vi">Liệu Pháp Mùi Hương</title>
+  </programme>
+  <programme start="20210901080700 +0700" stop="20210901084600 +0700" channel="Dr. Fit">
+    <title lang="vi">Julieanna Sẽ Làm Gì?</title>
+  </programme>
+  <programme start="20210901084600 +0700" stop="20210901091200 +0700" channel="Dr. Fit">
+    <title lang="vi">Điệu Nhảy Bolly Blast</title>
+  </programme>
+  <programme start="20210901091200 +0700" stop="20210901095400 +0700" channel="Dr. Fit">
+    <title lang="vi">Julieanna Sẽ Làm Gì?</title>
+  </programme>
+  <programme start="20210901095400 +0700" stop="20210901103800 +0700" channel="Dr. Fit">
+    <title lang="vi">Rèn Luyện Cơ Thể</title>
+  </programme>
+  <programme start="20210901103800 +0700" stop="20210901110300 +0700" channel="Dr. Fit">
+    <title lang="vi">Giữ Dáng Cùng Sao</title>
+  </programme>
+  <programme start="20210901110300 +0700" stop="20210901114100 +0700" channel="Dr. Fit">
+    <title lang="vi">Dr.Fit Yoga</title>
+  </programme>
+  <programme start="20210901114100 +0700" stop="20210901123000 +0700" channel="Dr. Fit">
+    <title lang="vi">Tìm Lại Hình Thể</title>
+  </programme>
+  <programme start="20210901123000 +0700" stop="20210901125900 +0700" channel="Dr. Fit">
+    <title lang="vi">Rèn Luyện Cơ Thể</title>
+  </programme>
+  <programme start="20210901125900 +0700" stop="20210901132100 +0700" channel="Dr. Fit">
+    <title lang="vi">Khoẻ Từ Tâm Hồn Với Jeff Haleyy</title>
+  </programme>
+  <programme start="20210901132100 +0700" stop="20210901134500 +0700" channel="Dr. Fit">
+    <title lang="vi">Khám Phá Bí Mật Cùng Bác Sĩ Holly</title>
+  </programme>
+  <programme start="20210901134500 +0700" stop="20210901141800 +0700" channel="Dr. Fit">
+    <title lang="vi">Julieanna Sẽ Làm Gì?</title>
+  </programme>
+  <programme start="20210901141800 +0700" stop="20210901151500 +0700" channel="Dr. Fit">
+    <title lang="vi">Vẻ Đẹp Tự Nhiên</title>
+  </programme>
+  <programme start="20210901151500 +0700" stop="20210901154700 +0700" channel="Dr. Fit">
+    <title lang="vi">Điệu Nhảy Bolly Blast</title>
+  </programme>
+  <programme start="20210901154700 +0700" stop="20210901161400 +0700" channel="Dr. Fit">
+    <title lang="vi">Luyện Tập Cùng Trẻ</title>
+  </programme>
+  <programme start="20210901161400 +0700" stop="20210901164200 +0700" channel="Dr. Fit">
+    <title lang="vi">Rèn Luyện Cơ Thể</title>
+  </programme>
+  <programme start="20210901164200 +0700" stop="20210901173300 +0700" channel="Dr. Fit">
+    <title lang="vi">Ăn Để Đẹp Phiên Bản Úc</title>
+  </programme>
+  <programme start="20210901173300 +0700" stop="20210901182500 +0700" channel="Dr. Fit">
+    <title lang="vi">Yoga Sôi Động</title>
+  </programme>
+  <programme start="20210901182500 +0700" stop="20210901193100 +0700" channel="Dr. Fit">
+    <title lang="vi">Tập Yoga Cùng Jai Sugrim</title>
+  </programme>
+  <programme start="20210901193100 +0700" stop="20210901200200 +0700" channel="Dr. Fit">
+    <title lang="vi">Đơn Giản Là Đẹp</title>
+  </programme>
+  <programme start="20210901200200 +0700" stop="20210901203300 +0700" channel="Dr. Fit">
+    <title lang="vi">Khoẻ Từ Tâm Hồn Với Jeff Haleyy</title>
+  </programme>
+  <programme start="20210901203300 +0700" stop="20210901205500 +0700" channel="Dr. Fit">
+    <title lang="vi">Điệu Nhảy Bolly Blast</title>
+  </programme>
+  <programme start="20210901205500 +0700" stop="20210901214300 +0700" channel="Dr. Fit">
+    <title lang="vi">Vẻ Đẹp Tự Nhiên</title>
+  </programme>
+  <programme start="20210901214300 +0700" stop="20210901221200 +0700" channel="Dr. Fit">
+    <title lang="vi">Rèn Luyện Cơ Thể</title>
+  </programme>
+  <programme start="20210901221200 +0700" stop="20210901230200 +0700" channel="Dr. Fit">
+    <title lang="vi">Thân Hình Hoàn Hảo Cùng Khloé Kardashian - Mùa 2</title>
+  </programme>
+  <programme start="20210901230200 +0700" stop="20210901235800 +0700" channel="Dr. Fit">
+    <title lang="vi">Yoga Sôi Động</title>
+  </programme>
+  <programme start="20210901004000 +0700" stop="20210901013500 +0700" channel="FOX">
+    <title lang="vi">Elementary</title>
+  </programme>
+  <programme start="20210901013500 +0700" stop="20210901023000 +0700" channel="FOX">
+    <title lang="vi">Lego Masters UK</title>
+  </programme>
+  <programme start="20210901023000 +0700" stop="20210901032500 +0700" channel="FOX">
+    <title lang="vi">The Cube Australia</title>
+  </programme>
+  <programme start="20210901032500 +0700" stop="20210901042000 +0700" channel="FOX">
+    <title lang="vi">S.W.A.T.</title>
+  </programme>
+  <programme start="20210901042000 +0700" stop="20210901051500 +0700" channel="FOX">
+    <title lang="vi">NCIS</title>
+  </programme>
+  <programme start="20210901051500 +0700" stop="20210901061000 +0700" channel="FOX">
+    <title lang="vi">FBI: Most Wanted</title>
+  </programme>
+  <programme start="20210901061000 +0700" stop="20210901070500 +0700" channel="FOX">
+    <title lang="vi">Magnum P.I.</title>
+  </programme>
+  <programme start="20210901070500 +0700" stop="20210901080000 +0700" channel="FOX">
+    <title lang="vi">Elementary</title>
+  </programme>
+  <programme start="20210901080000 +0700" stop="20210901085500 +0700" channel="FOX">
+    <title lang="vi">Elementary</title>
+  </programme>
+  <programme start="20210901085500 +0700" stop="20210901095000 +0700" channel="FOX">
+    <title lang="vi">Lego Masters UK</title>
+  </programme>
+  <programme start="20210901095000 +0700" stop="20210901104500 +0700" channel="FOX">
+    <title lang="vi">The Cube Australia</title>
+  </programme>
+  <programme start="20210901104500 +0700" stop="20210901114000 +0700" channel="FOX">
+    <title lang="vi">S.W.A.T.</title>
+  </programme>
+  <programme start="20210901114000 +0700" stop="20210901123500 +0700" channel="FOX">
+    <title lang="vi">NCIS</title>
+  </programme>
+  <programme start="20210901123500 +0700" stop="20210901133000 +0700" channel="FOX">
+    <title lang="vi">FBI: Most Wanted</title>
+  </programme>
+  <programme start="20210901133000 +0700" stop="20210901142500 +0700" channel="FOX">
+    <title lang="vi">The Walking Dead</title>
+  </programme>
+  <programme start="20210901142500 +0700" stop="20210901152000 +0700" channel="FOX">
+    <title lang="vi">The Walking Dead</title>
+  </programme>
+  <programme start="20210901152000 +0700" stop="20210901161500 +0700" channel="FOX">
+    <title lang="vi">The Walking Dead</title>
+  </programme>
+  <programme start="20210901161500 +0700" stop="20210901171000 +0700" channel="FOX">
+    <title lang="vi">Elementary</title>
+  </programme>
+  <programme start="20210901171000 +0700" stop="20210901180500 +0700" channel="FOX">
+    <title lang="vi">Elementary</title>
+  </programme>
+  <programme start="20210901180500 +0700" stop="20210901190000 +0700" channel="FOX">
+    <title lang="vi">Lego Masters USA</title>
+  </programme>
+  <programme start="20210901190000 +0700" stop="20210901200000 +0700" channel="FOX">
+    <title lang="vi">The Cube USA</title>
+  </programme>
+  <programme start="20210901200000 +0700" stop="20210901210000 +0700" channel="FOX">
+    <title lang="vi">S.W.A.T.</title>
+  </programme>
+  <programme start="20210901210000 +0700" stop="20210901215500 +0700" channel="FOX">
+    <title lang="vi">NCIS</title>
+  </programme>
+  <programme start="20210901215500 +0700" stop="20210901225000 +0700" channel="FOX">
+    <title lang="vi">NCIS: New Orleans</title>
+  </programme>
+  <programme start="20210901225000 +0700" stop="20210901234500 +0700" channel="FOX">
+    <title lang="vi">Magnum P.I.</title>
+  </programme>
+  <programme start="20210901012000 +0700" stop="20210901025500 +0700" channel="Fox Family Movies">
+    <title lang="vi">Teen Wolf</title>
+  </programme>
+  <programme start="20210901025500 +0700" stop="20210901042000 +0700" channel="Fox Family Movies">
+    <title lang="vi">Mission Kathmandu: The Adventures Of Nelly &amp; Simon</title>
+  </programme>
+  <programme start="20210901042000 +0700" stop="20210901055500 +0700" channel="Fox Family Movies">
+    <title lang="vi">A Boy Called Po</title>
+  </programme>
+  <programme start="20210901055500 +0700" stop="20210901072500 +0700" channel="Fox Family Movies">
+    <title lang="vi">Hidden Orchard Mysteries: The Case Of The Air B&amp;B Robbery</title>
+  </programme>
+  <programme start="20210901072500 +0700" stop="20210901090000 +0700" channel="Fox Family Movies">
+    <title lang="vi">Mr. Peabody &amp; Sherman</title>
+  </programme>
+  <programme start="20210901090000 +0700" stop="20210901105500 +0700" channel="Fox Family Movies">
+    <title lang="vi">The Karate Kid: Part Ii</title>
+  </programme>
+  <programme start="20210901105500 +0700" stop="20210901123500 +0700" channel="Fox Family Movies">
+    <title lang="vi">Swing Away</title>
+  </programme>
+  <programme start="20210901123500 +0700" stop="20210901140500 +0700" channel="Fox Family Movies">
+    <title lang="vi">Sinbad: Legend Of The Seven Seas</title>
+  </programme>
+  <programme start="20210901140500 +0700" stop="20210901153000 +0700" channel="Fox Family Movies">
+    <title lang="vi">Spirit: Stallion Of The Cimarron</title>
+  </programme>
+  <programme start="20210901153000 +0700" stop="20210901170000 +0700" channel="Fox Family Movies">
+    <title lang="vi">Trouble</title>
+  </programme>
+  <programme start="20210901170000 +0700" stop="20210901190000 +0700" channel="Fox Family Movies">
+    <title lang="vi">Jem And The Holograms</title>
+  </programme>
+  <programme start="20210901190000 +0700" stop="20210901203500 +0700" channel="Fox Family Movies">
+    <title lang="vi">Cloudy With A Chance Of Meatballs</title>
+  </programme>
+  <programme start="20210901203500 +0700" stop="20210901220000 +0700" channel="Fox Family Movies">
+    <title lang="vi">The Land Before Time Xiv: Journey Of The Brave</title>
+  </programme>
+  <programme start="20210901220000 +0700" stop="20210901234500 +0700" channel="Fox Family Movies">
+    <title lang="vi">Critical Thinking</title>
+  </programme>
+  <programme start="20210901005000 +0700" stop="20210901014500 +0700" channel="FOX Life HD">
+    <title lang="vi">Top Chef</title>
+  </programme>
+  <programme start="20210901014500 +0700" stop="20210901024000 +0700" channel="FOX Life HD">
+    <title lang="vi">Nancy Drew</title>
+  </programme>
+  <programme start="20210901024000 +0700" stop="20210901033500 +0700" channel="FOX Life HD">
+    <title lang="vi">Nancy Drew</title>
+  </programme>
+  <programme start="20210901033500 +0700" stop="20210901043000 +0700" channel="FOX Life HD">
+    <title lang="vi">The Good Doctor</title>
+  </programme>
+  <programme start="20210901043000 +0700" stop="20210901052500 +0700" channel="FOX Life HD">
+    <title lang="vi">New Amsterdam</title>
+  </programme>
+  <programme start="20210901052500 +0700" stop="20210901062000 +0700" channel="FOX Life HD">
+    <title lang="vi">The Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210901062000 +0700" stop="20210901071500 +0700" channel="FOX Life HD">
+    <title lang="vi">The Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210901071500 +0700" stop="20210901081000 +0700" channel="FOX Life HD">
+    <title lang="vi">Top Chef</title>
+  </programme>
+  <programme start="20210901081000 +0700" stop="20210901090500 +0700" channel="FOX Life HD">
+    <title lang="vi">Nancy Drew</title>
+  </programme>
+  <programme start="20210901090500 +0700" stop="20210901100000 +0700" channel="FOX Life HD">
+    <title lang="vi">Nancy Drew</title>
+  </programme>
+  <programme start="20210901100000 +0700" stop="20210901105500 +0700" channel="FOX Life HD">
+    <title lang="vi">The Good Doctor</title>
+  </programme>
+  <programme start="20210901105500 +0700" stop="20210901115000 +0700" channel="FOX Life HD">
+    <title lang="vi">New Amsterdam</title>
+  </programme>
+  <programme start="20210901115000 +0700" stop="20210901124500 +0700" channel="FOX Life HD">
+    <title lang="vi">The Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210901124500 +0700" stop="20210901134000 +0700" channel="FOX Life HD">
+    <title lang="vi">Top Chef</title>
+  </programme>
+  <programme start="20210901134000 +0700" stop="20210901143500 +0700" channel="FOX Life HD">
+    <title lang="vi">Nancy Drew</title>
+  </programme>
+  <programme start="20210901143500 +0700" stop="20210901153000 +0700" channel="FOX Life HD">
+    <title lang="vi">Nancy Drew</title>
+  </programme>
+  <programme start="20210901153000 +0700" stop="20210901162500 +0700" channel="FOX Life HD">
+    <title lang="vi">The Good Doctor</title>
+  </programme>
+  <programme start="20210901162500 +0700" stop="20210901172000 +0700" channel="FOX Life HD">
+    <title lang="vi">New Amsterdam</title>
+  </programme>
+  <programme start="20210901172000 +0700" stop="20210901181500 +0700" channel="FOX Life HD">
+    <title lang="vi">The Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210901181500 +0700" stop="20210901191000 +0700" channel="FOX Life HD">
+    <title lang="vi">Top Chef</title>
+  </programme>
+  <programme start="20210901191000 +0700" stop="20210901211000 +0700" channel="FOX Life HD">
+    <title lang="vi">America's Got Talent</title>
+  </programme>
+  <programme start="20210901211000 +0700" stop="20210901220500 +0700" channel="FOX Life HD">
+    <title lang="vi">The Good Doctor</title>
+  </programme>
+  <programme start="20210901220500 +0700" stop="20210901230000 +0700" channel="FOX Life HD">
+    <title lang="vi">New Amsterdam</title>
+  </programme>
+  <programme start="20210901230000 +0700" stop="20210901235500 +0700" channel="FOX Life HD">
+    <title lang="vi">The Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210901015000 +0700" stop="20210901040000 +0700" channel="FOX Movies HD">
+    <title lang="vi">Điệp Vụ Kép</title>
+  </programme>
+  <programme start="20210901040000 +0700" stop="20210901054000 +0700" channel="FOX Movies HD">
+    <title lang="vi">Võ Sĩ Chuck Wepner</title>
+  </programme>
+  <programme start="20210901054000 +0700" stop="20210901074500 +0700" channel="FOX Movies HD">
+    <title lang="vi">Siêu Điệp Viên Jason Bourne</title>
+  </programme>
+  <programme start="20210901074500 +0700" stop="20210901093000 +0700" channel="FOX Movies HD">
+    <title lang="vi">Cô Gái Vùng Thung Lũng</title>
+  </programme>
+  <programme start="20210901093000 +0700" stop="20210901105000 +0700" channel="FOX Movies HD">
+    <title lang="vi">Công Ty Thú Vật</title>
+  </programme>
+  <programme start="20210901105000 +0700" stop="20210901123500 +0700" channel="FOX Movies HD">
+    <title lang="vi">Yêu Lại Từ Đầu</title>
+  </programme>
+  <programme start="20210901123500 +0700" stop="20210901142500 +0700" channel="FOX Movies HD">
+    <title lang="vi">Tuyên Ngôn Độc Thân</title>
+  </programme>
+  <programme start="20210901142500 +0700" stop="20210901161000 +0700" channel="FOX Movies HD">
+    <title lang="vi">Bố Ngoan, Bố Hư 2</title>
+  </programme>
+  <programme start="20210901161000 +0700" stop="20210901181000 +0700" channel="FOX Movies HD">
+    <title lang="vi">Tách Biệt</title>
+  </programme>
+  <programme start="20210901181000 +0700" stop="20210901201000 +0700" channel="FOX Movies HD">
+    <title lang="vi">Hành Trình Lên Sao Hỏa</title>
+  </programme>
+  <programme start="20210901201000 +0700" stop="20210901222000 +0700" channel="FOX Movies HD">
+    <title lang="vi">Thế Giới Khủng Long: Vương Quốc Sụp Đổ</title>
+  </programme>
+  <programme start="20210901222000 +0700" stop="20210901235000 +0700" channel="FOX Movies HD">
+    <title lang="vi">Gretel &amp; Hansel: Truyện Cổ Kỳ Dị</title>
+  </programme>
+  <programme start="20210901100000 +0700" stop="20210901110000 +0700" channel="FOXSPORTS">
+    <title lang="vi">Extreme Sports</title>
+  </programme>
+  <programme start="20210901110000 +0700" stop="20210901113000 +0700" channel="FOXSPORTS">
+    <title lang="vi">Sports News</title>
+  </programme>
+  <programme start="20210901113000 +0700" stop="20210901123000 +0700" channel="FOXSPORTS">
+    <title lang="vi">Auto Racing</title>
+  </programme>
+  <programme start="20210901123000 +0700" stop="20210901130000 +0700" channel="FOXSPORTS">
+    <title lang="vi">Sports News</title>
+  </programme>
+  <programme start="20210901130000 +0700" stop="20210901140000 +0700" channel="FOXSPORTS">
+    <title lang="vi">Tennis</title>
+  </programme>
+  <programme start="20210901140000 +0700" stop="20210901150000 +0700" channel="FOXSPORTS">
+    <title lang="vi">Tennis</title>
+  </programme>
+  <programme start="20210901150000 +0700" stop="20210901153000 +0700" channel="FOXSPORTS">
+    <title lang="vi">Sports News</title>
+  </programme>
+  <programme start="20210901153000 +0700" stop="20210901163000 +0700" channel="FOXSPORTS">
+    <title lang="vi">Tennis</title>
+  </programme>
+  <programme start="20210901163000 +0700" stop="20210901173000 +0700" channel="FOXSPORTS">
+    <title lang="vi">Auto Racing</title>
+  </programme>
+  <programme start="20210901173000 +0700" stop="20210901180000 +0700" channel="FOXSPORTS">
+    <title lang="vi">Motor Cycle Racing</title>
+  </programme>
+  <programme start="20210901180000 +0700" stop="20210901183000 +0700" channel="FOXSPORTS">
+    <title lang="vi">Tennis</title>
+  </programme>
+  <programme start="20210901183000 +0700" stop="20210901190000 +0700" channel="FOXSPORTS">
+    <title lang="vi">Sports News</title>
+  </programme>
+  <programme start="20210901190000 +0700" stop="20210901193000 +0700" channel="FOXSPORTS">
+    <title lang="vi">Soccer</title>
+  </programme>
+  <programme start="20210901193000 +0700" stop="20210901203000 +0700" channel="FOXSPORTS">
+    <title lang="vi">Tennis</title>
+  </programme>
+  <programme start="20210901203000 +0700" stop="20210901204000 +0700" channel="FOXSPORTS">
+    <title lang="vi">Sports News</title>
+  </programme>
+  <programme start="20210901204000 +0700" stop="20210901205000 +0700" channel="FOXSPORTS">
+    <title lang="vi">Sports News</title>
+  </programme>
+  <programme start="20210901205000 +0700" stop="20210901212000 +0700" channel="FOXSPORTS">
+    <title lang="vi">Sports News</title>
+  </programme>
+  <programme start="20210901212000 +0700" stop="20210901215000 +0700" channel="FOXSPORTS">
+    <title lang="vi">Tennis</title>
+  </programme>
+  <programme start="20210901060000 +0700" stop="20210901070000 +0700" channel="FOXSPORTS 2">
+    <title lang="vi">Golf</title>
+  </programme>
+  <programme start="20210901070000 +0700" stop="20210901080000 +0700" channel="FOXSPORTS 2">
+    <title lang="vi">Golf</title>
+  </programme>
+  <programme start="20210901080000 +0700" stop="20210901083000 +0700" channel="FOXSPORTS 2">
+    <title lang="vi">Watersports</title>
+  </programme>
+  <programme start="20210901083000 +0700" stop="20210901093000 +0700" channel="FOXSPORTS 2">
+    <title lang="vi">Watersports</title>
+  </programme>
+  <programme start="20210901093000 +0700" stop="20210901100000 +0700" channel="FOXSPORTS 2">
+    <title lang="vi">Watersports</title>
+  </programme>
+  <programme start="20210901100000 +0700" stop="20210901110000 +0700" channel="FOXSPORTS 2">
+    <title lang="vi">Watersports</title>
+  </programme>
+  <programme start="20210901110000 +0700" stop="20210901120000 +0700" channel="FOXSPORTS 2">
+    <title lang="vi">Watersports</title>
+  </programme>
+  <programme start="20210901120000 +0700" stop="20210901130000 +0700" channel="FOXSPORTS 2">
+    <title lang="vi">Sailing</title>
+  </programme>
+  <programme start="20210901130000 +0700" stop="20210901140000 +0700" channel="FOXSPORTS 2">
+    <title lang="vi">Golf</title>
+  </programme>
+  <programme start="20210901140000 +0700" stop="20210901150000 +0700" channel="FOXSPORTS 2">
+    <title lang="vi">Golf</title>
+  </programme>
+  <programme start="20210901150000 +0700" stop="20210901160000 +0700" channel="FOXSPORTS 2">
+    <title lang="vi">Cycling</title>
+  </programme>
+  <programme start="20210901160000 +0700" stop="20210901170000 +0700" channel="FOXSPORTS 2">
+    <title lang="vi">Auto Racing</title>
+  </programme>
+  <programme start="20210901170000 +0700" stop="20210901175500 +0700" channel="FOXSPORTS 2">
+    <title lang="vi">Watersports</title>
+  </programme>
+  <programme start="20210901175500 +0700" stop="20210901185000 +0700" channel="FOXSPORTS 2">
+    <title lang="vi">Watersports</title>
+  </programme>
+  <programme start="20210901185000 +0700" stop="20210901195000 +0700" channel="FOXSPORTS 2">
+    <title lang="vi">Golf</title>
+  </programme>
+  <programme start="20210901195000 +0700" stop="20210901205000 +0700" channel="FOXSPORTS 2">
+    <title lang="vi">Golf</title>
+  </programme>
+  <programme start="20210901205000 +0700" stop="20210901215000 +0700" channel="FOXSPORTS 2">
+    <title lang="vi">Truck and Tractor</title>
+  </programme>
+</tv>
