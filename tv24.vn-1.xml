@@ -1,0 +1,815 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="abc.australia">
+    <display-name lang="vi">ABC Australia</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="animal.planet">
+    <display-name lang="vi">Animal Planet</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="antv">
+    <display-name lang="vi">ANTV</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="axn">
+    <display-name lang="vi">AXN</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="bbc.world.news">
+    <display-name lang="vi">BBC World News</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="bloomberg">
+    <display-name lang="vi">Bloomberg</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="box.movie">
+    <display-name lang="vi">BOX Movie 1</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="btv4">
+    <display-name lang="vi">BTV4 HD</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="btv5">
+    <display-name lang="vi">BTV5 HD</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="cartoon.network">
+    <display-name lang="vi">Cartoon Network</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="channel.news.asia">
+    <display-name lang="vi">Channel News Asia</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="cnn">
+    <display-name lang="vi">CNN</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="discovery.asia">
+    <display-name lang="vi">Discovery Asia</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="discovery.channel">
+    <display-name lang="vi">Discovery Channel</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="dw">
+    <display-name lang="vi">DW</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="fashiontv">
+    <display-name lang="vi">Fashion TV</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="fox.sports">
+    <display-name lang="vi">Fox Sports</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="fox.sports2">
+    <display-name lang="vi">Fox Sports 2</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="happy.kids">
+    <display-name lang="vi">Happy Kids</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <channel id="hollywood">
+    <display-name lang="vi">Hollywood</display-name>
+    <url>http://www.tv24.vn</url>
+  </channel>
+  <programme start="20210901000000 +0700" stop="20210901010000 +0700" channel="animal.planet">
+    <title lang="vi">CROCODILE HUNTER (S6) : THỢ SĂN CÁ SẤU (PHẦN 6)</title>
+  </programme>
+  <programme start="20210901010000 +0700" stop="20210901020000 +0700" channel="animal.planet">
+    <title lang="vi">WILDEST ISLANDS OF INDONESIA : NHỮNG HÒN ĐẢO HOANG DÃ NHẤT INDONESIA</title>
+  </programme>
+  <programme start="20210901020000 +0700" stop="20210901030000 +0700" channel="animal.planet">
+    <title lang="vi">VET GONE WILD : BÁC SĨ THÚ Y KHÔNG BIÊN GIỚI</title>
+  </programme>
+  <programme start="20210901030000 +0700" stop="20210901040000 +0700" channel="animal.planet">
+    <title lang="vi">ANIMAL ARMS RACE : CUỘC ĐUA VŨ TRANG CỦA ĐỘNG VẬT</title>
+  </programme>
+  <programme start="20210901040000 +0700" stop="20210901050000 +0700" channel="animal.planet">
+    <title lang="vi">CRIKEY! IT'S THE IRWINS (S2) : CHÚA ƠI, ĐÓ LÀ NHÀ IRWIN! (PHẦN 2)</title>
+  </programme>
+  <programme start="20210901050000 +0700" stop="20210901060000 +0700" channel="animal.planet">
+    <title lang="vi">SAVING BRITAIN’S WILDLIFE : GIẢI CỨU ĐỘNG VẬT HOANG DÃ ANH</title>
+  </programme>
+  <programme start="20210901060000 +0700" stop="20210901070000 +0700" channel="animal.planet">
+    <title lang="vi">VET GONE WILD : BÁC SĨ THÚ Y KHÔNG BIÊN GIỚI</title>
+  </programme>
+  <programme start="20210901070000 +0700" stop="20210901080000 +0700" channel="animal.planet">
+    <title lang="vi">CROCODILE HUNTER (S6) : THỢ SĂN CÁ SẤU (PHẦN 6)</title>
+  </programme>
+  <programme start="20210901080000 +0700" stop="20210901090000 +0700" channel="animal.planet">
+    <title lang="vi">DR. JEFF: ROCKY MOUNTAIN VET (S6) : BÁC SĨ JEFF: BÁC SĨ THÚ Y NÚI ROCKY (PHẦN 6)</title>
+  </programme>
+  <programme start="20210901090000 +0700" stop="20210901100000 +0700" channel="animal.planet">
+    <title lang="vi">KILLER OUTBREAKS : NHỮNG BỆNH DỊCH CHẾT NGƯỜI</title>
+  </programme>
+  <programme start="20210901100000 +0700" stop="20210901110000 +0700" channel="animal.planet">
+    <title lang="vi">WILDEST ISLANDS OF INDONESIA : NHỮNG HÒN ĐẢO HOANG DÃ NHẤT INDONESIA</title>
+  </programme>
+  <programme start="20210901110000 +0700" stop="20210901120000 +0700" channel="animal.planet">
+    <title lang="vi">WILD FRANK IN CALIFORNIA : FRANK HOANG DÃ Ở CALIFORNIA</title>
+  </programme>
+  <programme start="20210901120000 +0700" stop="20210901130000 +0700" channel="animal.planet">
+    <title lang="vi">WILD CENTRAL AMERICA : TRUNG MỸ HOANG DÃ</title>
+  </programme>
+  <programme start="20210901130000 +0700" stop="20210901140000 +0700" channel="animal.planet">
+    <title lang="vi">WILDEST ANTARCTIC : CHÂU NAM CỰC HOANG DÃ</title>
+  </programme>
+  <programme start="20210901140000 +0700" stop="20210901150000 +0700" channel="animal.planet">
+    <title lang="vi">JUST ANIMALS : THẾ GIỚI ĐỘNG VẬT TUYỆT VỜI</title>
+  </programme>
+  <programme start="20210901150000 +0700" stop="20210901160000 +0700" channel="animal.planet">
+    <title lang="vi">PREDATORS' PLAYBOOK : CHIẾN THUẬT CỦA THÚ SĂN MỒI</title>
+  </programme>
+  <programme start="20210901160000 +0700" stop="20210901170000 +0700" channel="animal.planet">
+    <title lang="vi">KILLER OUTBREAKS : NHỮNG BỆNH DỊCH CHẾT NGƯỜI</title>
+  </programme>
+  <programme start="20210901170000 +0700" stop="20210901180000 +0700" channel="animal.planet">
+    <title lang="vi">WILD LATAM : MỸ LATINH HOANG DÃ</title>
+  </programme>
+  <programme start="20210901180000 +0700" stop="20210901190000 +0700" channel="animal.planet">
+    <title lang="vi">VET GONE WILD : BÁC SĨ THÚ Y KHÔNG BIÊN GIỚI</title>
+  </programme>
+  <programme start="20210901190000 +0700" stop="20210901200000 +0700" channel="animal.planet">
+    <title lang="vi">WILDEST ISLANDS OF INDONESIA : NHỮNG HÒN ĐẢO HOANG DÃ NHẤT INDONESIA</title>
+  </programme>
+  <programme start="20210901200000 +0700" stop="20210901210000 +0700" channel="animal.planet">
+    <title lang="vi">DEADLY HUNTER : NHỮNG THỢ SĂN NGUY HIỂM CHẾT NGƯỜI</title>
+  </programme>
+  <programme start="20210901210000 +0700" stop="20210901220000 +0700" channel="animal.planet">
+    <title lang="vi">JEREMY WADE'S DARK WATERS : VÙNG NƯỚC TỐI$0 DẪN CHƯƠNG TRÌNH: JEREMY WADE</title>
+  </programme>
+  <programme start="20210901220000 +0700" stop="20210901230000 +0700" channel="animal.planet">
+    <title lang="vi">DR. JEFF: ROCKY MOUNTAIN VET (S6) : BÁC SĨ JEFF: BÁC SĨ THÚ Y NÚI ROCKY (PHẦN 6)</title>
+  </programme>
+  <programme start="20210901003000 +0700" stop="20210901012500 +0700" channel="axn">
+    <title lang="vi">THE BATTLE OF THE EX BESTIES : CUỘC CHIẾN CỦA NHỮNG CÔ BẠN THÂN CŨ</title>
+  </programme>
+  <programme start="20210901012500 +0700" stop="20210901022000 +0700" channel="axn">
+    <title lang="vi">HAWAII FIVE-0 10 : ĐẶC NHIỆM HAWAII (PHẦN 10)</title>
+  </programme>
+  <programme start="20210901022000 +0700" stop="20210901031500 +0700" channel="axn">
+    <title lang="vi">WIPEOUT 8 : CÚ NGÃ (PHẦN 8)</title>
+  </programme>
+  <programme start="20210901031500 +0700" stop="20210901041000 +0700" channel="axn">
+    <title lang="vi">PARANORMAL WITNESS 4 : NHÂN CHỨNG HIỆN TƯỢNG SIÊU NHIÊN (PHẦN 4)</title>
+  </programme>
+  <programme start="20210901041000 +0700" stop="20210901050500 +0700" channel="axn">
+    <title lang="vi">THE BATTLE OF THE EX BESTIES : CUỘC CHIẾN CỦA NHỮNG CÔ BẠN THÂN CŨ</title>
+  </programme>
+  <programme start="20210901050500 +0700" stop="20210901110000 +0700" channel="axn">
+    <title lang="vi">NCIS: LOS ANGELES 11 : CỤC ĐIỀU TRA TỘI PHẠM HẢI QUÂN: LOS ANGELES (PHẦN 11)</title>
+  </programme>
+  <programme start="20210901110000 +0700" stop="20210901115000 +0700" channel="axn">
+    <title lang="vi">MADAM SECRETARY (SEASON 6) : NỮ NGOẠI TRƯỞNG (PHẦN 6)</title>
+  </programme>
+  <programme start="20210901115000 +0700" stop="20210901124500 +0700" channel="axn">
+    <title lang="vi">THE BLACKLIST (SEASON 8) : DANH SÁCH ĐEN (PHẦN 8)</title>
+  </programme>
+  <programme start="20210901124500 +0700" stop="20210901134000 +0700" channel="axn">
+    <title lang="vi">HAWAII FIVE-0 (SEASON 10) : ĐẶC NHIỆM HAWAII (PHẦN 10)</title>
+  </programme>
+  <programme start="20210901134000 +0700" stop="20210901143000 +0700" channel="axn">
+    <title lang="vi">NCIS: LOS ANGELES (SEASON 11) : CỤC ĐIỀU TRA TỘI PHẠM HẢI QUÂN LOS ANGELES (PHẦN 11)</title>
+  </programme>
+  <programme start="20210901143000 +0700" stop="20210901152500 +0700" channel="axn">
+    <title lang="vi">WIPEOUT (SEASON 8) : CÚ NGÃ (PHẦN 8)</title>
+  </programme>
+  <programme start="20210901152500 +0700" stop="20210901162000 +0700" channel="axn">
+    <title lang="vi">THE BLACKLIST (SEASON 8) : DANH SÁCH ĐEN (PHẦN 8)</title>
+  </programme>
+  <programme start="20210901162000 +0700" stop="20210901171000 +0700" channel="axn">
+    <title lang="vi">BLUE BLOODS (SEASON 11) : GIA ĐÌNH CẢNH SÁT (PHẦN 11)</title>
+  </programme>
+  <programme start="20210901171000 +0700" stop="20210901180500 +0700" channel="axn">
+    <title lang="vi">DAVID BLAINE: BEYOND MAGIC : DAVID BLAINE: TRÊN CẢ ẢO THUẬT</title>
+  </programme>
+  <programme start="20210901180500 +0700" stop="20210901190000 +0700" channel="axn">
+    <title lang="vi">MADAM SECRETARY (SEASON 6) : NỮ NGOẠI TRƯỞNG (PHẦN 6)</title>
+  </programme>
+  <programme start="20210901190000 +0700" stop="20210901195500 +0700" channel="axn">
+    <title lang="vi">WIPEOUT (SEASON 8) : CÚ NGÃ (PHẦN 8)</title>
+  </programme>
+  <programme start="20210901195500 +0700" stop="20210901205000 +0700" channel="axn">
+    <title lang="vi">DEPUTY (SEASON 1) : NGƯỜI THAY THẾ (PHẦN 1)</title>
+  </programme>
+  <programme start="20210901205000 +0700" stop="20210901214500 +0700" channel="axn">
+    <title lang="vi">THE BLACKLIST (SEASON 8) : DANH SÁCH ĐEN (PHẦN 8)</title>
+  </programme>
+  <programme start="20210901214500 +0700" stop="20210901224000 +0700" channel="axn">
+    <title lang="vi">L.A.'S FINEST (SEASON 1) : BIỆT ĐỘI TINH NHUỆ L.A. (PHẦN 1)</title>
+  </programme>
+  <programme start="20210901224000 +0700" stop="20210901233500 +0700" channel="axn">
+    <title lang="vi">BLUE BLOODS (SEASON 11) : GIA ĐÌNH CẢNH SÁT (PHẦN 11)</title>
+  </programme>
+  <programme start="20210901015500 +0700" stop="20210901035500 +0700" channel="box.movie">
+    <title lang="vi">Tulip Fever : Cơn sốt hoa tulip</title>
+  </programme>
+  <programme start="20210901035500 +0700" stop="20210901055500 +0700" channel="box.movie">
+    <title lang="vi">About Time : Đã đến lúc</title>
+  </programme>
+  <programme start="20210901055500 +0700" stop="20210901074500 +0700" channel="box.movie">
+    <title lang="vi">Letters to Juliet : Thư gửi Juliet</title>
+  </programme>
+  <programme start="20210901074500 +0700" stop="20210901091500 +0700" channel="box.movie">
+    <title lang="vi">Hot Pursuit : Cặp đôi hoàn hảo</title>
+  </programme>
+  <programme start="20210901091500 +0700" stop="20210901105500 +0700" channel="box.movie">
+    <title lang="vi">Death Race: Inferno : Cuộc đua tử thần 3: Hỏa ngục</title>
+  </programme>
+  <programme start="20210901105500 +0700" stop="20210901124000 +0700" channel="box.movie">
+    <title lang="vi">The Wave : Sóng tử thần</title>
+  </programme>
+  <programme start="20210901124000 +0700" stop="20210901141500 +0700" channel="box.movie">
+    <title lang="vi">Deep Blue Sea 2 : Biển xanh sâu thẳm 2</title>
+  </programme>
+  <programme start="20210901141500 +0700" stop="20210901155500 +0700" channel="box.movie">
+    <title lang="vi">Triangle : Tam giác quỷ</title>
+  </programme>
+  <programme start="20210901155500 +0700" stop="20210901180500 +0700" channel="box.movie">
+    <title lang="vi">Race : Đua</title>
+  </programme>
+  <programme start="20210901180500 +0700" stop="20210901200000 +0700" channel="box.movie">
+    <title lang="vi">Everest : Bão tuyết kinh hoàng</title>
+  </programme>
+  <programme start="20210901200000 +0700" stop="20210901214500 +0700" channel="box.movie">
+    <title lang="vi">Revenge (2017) : Báo thù</title>
+  </programme>
+  <programme start="20210901214500 +0700" stop="20210901233000 +0700" channel="box.movie">
+    <title lang="vi">Rogue : Cá sấu ăn thịt người</title>
+  </programme>
+  <programme start="20210901000000 +0700" stop="20210901020000 +0700" channel="btv5">
+    <title lang="vi">Bóng đá</title>
+  </programme>
+  <programme start="20210901020000 +0700" stop="20210901040000 +0700" channel="btv5">
+    <title lang="vi">Bóng đá</title>
+  </programme>
+  <programme start="20210901040000 +0700" stop="20210901060000 +0700" channel="btv5">
+    <title lang="vi">Bóng đá</title>
+  </programme>
+  <programme start="20210901060000 +0700" stop="20210901080000 +0700" channel="btv5">
+    <title lang="vi">A-League Brisbane Roar - Sydney FC R24</title>
+  </programme>
+  <programme start="20210901080000 +0700" stop="20210901100000 +0700" channel="btv5">
+    <title lang="vi">LaLiga 2021/22 Real Sociedad - Levante R2</title>
+  </programme>
+  <programme start="20210901100000 +0700" stop="20210901120000 +0700" channel="btv5">
+    <title lang="vi">FA Cup Southampton - Arsenal R4</title>
+  </programme>
+  <programme start="20210901120000 +0700" stop="20210901140000 +0700" channel="btv5">
+    <title lang="vi">LaLiga 2021/22 Mallorca - Betis R1</title>
+  </programme>
+  <programme start="20210901140000 +0700" stop="20210901150000 +0700" channel="btv5">
+    <title lang="vi">Võ thuật</title>
+  </programme>
+  <programme start="20210901150000 +0700" stop="20210901151500 +0700" channel="btv5">
+    <title lang="vi">Điểm tin trưa</title>
+  </programme>
+  <programme start="20210901151500 +0700" stop="20210901171500 +0700" channel="btv5">
+    <title lang="vi">SÓNG BTV</title>
+  </programme>
+  <programme start="20210901171500 +0700" stop="20210901190000 +0700" channel="btv5">
+    <title lang="vi">A-League Melbourne City - Central Coast Mariners R22</title>
+  </programme>
+  <programme start="20210901190000 +0700" stop="20210901210000 +0700" channel="btv5">
+    <title lang="vi">LaLiga 2021/22 Cadiz - Osasuna R2</title>
+  </programme>
+  <programme start="20210901210000 +0700" stop="20210901224500 +0700" channel="btv5">
+    <title lang="vi">FA Cup Man Utd - West Ham R5</title>
+  </programme>
+  <programme start="20210901224500 +0700" stop="20210901230000 +0700" channel="btv5">
+    <title lang="vi">Bản tin Thể Thao</title>
+  </programme>
+  <programme start="20210901000000 +0700" stop="20210901010000 +0700" channel="cartoon.network">
+    <title lang="vi">CLARENCE : CLARENCE</title>
+  </programme>
+  <programme start="20210901010000 +0700" stop="20210901020000 +0700" channel="cartoon.network">
+    <title lang="vi">UNCLE GRANDPA : BÁC GRANDPA</title>
+  </programme>
+  <programme start="20210901020000 +0700" stop="20210901030000 +0700" channel="cartoon.network">
+    <title lang="vi">MIGHTY MAGISWORDS : NHỮNG THANH KIẾM THẦN HÙNG MẠNH</title>
+  </programme>
+  <programme start="20210901030000 +0700" stop="20210901040000 +0700" channel="cartoon.network">
+    <title lang="vi">CHOWDER</title>
+  </programme>
+  <programme start="20210901040000 +0700" stop="20210901050000 +0700" channel="cartoon.network">
+    <title lang="vi">OK K.O.! LET'S BE HEROES : KO LÀM ANH HÙNG NÀO</title>
+  </programme>
+  <programme start="20210901050000 +0700" stop="20210901060000 +0700" channel="cartoon.network">
+    <title lang="vi">GRIZZY AND THE LEMMINGS : GẤU XÁM VÀ NHỮNG CHÚ CHUỘT LEMMUT</title>
+  </programme>
+  <programme start="20210901060000 +0700" stop="20210901070000 +0700" channel="cartoon.network">
+    <title lang="vi">TALKING TOM HEROES : TOM BIẾT NÓI: SIÊU ANH HÙNG</title>
+  </programme>
+  <programme start="20210901070000 +0700" stop="20210901080000 +0700" channel="cartoon.network">
+    <title lang="vi">SHAUN THE SHEEP : CỪU SHAUN</title>
+  </programme>
+  <programme start="20210901080000 +0700" stop="20210901090000 +0700" channel="cartoon.network">
+    <title lang="vi">THE FUNGIES! : THỊ TRẤN NẤM</title>
+  </programme>
+  <programme start="20210901090000 +0700" stop="20210901100000 +0700" channel="cartoon.network">
+    <title lang="vi">GRIZZY AND THE LEMMINGS : GẤU XÁM VÀ NHỮNG CHÚ CHUỘT LEMMUT</title>
+  </programme>
+  <programme start="20210901100000 +0700" stop="20210901110000 +0700" channel="cartoon.network">
+    <title lang="vi">THE TOM AND JERRY SHOW : CHƯƠNG TRÌNH TOM VÀ JERRY</title>
+  </programme>
+  <programme start="20210901110000 +0700" stop="20210901120000 +0700" channel="cartoon.network">
+    <title lang="vi">MR. BEAN: THE ANIMATED SERIES : NGÀI BEAN</title>
+  </programme>
+  <programme start="20210901120000 +0700" stop="20210901130000 +0700" channel="cartoon.network">
+    <title lang="vi">WE BARE BEARS : CHÚNG TÔI ĐƠN GIẢN LÀ GẤU</title>
+  </programme>
+  <programme start="20210901130000 +0700" stop="20210901140000 +0700" channel="cartoon.network">
+    <title lang="vi">MR. BEAN: THE ANIMATED SERIES : NGÀI BEAN</title>
+  </programme>
+  <programme start="20210901140000 +0700" stop="20210901143000 +0700" channel="cartoon.network">
+    <title lang="vi">THE AMAZING WORLD OF GUMBALL : THẾ GIỚI KÌ DIỆU CỦA GUMBALL</title>
+  </programme>
+  <programme start="20210901143000 +0700" stop="20210901150000 +0700" channel="cartoon.network">
+    <title lang="vi">NINJAGO</title>
+  </programme>
+  <programme start="20210901150000 +0700" stop="20210901160000 +0700" channel="cartoon.network">
+    <title lang="vi">TEEN TITANS GO! : BIỆT ĐỘI THIẾU NIÊN TITAN XUẤT KÍCH</title>
+  </programme>
+  <programme start="20210901160000 +0700" stop="20210901170000 +0700" channel="cartoon.network">
+    <title lang="vi">WE BARE BEARS : CHÚNG TÔI ĐƠN GIẢN LÀ GẤU</title>
+  </programme>
+  <programme start="20210901170000 +0700" stop="20210901180000 +0700" channel="cartoon.network">
+    <title lang="vi">THE AMAZING WORLD OF GUMBALL : THẾ GIỚI KÌ DIỆU CỦA GUMBALL</title>
+  </programme>
+  <programme start="20210901180000 +0700" stop="20210901190000 +0700" channel="cartoon.network">
+    <title lang="vi">MR. BEAN: THE ANIMATED SERIES : NGÀI BEAN</title>
+  </programme>
+  <programme start="20210901190000 +0700" stop="20210901200000 +0700" channel="cartoon.network">
+    <title lang="vi">TEEN TITANS GO! : BIỆT ĐỘI THIẾU NIÊN TITAN XUẤT KÍCH</title>
+  </programme>
+  <programme start="20210901200000 +0700" stop="20210901210000 +0700" channel="cartoon.network">
+    <title lang="vi">WE BARE BEARS : CHÚNG TÔI ĐƠN GIẢN LÀ GẤU</title>
+  </programme>
+  <programme start="20210901210000 +0700" stop="20210901213000 +0700" channel="cartoon.network">
+    <title lang="vi">MONSTER BEACH : BÃI BIỂN QUÁI VẬT</title>
+  </programme>
+  <programme start="20210901213000 +0700" stop="20210901220000 +0700" channel="cartoon.network">
+    <title lang="vi">DC SUPER HERO GIRLS SERIES : NHỮNG NỮ SIÊU ANH HÙNG DC</title>
+  </programme>
+  <programme start="20210901220000 +0700" stop="20210901230000 +0700" channel="cartoon.network">
+    <title lang="vi">ADVENTURE TIME : GIỜ PHIÊU LƯU</title>
+  </programme>
+  <programme start="20210901002000 +0700" stop="20210901011000 +0700" channel="discovery.asia">
+    <title lang="vi">LANDS OF WOMEN : XỨ MẪU QUYỀN</title>
+  </programme>
+  <programme start="20210901011000 +0700" stop="20210901020000 +0700" channel="discovery.asia">
+    <title lang="vi">MYSTERIES OF THE MEKONG 2 : NHỮNG BÍ ẨN CỦA SÔNG MÊ KÔNG</title>
+  </programme>
+  <programme start="20210901020000 +0700" stop="20210901025000 +0700" channel="discovery.asia">
+    <title lang="vi">THE INDIAN DREAM HOTEL (S4) : KHÁCH SẠN MƠ ƯỚC Ở ÂN ĐỘ (PHẦN 4)</title>
+  </programme>
+  <programme start="20210901025000 +0700" stop="20210901034000 +0700" channel="discovery.asia">
+    <title lang="vi">LANDS OF WOMEN : XỨ MẪU QUYỀN</title>
+  </programme>
+  <programme start="20210901034000 +0700" stop="20210901043000 +0700" channel="discovery.asia">
+    <title lang="vi">OPERATION THAI CAVE RESCUE : CHIẾN DỊCH GIẢI CỨU TẠI HANG NGẦM Ở THÁI LAN</title>
+  </programme>
+  <programme start="20210901043000 +0700" stop="20210901053000 +0700" channel="discovery.asia">
+    <title lang="vi">ORANGUTAN JUNGLE SCHOOL : NGÔI TRƯỜNG TRONG RỪNG RẬM CỦA ĐƯỜI ƯƠI</title>
+  </programme>
+  <programme start="20210901053000 +0700" stop="20210901060000 +0700" channel="discovery.asia">
+    <title lang="vi">#INDIAMYWAY : ẤN ĐỘ DU KÝ</title>
+  </programme>
+  <programme start="20210901060000 +0700" stop="20210901065000 +0700" channel="discovery.asia">
+    <title lang="vi">CHINA'S WILD WEST : MIỀN TÂY HOANG DÃ CỦA TRUNG QUỐC</title>
+  </programme>
+  <programme start="20210901065000 +0700" stop="20210901074000 +0700" channel="discovery.asia">
+    <title lang="vi">INSIDE OUT: RISE OF SMART TECH : SỰ TRỖI DẬY CỦA CÔNG NGHỆ THÔNG MINH</title>
+  </programme>
+  <programme start="20210901074000 +0700" stop="20210901083000 +0700" channel="discovery.asia">
+    <title lang="vi">DECIPHERING JAPAN : GIẢI MÃ NHẬT BẢN</title>
+  </programme>
+  <programme start="20210901083000 +0700" stop="20210901092000 +0700" channel="discovery.asia">
+    <title lang="vi">INDIAN DREAM HOTEL ON TOUR: VIETNAM : KHÁCH SẠN MƠ ƯỚC Ở ẤN ĐỘ: CHUYẾN DU HÍ VIỆT NAM</title>
+  </programme>
+  <programme start="20210901092000 +0700" stop="20210901101000 +0700" channel="discovery.asia">
+    <title lang="vi">LANDS OF WOMEN : XỨ MẪU QUYỀN</title>
+  </programme>
+  <programme start="20210901101000 +0700" stop="20210901110000 +0700" channel="discovery.asia">
+    <title lang="vi">MYSTERIES OF THE MEKONG 2 : NHỮNG BÍ ẨN CỦA SÔNG MÊ KÔNG</title>
+  </programme>
+  <programme start="20210901110000 +0700" stop="20210901115000 +0700" channel="discovery.asia">
+    <title lang="vi">CHINA'S WILD WEST : MIỀN TÂY HOANG DÃ CỦA TRUNG QUỐC</title>
+  </programme>
+  <programme start="20210901115000 +0700" stop="20210901124000 +0700" channel="discovery.asia">
+    <title lang="vi">INSIDE OUT: RISE OF SMART TECH : SỰ TRỖI DẬY CỦA CÔNG NGHỆ THÔNG MINH</title>
+  </programme>
+  <programme start="20210901124000 +0700" stop="20210901133000 +0700" channel="discovery.asia">
+    <title lang="vi">DECIPHERING JAPAN : GIẢI MÃ NHẬT BẢN</title>
+  </programme>
+  <programme start="20210901133000 +0700" stop="20210901142000 +0700" channel="discovery.asia">
+    <title lang="vi">THE INDIAN DREAM HOTEL (S4) : KHÁCH SẠN MƠ ƯỚC Ở ÂN ĐỘ (PHẦN 4)</title>
+  </programme>
+  <programme start="20210901142000 +0700" stop="20210901151000 +0700" channel="discovery.asia">
+    <title lang="vi">INDIAN DREAM HOTEL ON TOUR: VIETNAM : KHÁCH SẠN MƠ ƯỚC Ở ẤN ĐỘ: CHUYẾN DU HÍ VIỆT NAM</title>
+  </programme>
+  <programme start="20210901151000 +0700" stop="20210901160000 +0700" channel="discovery.asia">
+    <title lang="vi">LANDS OF WOMEN : XỨ MẪU QUYỀN</title>
+  </programme>
+  <programme start="20210901160000 +0700" stop="20210901165000 +0700" channel="discovery.asia">
+    <title lang="vi">LANDS OF WOMEN : XỨ MẪU QUYỀN</title>
+  </programme>
+  <programme start="20210901165000 +0700" stop="20210901174000 +0700" channel="discovery.asia">
+    <title lang="vi">OPERATION THAI CAVE RESCUE : CHIẾN DỊCH GIẢI CỨU TẠI HANG NGẦM Ở THÁI LAN</title>
+  </programme>
+  <programme start="20210901174000 +0700" stop="20210901183000 +0700" channel="discovery.asia">
+    <title lang="vi">MYSTERIES OF THE MEKONG 2 : NHỮNG BÍ ẨN CỦA SÔNG MÊ KÔNG</title>
+  </programme>
+  <programme start="20210901183000 +0700" stop="20210901192000 +0700" channel="discovery.asia">
+    <title lang="vi">EXPEDITION X: SILK ROAD RISING : CHUYẾN THÁM HIỂM X: SỰ TRỖI DẬY CỦA CON ĐƯỜNG TƠ LỤA</title>
+  </programme>
+  <programme start="20210901192000 +0700" stop="20210901201000 +0700" channel="discovery.asia">
+    <title lang="vi">BUILD IT BIGGER (S5) : XÂY DỰNG LỚN HƠN (PHẦN 5)</title>
+  </programme>
+  <programme start="20210901201000 +0700" stop="20210901210000 +0700" channel="discovery.asia">
+    <title lang="vi">MAN MADE MARVELS CHINA : KỲ QUAN NHÂN TẠO TRUNG QUỐC</title>
+  </programme>
+  <programme start="20210901210000 +0700" stop="20210901215000 +0700" channel="discovery.asia">
+    <title lang="vi">SHAANXI: CHINA'S GREAT GATEWAY : THIỂM TÂY: CỬA NGÕ LỚN CỦA TRUNG QUỐC</title>
+  </programme>
+  <programme start="20210901215000 +0700" stop="20210901224100 +0700" channel="discovery.asia">
+    <title lang="vi">BUILD IT BIGGER : XÂY DỰNG LỚN HƠN</title>
+  </programme>
+  <programme start="20210901224100 +0700" stop="20210901233000 +0700" channel="discovery.asia">
+    <title lang="vi">MAN MADE MARVELS CHINA : KỲ QUAN NHÂN TẠO TRUNG QUỐC</title>
+  </programme>
+  <programme start="20210901003500 +0700" stop="20210901012500 +0700" channel="discovery.channel">
+    <title lang="vi">GOLD RUSH: PARKER'S TRAIL (S4) : TÌM VÀNG: CON ĐƯỜNG CỦA PARKER (PHẦN 4)</title>
+  </programme>
+  <programme start="20210901012500 +0700" stop="20210901021500 +0700" channel="discovery.channel">
+    <title lang="vi">GOLD RUSH: FREDDY DODGE'S MINE RESCUE : TÌM VÀNG: FREDDY DODGE GIẢI CỨU KHU MỎ</title>
+  </programme>
+  <programme start="20210901021500 +0700" stop="20210901030500 +0700" channel="discovery.channel">
+    <title lang="vi">ALASKA: THE LAST FRONTIER (S9) : ALASKA: BIÊN GiỚI CUỐI CÙNG (PHẦN 9)</title>
+  </programme>
+  <programme start="20210901030500 +0700" stop="20210901033000 +0700" channel="discovery.channel">
+    <title lang="vi">HOW DO THEY DO IT? (S7) : HỌ LÀM NHƯ THẾ NÀO? (PHẦN 7)</title>
+  </programme>
+  <programme start="20210901033000 +0700" stop="20210901035500 +0700" channel="discovery.channel">
+    <title lang="vi">HOW IT'S MADE (S13) : CÁCH THỨC CHẾ TẠO? (PHẦN 13)</title>
+  </programme>
+  <programme start="20210901035500 +0700" stop="20210901044500 +0700" channel="discovery.channel">
+    <title lang="vi">TOP HOOKER : THỢ CÂU CÁ ĐỈNH CAO</title>
+  </programme>
+  <programme start="20210901044500 +0700" stop="20210901053500 +0700" channel="discovery.channel">
+    <title lang="vi">GOLD RUSH (S4) : TÌM VÀNG (PHẦN 4)</title>
+  </programme>
+  <programme start="20210901053500 +0700" stop="20210901063500 +0700" channel="discovery.channel">
+    <title lang="vi">GOLD RUSH: FREDDY DODGE'S MINE RESCUE : TÌM VÀNG: FREDDY DODGE GIẢI CỨU KHU MỎ</title>
+  </programme>
+  <programme start="20210901063500 +0700" stop="20210901070000 +0700" channel="discovery.channel">
+    <title lang="vi">HOW DO THEY DO IT? (S7) : HỌ LÀM NHƯ THẾ NÀO? (PHẦN 7)</title>
+  </programme>
+  <programme start="20210901070000 +0700" stop="20210901072500 +0700" channel="discovery.channel">
+    <title lang="vi">HOW IT'S MADE (S13) : CÁCH THỨC CHẾ TẠO? (PHẦN 13)</title>
+  </programme>
+  <programme start="20210901072500 +0700" stop="20210901081500 +0700" channel="discovery.channel">
+    <title lang="vi">TOP HOOKER : THỢ CÂU CÁ ĐỈNH CAO</title>
+  </programme>
+  <programme start="20210901081500 +0700" stop="20210901090500 +0700" channel="discovery.channel">
+    <title lang="vi">MYSTERIES OF THE DEEP - Ep6 : NHỮNG BÍ ẨN NƠI SÂU THẲM</title>
+  </programme>
+  <programme start="20210901090500 +0700" stop="20210901095500 +0700" channel="discovery.channel">
+    <title lang="vi">MYSTERY OF THE BLACK DEMON SHARK : BÍ ẨN VỀ CÁ MẬP QUỶ ĐEN</title>
+  </programme>
+  <programme start="20210901095500 +0700" stop="20210901102000 +0700" channel="discovery.channel">
+    <title lang="vi">HOW DO THEY DO IT? (S7) : HỌ LÀM NHƯ THẾ NÀO? (PHẦN 7)</title>
+  </programme>
+  <programme start="20210901102000 +0700" stop="20210901104500 +0700" channel="discovery.channel">
+    <title lang="vi">HOW IT'S MADE (S13) : CÁCH THỨC CHẾ TẠO? (PHẦN 13)</title>
+  </programme>
+  <programme start="20210901104500 +0700" stop="20210901113500 +0700" channel="discovery.channel">
+    <title lang="vi">TOP HOOKER : THỢ CÂU CÁ ĐỈNH CAO</title>
+  </programme>
+  <programme start="20210901113500 +0700" stop="20210901122500 +0700" channel="discovery.channel">
+    <title lang="vi">MYSTERIES OF THE DEEP - Ep6 : NHỮNG BÍ ẨN NƠI SÂU THẲM</title>
+  </programme>
+  <programme start="20210901122500 +0700" stop="20210901131500 +0700" channel="discovery.channel">
+    <title lang="vi">MYSTERY OF THE BLACK DEMON SHARK : BÍ ẨN VỀ CÁ MẬP QUỶ ĐEN</title>
+  </programme>
+  <programme start="20210901131500 +0700" stop="20210901140500 +0700" channel="discovery.channel">
+    <title lang="vi">GOLD RUSH: PARKER'S TRAIL (S4) : TÌM VÀNG: CON ĐƯỜNG CỦA PARKER (PHẦN 4)</title>
+  </programme>
+  <programme start="20210901140500 +0700" stop="20210901145500 +0700" channel="discovery.channel">
+    <title lang="vi">GOLD RUSH: FREDDY DODGE'S MINE RESCUE : TÌM VÀNG: FREDDY DODGE GIẢI CỨU KHU MỎ</title>
+  </programme>
+  <programme start="20210901145500 +0700" stop="20210901154500 +0700" channel="discovery.channel">
+    <title lang="vi">ALASKA: THE LAST FRONTIER (S9) : ALASKA: BIÊN GiỚI CUỐI CÙNG (PHẦN 9)</title>
+  </programme>
+  <programme start="20210901154500 +0700" stop="20210901163500 +0700" channel="discovery.channel">
+    <title lang="vi">MAN VS. WILD : CON NGƯỜI ĐỐI MẶT TỰ NHIÊN</title>
+  </programme>
+  <programme start="20210901163500 +0700" stop="20210901172500 +0700" channel="discovery.channel">
+    <title lang="vi">MAN VS. WILD : CON NGƯỜI ĐỐI MẶT TỰ NHIÊN</title>
+  </programme>
+  <programme start="20210901172500 +0700" stop="20210901181500 +0700" channel="discovery.channel">
+    <title lang="vi">MAN VS. WILD : CON NGƯỜI ĐỐI MẶT TỰ NHIÊN</title>
+  </programme>
+  <programme start="20210901181500 +0700" stop="20210901191000 +0700" channel="discovery.channel">
+    <title lang="vi">TRUTH BEHIND THE MOON LANDING - Ep2 : SỰ THẬT VỀ VIỆC ĐÁP XUỐNG MẶT TRĂNG</title>
+  </programme>
+  <programme start="20210901191000 +0700" stop="20210901200500 +0700" channel="discovery.channel">
+    <title lang="vi">MYSTERY OF THE BLACK DEMON SHARK : BÍ ẨN VỀ CÁ MẬP QUỶ ĐEN</title>
+  </programme>
+  <programme start="20210901200500 +0700" stop="20210901210000 +0700" channel="discovery.channel">
+    <title lang="vi">JUNGLE GOLD : ĐÀO VÀNG TRONG RỪNG</title>
+  </programme>
+  <programme start="20210901210000 +0700" stop="20210901225000 +0700" channel="discovery.channel">
+    <title lang="vi">UNDERCOVER BILLIONAIRE (S2) : TỶ PHÚ NGẦM (PHẦN 2)</title>
+  </programme>
+  <programme start="20210901225000 +0700" stop="20210901234500 +0700" channel="discovery.channel">
+    <title lang="vi">ALASKAN BUSH PEOPLE (S5) : NHỮNG NGƯỜI RỪNG ALASKA (PHẦN 5)</title>
+  </programme>
+  <programme start="20210901000000 +0700" stop="20210901003000 +0700" channel="dw">
+    <title lang="vi">DW News</title>
+  </programme>
+  <programme start="20210901003000 +0700" stop="20210901010000 +0700" channel="dw">
+    <title lang="vi">Kick off</title>
+  </programme>
+  <programme start="20210901010000 +0700" stop="20210901013000 +0700" channel="dw">
+    <title lang="vi">DW News</title>
+  </programme>
+  <programme start="20210901013000 +0700" stop="20210901020000 +0700" channel="dw">
+    <title lang="vi">The Day</title>
+  </programme>
+  <programme start="20210901020000 +0700" stop="20210901021500 +0700" channel="dw">
+    <title lang="vi">DW News</title>
+  </programme>
+  <programme start="20210901021500 +0700" stop="20210901023000 +0700" channel="dw">
+    <title lang="vi">Business</title>
+  </programme>
+  <programme start="20210901023000 +0700" stop="20210901024500 +0700" channel="dw">
+    <title lang="vi">Arts and Culture</title>
+  </programme>
+  <programme start="20210901024500 +0700" stop="20210901030000 +0700" channel="dw">
+    <title lang="vi">Reporter</title>
+  </programme>
+  <programme start="20210901030000 +0700" stop="20210901030200 +0700" channel="dw">
+    <title lang="vi">DW News</title>
+  </programme>
+  <programme start="20210901030200 +0700" stop="20210901033000 +0700" channel="dw">
+    <title lang="vi">The Day</title>
+  </programme>
+  <programme start="20210901033000 +0700" stop="20210901034500 +0700" channel="dw">
+    <title lang="vi">Covid-19 Special</title>
+  </programme>
+  <programme start="20210901034500 +0700" stop="20210901040000 +0700" channel="dw">
+    <title lang="vi">Arts and Culture</title>
+  </programme>
+  <programme start="20210901040000 +0700" stop="20210901041500 +0700" channel="dw">
+    <title lang="vi">DW News</title>
+  </programme>
+  <programme start="20210901041500 +0700" stop="20210901043000 +0700" channel="dw">
+    <title lang="vi">Business</title>
+  </programme>
+  <programme start="20210901043000 +0700" stop="20210901120000 +0700" channel="dw">
+    <title lang="vi">Global 3000</title>
+  </programme>
+  <programme start="20210901120000 +0700" stop="20210901123000 +0700" channel="dw">
+    <title lang="vi">DW News</title>
+  </programme>
+  <programme start="20210901123000 +0700" stop="20210901130000 +0700" channel="dw">
+    <title lang="vi">Close up</title>
+  </programme>
+  <programme start="20210901130000 +0700" stop="20210901133000 +0700" channel="dw">
+    <title lang="vi">DW News</title>
+  </programme>
+  <programme start="20210901133000 +0700" stop="20210901140000 +0700" channel="dw">
+    <title lang="vi">Eco India</title>
+  </programme>
+  <programme start="20210901140000 +0700" stop="20210901141500 +0700" channel="dw">
+    <title lang="vi">DW News</title>
+  </programme>
+  <programme start="20210901141500 +0700" stop="20210901150000 +0700" channel="dw">
+    <title lang="vi">DocFilm</title>
+  </programme>
+  <programme start="20210901150000 +0700" stop="20210901153000 +0700" channel="dw">
+    <title lang="vi">DW News</title>
+  </programme>
+  <programme start="20210901153000 +0700" stop="20210901154500 +0700" channel="dw">
+    <title lang="vi">Business</title>
+  </programme>
+  <programme start="20210901154500 +0700" stop="20210901160000 +0700" channel="dw">
+    <title lang="vi">Covid-19 Special</title>
+  </programme>
+  <programme start="20210901160000 +0700" stop="20210901163000 +0700" channel="dw">
+    <title lang="vi">DW News</title>
+  </programme>
+  <programme start="20210901163000 +0700" stop="20210901170000 +0700" channel="dw">
+    <title lang="vi">Made in Germany</title>
+  </programme>
+  <programme start="20210901170000 +0700" stop="20210901173000 +0700" channel="dw">
+    <title lang="vi">DW News</title>
+  </programme>
+  <programme start="20210901173000 +0700" stop="20210901180000 +0700" channel="dw">
+    <title lang="vi">Eco Africa</title>
+  </programme>
+  <programme start="20210901180000 +0700" stop="20210901183000 +0700" channel="dw">
+    <title lang="vi">DW News</title>
+  </programme>
+  <programme start="20210901183000 +0700" stop="20210901184500 +0700" channel="dw">
+    <title lang="vi">DW News</title>
+  </programme>
+  <programme start="20210901184500 +0700" stop="20210901190000 +0700" channel="dw">
+    <title lang="vi">Covid-19 Special</title>
+  </programme>
+  <programme start="20210901190000 +0700" stop="20210901193000 +0700" channel="dw">
+    <title lang="vi">DW News</title>
+  </programme>
+  <programme start="20210901193000 +0700" stop="20210901194500 +0700" channel="dw">
+    <title lang="vi">DW News</title>
+  </programme>
+  <programme start="20210901194500 +0700" stop="20210901200000 +0700" channel="dw">
+    <title lang="vi">Covid-19 Special</title>
+  </programme>
+  <programme start="20210901200000 +0700" stop="20210901203000 +0700" channel="dw">
+    <title lang="vi">DW News</title>
+  </programme>
+  <programme start="20210901203000 +0700" stop="20210901210000 +0700" channel="dw">
+    <title lang="vi">Made in Germany</title>
+  </programme>
+  <programme start="20210901210000 +0700" stop="20210901211500 +0700" channel="dw">
+    <title lang="vi">DW News</title>
+  </programme>
+  <programme start="20210901211500 +0700" stop="20210901213000 +0700" channel="dw">
+    <title lang="vi">Business</title>
+  </programme>
+  <programme start="20210901213000 +0700" stop="20210901214500 +0700" channel="dw">
+    <title lang="vi">DW News</title>
+  </programme>
+  <programme start="20210901214500 +0700" stop="20210901220000 +0700" channel="dw">
+    <title lang="vi">Arts and Culture</title>
+  </programme>
+  <programme start="20210901220000 +0700" stop="20210901221500 +0700" channel="dw">
+    <title lang="vi">DW News</title>
+  </programme>
+  <programme start="20210901221500 +0700" stop="20210901223000 +0700" channel="dw">
+    <title lang="vi">Covid-19 Special</title>
+  </programme>
+  <programme start="20210901223000 +0700" stop="20210901224500 +0700" channel="dw">
+    <title lang="vi">DW News</title>
+  </programme>
+  <programme start="20210901224500 +0700" stop="20210901230000 +0700" channel="dw">
+    <title lang="vi">Arts and Culture</title>
+  </programme>
+  <programme start="20210901230000 +0700" stop="20210901231500 +0700" channel="dw">
+    <title lang="vi">DW News</title>
+  </programme>
+  <programme start="20210901231500 +0700" stop="20210901233000 +0700" channel="dw">
+    <title lang="vi">Business</title>
+  </programme>
+  <programme start="20210901233000 +0700" stop="20210901234500 +0700" channel="dw">
+    <title lang="vi">Covid-19 Special</title>
+  </programme>
+  <programme start="20210901100000 +0700" stop="20210901110000 +0700" channel="fox.sports">
+    <title lang="vi">X Games Aspen 2021 Highlights</title>
+  </programme>
+  <programme start="20210901110000 +0700" stop="20210901113000 +0700" channel="fox.sports">
+    <title lang="vi">ESPN FC 2021</title>
+  </programme>
+  <programme start="20210901113000 +0700" stop="20210901123000 +0700" channel="fox.sports">
+    <title lang="vi">Formula 1 Rolex Belgian Grand Prix 2021 - Highlights</title>
+  </programme>
+  <programme start="20210901123000 +0700" stop="20210901130000 +0700" channel="fox.sports">
+    <title lang="vi">ESPN FC 2021</title>
+  </programme>
+  <programme start="20210901130000 +0700" stop="20210901140000 +0700" channel="fox.sports">
+    <title lang="vi">US Open Tennis 2021 Best Matches Of The Day 2</title>
+  </programme>
+  <programme start="20210901140000 +0700" stop="20210901150000 +0700" channel="fox.sports">
+    <title lang="vi">US Open Tennis 2021 Best Matches Of The Day 2</title>
+  </programme>
+  <programme start="20210901150000 +0700" stop="20210901153000 +0700" channel="fox.sports">
+    <title lang="vi">Sportscenter Asia 2021</title>
+  </programme>
+  <programme start="20210901153000 +0700" stop="20210901163000 +0700" channel="fox.sports">
+    <title lang="vi">US Open Tennis 2021 Best Matches Of The Day 2</title>
+  </programme>
+  <programme start="20210901163000 +0700" stop="20210901173000 +0700" channel="fox.sports">
+    <title lang="vi">Formula 1 Rolex Belgian Grand Prix 2021 - Highlights</title>
+  </programme>
+  <programme start="20210901173000 +0700" stop="20210901180000 +0700" channel="fox.sports">
+    <title lang="vi">2 Wheels</title>
+  </programme>
+  <programme start="20210901180000 +0700" stop="20210901183000 +0700" channel="fox.sports">
+    <title lang="vi">US Open Tennis 2021 Day 2 Highlights</title>
+  </programme>
+  <programme start="20210901183000 +0700" stop="20210901190000 +0700" channel="fox.sports">
+    <title lang="vi">Sportscenter Asia 2021</title>
+  </programme>
+  <programme start="20210901190000 +0700" stop="20210901193000 +0700" channel="fox.sports">
+    <title lang="vi">The John Dykes Show</title>
+  </programme>
+  <programme start="20210901193000 +0700" stop="20210901203000 +0700" channel="fox.sports">
+    <title lang="vi">US Open Tennis 2021 Best Matches Of The Day 2</title>
+  </programme>
+  <programme start="20210901203000 +0700" stop="20210901204000 +0700" channel="fox.sports">
+    <title lang="vi">In Focus: Lewis Hamilton</title>
+  </programme>
+  <programme start="20210901204000 +0700" stop="20210901205000 +0700" channel="fox.sports">
+    <title lang="vi">In Focus: Marion Bartoli</title>
+  </programme>
+  <programme start="20210901205000 +0700" stop="20210901212000 +0700" channel="fox.sports">
+    <title lang="vi">Sportscenter Asia 2021</title>
+  </programme>
+  <programme start="20210901212000 +0700" stop="20210901215000 +0700" channel="fox.sports">
+    <title lang="vi">US Open Tennis 2021 Day 2 Highlights</title>
+  </programme>
+  <programme start="20210901060000 +0700" stop="20210901070000 +0700" channel="fox.sports2">
+    <title lang="vi">U.S Junior Amateur 2021 - Semifinals</title>
+  </programme>
+  <programme start="20210901070000 +0700" stop="20210901080000 +0700" channel="fox.sports2">
+    <title lang="vi">U.S Junior Amateur 2021 - Championship Match</title>
+  </programme>
+  <programme start="20210901080000 +0700" stop="20210901083000 +0700" channel="fox.sports2">
+    <title lang="vi">Inside Sailing 2021</title>
+  </programme>
+  <programme start="20210901083000 +0700" stop="20210901093000 +0700" channel="fox.sports2">
+    <title lang="vi">P1 USA Aquax Championship 2021</title>
+  </programme>
+  <programme start="20210901093000 +0700" stop="20210901100000 +0700" channel="fox.sports2">
+    <title lang="vi">P1 USA Aquax Championship 2021</title>
+  </programme>
+  <programme start="20210901100000 +0700" stop="20210901110000 +0700" channel="fox.sports2">
+    <title lang="vi">P1 USA Aquax Championship 2021</title>
+  </programme>
+  <programme start="20210901110000 +0700" stop="20210901120000 +0700" channel="fox.sports2">
+    <title lang="vi">P1 USA Aquax Championship 2021</title>
+  </programme>
+  <programme start="20210901120000 +0700" stop="20210901130000 +0700" channel="fox.sports2">
+    <title lang="vi">Sailgp 2021 - Highlights Aarhus</title>
+  </programme>
+  <programme start="20210901130000 +0700" stop="20210901140000 +0700" channel="fox.sports2">
+    <title lang="vi">U.S Junior Amateur 2021 - Semifinals</title>
+  </programme>
+  <programme start="20210901140000 +0700" stop="20210901150000 +0700" channel="fox.sports2">
+    <title lang="vi">U.S Junior Amateur 2021 - Championship Match</title>
+  </programme>
+  <programme start="20210901150000 +0700" stop="20210901160000 +0700" channel="fox.sports2">
+    <title lang="vi">Arctic Race Of Norway - Highlights</title>
+  </programme>
+  <programme start="20210901160000 +0700" stop="20210901170000 +0700" channel="fox.sports2">
+    <title lang="vi">Max Power</title>
+  </programme>
+  <programme start="20210901170000 +0700" stop="20210901175500 +0700" channel="fox.sports2">
+    <title lang="vi">UIM Class 1 Powerboat Championship 2021</title>
+  </programme>
+  <programme start="20210901175500 +0700" stop="20210901185000 +0700" channel="fox.sports2">
+    <title lang="vi">P1 USA Aquax Championship 2021</title>
+  </programme>
+  <programme start="20210901185000 +0700" stop="20210901195000 +0700" channel="fox.sports2">
+    <title lang="vi">US Girls Junior 2021-Seminfinals</title>
+  </programme>
+  <programme start="20210901195000 +0700" stop="20210901205000 +0700" channel="fox.sports2">
+    <title lang="vi">US Girls Junior 2021- Championship Match</title>
+  </programme>
+  <programme start="20210901205000 +0700" stop="20210901215000 +0700" channel="fox.sports2">
+    <title lang="vi">Monster Jam 2021 St Louis 2</title>
+  </programme>
+  <programme start="20210901001600 +0700" stop="20210901022000 +0700" channel="hollywood">
+    <title lang="vi">Things We Lost in the Fire : Những gì chúng ta mất trong vụ hỏa hoạn</title>
+  </programme>
+  <programme start="20210901022000 +0700" stop="20210901041300 +0700" channel="hollywood">
+    <title lang="vi">Babe : Chú heo Babe</title>
+  </programme>
+  <programme start="20210901041300 +0700" stop="20210901055000 +0700" channel="hollywood">
+    <title lang="vi">Bring It On : Bốc lửa</title>
+  </programme>
+  <programme start="20210901055000 +0700" stop="20210901072700 +0700" channel="hollywood">
+    <title lang="vi">Mr. Magorium's Wonder Emporium : Cửa hàng kì diệu của ông Magorium</title>
+  </programme>
+  <programme start="20210901072700 +0700" stop="20210901092400 +0700" channel="hollywood">
+    <title lang="vi">Flash of Genius : Phút xuất thần</title>
+  </programme>
+  <programme start="20210901092400 +0700" stop="20210901111300 +0700" channel="hollywood">
+    <title lang="vi">Junior : JUNIOR</title>
+  </programme>
+  <programme start="20210901111300 +0700" stop="20210901131900 +0700" channel="hollywood">
+    <title lang="vi">Bobby Jones: Stroke of Genius : Bobby Jones: Cú đánh của thiên tài</title>
+  </programme>
+  <programme start="20210901131900 +0700" stop="20210901160600 +0700" channel="hollywood">
+    <title lang="vi">Saving Private Ryan : Giải cứu binh nhì Ryan</title>
+  </programme>
+  <programme start="20210901160600 +0700" stop="20210901174500 +0700" channel="hollywood">
+    <title lang="vi">Gothika : Oan hồn</title>
+  </programme>
+  <programme start="20210901174500 +0700" stop="20210901195900 +0700" channel="hollywood">
+    <title lang="vi">Black Hawk Down : Diều hâu đen gãy cánh</title>
+  </programme>
+  <programme start="20210901195900 +0700" stop="20210901223800 +0700" channel="hollywood">
+    <title lang="vi">My Name Is Khan : Tôi là Khan</title>
+  </programme>
+</tv>
