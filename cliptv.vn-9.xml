@@ -4,13 +4,6 @@
     <display-name lang="vi">Cà Mau</display-name>
     <url>http://www.cliptv.vn</url>
   </channel>
-  <programme start="20210911233500 +0700" stop="20210911235900 +0700" channel="ca.mau">
-    <title lang="vi">hám phá</title>
-    <desc lang="vi">Thế giới tự nhiên.(n)</desc>
-  </programme>
-  <programme start="20210911235900 +0700" stop="20210912045500 +0700" channel="ca.mau">
-    <title lang="vi">iới thiệu chương trình ngày 12 9</title>
-  </programme>
   <programme start="20210912045500 +0700" stop="20210912050000 +0700" channel="ca.mau">
     <title lang="vi">hạc hiệu - Giới thiệu chương trình trong ngày</title>
   </programme>
