@@ -1,0 +1,2770 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="vtc14">
+    <display-name lang="vi">VTC14 HD</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="LETS VIET">
+    <display-name lang="vi">LETS VIET</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="antv">
+    <display-name lang="vi">ANTV</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="hanoi1 1">
+    <display-name lang="vi">Hà Nội 1</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="axn">
+    <display-name lang="vi">AXN</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="cartoon.network">
+    <display-name lang="vi">Cartoon Network</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="fashiontv">
+    <display-name lang="vi">Fashion TV</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="bloomberg">
+    <display-name lang="vi">Bloomberg</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="cnn">
+    <display-name lang="vi">CNN</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="abc.australia">
+    <display-name lang="vi">ABC Australia</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="warner">
+    <display-name lang="vi">Warner TV</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="cinema.world">
+    <display-name lang="vi">Cinema World</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="boomerang">
+    <display-name lang="vi">Boomerang</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="TOONAMI">
+    <display-name lang="vi">TOONAMI</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="bbc.world.news">
+    <display-name lang="vi">BBC World News</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="bbc.earth">
+    <display-name lang="vi">BBC Earth</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="bbc.lifestyle">
+    <display-name lang="vi">BBC LifeStyle</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="fox.sports">
+    <display-name lang="vi">FOX Sports</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="fox.sports2">
+    <display-name lang="vi">FOX Sports 2</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="fox.sports3">
+    <display-name lang="vi">FOX Sports 3</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <programme start="20210911230000 +0700" stop="20210911233000 +0700" channel="vtc14">
+    <title lang="vi">Nhật Ký cuộc sống</title>
+    <desc lang="vi">Nhật Ký cuộc sống.(n)</desc>
+  </programme>
+  <programme start="20210911233000 +0700" stop="20210911233500 +0700" channel="antv">
+    <title lang="vi">Cư dân mạng</title>
+    <desc lang="vi">Bản đồ về dịch màu “đỏ, cam, xanh”.(n)</desc>
+  </programme>
+  <programme start="20210911233500 +0700" stop="20210911234500 +0700" channel="antv">
+    <title lang="vi">An toàn sống</title>
+    <desc lang="vi">Trở thành con nợ vì học làm giàu.(n)</desc>
+  </programme>
+  <programme start="20210911234500 +0700" stop="20210911235000 +0700" channel="antv">
+    <title lang="vi">Việt Nam quê hương tôi (5)</title>
+    <desc lang="vi">Hải Vân – Cung đường thanh xuân.(n)</desc>
+  </programme>
+  <programme start="20210911235000 +0700" stop="20210912000000 +0700" channel="antv">
+    <title lang="vi">An ninh mạng</title>
+    <desc lang="vi">Bài toán bảo vệ dữ liệu cá nhân, P3.(n)</desc>
+  </programme>
+  <programme start="20210912000000 +0700" stop="20210912005000 +0700" channel="antv">
+    <title lang="vi">Phim truyện 16h30</title>
+    <desc lang="vi">Bố tôi là người hùng, tập 38\/41.(n)</desc>
+  </programme>
+  <programme start="20210912005000 +0700" stop="20210912010000 +0700" channel="antv">
+    <title lang="vi">Lệnh truy nã</title>
+  </programme>
+  <programme start="20210912010000 +0700" stop="20210912012000 +0700" channel="antv">
+    <title lang="vi">SITCOM 20h40</title>
+    <desc lang="vi">Ba có phải Gangster?, tập 15\/40.(n)</desc>
+  </programme>
+  <programme start="20210912012000 +0700" stop="20210912013000 +0700" channel="antv">
+    <title lang="vi">An ninh với cuộc sống (7)</title>
+    <desc lang="vi">Nhận diện “Truyền thông đen” phá hoại phòng, chống COVID - 19.(n)</desc>
+  </programme>
+  <programme start="20210912013000 +0700" stop="20210912014000 +0700" channel="antv">
+    <title lang="vi">SITCOM</title>
+    <desc lang="vi">Hạnh phúc chẳng tày gang.(n)</desc>
+  </programme>
+  <programme start="20210912014000 +0700" stop="20210912022000 +0700" channel="antv">
+    <title lang="vi">Phim tài liệu</title>
+    <desc lang="vi">Con đường đã chọn, tập 5.(n)</desc>
+  </programme>
+  <programme start="20210912022000 +0700" stop="20210912031500 +0700" channel="antv">
+    <title lang="vi">Phim truyện 13h00</title>
+    <desc lang="vi">Nữ vệ sĩ xinh đẹp, tập 26\/37.(n)</desc>
+  </programme>
+  <programme start="20210912031500 +0700" stop="20210912034500 +0700" channel="antv">
+    <title lang="vi">Hành trình phá án</title>
+    <desc lang="vi">Án mạng nơi đại ngàn.(n)</desc>
+  </programme>
+  <programme start="20210912034500 +0700" stop="20210912040000 +0700" channel="antv">
+    <title lang="vi">An toàn sống</title>
+    <desc lang="vi">An toàn sống 09\/09\/21.(n)</desc>
+  </programme>
+  <programme start="20210912040000 +0700" stop="20210912043000 +0700" channel="antv">
+    <title lang="vi">Nhật ký an ninh (30)</title>
+  </programme>
+  <programme start="20210912043000 +0700" stop="20210912051500 +0700" channel="antv">
+    <title lang="vi">Phim truyện 12h00</title>
+    <desc lang="vi">Mùa xuân quanh ta, tập 1\/109.(n)</desc>
+  </programme>
+  <programme start="20210912051500 +0700" stop="20210912053000 +0700" channel="antv">
+    <title lang="vi">An ninh với cuộc sống (7)</title>
+    <desc lang="vi">Những hiểu lầm khi tham gia bảo hiểm nhân thọ.(n)</desc>
+  </programme>
+  <programme start="20210912053000 +0700" stop="20210912054000 +0700" channel="antv">
+    <title lang="vi">Yoga &amp; Phong cách</title>
+    <desc lang="vi">Số 30.(n)</desc>
+  </programme>
+  <programme start="20210912054000 +0700" stop="20210912055000 +0700" channel="antv">
+    <title lang="vi">Chào cờ và Võ thể dục CAND</title>
+    <desc lang="vi">Số 13.(n)</desc>
+  </programme>
+  <programme start="20210912055000 +0700" stop="20210912060000 +0700" channel="antv">
+    <title lang="vi">NHÂN VẬT - SỰ KIỆN</title>
+    <desc lang="vi">Ký ức về người chiến sĩ công an.(n)</desc>
+  </programme>
+  <programme start="20210912060000 +0700" stop="20210912064500 +0700" channel="antv">
+    <title lang="vi">An ninh ngày mới</title>
+  </programme>
+  <programme start="20210912064500 +0700" stop="20210912065000 +0700" channel="antv">
+    <title lang="vi">Việt Nam quê hương tôi (5)</title>
+    <desc lang="vi">Khám phá Đà Lạt về đêm.(n)</desc>
+  </programme>
+  <programme start="20210912065000 +0700" stop="20210912080000 +0700" channel="antv">
+    <title lang="vi">An toàn sống</title>
+    <desc lang="vi">An toàn sống 11\/09\/21.(n)</desc>
+  </programme>
+  <programme start="20210912080000 +0700" stop="20210912081500 +0700" channel="antv">
+    <title lang="vi">Nhận diện tội phạm</title>
+    <desc lang="vi">Nhận diện tội phạm 11\/09\/21.(n)</desc>
+  </programme>
+  <programme start="20210912081500 +0700" stop="20210912084000 +0700" channel="antv">
+    <title lang="vi">Phim tài liệu</title>
+    <desc lang="vi">Nghệ sỹ đồng hành chống dịch.(n)</desc>
+  </programme>
+  <programme start="20210912084000 +0700" stop="20210912090000 +0700" channel="antv">
+    <title lang="vi">Xã bình yên</title>
+    <desc lang="vi">Bình yên ven dòng suối Trăng.(n)</desc>
+  </programme>
+  <programme start="20210912090000 +0700" stop="20210912090500 +0700" channel="antv">
+    <title lang="vi">Tin nhanh</title>
+  </programme>
+  <programme start="20210912090500 +0700" stop="20210912091500 +0700" channel="antv">
+    <title lang="vi">An ninh với cuộc sống (7)</title>
+    <desc lang="vi">Hậu quả đau lòng từ sự thiếu hiểu biết.(n)</desc>
+  </programme>
+  <programme start="20210912091500 +0700" stop="20210912094000 +0700" channel="antv">
+    <title lang="vi">Văn hóa - Thể thao CAND</title>
+    <desc lang="vi">Những trái tim hồng.(n)</desc>
+  </programme>
+  <programme start="20210912094000 +0700" stop="20210912095000 +0700" channel="antv">
+    <title lang="vi">NHÂN VẬT - SỰ KIỆN</title>
+    <desc lang="vi">Người Công an được Bác đặt tên.(n)</desc>
+  </programme>
+  <programme start="20210912095000 +0700" stop="20210912100000 +0700" channel="antv">
+    <title lang="vi">SITCOM</title>
+    <desc lang="vi">Lộc trời.(n)</desc>
+  </programme>
+  <programme start="20210912100000 +0700" stop="20210912101500 +0700" channel="antv">
+    <title lang="vi">An ninh thế giới</title>
+  </programme>
+  <programme start="20210912101500 +0700" stop="20210912104500 +0700" channel="antv">
+    <title lang="vi">Phóng sự tài liệu</title>
+    <desc lang="vi">\"Lá chắn thép\" đẩy lùi covid.(n)</desc>
+  </programme>
+  <programme start="20210912104500 +0700" stop="20210912110000 +0700" channel="antv">
+    <title lang="vi">ANTV kết nối muôn phương</title>
+    <desc lang="vi">Số 37\/2021.(n)</desc>
+  </programme>
+  <programme start="20210912110000 +0700" stop="20210912113000 +0700" channel="antv">
+    <title lang="vi">An ninh toàn cảnh</title>
+  </programme>
+  <programme start="20210912113000 +0700" stop="20210912145500 +0700" channel="antv">
+    <title lang="vi">113 online</title>
+  </programme>
+  <programme start="20210912145500 +0700" stop="20210912150000 +0700" channel="antv">
+    <title lang="vi">NHÂN VẬT - SỰ KIỆN</title>
+    <desc lang="vi">Ký ức về người chiến sĩ công an.(n)</desc>
+  </programme>
+  <programme start="20210912150000 +0700" stop="20210912151500 +0700" channel="antv">
+    <title lang="vi">113 online (2)</title>
+  </programme>
+  <programme start="20210912151500 +0700" stop="20210912153000 +0700" channel="antv">
+    <title lang="vi">SITCOM</title>
+    <desc lang="vi">Hàng độc giá rẻ.(n)</desc>
+  </programme>
+  <programme start="20210912153000 +0700" stop="20210912160000 +0700" channel="antv">
+    <title lang="vi">Phim tài liệu</title>
+    <desc lang="vi">Việt Nam thời đại Hồ Chí Minh-Biên niên sử truyền hình, tập 84.(n)</desc>
+  </programme>
+  <programme start="20210912160000 +0700" stop="20210912161500 +0700" channel="antv">
+    <title lang="vi">Bản tin Kinh tế &amp; Tiêu dùng</title>
+  </programme>
+  <programme start="20210912161500 +0700" stop="20210912162500 +0700" channel="antv">
+    <title lang="vi">SITCOM 20h40</title>
+  </programme>
+  <programme start="20210912162500 +0700" stop="20210912180000 +0700" channel="antv">
+    <title lang="vi">Việt Nam quê hương tôi (5)</title>
+    <desc lang="vi">Sân bay Tà cơn - Huyền thoại chiến trường xưa.(n)</desc>
+  </programme>
+  <programme start="20210912180000 +0700" stop="20210912190000 +0700" channel="antv">
+    <title lang="vi">An ninh 24h</title>
+  </programme>
+  <programme start="20210912190000 +0700" stop="20210912200000 +0700" channel="antv">
+    <title lang="vi">Thời sự VTV (Tiếp sóng)</title>
+  </programme>
+  <programme start="20210912200000 +0700" stop="20210912220000 +0700" channel="antv">
+    <title lang="vi">Tin nhanh</title>
+  </programme>
+  <programme start="20210912220000 +0700" stop="20210912223000 +0700" channel="antv">
+    <title lang="vi">Nhật ký an ninh (30)</title>
+  </programme>
+  <programme start="20210912223000 +0700" stop="20210912224000 +0700" channel="antv">
+    <title lang="vi">Nhận diện tội phạm</title>
+    <desc lang="vi">Nhận diện tội phạm 12\/09\/21.(n)</desc>
+  </programme>
+  <programme start="20210912224000 +0700" stop="20210912233500 +0700" channel="antv">
+    <title lang="vi">Phim truyện 22h40</title>
+    <desc lang="vi">Biệt đội đàm phán, P1, tập 6\/13.(n)</desc>
+  </programme>
+  <programme start="20210912233500 +0700" stop="20210912234500 +0700" channel="antv">
+    <title lang="vi">An toàn sống</title>
+    <desc lang="vi">An toàn sống 12\/09\/21.(n)</desc>
+  </programme>
+  <programme start="20210912234500 +0700" stop="20210912235000 +0700" channel="antv">
+    <title lang="vi">Việt Nam quê hương tôi (5)</title>
+    <desc lang="vi">Sân bay Tà cơn - Huyền thoại chiến trường xưa.(n)</desc>
+  </programme>
+  <programme start="20210912235000 +0700" stop="20210913000000 +0700" channel="antv">
+    <title lang="vi">Chung tay đẩy lùi Covid-19</title>
+    <desc lang="vi">Tổ Covid cộng đồng - phát huy sức mạnh toàn dân chống dịch.(n)</desc>
+  </programme>
+  <programme start="20210913000000 +0700" stop="20210913005000 +0700" channel="antv">
+    <title lang="vi">Phim truyện 16h30</title>
+    <desc lang="vi">Bố tôi là người hùng, tập 32\/41.(n)</desc>
+  </programme>
+  <programme start="20210913005000 +0700" stop="20210913010000 +0700" channel="antv">
+    <title lang="vi">Lệnh truy nã</title>
+  </programme>
+  <programme start="20210913010000 +0700" stop="20210913012000 +0700" channel="antv">
+    <title lang="vi">Vì nhân dân phục vụ</title>
+    <desc lang="vi">Bệnh viện của ý Đảng lòng dân.(n)</desc>
+  </programme>
+  <programme start="20210913012000 +0700" stop="20210913013000 +0700" channel="antv">
+    <title lang="vi">An ninh với cuộc sống (7)</title>
+    <desc lang="vi">Lời đường mật đắng cay.(n)</desc>
+  </programme>
+  <programme start="20210913013000 +0700" stop="20210913014000 +0700" channel="antv">
+    <title lang="vi">SITCOM</title>
+    <desc lang="vi">Cà phê tử tế, tập 355\/382.(n)</desc>
+  </programme>
+  <programme start="20210913014000 +0700" stop="20210913022000 +0700" channel="antv">
+    <title lang="vi">Phim tài liệu</title>
+    <desc lang="vi">Tuyến sau lặng lẽ.(n)</desc>
+  </programme>
+  <programme start="20210913022000 +0700" stop="20210913031500 +0700" channel="antv">
+    <title lang="vi">Phim truyện 13h00</title>
+    <desc lang="vi">Nữ vệ sĩ xinh đẹp, tập 20\/37.(n)</desc>
+  </programme>
+  <programme start="20210913031500 +0700" stop="20210913034500 +0700" channel="antv">
+    <title lang="vi">Văn hóa - Thể thao CAND</title>
+    <desc lang="vi">\"Không có gì quý hơn độc lập, tự do\".(n)</desc>
+  </programme>
+  <programme start="20210913034500 +0700" stop="20210913040000 +0700" channel="antv">
+    <title lang="vi">An toàn sống</title>
+    <desc lang="vi">03\/09\/21.(n)</desc>
+  </programme>
+  <programme start="20210913040000 +0700" stop="20210913043000 +0700" channel="antv">
+    <title lang="vi">Nhật ký an ninh (30)</title>
+    <desc lang="vi">Nhật ký an ninh (30) 05\/09\/21.(n)</desc>
+  </programme>
+  <programme start="20210913043000 +0700" stop="20210913051500 +0700" channel="antv">
+    <title lang="vi">Phim truyện 12h00</title>
+    <desc lang="vi">Thực thần, tập 15\/20.(n)</desc>
+  </programme>
+  <programme start="20210913051500 +0700" stop="20210913053000 +0700" channel="antv">
+    <title lang="vi">An ninh với cuộc sống (7)</title>
+    <desc lang="vi">Có nên tự mua hóa chất để diệt Covid-19 tại nhà?(n)</desc>
+  </programme>
+  <programme start="20210913053000 +0700" stop="20210913054000 +0700" channel="antv">
+    <title lang="vi">Yoga &amp; Phong cách</title>
+    <desc lang="vi">Số 24.(n)</desc>
+  </programme>
+  <programme start="20210913054000 +0700" stop="20210913055000 +0700" channel="antv">
+    <title lang="vi">Chào cờ và Võ thể dục CAND</title>
+    <desc lang="vi">Số 7.(n)</desc>
+  </programme>
+  <programme start="20210913055000 +0700" stop="20210913060000 +0700" channel="antv">
+    <title lang="vi">NHÂN VẬT - SỰ KIỆN</title>
+    <desc lang="vi">Chuyên án 113T - Tàng\"Keangnam\".(n)</desc>
+  </programme>
+  <programme start="20210913060000 +0700" stop="20210913064500 +0700" channel="antv">
+    <title lang="vi">An ninh ngày mới</title>
+  </programme>
+  <programme start="20210913064500 +0700" stop="20210913065000 +0700" channel="antv">
+    <title lang="vi">Việt Nam quê hương tôi (5)</title>
+    <desc lang="vi">Vườn quốc gia Xuân Sơn.(n)</desc>
+  </programme>
+  <programme start="20210913065000 +0700" stop="20210913080000 +0700" channel="antv">
+    <title lang="vi">An toàn sống</title>
+    <desc lang="vi">05\/09\/21.(n)</desc>
+  </programme>
+  <programme start="20210913080000 +0700" stop="20210913081500 +0700" channel="antv">
+    <title lang="vi">Nhận diện tội phạm</title>
+    <desc lang="vi">Nhận diện tội phạm 05\/09\/21.(n)</desc>
+  </programme>
+  <programme start="20210913081500 +0700" stop="20210913084000 +0700" channel="antv">
+    <title lang="vi">Phim tài liệu</title>
+    <desc lang="vi">Lấy cái đẹp, dẹp cái xấu.(n)</desc>
+  </programme>
+  <programme start="20210913084000 +0700" stop="20210913090000 +0700" channel="antv">
+    <title lang="vi">Phóng sự tài liệu</title>
+    <desc lang="vi">Blouse trắng nơi tâm dịch.(n)</desc>
+  </programme>
+  <programme start="20210913090000 +0700" stop="20210913090500 +0700" channel="antv">
+    <title lang="vi">Tin nhanh</title>
+  </programme>
+  <programme start="20210913090500 +0700" stop="20210913091500 +0700" channel="antv">
+    <title lang="vi">An ninh với cuộc sống (7)</title>
+    <desc lang="vi">Giám đốc rởm và các cú lừa tiền tỷ.(n)</desc>
+  </programme>
+  <programme start="20210913091500 +0700" stop="20210913094000 +0700" channel="antv">
+    <title lang="vi">Phim tài liệu</title>
+    <desc lang="vi">Việt Nam thời đại Hồ Chí Minh-Biên niên sử truyền hình, tập 83.(n)</desc>
+  </programme>
+  <programme start="20210913094000 +0700" stop="20210913095000 +0700" channel="antv">
+    <title lang="vi">NHÂN VẬT - SỰ KIỆN</title>
+    <desc lang="vi">Chiến thuật xét hỏi - Nghệ thuật phá án.(n)</desc>
+  </programme>
+  <programme start="20210913095000 +0700" stop="20210913100000 +0700" channel="antv">
+    <title lang="vi">SITCOM</title>
+    <desc lang="vi">Cà phê tử tế, tập 356\/382.(n)</desc>
+  </programme>
+  <programme start="20210913100000 +0700" stop="20210913101500 +0700" channel="antv">
+    <title lang="vi">An ninh thế giới</title>
+  </programme>
+  <programme start="20210913101500 +0700" stop="20210913103000 +0700" channel="antv">
+    <title lang="vi">ALO 114</title>
+    <desc lang="vi">Số 36\/2021.(n)</desc>
+  </programme>
+  <programme start="20210913103000 +0700" stop="20210913110000 +0700" channel="antv">
+    <title lang="vi">Phim tài liệu</title>
+    <desc lang="vi">GS, TS Đặng Lương Mô.(n)</desc>
+  </programme>
+  <programme start="20210913110000 +0700" stop="20210913113000 +0700" channel="antv">
+    <title lang="vi">An ninh toàn cảnh</title>
+  </programme>
+  <programme start="20210913113000 +0700" stop="20210913114500 +0700" channel="antv">
+    <title lang="vi">113 online</title>
+  </programme>
+  <programme start="20210913114500 +0700" stop="20210913120000 +0700" channel="antv">
+    <title lang="vi">Nhận diện tội phạm</title>
+    <desc lang="vi">06\/09\/21.(n)</desc>
+  </programme>
+  <programme start="20210913120000 +0700" stop="20210913130000 +0700" channel="antv">
+    <title lang="vi">Phim truyện 12h00</title>
+    <desc lang="vi">Thực thần, tập 16\/20.(n)</desc>
+  </programme>
+  <programme start="20210913130000 +0700" stop="20210913145500 +0700" channel="antv">
+    <title lang="vi">Phim truyện 13h00</title>
+    <desc lang="vi">Nữ vệ sĩ xinh đẹp, tập 21\/37.(n)</desc>
+  </programme>
+  <programme start="20210913145500 +0700" stop="20210913150000 +0700" channel="antv">
+    <title lang="vi">NHÂN VẬT - SỰ KIỆN</title>
+    <desc lang="vi">Chuyên án 113T - Tàng\"Keangnam\".(n)</desc>
+  </programme>
+  <programme start="20210913150000 +0700" stop="20210913151500 +0700" channel="antv">
+    <title lang="vi">113 online (2)</title>
+  </programme>
+  <programme start="20210913151500 +0700" stop="20210913153000 +0700" channel="antv">
+    <title lang="vi">SITCOM</title>
+    <desc lang="vi">Cà phê tử tế, tập 357\/382.(n)</desc>
+  </programme>
+  <programme start="20210913153000 +0700" stop="20210913160000 +0700" channel="antv">
+    <title lang="vi">Phim tài liệu</title>
+    <desc lang="vi">Cuộc chiến vô hình.(n)</desc>
+  </programme>
+  <programme start="20210913160000 +0700" stop="20210913161500 +0700" channel="antv">
+    <title lang="vi">Bản tin Kinh tế &amp; Tiêu dùng</title>
+  </programme>
+  <programme start="20210913161500 +0700" stop="20210913162500 +0700" channel="antv">
+    <title lang="vi">Phóng sự tài liệu</title>
+    <desc lang="vi">\"Lá chắn thép\" đẩy lùi covid.(n)</desc>
+  </programme>
+  <programme start="20210913162500 +0700" stop="20210913163000 +0700" channel="antv">
+    <title lang="vi">Việt Nam quê hương tôi (5)</title>
+    <desc lang="vi">Địa Tạng Phi Lai Tự.(n)</desc>
+  </programme>
+  <programme start="20210913163000 +0700" stop="20210913173000 +0700" channel="antv">
+    <title lang="vi">Phim truyện 16h30</title>
+    <desc lang="vi">Bố tôi là người hùng, tập 33\/41.(n)</desc>
+  </programme>
+  <programme start="20210913173000 +0700" stop="20210913174500 +0700" channel="antv">
+    <title lang="vi">An ninh với cuộc sống (7)</title>
+    <desc lang="vi">Trách nhiệm pháp lý khi làm mất tài sản của người khác.(n)</desc>
+  </programme>
+  <programme start="20210913174500 +0700" stop="20210913180000 +0700" channel="antv">
+    <title lang="vi">SITCOM</title>
+    <desc lang="vi">Cà phê tử tế, tập 358\/382.(n)</desc>
+  </programme>
+  <programme start="20210913180000 +0700" stop="20210913184500 +0700" channel="antv">
+    <title lang="vi">An ninh 24h</title>
+  </programme>
+  <programme start="20210913184500 +0700" stop="20210913190000 +0700" channel="antv">
+    <title lang="vi">An toàn sống</title>
+    <desc lang="vi">06\/09\/21.(n)</desc>
+  </programme>
+  <programme start="20210913190000 +0700" stop="20210913194500 +0700" channel="antv">
+    <title lang="vi">Thời sự VTV (Tiếp sóng)</title>
+  </programme>
+  <programme start="20210913194500 +0700" stop="20210913200000 +0700" channel="antv">
+    <title lang="vi">ALO 389</title>
+    <desc lang="vi">Phức tạp tình hình buôn lậu tuyến cảng biển.(n)</desc>
+  </programme>
+  <programme start="20210913200000 +0700" stop="20210913201000 +0700" channel="antv">
+    <title lang="vi">Tin nhanh</title>
+  </programme>
+  <programme start="20210913201000 +0700" stop="20210913202500 +0700" channel="antv">
+    <title lang="vi">Xây dựng Đảng</title>
+    <desc lang="vi">Covid-19 và phép thử về biểu hiện \"tự diễn biến, tự chuyển hóa\".(n)</desc>
+  </programme>
+  <programme start="20210913202500 +0700" stop="20210913204000 +0700" channel="antv">
+    <title lang="vi">Vì nhân dân phục vụ</title>
+    <desc lang="vi">Cho đi là còn mãi.(n)</desc>
+  </programme>
+  <programme start="20210913204000 +0700" stop="20210913220000 +0700" channel="antv">
+    <title lang="vi">SITCOM 20h40</title>
+    <desc lang="vi">Ba có phải Gangster?, tập 13\/40.(n)</desc>
+  </programme>
+  <programme start="20210913220000 +0700" stop="20210913223000 +0700" channel="antv">
+    <title lang="vi">Nhật ký an ninh (30)</title>
+  </programme>
+  <programme start="20210913223000 +0700" stop="20210913224000 +0700" channel="antv">
+    <title lang="vi">Nhận diện tội phạm</title>
+    <desc lang="vi">06\/09\/21.(n)</desc>
+  </programme>
+  <programme start="20210913224000 +0700" stop="20210913233500 +0700" channel="antv">
+    <title lang="vi">Phim truyện 22h40</title>
+    <desc lang="vi">Thế giới không gian lận, tập 42\/42.(n)</desc>
+  </programme>
+  <programme start="20210913233500 +0700" stop="20210913234500 +0700" channel="antv">
+    <title lang="vi">An toàn sống</title>
+    <desc lang="vi">06\/09\/21.(n)</desc>
+  </programme>
+  <programme start="20210913234500 +0700" stop="20210913235000 +0700" channel="antv">
+    <title lang="vi">Việt Nam quê hương tôi (5)</title>
+    <desc lang="vi">Địa Tạng Phi Lai Tự.(n)</desc>
+  </programme>
+  <programme start="20210911233500 +0700" stop="20210912012500 +0700" channel="axn">
+    <title lang="vi">Những Sứ Giả</title>
+  </programme>
+  <programme start="20210912012500 +0700" stop="20210912022000 +0700" channel="axn">
+    <title lang="vi">Macgyver (Phần 4)</title>
+    <desc lang="vi">Tập 3.(n)</desc>
+  </programme>
+  <programme start="20210912022000 +0700" stop="20210912031500 +0700" channel="axn">
+    <title lang="vi">Macgyver (Phần 4)</title>
+    <desc lang="vi">Tập 4.(n)</desc>
+  </programme>
+  <programme start="20210912031500 +0700" stop="20210912041000 +0700" channel="axn">
+    <title lang="vi">Người Thay Thế (Phần 1)</title>
+    <desc lang="vi">Tập 3.(n)</desc>
+  </programme>
+  <programme start="20210912041000 +0700" stop="20210912050500 +0700" channel="axn">
+    <title lang="vi">Người Thay Thế (Phần 1)</title>
+    <desc lang="vi">Tập 4.(n)</desc>
+  </programme>
+  <programme start="20210912050500 +0700" stop="20210912060000 +0700" channel="axn">
+    <title lang="vi">Người Thay Thế (Phần 1)</title>
+    <desc lang="vi">Tập 5.(n)</desc>
+  </programme>
+  <programme start="20210912060000 +0700" stop="20210912065000 +0700" channel="axn">
+    <title lang="vi">Gia Đình Cảnh Sát (Phần 11)</title>
+    <desc lang="vi">Tập 1.(n)</desc>
+  </programme>
+  <programme start="20210912065000 +0700" stop="20210912073500 +0700" channel="axn">
+    <title lang="vi">Gia Đình Cảnh Sát (Phần 11 - Tập 2)</title>
+  </programme>
+  <programme start="20210912073500 +0700" stop="20210912082500 +0700" channel="axn">
+    <title lang="vi">Cú Ngã (Phần 8)</title>
+    <desc lang="vi">Tập 6.(n)</desc>
+  </programme>
+  <programme start="20210912082500 +0700" stop="20210912092000 +0700" channel="axn">
+    <title lang="vi">Chiến Binh Ninja Mỹ Nhí (Phần 1)</title>
+    <desc lang="vi">Tập 17.(n)</desc>
+  </programme>
+  <programme start="20210912092000 +0700" stop="20210912101500 +0700" channel="axn">
+    <title lang="vi">Chiến Binh Ninja Mỹ Nhí (Phần 1 - Tập 18)</title>
+  </programme>
+  <programme start="20210912101500 +0700" stop="20210912110500 +0700" channel="axn">
+    <title lang="vi">Nữ Ngoại Trưởng (Phần 6)</title>
+    <desc lang="vi">Tập 5.(n)</desc>
+  </programme>
+  <programme start="20210912110500 +0700" stop="20210912115500 +0700" channel="axn">
+    <title lang="vi">Macgyver (Phần 4 - Tập 3)</title>
+  </programme>
+  <programme start="20210912115500 +0700" stop="20210912124500 +0700" channel="axn">
+    <title lang="vi">Macgyver (Phần 4)</title>
+    <desc lang="vi">Tập 4.(n)</desc>
+  </programme>
+  <programme start="20210912124500 +0700" stop="20210912133500 +0700" channel="axn">
+    <title lang="vi">Lincoln Rhyme: Săn Lùng Kẻ Tầm Xương (Phần 1 - Tập 5)</title>
+  </programme>
+  <programme start="20210912133500 +0700" stop="20210912143000 +0700" channel="axn">
+    <title lang="vi">Cục Điều Tra Tội Phạm Hải Quân: Los Angeles (Phần 12 - Tập 10)</title>
+  </programme>
+  <programme start="20210912143000 +0700" stop="20210912152500 +0700" channel="axn">
+    <title lang="vi">Alex Rider (Phần 1 - Tập 8)</title>
+  </programme>
+  <programme start="20210912152500 +0700" stop="20210912161500 +0700" channel="axn">
+    <title lang="vi">Gia Đình Cảnh Sát (Phần 11)</title>
+    <desc lang="vi">Tập 1.(n)</desc>
+  </programme>
+  <programme start="20210912161500 +0700" stop="20210912171000 +0700" channel="axn">
+    <title lang="vi">Gia Đình Cảnh Sát (Phần 11 - Tập 2)</title>
+  </programme>
+  <programme start="20210912171000 +0700" stop="20210912180500 +0700" channel="axn">
+    <title lang="vi">Nữ Ngoại Trưởng (Phần 6)</title>
+    <desc lang="vi">Tập 5.(n)</desc>
+  </programme>
+  <programme start="20210912180500 +0700" stop="20210912190000 +0700" channel="axn">
+    <title lang="vi">Cú Ngã (Phần 8)</title>
+    <desc lang="vi">Tập 8.(n)</desc>
+  </programme>
+  <programme start="20210912190000 +0700" stop="20210912195500 +0700" channel="axn">
+    <title lang="vi">Alex Rider (Phần 1 - Tập 8)</title>
+  </programme>
+  <programme start="20210912195500 +0700" stop="20210912205000 +0700" channel="axn">
+    <title lang="vi">Lincoln Rhyme: Săn Lùng Kẻ Tầm Xương (Phần 1 - Tập 5)</title>
+  </programme>
+  <programme start="20210912205000 +0700" stop="20210912214500 +0700" channel="axn">
+    <title lang="vi">Cục Điều Tra Tội Phạm Hải Quân: Los Angeles (Phần 12 - Tập 10)</title>
+  </programme>
+  <programme start="20210912214500 +0700" stop="20210912233500 +0700" channel="axn">
+    <title lang="vi">Vô Tội</title>
+  </programme>
+  <programme start="20210912233500 +0700" stop="20210913003000 +0700" channel="axn">
+    <title lang="vi">Alex Rider (Phần 1)</title>
+    <desc lang="vi">Tập 8.(n)</desc>
+  </programme>
+  <programme start="20210913003000 +0700" stop="20210913012500 +0700" channel="axn">
+    <title lang="vi">Chiến Binh Ninja Mỹ Nhí (Phần 1)</title>
+    <desc lang="vi">Tập 17.(n)</desc>
+  </programme>
+  <programme start="20210913012500 +0700" stop="20210913022000 +0700" channel="axn">
+    <title lang="vi">Chiến Binh Ninja Mỹ Nhí (Phần 1)</title>
+    <desc lang="vi">Tập 18.(n)</desc>
+  </programme>
+  <programme start="20210913022000 +0700" stop="20210913031500 +0700" channel="axn">
+    <title lang="vi">Gia Đình Cảnh Sát (Phần 11)</title>
+    <desc lang="vi">Tập 1.(n)</desc>
+  </programme>
+  <programme start="20210913031500 +0700" stop="20210913041000 +0700" channel="axn">
+    <title lang="vi">Gia Đình Cảnh Sát (Phần 11)</title>
+    <desc lang="vi">Tập 2.(n)</desc>
+  </programme>
+  <programme start="20210913041000 +0700" stop="20210913050500 +0700" channel="axn">
+    <title lang="vi">Người Thay Thế (Phần 1)</title>
+    <desc lang="vi">Tập 6.(n)</desc>
+  </programme>
+  <programme start="20210913050500 +0700" stop="20210913060000 +0700" channel="axn">
+    <title lang="vi">Người Thay Thế (Phần 1)</title>
+    <desc lang="vi">Tập 7.(n)</desc>
+  </programme>
+  <programme start="20210913060000 +0700" stop="20210913065000 +0700" channel="axn">
+    <title lang="vi">Chiến Binh Ninja Mỹ Nhí (Phần 1 - Tập 1)</title>
+  </programme>
+  <programme start="20210913065000 +0700" stop="20210913074000 +0700" channel="axn">
+    <title lang="vi">Lính Mới (Phần 3 - Tập 4)</title>
+  </programme>
+  <programme start="20210913074000 +0700" stop="20210913082500 +0700" channel="axn">
+    <title lang="vi">Danh Sách Đen (Phần 8 - Tập 15)</title>
+  </programme>
+  <programme start="20210913082500 +0700" stop="20210913091500 +0700" channel="axn">
+    <title lang="vi">Gia Đình Cảnh Sát (Phần 10 - Tập 2)</title>
+  </programme>
+  <programme start="20210913091500 +0700" stop="20210913101000 +0700" channel="axn">
+    <title lang="vi">Người Thay Thế (Phần 1 - Tập 7)</title>
+  </programme>
+  <programme start="20210913101000 +0700" stop="20210913120000 +0700" channel="axn">
+    <title lang="vi">Vô Tội</title>
+  </programme>
+  <programme start="20210913120000 +0700" stop="20210913125000 +0700" channel="axn">
+    <title lang="vi">Danh Sách Đen (Phần 8 - Tập 15)</title>
+  </programme>
+  <programme start="20210913125000 +0700" stop="20210913134000 +0700" channel="axn">
+    <title lang="vi">Người Thay Thế (Phần 1 - Tập 7)</title>
+  </programme>
+  <programme start="20210913134000 +0700" stop="20210913143000 +0700" channel="axn">
+    <title lang="vi">Gia Đình Cảnh Sát (Phần 10 - Tập 2)</title>
+  </programme>
+  <programme start="20210913143000 +0700" stop="20210913152500 +0700" channel="axn">
+    <title lang="vi">Chiến Binh Ninja Mỹ Nhí (Phần 1 - Tập 1)</title>
+  </programme>
+  <programme start="20210913152500 +0700" stop="20210913161500 +0700" channel="axn">
+    <title lang="vi">Danh Sách Đen (Phần 8 - Tập 15)</title>
+  </programme>
+  <programme start="20210913161500 +0700" stop="20210913171000 +0700" channel="axn">
+    <title lang="vi">Cú Ngã (Phần 8)</title>
+    <desc lang="vi">Tập 3.(n)</desc>
+  </programme>
+  <programme start="20210913171000 +0700" stop="20210913180500 +0700" channel="axn">
+    <title lang="vi">Người Thay Thế (Phần 1 - Tập 8)</title>
+  </programme>
+  <programme start="20210913180500 +0700" stop="20210913190000 +0700" channel="axn">
+    <title lang="vi">Biệt Đội Tinh Nhuệ L.a. (Phần 1 - Tập 2)</title>
+  </programme>
+  <programme start="20210913190000 +0700" stop="20210913195500 +0700" channel="axn">
+    <title lang="vi">Chiến Binh Ninja Mỹ (Phần 11 - Tập 2)</title>
+  </programme>
+  <programme start="20210913195500 +0700" stop="20210913205000 +0700" channel="axn">
+    <title lang="vi">Tìm Kiếm Tài Năng Nước Anh (Phần 13 - Tập 1)</title>
+  </programme>
+  <programme start="20210913205000 +0700" stop="20210913214500 +0700" channel="axn">
+    <title lang="vi">Danh Sách Đen (Phần 8 - Tập 16)</title>
+  </programme>
+  <programme start="20210913214500 +0700" stop="20210913224000 +0700" channel="axn">
+    <title lang="vi">Cục Điều Tra Tội Phạm Hải Quân: Los Angeles (Phần 12 - Tập 11)</title>
+  </programme>
+  <programme start="20210913224000 +0700" stop="20210913233500 +0700" channel="axn">
+    <title lang="vi">Lính Mới (Phần 3 - Tập 5)</title>
+  </programme>
+  <programme start="20210911230000 +0700" stop="20210912000000 +0700" channel="cartoon.network">
+    <title lang="vi">Liên Minh Công Lý Hành Động</title>
+    <desc lang="vi">Ep 39\/ep 40\/ep 41\/ep 42\/ep 43.(n)</desc>
+  </programme>
+  <programme start="20210912000000 +0700" stop="20210912010000 +0700" channel="cartoon.network">
+    <title lang="vi">Clarence</title>
+    <desc lang="vi">Ep 39\/ep 42\/ep 43\/ep 44\/ep 45.(n)</desc>
+  </programme>
+  <programme start="20210912010000 +0700" stop="20210912020000 +0700" channel="cartoon.network">
+    <title lang="vi">Bác Grandpa</title>
+    <desc lang="vi">Ep 11\/ep 12\/ep 13\/ep 14\/ep 15.(n)</desc>
+  </programme>
+  <programme start="20210912020000 +0700" stop="20210912030000 +0700" channel="cartoon.network">
+    <title lang="vi">Những Thanh Kiếm Thần Hùng Mạnh</title>
+    <desc lang="vi">Ep 601\/ep 602\/ep 603\/ep 604\/ep 605.(n)</desc>
+  </programme>
+  <programme start="20210912030000 +0700" stop="20210912040000 +0700" channel="cartoon.network">
+    <title lang="vi">Chowder</title>
+    <desc lang="vi">Ep 46A\/ep 46B\/ep 47A\/ep 47B\/ep 49A.(n)</desc>
+  </programme>
+  <programme start="20210912040000 +0700" stop="20210912050000 +0700" channel="cartoon.network">
+    <title lang="vi">Ko Làm Anh Hùng Nào</title>
+    <desc lang="vi">Ep 50\/ep 1\/ep 2\/ep 4\/ep 5.(n)</desc>
+  </programme>
+  <programme start="20210912050000 +0700" stop="20210912060000 +0700" channel="cartoon.network">
+    <title lang="vi">Gấu Xám Và Những Chú Chuột Lemmut</title>
+    <desc lang="vi">Ep 64\/ep 65\/ep 66\/ep 67\/ep 68\/ep 69\/ep 70.(n)</desc>
+  </programme>
+  <programme start="20210912060000 +0700" stop="20210912063000 +0700" channel="cartoon.network">
+    <title lang="vi">Những Giai Điệu Ngốc Nghếch Thời Thơ Ấu</title>
+    <desc lang="vi">Ep 4A\/ep 4B.(n)</desc>
+  </programme>
+  <programme start="20210912063000 +0700" stop="20210912070000 +0700" channel="cartoon.network">
+    <title lang="vi">Mush Mush Và Đội Nấm Tài Năng</title>
+    <desc lang="vi">Ep 108\/ep 109.(n)</desc>
+  </programme>
+  <programme start="20210912070000 +0700" stop="20210912073000 +0700" channel="cartoon.network">
+    <title lang="vi">Alice Và Lewis</title>
+    <desc lang="vi">Ep 5\/ep 6.(n)</desc>
+  </programme>
+  <programme start="20210912073000 +0700" stop="20210912080000 +0700" channel="cartoon.network">
+    <title lang="vi">Tom Biết Nói: Siêu Anh Hùng</title>
+    <desc lang="vi">Ep 7\/ep 8.(n)</desc>
+  </programme>
+  <programme start="20210912080000 +0700" stop="20210912083000 +0700" channel="cartoon.network">
+    <title lang="vi">Mèo Tom Biết Nói Và Những Người Bạn</title>
+    <desc lang="vi">Ep 511\/ep 512.(n)</desc>
+  </programme>
+  <programme start="20210912083000 +0700" stop="20210912090000 +0700" channel="cartoon.network">
+    <title lang="vi">Cừu Shaun</title>
+    <desc lang="vi">Ep 11\/ep 12\/ep 13.(n)</desc>
+  </programme>
+  <programme start="20210912090000 +0700" stop="20210912100000 +0700" channel="cartoon.network">
+    <title lang="vi">Gấu Xám Và Những Chú Chuột Lemmut</title>
+    <desc lang="vi">Ep 22\/ep 23\/ep 24\/ep 25\/ep 26\/ep 27\/ep 28.(n)</desc>
+  </programme>
+  <programme start="20210912100000 +0700" stop="20210912113000 +0700" channel="cartoon.network">
+    <title lang="vi">Tom Và Jerry: Trở Lại Xứ Oz</title>
+    <desc lang="vi">Ep 1.(n)</desc>
+  </programme>
+  <programme start="20210912113000 +0700" stop="20210912120000 +0700" channel="cartoon.network">
+    <title lang="vi">Ngài Bean</title>
+    <desc lang="vi">Ep 110\/ep 111.(n)</desc>
+  </programme>
+  <programme start="20210912120000 +0700" stop="20210912123000 +0700" channel="cartoon.network">
+    <title lang="vi">Ninjago – Các Cao Thủ Phái Spinjitzu</title>
+    <desc lang="vi">Ep 802.(n)</desc>
+  </programme>
+  <programme start="20210912123000 +0700" stop="20210912130000 +0700" channel="cartoon.network">
+    <title lang="vi">Biệt Đội Đồ Chơi</title>
+    <desc lang="vi">Ep 223\/ep 205.(n)</desc>
+  </programme>
+  <programme start="20210912130000 +0700" stop="20210912133000 +0700" channel="cartoon.network">
+    <title lang="vi">Biệt Đội Thiếu Niên Titan Xuất Kích</title>
+    <desc lang="vi">Ep 47A\/ep 47B.(n)</desc>
+  </programme>
+  <programme start="20210912133000 +0700" stop="20210912140000 +0700" channel="cartoon.network">
+    <title lang="vi">Đảo Trại Hè</title>
+    <desc lang="vi">Ep 76\/ep 77.(n)</desc>
+  </programme>
+  <programme start="20210912140000 +0700" stop="20210912143000 +0700" channel="cartoon.network">
+    <title lang="vi">Maca &amp; Roni</title>
+    <desc lang="vi">Ep 29\/ep 30\/ep 31\/ep 32\/ep 15\/ep 16.(n)</desc>
+  </programme>
+  <programme start="20210912143000 +0700" stop="20210912150000 +0700" channel="cartoon.network">
+    <title lang="vi">Thế Giới Kì Diệu Của Gumball</title>
+    <desc lang="vi">Ep 44B\/ep 70.(n)</desc>
+  </programme>
+  <programme start="20210912150000 +0700" stop="20210912153000 +0700" channel="cartoon.network">
+    <title lang="vi">Ninja Hỏa Tốc</title>
+    <desc lang="vi">Ep 117\/ep 123.(n)</desc>
+  </programme>
+  <programme start="20210912153000 +0700" stop="20210912160000 +0700" channel="cartoon.network">
+    <title lang="vi">Chúng Tôi Đơn Giản Là Gấu</title>
+    <desc lang="vi">Ep 15\/ep 16.(n)</desc>
+  </programme>
+  <programme start="20210912160000 +0700" stop="20210912163000 +0700" channel="cartoon.network">
+    <title lang="vi">Biệt Đội Đồ Chơi</title>
+    <desc lang="vi">Ep 223\/ep 205.(n)</desc>
+  </programme>
+  <programme start="20210912163000 +0700" stop="20210912170000 +0700" channel="cartoon.network">
+    <title lang="vi">Đảo Trại Hè</title>
+    <desc lang="vi">Ep 76\/ep 77.(n)</desc>
+  </programme>
+  <programme start="20210912170000 +0700" stop="20210912173000 +0700" channel="cartoon.network">
+    <title lang="vi">Ben 10</title>
+    <desc lang="vi">Ep 107\/ep 108.(n)</desc>
+  </programme>
+  <programme start="20210912173000 +0700" stop="20210912180000 +0700" channel="cartoon.network">
+    <title lang="vi">Ninjago – Các Cao Thủ Phái Spinjitzu</title>
+    <desc lang="vi">Ep 902.(n)</desc>
+  </programme>
+  <programme start="20210912180000 +0700" stop="20210912183000 +0700" channel="cartoon.network">
+    <title lang="vi">Nhà Trẻ Siêu Quậy</title>
+    <desc lang="vi">Ep 59\/ep 60.(n)</desc>
+  </programme>
+  <programme start="20210912183000 +0700" stop="20210912190000 +0700" channel="cartoon.network">
+    <title lang="vi">Maca &amp; Roni</title>
+    <desc lang="vi">Ep 29\/ep 30\/ep 31\/ep 32\/ep 15\/ep 16.(n)</desc>
+  </programme>
+  <programme start="20210912190000 +0700" stop="20210912193000 +0700" channel="cartoon.network">
+    <title lang="vi">Ninja Hỏa Tốc</title>
+    <desc lang="vi">Ep 117\/ep 123.(n)</desc>
+  </programme>
+  <programme start="20210912193000 +0700" stop="20210912211000 +0700" channel="cartoon.network">
+    <title lang="vi">Liên Minh Công Lý: Cuộc Đụng Độ Vũ Trụ</title>
+    <desc lang="vi">Ep 1.(n)</desc>
+  </programme>
+  <programme start="20210912211000 +0700" stop="20210912213500 +0700" channel="cartoon.network">
+    <title lang="vi">Biệt Đội Thiếu Niên Titan Xuất Kích</title>
+    <desc lang="vi">Ep 189\/ep 190.(n)</desc>
+  </programme>
+  <programme start="20210912213500 +0700" stop="20210912220000 +0700" channel="cartoon.network">
+    <title lang="vi">Biệt Đội Thiếu Niên Titan Xuất Kích</title>
+    <desc lang="vi">Ep 128\/ep 133.(n)</desc>
+  </programme>
+  <programme start="20210912220000 +0700" stop="20210912223000 +0700" channel="cartoon.network">
+    <title lang="vi">Người Dơi: Can Đảm Và Gan Dạ</title>
+    <desc lang="vi">Ep 39.(n)</desc>
+  </programme>
+  <programme start="20210912223000 +0700" stop="20210912230000 +0700" channel="cartoon.network">
+    <title lang="vi">Người Dơi: Can Đảm Và Gan Dạ</title>
+    <desc lang="vi">Ep 40.(n)</desc>
+  </programme>
+  <programme start="20210912230000 +0700" stop="20210913000000 +0700" channel="cartoon.network">
+    <title lang="vi">Liên Minh Công Lý Hành Động</title>
+    <desc lang="vi">Ep 44\/ep 45\/ep 46\/ep 47\/ep 48.(n)</desc>
+  </programme>
+  <programme start="20210913000000 +0700" stop="20210913010000 +0700" channel="cartoon.network">
+    <title lang="vi">Clarence</title>
+    <desc lang="vi">Ep 46\/ep 47\/ep 48\/ep 49\/ep 50.(n)</desc>
+  </programme>
+  <programme start="20210913010000 +0700" stop="20210913020000 +0700" channel="cartoon.network">
+    <title lang="vi">Bác Grandpa</title>
+    <desc lang="vi">Ep 16\/ep 17\/ep 18\/ep 19\/ep 20.(n)</desc>
+  </programme>
+  <programme start="20210913020000 +0700" stop="20210913030000 +0700" channel="cartoon.network">
+    <title lang="vi">Những Thanh Kiếm Thần Hùng Mạnh</title>
+    <desc lang="vi">Ep 606\/ep 607\/ep 608\/ep 609\/ep 610.(n)</desc>
+  </programme>
+  <programme start="20210913030000 +0700" stop="20210913040000 +0700" channel="cartoon.network">
+    <title lang="vi">Chowder</title>
+    <desc lang="vi">Ep 49B\/ep 41A\/ep 41B\/ep 42A\/ep 42B.(n)</desc>
+  </programme>
+  <programme start="20210913040000 +0700" stop="20210913050000 +0700" channel="cartoon.network">
+    <title lang="vi">Ko Làm Anh Hùng Nào</title>
+    <desc lang="vi">Ep 53\/ep 54\/ep 55\/ep 56\/ep 57.(n)</desc>
+  </programme>
+  <programme start="20210913050000 +0700" stop="20210913060000 +0700" channel="cartoon.network">
+    <title lang="vi">Gấu Xám Và Những Chú Chuột Lemmut</title>
+    <desc lang="vi">Ep 71\/ep 72\/ep 73\/ep 74\/ep 75\/ep 76\/ep 77.(n)</desc>
+  </programme>
+  <programme start="20210913060000 +0700" stop="20210913070000 +0700" channel="cartoon.network">
+    <title lang="vi">Tom Biết Nói: Siêu Anh Hùng</title>
+    <desc lang="vi">Ep 8\/ep 9\/ep 10\/ep 11\/ep 12\/ep 13\/ep 14.(n)</desc>
+  </programme>
+  <programme start="20210913070000 +0700" stop="20210913080000 +0700" channel="cartoon.network">
+    <title lang="vi">Cừu Shaun</title>
+    <desc lang="vi">Ep 18\/ep 19\/ep 20\/ep 1\/ep 2\/ep 3\/ep 4.(n)</desc>
+  </programme>
+  <programme start="20210913080000 +0700" stop="20210913090000 +0700" channel="cartoon.network">
+    <title lang="vi">Thị Trấn Nấm</title>
+    <desc lang="vi">Ep 43\/ep 44\/ep 1\/ep 3\/ep 5.(n)</desc>
+  </programme>
+  <programme start="20210913090000 +0700" stop="20210913100000 +0700" channel="cartoon.network">
+    <title lang="vi">Gấu Xám Và Những Chú Chuột Lemmut</title>
+    <desc lang="vi">Ep 57\/ep 58\/ep 59\/ep 60\/ep 61\/ep 62\/ep 64.(n)</desc>
+  </programme>
+  <programme start="20210913100000 +0700" stop="20210913110000 +0700" channel="cartoon.network">
+    <title lang="vi">Ngài Bean</title>
+    <desc lang="vi">Ep 251\/ep 252\/ep 201\/ep 202\/ep 203.(n)</desc>
+  </programme>
+  <programme start="20210913110000 +0700" stop="20210913120000 +0700" channel="cartoon.network">
+    <title lang="vi">Ngài Bean</title>
+    <desc lang="vi">Ep 204\/ep 205\/ep 206\/ep 207\/ep 208.(n)</desc>
+  </programme>
+  <programme start="20210913120000 +0700" stop="20210913130000 +0700" channel="cartoon.network">
+    <title lang="vi">Những Cô Gái Siêu Nhân</title>
+    <desc lang="vi">Ep 141\/ep 142\/ep 143\/ep 144\/ep 145.(n)</desc>
+  </programme>
+  <programme start="20210913130000 +0700" stop="20210913133000 +0700" channel="cartoon.network">
+    <title lang="vi">Những Cô Gái Siêu Nhân</title>
+    <desc lang="vi">Ep 147\/ep 148.(n)</desc>
+  </programme>
+  <programme start="20210913133000 +0700" stop="20210913143000 +0700" channel="cartoon.network">
+    <title lang="vi">Những Nữ Siêu Anh Hùng Dc</title>
+    <desc lang="vi">Ep 5\/ep 6\/ep 7\/ep 8\/ep 9.(n)</desc>
+  </programme>
+  <programme start="20210913143000 +0700" stop="20210913150000 +0700" channel="cartoon.network">
+    <title lang="vi">Ninjago</title>
+    <desc lang="vi">Ep 3\/ep 4.(n)</desc>
+  </programme>
+  <programme start="20210913150000 +0700" stop="20210913160000 +0700" channel="cartoon.network">
+    <title lang="vi">Biệt Đội Thiếu Niên Titan Xuất Kích</title>
+    <desc lang="vi">Ep 152\/ep 153\/ep 154\/ep 155\/ep 156.(n)</desc>
+  </programme>
+  <programme start="20210913160000 +0700" stop="20210913170000 +0700" channel="cartoon.network">
+    <title lang="vi">Chúng Tôi Đơn Giản Là Gấu</title>
+    <desc lang="vi">Ep 1\/ep 44\/ep 68\/ep 69\/ep 140.(n)</desc>
+  </programme>
+  <programme start="20210913170000 +0700" stop="20210913180000 +0700" channel="cartoon.network">
+    <title lang="vi">Thế Giới Kì Diệu Của Gumball</title>
+    <desc lang="vi">Ep 170\/ep 171\/ep 172\/ep 173\/ep 174.(n)</desc>
+  </programme>
+  <programme start="20210913180000 +0700" stop="20210913190000 +0700" channel="cartoon.network">
+    <title lang="vi">Ngài Bean</title>
+    <desc lang="vi">Ep 216\/ep 217\/ep 218\/ep 219\/ep 220.(n)</desc>
+  </programme>
+  <programme start="20210913190000 +0700" stop="20210913200000 +0700" channel="cartoon.network">
+    <title lang="vi">Biệt Đội Thiếu Niên Titan Xuất Kích</title>
+    <desc lang="vi">Ep 186\/ep 187\/ep 188\/ep 189\/ep 190.(n)</desc>
+  </programme>
+  <programme start="20210913200000 +0700" stop="20210913210000 +0700" channel="cartoon.network">
+    <title lang="vi">Chúng Tôi Đơn Giản Là Gấu</title>
+    <desc lang="vi">Ep 99\/ep 62\/ep 101\/ep 107\/ep 108.(n)</desc>
+  </programme>
+  <programme start="20210913210000 +0700" stop="20210913213000 +0700" channel="cartoon.network">
+    <title lang="vi">Bãi Biển Quái Vật</title>
+    <desc lang="vi">Ep 119\/ep 120.(n)</desc>
+  </programme>
+  <programme start="20210913213000 +0700" stop="20210913220000 +0700" channel="cartoon.network">
+    <title lang="vi">Những Nữ Siêu Anh Hùng Dc</title>
+    <desc lang="vi">Ep 3\/ep 4.(n)</desc>
+  </programme>
+  <programme start="20210913220000 +0700" stop="20210913230000 +0700" channel="cartoon.network">
+    <title lang="vi">Giờ Phiêu Lưu</title>
+    <desc lang="vi">Ep 84B\/ep 85A\/ep 85B\/ep 86A\/ep 86B.(n)</desc>
+  </programme>
+  <programme start="20210911231000 +0700" stop="20210911234000 +0700" channel="cnn">
+    <title lang="vi">Cnn Newsroom (Cnn us): Saturday, September 11, 2021 11Am</title>
+  </programme>
+  <programme start="20210911234000 +0700" stop="20210912001000 +0700" channel="cnn">
+    <title lang="vi">Cnn Newsroom (Cnn us): Saturday, September 11, 2021 11Am</title>
+  </programme>
+  <programme start="20210912001000 +0700" stop="20210912004000 +0700" channel="cnn">
+    <title lang="vi">World Sport</title>
+  </programme>
+  <programme start="20210912004000 +0700" stop="20210912011000 +0700" channel="cnn">
+    <title lang="vi">Special: Tbd</title>
+  </programme>
+  <programme start="20210912011000 +0700" stop="20210912014000 +0700" channel="cnn">
+    <title lang="vi">Cnn Newsroom (Cnn us): Saturday, September 11, 2021 1Pm</title>
+  </programme>
+  <programme start="20210912014000 +0700" stop="20210912021000 +0700" channel="cnn">
+    <title lang="vi">Cnn Newsroom (Cnn us): Saturday, September 11, 2021 1Pm</title>
+  </programme>
+  <programme start="20210912021000 +0700" stop="20210912024000 +0700" channel="cnn">
+    <title lang="vi">Cnn Newsroom (Cnn us): Saturday, September 11, 2021 2Pm</title>
+  </programme>
+  <programme start="20210912024000 +0700" stop="20210912031000 +0700" channel="cnn">
+    <title lang="vi">Cnn Newsroom (Cnn us): Saturday, September 11, 2021 2Pm</title>
+  </programme>
+  <programme start="20210912031000 +0700" stop="20210912034000 +0700" channel="cnn">
+    <title lang="vi">Cnn Newsroom (Cnn us): Saturday, September 11, 2021 3Pm</title>
+  </programme>
+  <programme start="20210912034000 +0700" stop="20210912041000 +0700" channel="cnn">
+    <title lang="vi">Cnn Newsroom (Cnn us): Saturday, September 11, 2021 3Pm</title>
+  </programme>
+  <programme start="20210912041000 +0700" stop="20210912044000 +0700" channel="cnn">
+    <title lang="vi">Cnn Newsroom (Cnn us): Saturday, September 11, 2021 4Pm</title>
+  </programme>
+  <programme start="20210912044000 +0700" stop="20210912051000 +0700" channel="cnn">
+    <title lang="vi">Cnn Newsroom (Cnn us): Saturday, September 11, 2021 4Pm</title>
+  </programme>
+  <programme start="20210912051000 +0700" stop="20210912054000 +0700" channel="cnn">
+    <title lang="vi">World Sport</title>
+  </programme>
+  <programme start="20210912054000 +0700" stop="20210912061000 +0700" channel="cnn">
+    <title lang="vi">Inside Africa</title>
+  </programme>
+  <programme start="20210912061000 +0700" stop="20210912064000 +0700" channel="cnn">
+    <title lang="vi">Cnn Newsroom (Cnn us): Saturday, September 11, 2021 6Pm</title>
+  </programme>
+  <programme start="20210912064000 +0700" stop="20210912071000 +0700" channel="cnn">
+    <title lang="vi">Cnn Newsroom (Cnn us): Saturday, September 11, 2021 6Pm</title>
+  </programme>
+  <programme start="20210912071000 +0700" stop="20210912074000 +0700" channel="cnn">
+    <title lang="vi">Cnn Newsroom (Cnn us): Saturday, September 11, 2021 7Pm</title>
+  </programme>
+  <programme start="20210912074000 +0700" stop="20210912081000 +0700" channel="cnn">
+    <title lang="vi">Cnn Newsroom (Cnn us): Saturday, September 11, 2021 7Pm</title>
+  </programme>
+  <programme start="20210912081000 +0700" stop="20210912084000 +0700" channel="cnn">
+    <title lang="vi">Cnn Newsroom (Cnn us): Saturday, September 11, 2021 8Pm</title>
+  </programme>
+  <programme start="20210912084000 +0700" stop="20210912091000 +0700" channel="cnn">
+    <title lang="vi">Cnn Newsroom (Cnn us): Saturday, September 11, 2021 8Pm</title>
+  </programme>
+  <programme start="20210912091000 +0700" stop="20210912094000 +0700" channel="cnn">
+    <title lang="vi">Tbd</title>
+  </programme>
+  <programme start="20210912094000 +0700" stop="20210912101000 +0700" channel="cnn">
+    <title lang="vi">Tbd</title>
+  </programme>
+  <programme start="20210912101000 +0700" stop="20210912104000 +0700" channel="cnn">
+    <title lang="vi">Inside Africa</title>
+  </programme>
+  <programme start="20210912104000 +0700" stop="20210912111000 +0700" channel="cnn">
+    <title lang="vi">African Voices Changemakers</title>
+  </programme>
+  <programme start="20210912111000 +0700" stop="20210912114000 +0700" channel="cnn">
+    <title lang="vi">Special: Tbd</title>
+  </programme>
+  <programme start="20210912114000 +0700" stop="20210912121000 +0700" channel="cnn">
+    <title lang="vi">Marketplace Africa marketplace Africa</title>
+  </programme>
+  <programme start="20210912121000 +0700" stop="20210912124000 +0700" channel="cnn">
+    <title lang="vi">Cnn Newsroom: Cnn Newsroom With Michael Holmes</title>
+  </programme>
+  <programme start="20210912124000 +0700" stop="20210912131000 +0700" channel="cnn">
+    <title lang="vi">Cnn Newsroom: Cnn Newsroom With Michael Holmes</title>
+  </programme>
+  <programme start="20210912131000 +0700" stop="20210912134000 +0700" channel="cnn">
+    <title lang="vi">Special: Tbd</title>
+  </programme>
+  <programme start="20210912134000 +0700" stop="20210912141000 +0700" channel="cnn">
+    <title lang="vi">African Voices Changemakers</title>
+  </programme>
+  <programme start="20210912141000 +0700" stop="20210912144000 +0700" channel="cnn">
+    <title lang="vi">Cnn Newsroom: Cnn Newsroom With Robyn Curnow</title>
+  </programme>
+  <programme start="20210912144000 +0700" stop="20210912151000 +0700" channel="cnn">
+    <title lang="vi">Cnn Newsroom: Cnn Newsroom With Robyn Curnow</title>
+  </programme>
+  <programme start="20210912151000 +0700" stop="20210912154000 +0700" channel="cnn">
+    <title lang="vi">Cnn Newsroom: Cnn Newsroom With Robyn Curnow</title>
+  </programme>
+  <programme start="20210912154000 +0700" stop="20210912161000 +0700" channel="cnn">
+    <title lang="vi">Cnn Newsroom: Cnn Newsroom With Robyn Curnow</title>
+  </programme>
+  <programme start="20210912161000 +0700" stop="20210912164000 +0700" channel="cnn">
+    <title lang="vi">Cnn Newsroom: Cnn Newsroom With Kim Brunhuber</title>
+  </programme>
+  <programme start="20210912164000 +0700" stop="20210912171000 +0700" channel="cnn">
+    <title lang="vi">Cnn Newsroom: Cnn Newsroom With Kim Brunhuber</title>
+  </programme>
+  <programme start="20210912171000 +0700" stop="20210912174000 +0700" channel="cnn">
+    <title lang="vi">Cnn Newsroom: Cnn Newsroom With Kim Brunhuber</title>
+  </programme>
+  <programme start="20210912174000 +0700" stop="20210912181000 +0700" channel="cnn">
+    <title lang="vi">Cnn Newsroom: Cnn Newsroom With Kim Brunhuber</title>
+  </programme>
+  <programme start="20210912181000 +0700" stop="20210912184000 +0700" channel="cnn">
+    <title lang="vi">Special: Tbd</title>
+  </programme>
+  <programme start="20210912184000 +0700" stop="20210912191000 +0700" channel="cnn">
+    <title lang="vi">African Voices Changemakers</title>
+  </programme>
+  <programme start="20210912191000 +0700" stop="20210912194000 +0700" channel="cnn">
+    <title lang="vi">New Day Sunday: Sunday, September 12, 2021 7Am</title>
+  </programme>
+  <programme start="20210912194000 +0700" stop="20210912201000 +0700" channel="cnn">
+    <title lang="vi">New Day Sunday: Sunday, September 12, 2021 7Am</title>
+  </programme>
+  <programme start="20210912201000 +0700" stop="20210912204000 +0700" channel="cnn">
+    <title lang="vi">Inside Politics</title>
+  </programme>
+  <programme start="20210912204000 +0700" stop="20210912211000 +0700" channel="cnn">
+    <title lang="vi">Inside Politics</title>
+  </programme>
+  <programme start="20210912211000 +0700" stop="20210912214000 +0700" channel="cnn">
+    <title lang="vi">State Of The Union: State Of The Union With Jake Tapper</title>
+  </programme>
+  <programme start="20210912214000 +0700" stop="20210912221000 +0700" channel="cnn">
+    <title lang="vi">State Of The Union: State Of The Union With Jake Tapper</title>
+  </programme>
+  <programme start="20210912221000 +0700" stop="20210912224000 +0700" channel="cnn">
+    <title lang="vi">Fareed Zakaria Gps</title>
+  </programme>
+  <programme start="20210912224000 +0700" stop="20210912231000 +0700" channel="cnn">
+    <title lang="vi">Fareed Zakaria Gps</title>
+  </programme>
+  <programme start="20210912231000 +0700" stop="20210912234000 +0700" channel="cnn">
+    <title lang="vi">Reliable Sources</title>
+  </programme>
+  <programme start="20210912234000 +0700" stop="20210913001000 +0700" channel="cnn">
+    <title lang="vi">Reliable Sources</title>
+  </programme>
+  <programme start="20210913001000 +0700" stop="20210913004000 +0700" channel="cnn">
+    <title lang="vi">Sep 13 World Sport</title>
+  </programme>
+  <programme start="20210913004000 +0700" stop="20210913011000 +0700" channel="cnn">
+    <title lang="vi">Sep 13 Inside Africa</title>
+  </programme>
+  <programme start="20210913011000 +0700" stop="20210913014000 +0700" channel="cnn">
+    <title lang="vi">Sep 13 Connecting Africa: Connecting Africa 110</title>
+  </programme>
+  <programme start="20210913014000 +0700" stop="20210913021000 +0700" channel="cnn">
+    <title lang="vi">Sep 13 African Voices Changemakers</title>
+  </programme>
+  <programme start="20210913021000 +0700" stop="20210913024000 +0700" channel="cnn">
+    <title lang="vi">Sep 13 Cnn Newsroom (Cnn us): Sunday, September 12, 2021 2Pm</title>
+  </programme>
+  <programme start="20210913024000 +0700" stop="20210913031000 +0700" channel="cnn">
+    <title lang="vi">Sep 13 Cnn Newsroom (Cnn us): Sunday, September 12, 2021 2Pm</title>
+  </programme>
+  <programme start="20210913031000 +0700" stop="20210913034000 +0700" channel="cnn">
+    <title lang="vi">Sep 13 Cnn Newsroom (Cnn us): Sunday, September 12, 2021 3Pm</title>
+  </programme>
+  <programme start="20210913034000 +0700" stop="20210913041000 +0700" channel="cnn">
+    <title lang="vi">Sep 13 Cnn Newsroom (Cnn us): Sunday, September 12, 2021 3Pm</title>
+  </programme>
+  <programme start="20210913041000 +0700" stop="20210913044000 +0700" channel="cnn">
+    <title lang="vi">Sep 13 Cnn Newsroom (Cnn us): Sunday, September 12, 2021 4Pm</title>
+  </programme>
+  <programme start="20210913044000 +0700" stop="20210913051000 +0700" channel="cnn">
+    <title lang="vi">Sep 13 Cnn Newsroom (Cnn us): Sunday, September 12, 2021 4Pm</title>
+  </programme>
+  <programme start="20210913051000 +0700" stop="20210913054000 +0700" channel="cnn">
+    <title lang="vi">Sep 13 World Sport</title>
+  </programme>
+  <programme start="20210913054000 +0700" stop="20210913061000 +0700" channel="cnn">
+    <title lang="vi">Sep 13 Special: Tbd</title>
+  </programme>
+  <programme start="20210913061000 +0700" stop="20210913064000 +0700" channel="cnn">
+    <title lang="vi">Sep 13 Cnn Newsroom (Cnn us): Sunday, September 12, 2021 6Pm</title>
+  </programme>
+  <programme start="20210913064000 +0700" stop="20210913071000 +0700" channel="cnn">
+    <title lang="vi">Sep 13 Cnn Newsroom (Cnn us): Sunday, September 12, 2021 6Pm</title>
+  </programme>
+  <programme start="20210913071000 +0700" stop="20210913074000 +0700" channel="cnn">
+    <title lang="vi">Sep 13 Cnn Newsroom (Cnn us): Sunday, September 12, 2021 7Pm</title>
+  </programme>
+  <programme start="20210913074000 +0700" stop="20210913081000 +0700" channel="cnn">
+    <title lang="vi">Sep 13 Cnn Newsroom (Cnn us): Sunday, September 12, 2021 7Pm</title>
+  </programme>
+  <programme start="20210913081000 +0700" stop="20210913084000 +0700" channel="cnn">
+    <title lang="vi">Sep 13 Cnn Newsroom (Cnn us): Sunday, September 12, 2021 8Pm</title>
+  </programme>
+  <programme start="20210913084000 +0700" stop="20210913091000 +0700" channel="cnn">
+    <title lang="vi">Sep 13 Cnn Newsroom (Cnn us): Sunday, September 12, 2021 8Pm</title>
+  </programme>
+  <programme start="20210913091000 +0700" stop="20210913094000 +0700" channel="cnn">
+    <title lang="vi">Sep 13 Fareed Zakaria Gps: Fareed Zakaria Gps (Cnni)</title>
+  </programme>
+  <programme start="20210913094000 +0700" stop="20210913101000 +0700" channel="cnn">
+    <title lang="vi">Sep 13 Fareed Zakaria Gps: Fareed Zakaria Gps (Cnni)</title>
+  </programme>
+  <programme start="20210913101000 +0700" stop="20210913104000 +0700" channel="cnn">
+    <title lang="vi">Sep 13 African Voices Changemakers</title>
+  </programme>
+  <programme start="20210913104000 +0700" stop="20210913111000 +0700" channel="cnn">
+    <title lang="vi">Sep 13 Marketplace Africa marketplace Africa</title>
+  </programme>
+  <programme start="20210913111000 +0700" stop="20210913114000 +0700" channel="cnn">
+    <title lang="vi">Sep 13 Connecting Africa: Connecting Africa 110</title>
+  </programme>
+  <programme start="20210913114000 +0700" stop="20210913121000 +0700" channel="cnn">
+    <title lang="vi">Sep 13 Inside Africa</title>
+  </programme>
+  <programme start="20210913121000 +0700" stop="20210913124000 +0700" channel="cnn">
+    <title lang="vi">Sep 13 Cnn Newsroom: Cnn Newsroom With Michael Holmes</title>
+  </programme>
+  <programme start="20210913124000 +0700" stop="20210913131000 +0700" channel="cnn">
+    <title lang="vi">Sep 13 Cnn Newsroom: Cnn Newsroom With Michael Holmes world Sport: Monday, September 13, 2021</title>
+  </programme>
+  <programme start="20210913131000 +0700" stop="20210913134000 +0700" channel="cnn">
+    <title lang="vi">Sep 13 Cnn Newsroom: Cnn Newsroom With Michael Holmes</title>
+  </programme>
+  <programme start="20210913134000 +0700" stop="20210913141000 +0700" channel="cnn">
+    <title lang="vi">Sep 13 Cnn Newsroom: Cnn Newsroom With Michael Holmes</title>
+  </programme>
+  <programme start="20210913141000 +0700" stop="20210913144000 +0700" channel="cnn">
+    <title lang="vi">Sep 13 Cnn Newsroom: Cnn Newsroom With Robyn Curnow</title>
+  </programme>
+  <programme start="20210913144000 +0700" stop="20210913151000 +0700" channel="cnn">
+    <title lang="vi">Sep 13 Cnn Newsroom: Cnn Newsroom With Robyn Curnow world Sport: Monday, September 13, 2021</title>
+  </programme>
+  <programme start="20210913151000 +0700" stop="20210913154000 +0700" channel="cnn">
+    <title lang="vi">Sep 13 Cnn Newsroom: Cnn Newsroom With Rosemary Church</title>
+  </programme>
+  <programme start="20210913154000 +0700" stop="20210913161000 +0700" channel="cnn">
+    <title lang="vi">Sep 13 Cnn Newsroom: Cnn Newsroom With Rosemary Church</title>
+  </programme>
+  <programme start="20210913161000 +0700" stop="20210913164000 +0700" channel="cnn">
+    <title lang="vi">Sep 13 Cnn Newsroom: Cnn Newsroom With Rosemary Church</title>
+  </programme>
+  <programme start="20210913164000 +0700" stop="20210913171000 +0700" channel="cnn">
+    <title lang="vi">Sep 13 Cnn Newsroom: Cnn Newsroom With Rosemary Church</title>
+  </programme>
+  <programme start="20210913171000 +0700" stop="20210913174000 +0700" channel="cnn">
+    <title lang="vi">Sep 13 Early Start With Christine Romans And Laura Jarrett: Early Start</title>
+  </programme>
+  <programme start="20210913174000 +0700" stop="20210913181000 +0700" channel="cnn">
+    <title lang="vi">Sep 13 Early Start With Christine Romans And Laura Jarrett: Early Start</title>
+  </programme>
+  <programme start="20210913181000 +0700" stop="20210913184000 +0700" channel="cnn">
+    <title lang="vi">Sep 13 New Day</title>
+  </programme>
+  <programme start="20210913184000 +0700" stop="20210913191000 +0700" channel="cnn">
+    <title lang="vi">Sep 13 New Day</title>
+  </programme>
+  <programme start="20210913191000 +0700" stop="20210913194000 +0700" channel="cnn">
+    <title lang="vi">Sep 13 New Day</title>
+  </programme>
+  <programme start="20210913194000 +0700" stop="20210913201000 +0700" channel="cnn">
+    <title lang="vi">Sep 13 New Day</title>
+  </programme>
+  <programme start="20210913201000 +0700" stop="20210913204000 +0700" channel="cnn">
+    <title lang="vi">Sep 13 New Day</title>
+  </programme>
+  <programme start="20210913204000 +0700" stop="20210913211000 +0700" channel="cnn">
+    <title lang="vi">Sep 13 World Sport</title>
+  </programme>
+  <programme start="20210913211000 +0700" stop="20210913214000 +0700" channel="cnn">
+    <title lang="vi">Sep 13 First Move With Julia Chatterley</title>
+  </programme>
+  <programme start="20210913214000 +0700" stop="20210913221000 +0700" channel="cnn">
+    <title lang="vi">Sep 13 First Move With Julia Chatterley</title>
+  </programme>
+  <programme start="20210913221000 +0700" stop="20210913224000 +0700" channel="cnn">
+    <title lang="vi">Sep 13 Connect The World</title>
+  </programme>
+  <programme start="20210913224000 +0700" stop="20210913231000 +0700" channel="cnn">
+    <title lang="vi">Sep 13 Connect The World world Sport</title>
+  </programme>
+  <programme start="20210913231000 +0700" stop="20210913234000 +0700" channel="cnn">
+    <title lang="vi">Sep 13 Connect The World</title>
+  </programme>
+  <programme start="20210911232000 +0700" stop="20210911234500 +0700" channel="warner">
+    <title lang="vi">Học Thuyết Vụ Nổ Lớn (Phần 10 - Tập 3)</title>
+  </programme>
+  <programme start="20210911234500 +0700" stop="20210912001000 +0700" channel="warner">
+    <title lang="vi">Học Thuyết Vụ Nổ Lớn (Phần 10)</title>
+    <desc lang="vi">Tập 4.(n)</desc>
+  </programme>
+  <programme start="20210912001000 +0700" stop="20210912003500 +0700" channel="warner">
+    <title lang="vi">Học Thuyết Vụ Nổ Lớn (Phần 10)</title>
+    <desc lang="vi">Tập 5.(n)</desc>
+  </programme>
+  <programme start="20210912003500 +0700" stop="20210912010000 +0700" channel="warner">
+    <title lang="vi">Học Thuyết Vụ Nổ Lớn (Phần 10)</title>
+    <desc lang="vi">Tập 6.(n)</desc>
+  </programme>
+  <programme start="20210912010000 +0700" stop="20210912012500 +0700" channel="warner">
+    <title lang="vi">Học Thuyết Vụ Nổ Lớn (Phần 10)</title>
+    <desc lang="vi">Tập 7.(n)</desc>
+  </programme>
+  <programme start="20210912012500 +0700" stop="20210912015000 +0700" channel="warner">
+    <title lang="vi">Học Thuyết Vụ Nổ Lớn (Phần 10)</title>
+    <desc lang="vi">Tập 8.(n)</desc>
+  </programme>
+  <programme start="20210912015000 +0700" stop="20210912024000 +0700" channel="warner">
+    <title lang="vi">Vũ Khí Chết Người Phần 3</title>
+    <desc lang="vi">Tập 2.(n)</desc>
+  </programme>
+  <programme start="20210912024000 +0700" stop="20210912033000 +0700" channel="warner">
+    <title lang="vi">Vũ Khí Chết Người Phần 3</title>
+    <desc lang="vi">Tập 3.(n)</desc>
+  </programme>
+  <programme start="20210912033000 +0700" stop="20210912042000 +0700" channel="warner">
+    <title lang="vi">Vũ Khí Chết Người Phần 3</title>
+    <desc lang="vi">Tập 4.(n)</desc>
+  </programme>
+  <programme start="20210912042000 +0700" stop="20210912051000 +0700" channel="warner">
+    <title lang="vi">Vũ Khí Chết Người Phần 3</title>
+    <desc lang="vi">Tập 5.(n)</desc>
+  </programme>
+  <programme start="20210912051000 +0700" stop="20210912060000 +0700" channel="warner">
+    <title lang="vi">Vũ Khí Chết Người Phần 3</title>
+    <desc lang="vi">Tập 6.(n)</desc>
+  </programme>
+  <programme start="20210912060000 +0700" stop="20210912065000 +0700" channel="warner">
+    <title lang="vi">Huyền Thoại Tương Lai (Phần 4 - Tập 9)</title>
+  </programme>
+  <programme start="20210912065000 +0700" stop="20210912074000 +0700" channel="warner">
+    <title lang="vi">Huyền Thoại Tương Lai (Phần 4)</title>
+    <desc lang="vi">Tập 10.(n)</desc>
+  </programme>
+  <programme start="20210912074000 +0700" stop="20210912082500 +0700" channel="warner">
+    <title lang="vi">Huyền Thoại Tương Lai (Phần 4 - Tập 11)</title>
+  </programme>
+  <programme start="20210912082500 +0700" stop="20210912091000 +0700" channel="warner">
+    <title lang="vi">Huyền Thoại Tương Lai (Phần 4)</title>
+    <desc lang="vi">Tập 12.(n)</desc>
+  </programme>
+  <programme start="20210912091000 +0700" stop="20210912100000 +0700" channel="warner">
+    <title lang="vi">Huyền Thoại Tương Lai (Phần 4 - Tập 13)</title>
+  </programme>
+  <programme start="20210912100000 +0700" stop="20210912102500 +0700" channel="warner">
+    <title lang="vi">Học Thuyết Vụ Nổ Lớn (Phần 10 - Tập 9)</title>
+  </programme>
+  <programme start="20210912102500 +0700" stop="20210912105000 +0700" channel="warner">
+    <title lang="vi">Học Thuyết Vụ Nổ Lớn (Phần 10 - Tập 10)</title>
+  </programme>
+  <programme start="20210912105000 +0700" stop="20210912111500 +0700" channel="warner">
+    <title lang="vi">Thợ Săn Đồ Cũ (Phần 6 - Tập 22)</title>
+  </programme>
+  <programme start="20210912111500 +0700" stop="20210912114000 +0700" channel="warner">
+    <title lang="vi">Thợ Săn Đồ Cũ (Phần 6)</title>
+    <desc lang="vi">Tập 23.(n)</desc>
+  </programme>
+  <programme start="20210912114000 +0700" stop="20210912120500 +0700" channel="warner">
+    <title lang="vi">Thợ Săn Đồ Cũ (Phần 6 - Tập 24)</title>
+  </programme>
+  <programme start="20210912120500 +0700" stop="20210912123000 +0700" channel="warner">
+    <title lang="vi">Thợ Săn Đồ Cũ (Phần 6 - Tập 25)</title>
+  </programme>
+  <programme start="20210912123000 +0700" stop="20210912145000 +0700" channel="warner">
+    <title lang="vi">Tay Đấm Huyền Thoại 2</title>
+    <desc lang="vi">Creed 2.(n)</desc>
+  </programme>
+  <programme start="20210912145000 +0700" stop="20210912163000 +0700" channel="warner">
+    <title lang="vi">Sự Trở Lại Của Những Giai Điệu Vui Vẻ</title>
+  </programme>
+  <programme start="20210912163000 +0700" stop="20210912184000 +0700" channel="warner">
+    <title lang="vi">Giới Siêu Giàu Châu Á</title>
+  </programme>
+  <programme start="20210912184000 +0700" stop="20210912210000 +0700" channel="warner">
+    <title lang="vi">Thám Tử Sherlock</title>
+    <desc lang="vi">Sherlock Holmes.(n)</desc>
+  </programme>
+  <programme start="20210912210000 +0700" stop="20210912230000 +0700" channel="warner">
+    <title lang="vi">Ở Bên Rìa Tương Lai</title>
+  </programme>
+  <programme start="20210912230000 +0700" stop="20210912235000 +0700" channel="warner">
+    <title lang="vi">Huyền Thoại Tương Lai (Phần 6 - Tập 15)</title>
+  </programme>
+  <programme start="20210912235000 +0700" stop="20210913004000 +0700" channel="warner">
+    <title lang="vi">Cô Gái Thiên Tinh (Phần 2)</title>
+    <desc lang="vi">Tập 5.(n)</desc>
+  </programme>
+  <programme start="20210913004000 +0700" stop="20210913013000 +0700" channel="warner">
+    <title lang="vi">Cô Gái Siêu Nhân (Phần 6)</title>
+    <desc lang="vi">Tập 10.(n)</desc>
+  </programme>
+  <programme start="20210913013000 +0700" stop="20210913015500 +0700" channel="warner">
+    <title lang="vi">Học Thuyết Vụ Nổ Lớn (Phần 10)</title>
+    <desc lang="vi">Tập 11.(n)</desc>
+  </programme>
+  <programme start="20210913015500 +0700" stop="20210913024000 +0700" channel="warner">
+    <title lang="vi">Điểm Mù (Phần 4)</title>
+    <desc lang="vi">Tập 19.(n)</desc>
+  </programme>
+  <programme start="20210913024000 +0700" stop="20210913033000 +0700" channel="warner">
+    <title lang="vi">Điểm Mù (Phần 4)</title>
+    <desc lang="vi">Tập 20.(n)</desc>
+  </programme>
+  <programme start="20210913033000 +0700" stop="20210913042000 +0700" channel="warner">
+    <title lang="vi">Điểm Mù (Phần 4)</title>
+    <desc lang="vi">Tập 21.(n)</desc>
+  </programme>
+  <programme start="20210913042000 +0700" stop="20210913051000 +0700" channel="warner">
+    <title lang="vi">Điểm Mù (Phần 4)</title>
+    <desc lang="vi">Tập 22.(n)</desc>
+  </programme>
+  <programme start="20210913051000 +0700" stop="20210913053500 +0700" channel="warner">
+    <title lang="vi">Những Kẻ Thích Đùa Dại Dột (Phần 1)</title>
+    <desc lang="vi">Tập 1.(n)</desc>
+  </programme>
+  <programme start="20210913053500 +0700" stop="20210913060000 +0700" channel="warner">
+    <title lang="vi">Những Kẻ Thích Đùa Dại Dột (Phần 1)</title>
+    <desc lang="vi">Tập 2.(n)</desc>
+  </programme>
+  <programme start="20210913060000 +0700" stop="20210913062500 +0700" channel="warner">
+    <title lang="vi">Nhóc Sheldon Phần 2</title>
+    <desc lang="vi">Tập 20.(n)</desc>
+  </programme>
+  <programme start="20210913062500 +0700" stop="20210913065000 +0700" channel="warner">
+    <title lang="vi">Nhóc Sheldon (Phần 2 - Tập 21)</title>
+  </programme>
+  <programme start="20210913065000 +0700" stop="20210913073500 +0700" channel="warner">
+    <title lang="vi">Điểm Mù (Phần 4 - Tập 3)</title>
+  </programme>
+  <programme start="20210913073500 +0700" stop="20210913080000 +0700" channel="warner">
+    <title lang="vi">Những Kẻ Thích Đùa Dại Dột (Phần 1 - Tập 3)</title>
+  </programme>
+  <programme start="20210913080000 +0700" stop="20210913082500 +0700" channel="warner">
+    <title lang="vi">Những Kẻ Thích Đùa Dại Dột (Phần 1 - Tập 4)</title>
+  </programme>
+  <programme start="20210913082500 +0700" stop="20210913091000 +0700" channel="warner">
+    <title lang="vi">Huyền Thoại Tương Lai (Phần 4 - Tập 14)</title>
+  </programme>
+  <programme start="20210913091000 +0700" stop="20210913100000 +0700" channel="warner">
+    <title lang="vi">Vũ Khí Chết Người (Phần 3 - Tập 7)</title>
+  </programme>
+  <programme start="20210913100000 +0700" stop="20210913102500 +0700" channel="warner">
+    <title lang="vi">Nhóc Sheldon Phần 2</title>
+    <desc lang="vi">Tập 20.(n)</desc>
+  </programme>
+  <programme start="20210913102500 +0700" stop="20210913105000 +0700" channel="warner">
+    <title lang="vi">Nhóc Sheldon (Phần 2 - Tập 21)</title>
+  </programme>
+  <programme start="20210913105000 +0700" stop="20210913114000 +0700" channel="warner">
+    <title lang="vi">Chạy Đua Đến Phim Trường (Phần 1 - Tập 1)</title>
+  </programme>
+  <programme start="20210913114000 +0700" stop="20210913123000 +0700" channel="warner">
+    <title lang="vi">Huyền Thoại Tương Lai (Phần 6 - Tập 15)</title>
+  </programme>
+  <programme start="20210913123000 +0700" stop="20210913144500 +0700" channel="warner">
+    <title lang="vi">Người Dơi Trở Lại</title>
+  </programme>
+  <programme start="20210913144500 +0700" stop="20210913151000 +0700" channel="warner">
+    <title lang="vi">Nhóc Sheldon (Phần 2 - Tập 21)</title>
+  </programme>
+  <programme start="20210913151000 +0700" stop="20210913160000 +0700" channel="warner">
+    <title lang="vi">Chạy Đua Đến Phim Trường (Phần 1 - Tập 1)</title>
+  </programme>
+  <programme start="20210913160000 +0700" stop="20210913165000 +0700" channel="warner">
+    <title lang="vi">Vũ Khí Chết Người (Phần 3 - Tập 7)</title>
+  </programme>
+  <programme start="20210913165000 +0700" stop="20210913174000 +0700" channel="warner">
+    <title lang="vi">Huyền Thoại Tương Lai (Phần 4 - Tập 14)</title>
+  </programme>
+  <programme start="20210913174000 +0700" stop="20210913183000 +0700" channel="warner">
+    <title lang="vi">Điểm Mù (Phần 4 - Tập 3)</title>
+  </programme>
+  <programme start="20210913183000 +0700" stop="20210913192000 +0700" channel="warner">
+    <title lang="vi">Vũ Khí Chết Người (Phần 3 - Tập 7)</title>
+  </programme>
+  <programme start="20210913192000 +0700" stop="20210913194500 +0700" channel="warner">
+    <title lang="vi">Học Thuyết Vụ Nổ Lớn (Phần 10 - Tập 13)</title>
+  </programme>
+  <programme start="20210913194500 +0700" stop="20210913201000 +0700" channel="warner">
+    <title lang="vi">Học Thuyết Vụ Nổ Lớn (Phần 10 - Tập 14)</title>
+  </programme>
+  <programme start="20210913201000 +0700" stop="20210913223000 +0700" channel="warner">
+    <title lang="vi">Thám Tử Sherlock</title>
+    <desc lang="vi">Sherlock Holmes.(n)</desc>
+  </programme>
+  <programme start="20210913223000 +0700" stop="20210913232000 +0700" channel="warner">
+    <title lang="vi">Chạy Đua Đến Phim Trường (Phần 1 - Tập 1)</title>
+  </programme>
+  <programme start="20210913232000 +0700" stop="20210913234500 +0700" channel="warner">
+    <title lang="vi">Học Thuyết Vụ Nổ Lớn (Phần 10 - Tập 13)</title>
+  </programme>
+  <programme start="20210911231000 +0700" stop="20210912010000 +0700" channel="cinema.world">
+    <title lang="vi">Quý Cô Chambon</title>
+  </programme>
+  <programme start="20210912010000 +0700" stop="20210912024500 +0700" channel="cinema.world">
+    <title lang="vi">Nhồi Nhét</title>
+  </programme>
+  <programme start="20210912024500 +0700" stop="20210912042500 +0700" channel="cinema.world">
+    <title lang="vi">Adela</title>
+  </programme>
+  <programme start="20210912042500 +0700" stop="20210912060000 +0700" channel="cinema.world">
+    <title lang="vi">Đường Phố Berlin: Kẻ Vận Chuyển</title>
+  </programme>
+  <programme start="20210912060000 +0700" stop="20210912073000 +0700" channel="cinema.world">
+    <title lang="vi">Cưa Đổ Bố Vợ</title>
+  </programme>
+  <programme start="20210912073000 +0700" stop="20210912090500 +0700" channel="cinema.world">
+    <title lang="vi">Án Mạng Ở Mũi Land's End</title>
+  </programme>
+  <programme start="20210912090500 +0700" stop="20210912105000 +0700" channel="cinema.world">
+    <title lang="vi">Cực Quang</title>
+  </programme>
+  <programme start="20210912105000 +0700" stop="20210912123000 +0700" channel="cinema.world">
+    <title lang="vi">Bản Năng</title>
+  </programme>
+  <programme start="20210912123000 +0700" stop="20210912140000 +0700" channel="cinema.world">
+    <title lang="vi">Đường Phố Berlin: Ăn Mòn</title>
+  </programme>
+  <programme start="20210912140000 +0700" stop="20210912160500 +0700" channel="cinema.world">
+    <title lang="vi">Thử Thách</title>
+  </programme>
+  <programme start="20210912160500 +0700" stop="20210912174000 +0700" channel="cinema.world">
+    <title lang="vi">Làm Bố</title>
+  </programme>
+  <programme start="20210912174000 +0700" stop="20210912192000 +0700" channel="cinema.world">
+    <title lang="vi">Quý Cô Chambon</title>
+  </programme>
+  <programme start="20210912192000 +0700" stop="20210912204000 +0700" channel="cinema.world">
+    <title lang="vi">Trẻ Trung Và Khá Bảnh</title>
+  </programme>
+  <programme start="20210912204000 +0700" stop="20210912210000 +0700" channel="cinema.world">
+    <title lang="vi">Sneha: Đời Không Như Mơ</title>
+  </programme>
+  <programme start="20210912210000 +0700" stop="20210912230000 +0700" channel="cinema.world">
+    <title lang="vi">Điều Ta Chưa Rõ Về Nhau</title>
+  </programme>
+  <programme start="20210912230000 +0700" stop="20210913004500 +0700" channel="cinema.world">
+    <title lang="vi">Cánh Cửa</title>
+  </programme>
+  <programme start="20210913004500 +0700" stop="20210913022500 +0700" channel="cinema.world">
+    <title lang="vi">Cưa Đổ Bố Vợ</title>
+  </programme>
+  <programme start="20210913022500 +0700" stop="20210913042000 +0700" channel="cinema.world">
+    <title lang="vi">Cực Quang</title>
+  </programme>
+  <programme start="20210913042000 +0700" stop="20210913060000 +0700" channel="cinema.world">
+    <title lang="vi">Đường Phố Berlin: Ăn Mòn</title>
+  </programme>
+  <programme start="20210913060000 +0700" stop="20210913075000 +0700" channel="cinema.world">
+    <title lang="vi">Garden Lane</title>
+  </programme>
+  <programme start="20210913075000 +0700" stop="20210913092000 +0700" channel="cinema.world">
+    <title lang="vi">Làm Bố</title>
+  </programme>
+  <programme start="20210913092000 +0700" stop="20210913110500 +0700" channel="cinema.world">
+    <title lang="vi">Nụ Cười Estruca</title>
+  </programme>
+  <programme start="20210913110500 +0700" stop="20210913130500 +0700" channel="cinema.world">
+    <title lang="vi">Điều Ta Chưa Rõ Về Nhau</title>
+  </programme>
+  <programme start="20210913130500 +0700" stop="20210913131500 +0700" channel="cinema.world">
+    <title lang="vi">Sneha: Đời Không Như Mơ</title>
+  </programme>
+  <programme start="20210913131500 +0700" stop="20210913144500 +0700" channel="cinema.world">
+    <title lang="vi">Đường Phố Berlin: Chúng Ta, Cô Ấy Và Bọn Họ</title>
+  </programme>
+  <programme start="20210913144500 +0700" stop="20210913160500 +0700" channel="cinema.world">
+    <title lang="vi">Trẻ Trung Và Khá Bảnh</title>
+  </programme>
+  <programme start="20210913160500 +0700" stop="20210913175000 +0700" channel="cinema.world">
+    <title lang="vi">Trái Tim Đàn Ông</title>
+  </programme>
+  <programme start="20210913175000 +0700" stop="20210913193000 +0700" channel="cinema.world">
+    <title lang="vi">Cánh Cửa</title>
+  </programme>
+  <programme start="20210913193000 +0700" stop="20210913210000 +0700" channel="cinema.world">
+    <title lang="vi">Án Mạng Bên Hồ: Chỉ Cái Chết Chia Lìa Đôi Ta</title>
+  </programme>
+  <programme start="20210913210000 +0700" stop="20210913223000 +0700" channel="cinema.world">
+    <title lang="vi">Mùa Hè Croatia</title>
+  </programme>
+  <programme start="20210913223000 +0700" stop="20210913225000 +0700" channel="cinema.world">
+    <title lang="vi">Phố Kim Ngư</title>
+  </programme>
+  <programme start="20210911230000 +0700" stop="20210912000000 +0700" channel="boomerang">
+    <title lang="vi">Tom Và Jerry</title>
+    <desc lang="vi">Tập 20\/tập 21\/tập 23\/tập 27\/tập 28\/tập 29\/tập 30.(n)</desc>
+  </programme>
+  <programme start="20210912000000 +0700" stop="20210912010000 +0700" channel="boomerang">
+    <title lang="vi">Những Cuộc Đua Kì Quặc</title>
+    <desc lang="vi">Tập 11\/tập 21\/tập 31\/tập 51\/tập 70.(n)</desc>
+  </programme>
+  <programme start="20210912010000 +0700" stop="20210912020000 +0700" channel="boomerang">
+    <title lang="vi">Thanh Tra Gadget</title>
+    <desc lang="vi">Tập 201A\/tập 206B\/tập 211A\/tập 216A\/tập 221A.(n)</desc>
+  </programme>
+  <programme start="20210912020000 +0700" stop="20210912030000 +0700" channel="boomerang">
+    <title lang="vi">Ben 10</title>
+    <desc lang="vi">Tập 12\/tập 24.(n)</desc>
+  </programme>
+  <programme start="20210912030000 +0700" stop="20210912040000 +0700" channel="boomerang">
+    <title lang="vi">Những Cô Gái Siêu Nhân</title>
+    <desc lang="vi">Tập 8A\/tập 20B\/tập 33A\/tập 60B\/tập 72B.(n)</desc>
+  </programme>
+  <programme start="20210912040000 +0700" stop="20210912050000 +0700" channel="boomerang">
+    <title lang="vi">Trại Trẻ Mồ Côi Cho Những Người Bạn Tưởng Tượng</title>
+    <desc lang="vi">Tập 10\/tập 11.(n)</desc>
+  </programme>
+  <programme start="20210912050000 +0700" stop="20210912060000 +0700" channel="boomerang">
+    <title lang="vi">Chowder</title>
+    <desc lang="vi">Tập 6A\/tập 32A\/tập 32B\/tập 46A.(n)</desc>
+  </programme>
+  <programme start="20210912060000 +0700" stop="20210912070000 +0700" channel="boomerang">
+    <title lang="vi">Những Cuộc Đua Kì Quặc</title>
+    <desc lang="vi">Tập 12\/tập 22\/tập 32\/tập 52\/tập 71.(n)</desc>
+  </programme>
+  <programme start="20210912070000 +0700" stop="20210912080000 +0700" channel="boomerang">
+    <title lang="vi">Thanh Tra Gadget</title>
+    <desc lang="vi">Tập 201B\/tập 207A\/tập 211B\/tập 216B\/tập 221B.(n)</desc>
+  </programme>
+  <programme start="20210912080000 +0700" stop="20210912091500 +0700" channel="boomerang">
+    <title lang="vi">Barbie: Giấc Mơ Nơi Thành Phố Lớn</title>
+    <desc lang="vi">Tập 1.(n)</desc>
+  </programme>
+  <programme start="20210912091500 +0700" stop="20210912092000 +0700" channel="boomerang">
+    <title lang="vi">Lamput</title>
+    <desc lang="vi">Tập 2.(n)</desc>
+  </programme>
+  <programme start="20210912092000 +0700" stop="20210912092500 +0700" channel="boomerang">
+    <title lang="vi">Lamput</title>
+    <desc lang="vi">Tập 3.(n)</desc>
+  </programme>
+  <programme start="20210912092500 +0700" stop="20210912093000 +0700" channel="boomerang">
+    <title lang="vi">Lamput</title>
+    <desc lang="vi">Tập 12.(n)</desc>
+  </programme>
+  <programme start="20210912093000 +0700" stop="20210912100000 +0700" channel="boomerang">
+    <title lang="vi">Những Cô Gái Siêu Nhân</title>
+    <desc lang="vi">Tập 43.(n)</desc>
+  </programme>
+  <programme start="20210912100000 +0700" stop="20210912110000 +0700" channel="boomerang">
+    <title lang="vi">Trại Trẻ Mồ Côi Cho Những Người Bạn Tưởng Tượng</title>
+    <desc lang="vi">Tập 12\/tập 13.(n)</desc>
+  </programme>
+  <programme start="20210912110000 +0700" stop="20210912120000 +0700" channel="boomerang">
+    <title lang="vi">Bình Tĩnh, Scooby-Doo</title>
+    <desc lang="vi">Tập 27\/tập 16.(n)</desc>
+  </programme>
+  <programme start="20210912120000 +0700" stop="20210912130000 +0700" channel="boomerang">
+    <title lang="vi">Scooby-Doo Và Ai Thế Nhỉ</title>
+    <desc lang="vi">Tập 20\/tập 34.(n)</desc>
+  </programme>
+  <programme start="20210912130000 +0700" stop="20210912140000 +0700" channel="boomerang">
+    <title lang="vi">Scooby-Doo! Đội Giải Mã Bí Ẩn</title>
+    <desc lang="vi">Tập 12\/tập 38.(n)</desc>
+  </programme>
+  <programme start="20210912140000 +0700" stop="20210912143000 +0700" channel="boomerang">
+    <title lang="vi">Chương Trình Những Giai Điệu Ngốc Nghếch</title>
+    <desc lang="vi">Tập 8.(n)</desc>
+  </programme>
+  <programme start="20210912143000 +0700" stop="20210912150000 +0700" channel="boomerang">
+    <title lang="vi">Gấu Xám Và Những Chú Chuột Lemmut</title>
+    <desc lang="vi">Tập 344\/tập 365\/tập 342\/tập 336.(n)</desc>
+  </programme>
+  <programme start="20210912150000 +0700" stop="20210912160000 +0700" channel="boomerang">
+    <title lang="vi">Chương Trình Tom Và Jerry</title>
+    <desc lang="vi">Tập 291\/tập 231\/tập 257\/tập 283\/tập 153\/tập 179\/tập 12A.(n)</desc>
+  </programme>
+  <programme start="20210912160000 +0700" stop="20210912163000 +0700" channel="boomerang">
+    <title lang="vi">Mike Dũng Mãnh</title>
+    <desc lang="vi">Tập 3\/tập 24\/tập 43\/tập 66.(n)</desc>
+  </programme>
+  <programme start="20210912163000 +0700" stop="20210912170000 +0700" channel="boomerang">
+    <title lang="vi">Chú Chó Pat</title>
+    <desc lang="vi">Tập 212\/tập 232\/tập 252\/tập 12.(n)</desc>
+  </programme>
+  <programme start="20210912170000 +0700" stop="20210912173000 +0700" channel="boomerang">
+    <title lang="vi">Cuộc Phiêu Lưu Kì Thú Cùng Khủng Long</title>
+    <desc lang="vi">Tập 12\/tập 25.(n)</desc>
+  </programme>
+  <programme start="20210912173000 +0700" stop="20210912180000 +0700" channel="boomerang">
+    <title lang="vi">Hiệp Sĩ Và Tôi</title>
+    <desc lang="vi">Tập 112\/tập 138.(n)</desc>
+  </programme>
+  <programme start="20210912180000 +0700" stop="20210912190000 +0700" channel="boomerang">
+    <title lang="vi">Tom Và Jerry</title>
+    <desc lang="vi">Tập 292\/tập 232\/tập 258\/tập 284\/tập 154\/tập 180\/tập 12B.(n)</desc>
+  </programme>
+  <programme start="20210912190000 +0700" stop="20210912202500 +0700" channel="boomerang">
+    <title lang="vi">Tom Và Jerry: Lên Sao Hỏa</title>
+    <desc lang="vi">Tập 1.(n)</desc>
+  </programme>
+  <programme start="20210912202500 +0700" stop="20210912203000 +0700" channel="boomerang">
+    <title lang="vi">Lamput</title>
+    <desc lang="vi">Tập 1.(n)</desc>
+  </programme>
+  <programme start="20210912203000 +0700" stop="20210912210000 +0700" channel="boomerang">
+    <title lang="vi">Những Giai Điệu Ngốc Nghếch</title>
+    <desc lang="vi">Tập 142A\/tập 92A\/tập 77B\/tập 47B.(n)</desc>
+  </programme>
+  <programme start="20210912210000 +0700" stop="20210912213000 +0700" channel="boomerang">
+    <title lang="vi">Mike Dũng Mãnh</title>
+    <desc lang="vi">Tập 4\/tập 25\/tập 44\/tập 67.(n)</desc>
+  </programme>
+  <programme start="20210912213000 +0700" stop="20210912225500 +0700" channel="boomerang">
+    <title lang="vi">Tom Và Jerry: Lên Sao Hỏa</title>
+    <desc lang="vi">Tập 1.(n)</desc>
+  </programme>
+  <programme start="20210912225500 +0700" stop="20210912230000 +0700" channel="boomerang">
+    <title lang="vi">Lamput</title>
+    <desc lang="vi">Tập 1.(n)</desc>
+  </programme>
+  <programme start="20210912230000 +0700" stop="20210913000000 +0700" channel="boomerang">
+    <title lang="vi">Tom Và Jerry</title>
+    <desc lang="vi">Tập 31\/tập 32\/tập 35\/tập 37\/tập 38\/tập 41\/tập 42.(n)</desc>
+  </programme>
+  <programme start="20210913000000 +0700" stop="20210913010000 +0700" channel="boomerang">
+    <title lang="vi">Những Cuộc Đua Kì Quặc</title>
+    <desc lang="vi">Tập 12\/tập 22\/tập 32\/tập 52\/tập 71.(n)</desc>
+  </programme>
+  <programme start="20210913010000 +0700" stop="20210913020000 +0700" channel="boomerang">
+    <title lang="vi">Thanh Tra Gadget</title>
+    <desc lang="vi">Tập 201B\/tập 207A\/tập 211B\/tập 216B\/tập 221B.(n)</desc>
+  </programme>
+  <programme start="20210913020000 +0700" stop="20210913030000 +0700" channel="boomerang">
+    <title lang="vi">Ben 10</title>
+    <desc lang="vi">Tập 13\/tập 25.(n)</desc>
+  </programme>
+  <programme start="20210913030000 +0700" stop="20210913040000 +0700" channel="boomerang">
+    <title lang="vi">Những Cô Gái Siêu Nhân</title>
+    <desc lang="vi">Tập 8B\/tập 21A\/tập 33B\/tập 61A\/tập 73.(n)</desc>
+  </programme>
+  <programme start="20210913040000 +0700" stop="20210913050000 +0700" channel="boomerang">
+    <title lang="vi">Trại Trẻ Mồ Côi Cho Những Người Bạn Tưởng Tượng</title>
+    <desc lang="vi">Tập 12\/tập 13.(n)</desc>
+  </programme>
+  <programme start="20210913050000 +0700" stop="20210913060000 +0700" channel="boomerang">
+    <title lang="vi">Chowder</title>
+    <desc lang="vi">Tập 6B\/tập 33A\/tập 33B\/tập 46B.(n)</desc>
+  </programme>
+  <programme start="20210913060000 +0700" stop="20210913070000 +0700" channel="boomerang">
+    <title lang="vi">Những Cuộc Đua Kì Quặc</title>
+    <desc lang="vi">Tập 13\/tập 23\/tập 33\/tập 53\/tập 72.(n)</desc>
+  </programme>
+  <programme start="20210913070000 +0700" stop="20210913080000 +0700" channel="boomerang">
+    <title lang="vi">Thanh Tra Gadget</title>
+    <desc lang="vi">Tập 202A\/tập 207B\/tập 212A\/tập 217A\/tập 222A.(n)</desc>
+  </programme>
+  <programme start="20210913080000 +0700" stop="20210913090000 +0700" channel="boomerang">
+    <title lang="vi">Ben 10</title>
+    <desc lang="vi">Tập 1\/tập 26.(n)</desc>
+  </programme>
+  <programme start="20210913090000 +0700" stop="20210913100000 +0700" channel="boomerang">
+    <title lang="vi">Những Cô Gái Siêu Nhân</title>
+    <desc lang="vi">Tập 9A\/tập 21B\/tập 34A\/tập 62A\/tập 74A.(n)</desc>
+  </programme>
+  <programme start="20210913100000 +0700" stop="20210913110000 +0700" channel="boomerang">
+    <title lang="vi">Trại Trẻ Mồ Côi Cho Những Người Bạn Tưởng Tượng</title>
+    <desc lang="vi">Tập 1\/tập 2.(n)</desc>
+  </programme>
+  <programme start="20210913110000 +0700" stop="20210913120000 +0700" channel="boomerang">
+    <title lang="vi">Bình Tĩnh, Scooby-Doo</title>
+    <desc lang="vi">Tập 34\/tập 25.(n)</desc>
+  </programme>
+  <programme start="20210913120000 +0700" stop="20210913130000 +0700" channel="boomerang">
+    <title lang="vi">Scooby-Doo Và Ai Thế Nhỉ</title>
+    <desc lang="vi">Tập 2\/tập 30.(n)</desc>
+  </programme>
+  <programme start="20210913130000 +0700" stop="20210913140000 +0700" channel="boomerang">
+    <title lang="vi">Scooby-Doo! Đội Giải Mã Bí Ẩn</title>
+    <desc lang="vi">Tập 13\/tập 39.(n)</desc>
+  </programme>
+  <programme start="20210913140000 +0700" stop="20210913150000 +0700" channel="boomerang">
+    <title lang="vi">Chương Trình Những Giai Điệu Ngốc Nghếch</title>
+    <desc lang="vi">Tập 11\/tập 49.(n)</desc>
+  </programme>
+  <programme start="20210913150000 +0700" stop="20210913160000 +0700" channel="boomerang">
+    <title lang="vi">Chương Trình Tom Và Jerry</title>
+    <desc lang="vi">Tập 293\/tập 233\/tập 259\/tập 285\/tập 155\/tập 181\/tập 13A.(n)</desc>
+  </programme>
+  <programme start="20210913160000 +0700" stop="20210913163000 +0700" channel="boomerang">
+    <title lang="vi">Mike Dũng Mãnh</title>
+    <desc lang="vi">Tập 5\/tập 26\/tập 45\/tập 68.(n)</desc>
+  </programme>
+  <programme start="20210913163000 +0700" stop="20210913170000 +0700" channel="boomerang">
+    <title lang="vi">Chú Chó Pat</title>
+    <desc lang="vi">Tập 213\/tập 233\/tập 253\/tập 13.(n)</desc>
+  </programme>
+  <programme start="20210913170000 +0700" stop="20210913173000 +0700" channel="boomerang">
+    <title lang="vi">Cuộc Phiêu Lưu Kì Thú Cùng Khủng Long</title>
+    <desc lang="vi">Tập 13\/tập 26.(n)</desc>
+  </programme>
+  <programme start="20210913173000 +0700" stop="20210913180000 +0700" channel="boomerang">
+    <title lang="vi">Hiệp Sĩ Và Tôi</title>
+    <desc lang="vi">Tập 113\/tập 139.(n)</desc>
+  </programme>
+  <programme start="20210913180000 +0700" stop="20210913190000 +0700" channel="boomerang">
+    <title lang="vi">Tom Và Jerry</title>
+    <desc lang="vi">Tập 294\/tập 234\/tập 260\/tập 286\/tập 156\/tập 182\/tập 13B.(n)</desc>
+  </programme>
+  <programme start="20210913190000 +0700" stop="20210913200000 +0700" channel="boomerang">
+    <title lang="vi">Bình Tĩnh, Scooby-Doo</title>
+    <desc lang="vi">Tập 29\/tập 12.(n)</desc>
+  </programme>
+  <programme start="20210913200000 +0700" stop="20210913203000 +0700" channel="boomerang">
+    <title lang="vi">Chú Thỏ Bunnicula</title>
+    <desc lang="vi">Tập 103\/tập 46.(n)</desc>
+  </programme>
+  <programme start="20210913203000 +0700" stop="20210913210000 +0700" channel="boomerang">
+    <title lang="vi">Những Giai Điệu Ngốc Nghếch</title>
+    <desc lang="vi">Tập 125A\/tập 96A\/tập 63A\/tập 36A.(n)</desc>
+  </programme>
+  <programme start="20210913210000 +0700" stop="20210913213000 +0700" channel="boomerang">
+    <title lang="vi">Mike Dũng Mãnh</title>
+    <desc lang="vi">Tập 6\/tập 27\/tập 46\/tập 69.(n)</desc>
+  </programme>
+  <programme start="20210913213000 +0700" stop="20210913220000 +0700" channel="boomerang">
+    <title lang="vi">Gấu Xám Và Những Chú Chuột Lemmut</title>
+    <desc lang="vi">Tập 121\/tập 2\/tập 8\/tập 312.(n)</desc>
+  </programme>
+  <programme start="20210913220000 +0700" stop="20210913223000 +0700" channel="boomerang">
+    <title lang="vi">Taffy</title>
+    <desc lang="vi">Tập 12\/tập 37\/tập 38\/tập 70.(n)</desc>
+  </programme>
+  <programme start="20210913223000 +0700" stop="20210913230000 +0700" channel="boomerang">
+    <title lang="vi">Mèo Tom Biết Nói Và Những Người Bạn</title>
+    <desc lang="vi">Tập 513\/tập 9.(n)</desc>
+  </programme>
+  <programme start="20210911231000 +0700" stop="20210911234000 +0700" channel="bbc.world.news">
+    <title lang="vi">The Latest International News From The Bbc</title>
+  </programme>
+  <programme start="20210911234000 +0700" stop="20210912064000 +0700" channel="bbc.world.news">
+    <title lang="vi">Đang cập nhật</title>
+  </programme>
+  <programme start="20210912064000 +0700" stop="20210912071000 +0700" channel="bbc.world.news">
+    <title lang="vi">Examining The Business Stories And Economic Trends That Are Re-Shaping Our World</title>
+  </programme>
+  <programme start="20210912071000 +0700" stop="20210912074000 +0700" channel="bbc.world.news">
+    <title lang="vi">The Latest International News From The Bbc</title>
+  </programme>
+  <programme start="20210912074000 +0700" stop="20210912081000 +0700" channel="bbc.world.news">
+    <title lang="vi">Join The Team On Their Journey Of Discovery As They Explore New Destinations Around The Globe And Uncover Hidden Sides To Some Of The World's Favourite Holiday Hotspots</title>
+  </programme>
+  <programme start="20210912081000 +0700" stop="20210912084000 +0700" channel="bbc.world.news">
+    <title lang="vi">The Latest International News From The Bbc</title>
+  </programme>
+  <programme start="20210912084000 +0700" stop="20210912091000 +0700" channel="bbc.world.news">
+    <title lang="vi">Đang cập nhật</title>
+  </programme>
+  <programme start="20210912091000 +0700" stop="20210912094000 +0700" channel="bbc.world.news">
+    <title lang="vi">The Latest International News From The Bbc</title>
+  </programme>
+  <programme start="20210912094000 +0700" stop="20210912101000 +0700" channel="bbc.world.news">
+    <title lang="vi">Foreign Correspondents Currently Posted To London Look At Events In The Uk Through Outsiders' Eyes, And At How The Issues Of The Week Are Being Tackled Around The World</title>
+  </programme>
+  <programme start="20210912101000 +0700" stop="20210912104000 +0700" channel="bbc.world.news">
+    <title lang="vi">The Latest International News From The Bbc</title>
+  </programme>
+  <programme start="20210912104000 +0700" stop="20210912111000 +0700" channel="bbc.world.news">
+    <title lang="vi">Climate Change, Population Growth And Poverty Mean Future Food Security Is A Major Problem Facing Us All</title>
+  </programme>
+  <programme start="20210912111000 +0700" stop="20210912114000 +0700" channel="bbc.world.news">
+    <title lang="vi">The Latest International News From The Bbc</title>
+  </programme>
+  <programme start="20210912114000 +0700" stop="20210912121000 +0700" channel="bbc.world.news">
+    <title lang="vi">Đang cập nhật</title>
+  </programme>
+  <programme start="20210912121000 +0700" stop="20210912124000 +0700" channel="bbc.world.news">
+    <title lang="vi">The Latest International News From The Bbc</title>
+  </programme>
+  <programme start="20210912124000 +0700" stop="20210912131000 +0700" channel="bbc.world.news">
+    <title lang="vi">Newsnight Is A Weekly Round Up Of News And Current Affairs; Incorporating Hard-Hitting Interviews With Global Opinion-Formers And Documentaries From Every Corner Of The World</title>
+  </programme>
+  <programme start="20210912131000 +0700" stop="20210912134000 +0700" channel="bbc.world.news">
+    <title lang="vi">The Latest International News From The Bbc</title>
+  </programme>
+  <programme start="20210912134000 +0700" stop="20210912141000 +0700" channel="bbc.world.news">
+    <title lang="vi">Join The Team On Their Journey Of Discovery As They Explore New Destinations Around The Globe And Uncover Hidden Sides To Some Of The World's Favourite Holiday Hotspots</title>
+  </programme>
+  <programme start="20210912141000 +0700" stop="20210912142500 +0700" channel="bbc.world.news">
+    <title lang="vi">The Latest International News From The Bbc</title>
+  </programme>
+  <programme start="20210912142500 +0700" stop="20210912144000 +0700" channel="bbc.world.news">
+    <title lang="vi">All The Latest Sports News And Results From Around The Globe</title>
+  </programme>
+  <programme start="20210912144000 +0700" stop="20210912151000 +0700" channel="bbc.world.news">
+    <title lang="vi">A Comprehensive Guide To All The Latest Gadgets, Websites, Games And Computer Industry News</title>
+  </programme>
+  <programme start="20210912151000 +0700" stop="20210912152000 +0700" channel="bbc.world.news">
+    <title lang="vi">The Latest International News From The Bbc</title>
+  </programme>
+  <programme start="20210912152000 +0700" stop="20210912154000 +0700" channel="bbc.world.news">
+    <title lang="vi">Best Entertainment And International News Of The Week</title>
+  </programme>
+  <programme start="20210912154000 +0700" stop="20210912161000 +0700" channel="bbc.world.news">
+    <title lang="vi">Art Critic And Broadcaster Alastair Sooke Sets Out To Show The Art Of The Romans - Both The Best Insight To The Roman World And An Important Grounding For Western Art</title>
+  </programme>
+  <programme start="20210912161000 +0700" stop="20210912162000 +0700" channel="bbc.world.news">
+    <title lang="vi">The Latest International News From The Bbc</title>
+  </programme>
+  <programme start="20210912162000 +0700" stop="20210912171000 +0700" channel="bbc.world.news">
+    <title lang="vi">What Makes A Mother Give Away Her Baby? A Question In This Film About Three Unmarried Korean Women Who Have Become Pregnant And Are Now Hiding Until They Give Birth</title>
+  </programme>
+  <programme start="20210912171000 +0700" stop="20210912174000 +0700" channel="bbc.world.news">
+    <title lang="vi">The Latest International News From The Bbc</title>
+  </programme>
+  <programme start="20210912174000 +0700" stop="20210912181000 +0700" channel="bbc.world.news">
+    <title lang="vi">Examining The Business Stories And Economic Trends That Are Re-Shaping Our World</title>
+  </programme>
+  <programme start="20210912181000 +0700" stop="20210912184000 +0700" channel="bbc.world.news">
+    <title lang="vi">The Latest International News From The Bbc</title>
+  </programme>
+  <programme start="20210912184000 +0700" stop="20210912191000 +0700" channel="bbc.world.news">
+    <title lang="vi">Đang cập nhật</title>
+  </programme>
+  <programme start="20210912191000 +0700" stop="20210912192500 +0700" channel="bbc.world.news">
+    <title lang="vi">The Latest International News From The Bbc</title>
+  </programme>
+  <programme start="20210912192500 +0700" stop="20210912194000 +0700" channel="bbc.world.news">
+    <title lang="vi">All The Latest Sports News And Results From Around The Globe</title>
+  </programme>
+  <programme start="20210912194000 +0700" stop="20210912201000 +0700" channel="bbc.world.news">
+    <title lang="vi">A Comprehensive Guide To All The Latest Gadgets, Websites, Games And Computer Industry News</title>
+  </programme>
+  <programme start="20210912201000 +0700" stop="20210912202000 +0700" channel="bbc.world.news">
+    <title lang="vi">The Latest International News From The Bbc</title>
+  </programme>
+  <programme start="20210912202000 +0700" stop="20210912204000 +0700" channel="bbc.world.news">
+    <title lang="vi">Best Entertainment And International News Of The Week</title>
+  </programme>
+  <programme start="20210912204000 +0700" stop="20210912211000 +0700" channel="bbc.world.news">
+    <title lang="vi">The Rolex Fastnet Race Takes Place Once Every Two Years And Is Arguably The Most Famous Offshore Yachting Event In The Sailing Calendar</title>
+  </programme>
+  <programme start="20210912211000 +0700" stop="20210912214000 +0700" channel="bbc.world.news">
+    <title lang="vi">The Latest International News From The Bbc</title>
+  </programme>
+  <programme start="20210912214000 +0700" stop="20210912221000 +0700" channel="bbc.world.news">
+    <title lang="vi">Art Critic And Broadcaster Alastair Sooke Sets Out To Show The Art Of The Romans - Both The Best Insight To The Roman World And An Important Grounding For Western Art</title>
+  </programme>
+  <programme start="20210912221000 +0700" stop="20210912222000 +0700" channel="bbc.world.news">
+    <title lang="vi">The Latest International News From The Bbc</title>
+  </programme>
+  <programme start="20210912222000 +0700" stop="20210912224000 +0700" channel="bbc.world.news">
+    <title lang="vi">Best Entertainment And International News Of The Week</title>
+  </programme>
+  <programme start="20210912224000 +0700" stop="20210912231000 +0700" channel="bbc.world.news">
+    <title lang="vi">Climate Change, Population Growth And Poverty Mean Future Food Security Is A Major Problem Facing Us All</title>
+  </programme>
+  <programme start="20210912231000 +0700" stop="20210912234000 +0700" channel="bbc.world.news">
+    <title lang="vi">Live From Singapore, The Latest International News From The Bbc</title>
+  </programme>
+  <programme start="20210912234000 +0700" stop="20210912235500 +0700" channel="bbc.world.news">
+    <title lang="vi">Live From Singapore, The Essential Business News As It Breaks And A Look Ahead To The News That Will Shape The Business Day</title>
+  </programme>
+  <programme start="20210912235500 +0700" stop="20210913044000 +0700" channel="bbc.world.news">
+    <title lang="vi">All The Latest Sports News And Results From Around The Globe</title>
+  </programme>
+  <programme start="20210913044000 +0700" stop="20210913051000 +0700" channel="bbc.world.news">
+    <title lang="vi">In-Depth Interviews With Hard-Hitting Questions And Sensitive Topics Being Covered As Famous Personalities From All Walks Of Life Talk About The Highs And Lows In Their Lives</title>
+  </programme>
+  <programme start="20210913051000 +0700" stop="20210913054000 +0700" channel="bbc.world.news">
+    <title lang="vi">The Latest International News From The Bbc</title>
+  </programme>
+  <programme start="20210913054000 +0700" stop="20210913061000 +0700" channel="bbc.world.news">
+    <title lang="vi">The Latest Business News With Informed Analysis From The World's Financial Centres</title>
+  </programme>
+  <programme start="20210913061000 +0700" stop="20210913064000 +0700" channel="bbc.world.news">
+    <title lang="vi">The Latest International News From The Bbc</title>
+  </programme>
+  <programme start="20210913064000 +0700" stop="20210913071000 +0700" channel="bbc.world.news">
+    <title lang="vi">The Latest Business News With Informed Analysis From The World's Financial Centres</title>
+  </programme>
+  <programme start="20210913071000 +0700" stop="20210913074000 +0700" channel="bbc.world.news">
+    <title lang="vi">The Latest International News From The Bbc</title>
+  </programme>
+  <programme start="20210913074000 +0700" stop="20210913075500 +0700" channel="bbc.world.news">
+    <title lang="vi">The Latest International News From The Bbc</title>
+  </programme>
+  <programme start="20210913075500 +0700" stop="20210913081000 +0700" channel="bbc.world.news">
+    <title lang="vi">The Latest Business News With Informed Analysis From The World's Financial Centres</title>
+  </programme>
+  <programme start="20210913081000 +0700" stop="20210913084000 +0700" channel="bbc.world.news">
+    <title lang="vi">The Latest International News From The Bbc</title>
+  </programme>
+  <programme start="20210913084000 +0700" stop="20210913091000 +0700" channel="bbc.world.news">
+    <title lang="vi">Examining The Business Stories And Economic Trends That Are Re-Shaping Our World</title>
+  </programme>
+  <programme start="20210913091000 +0700" stop="20210913094000 +0700" channel="bbc.world.news">
+    <title lang="vi">The Latest International News From The Bbc</title>
+  </programme>
+  <programme start="20210913094000 +0700" stop="20210913101000 +0700" channel="bbc.world.news">
+    <title lang="vi">In-Depth Interviews With Hard-Hitting Questions And Sensitive Topics Being Covered As Famous Personalities From All Walks Of Life Talk About The Highs And Lows In Their Lives</title>
+  </programme>
+  <programme start="20210913101000 +0700" stop="20210913111000 +0700" channel="bbc.world.news">
+    <title lang="vi">Twenty-Four Hours A Day, The Latest National And International Stories As They Break</title>
+  </programme>
+  <programme start="20210913111000 +0700" stop="20210913114000 +0700" channel="bbc.world.news">
+    <title lang="vi">The Latest International News From The Bbc</title>
+  </programme>
+  <programme start="20210913114000 +0700" stop="20210913115500 +0700" channel="bbc.world.news">
+    <title lang="vi">The Latest Business News With Informed Analysis From The World's Financial Centres</title>
+  </programme>
+  <programme start="20210913115500 +0700" stop="20210913121000 +0700" channel="bbc.world.news">
+    <title lang="vi">All The Latest Sports News And Results From Around The Globe</title>
+  </programme>
+  <programme start="20210913121000 +0700" stop="20210913124000 +0700" channel="bbc.world.news">
+    <title lang="vi">The Latest International News From The Bbc</title>
+  </programme>
+  <programme start="20210913124000 +0700" stop="20210913131000 +0700" channel="bbc.world.news">
+    <title lang="vi">The Latest International News From The Bbc</title>
+  </programme>
+  <programme start="20210913131000 +0700" stop="20210913134000 +0700" channel="bbc.world.news">
+    <title lang="vi">The Latest International News From The Bbc</title>
+  </programme>
+  <programme start="20210913134000 +0700" stop="20210913141000 +0700" channel="bbc.world.news">
+    <title lang="vi">The Latest International News From The Bbc</title>
+  </programme>
+  <programme start="20210913141000 +0700" stop="20210913144000 +0700" channel="bbc.world.news">
+    <title lang="vi">The Latest International News From The Bbc</title>
+  </programme>
+  <programme start="20210913144000 +0700" stop="20210913145500 +0700" channel="bbc.world.news">
+    <title lang="vi">The Latest Business News With Informed Analysis From The World's Financial Centres</title>
+  </programme>
+  <programme start="20210913145500 +0700" stop="20210913151000 +0700" channel="bbc.world.news">
+    <title lang="vi">All The Latest Sports News And Results From Around The Globe</title>
+  </programme>
+  <programme start="20210913151000 +0700" stop="20210913154000 +0700" channel="bbc.world.news">
+    <title lang="vi">The Latest International News From The Bbc</title>
+  </programme>
+  <programme start="20210913154000 +0700" stop="20210913161000 +0700" channel="bbc.world.news">
+    <title lang="vi">In-Depth Interviews With Hard-Hitting Questions And Sensitive Topics Being Covered As Famous Personalities From All Walks Of Life Talk About The Highs And Lows In Their Lives</title>
+  </programme>
+  <programme start="20210913161000 +0700" stop="20210913164000 +0700" channel="bbc.world.news">
+    <title lang="vi">The Latest International News From The Bbc</title>
+  </programme>
+  <programme start="20210913164000 +0700" stop="20210913171000 +0700" channel="bbc.world.news">
+    <title lang="vi">The Latest International News From The Bbc</title>
+  </programme>
+  <programme start="20210913171000 +0700" stop="20210913174000 +0700" channel="bbc.world.news">
+    <title lang="vi">The Latest International News From The Bbc</title>
+  </programme>
+  <programme start="20210913174000 +0700" stop="20210913181000 +0700" channel="bbc.world.news">
+    <title lang="vi">Examining The Business Stories And Economic Trends That Are Re-Shaping Our World</title>
+  </programme>
+  <programme start="20210913181000 +0700" stop="20210913184000 +0700" channel="bbc.world.news">
+    <title lang="vi">The Latest International News From The Bbc</title>
+  </programme>
+  <programme start="20210913184000 +0700" stop="20210913191000 +0700" channel="bbc.world.news">
+    <title lang="vi">The Biggest African And International Stories From The Bbc</title>
+  </programme>
+  <programme start="20210913191000 +0700" stop="20210913194000 +0700" channel="bbc.world.news">
+    <title lang="vi">Ros Atkins With An Innovative Take On The Latest Global Stories</title>
+  </programme>
+  <programme start="20210913194000 +0700" stop="20210913201000 +0700" channel="bbc.world.news">
+    <title lang="vi">Ros Atkins With An Innovative Take On The Latest Global Stories</title>
+  </programme>
+  <programme start="20210913201000 +0700" stop="20210913204000 +0700" channel="bbc.world.news">
+    <title lang="vi">Ros Atkins With An Innovative Take On The Latest Global Stories</title>
+  </programme>
+  <programme start="20210913204000 +0700" stop="20210913211000 +0700" channel="bbc.world.news">
+    <title lang="vi">All The Latest Sports News And Results From Around The Globe</title>
+  </programme>
+  <programme start="20210913211000 +0700" stop="20210913214000 +0700" channel="bbc.world.news">
+    <title lang="vi">Twenty-Four Hours A Day, The Latest National And International Stories As They Break</title>
+  </programme>
+  <programme start="20210913214000 +0700" stop="20210913221000 +0700" channel="bbc.world.news">
+    <title lang="vi">Twenty-Four Hours A Day - The Latest National And International Stories As They Break</title>
+  </programme>
+  <programme start="20210913221000 +0700" stop="20210913224000 +0700" channel="bbc.world.news">
+    <title lang="vi">In-Depth Reports On The Major International And Us News Of The Day Presented From Washington Dc</title>
+  </programme>
+  <programme start="20210913224000 +0700" stop="20210913231000 +0700" channel="bbc.world.news">
+    <title lang="vi">In-Depth Interviews With Hard-Hitting Questions And Sensitive Topics Being Covered As Famous Personalities From All Walks Of Life Talk About The Highs And Lows In Their Lives</title>
+  </programme>
+  <programme start="20210913231000 +0700" stop="20210913234000 +0700" channel="bbc.world.news">
+    <title lang="vi">Live From Singapore, The Latest International News From The Bbc</title>
+  </programme>
+  <programme start="20210913234000 +0700" stop="20210913235500 +0700" channel="bbc.world.news">
+    <title lang="vi">Live From Singapore, The Essential Business News As It Breaks And A Look Ahead To The News That Will Shape The Business Day</title>
+  </programme>
+  <programme start="20210911234000 +0700" stop="20210912003500 +0700" channel="bbc.earth">
+    <title lang="vi">Những Thợ Săn Của Vùng Biển Nam</title>
+  </programme>
+  <programme start="20210912003500 +0700" stop="20210912012500 +0700" channel="bbc.earth">
+    <title lang="vi">Săn Đuổi Quái Thú</title>
+  </programme>
+  <programme start="20210912012500 +0700" stop="20210912022000 +0700" channel="bbc.earth">
+    <title lang="vi">New Zealand Hoang Dã</title>
+  </programme>
+  <programme start="20210912022000 +0700" stop="20210912031500 +0700" channel="bbc.earth">
+    <title lang="vi">Trại Huấn Luyện Bộ Lạc</title>
+  </programme>
+  <programme start="20210912031500 +0700" stop="20210912041000 +0700" channel="bbc.earth">
+    <title lang="vi">Những Hiện Tượng Thời Tiết Nguy Hiểm Nhất Thế Giới</title>
+  </programme>
+  <programme start="20210912041000 +0700" stop="20210912050500 +0700" channel="bbc.earth">
+    <title lang="vi">Săn Đuổi Quái Thú</title>
+  </programme>
+  <programme start="20210912050500 +0700" stop="20210912060000 +0700" channel="bbc.earth">
+    <title lang="vi">New Zealand Hoang Dã</title>
+  </programme>
+  <programme start="20210912060000 +0700" stop="20210912065000 +0700" channel="bbc.earth">
+    <title lang="vi">Những Hiện Tượng Thời Tiết Nguy Hiểm Nhất Thế Giới</title>
+  </programme>
+  <programme start="20210912065000 +0700" stop="20210912075000 +0700" channel="bbc.earth">
+    <title lang="vi">Đô Thị Hoang Dã</title>
+  </programme>
+  <programme start="20210912075000 +0700" stop="20210912084500 +0700" channel="bbc.earth">
+    <title lang="vi">Khám Phá Con Đường Tơ Lụa Cùng Joanna Lumley</title>
+  </programme>
+  <programme start="20210912084500 +0700" stop="20210912093000 +0700" channel="bbc.earth">
+    <title lang="vi">Anthony Bourdain Những Góc Khuất</title>
+  </programme>
+  <programme start="20210912093000 +0700" stop="20210912102500 +0700" channel="bbc.earth">
+    <title lang="vi">Bên Trong Nhà Máy</title>
+  </programme>
+  <programme start="20210912102500 +0700" stop="20210912112000 +0700" channel="bbc.earth">
+    <title lang="vi">Trại Huấn Luyện Bộ Lạc</title>
+  </programme>
+  <programme start="20210912112000 +0700" stop="20210912121500 +0700" channel="bbc.earth">
+    <title lang="vi">Khám Phá Nước Nga Cùng Simon Reeve</title>
+  </programme>
+  <programme start="20210912121500 +0700" stop="20210912130500 +0700" channel="bbc.earth">
+    <title lang="vi">Săn Đuổi Quái Thú</title>
+  </programme>
+  <programme start="20210912130500 +0700" stop="20210912135000 +0700" channel="bbc.earth">
+    <title lang="vi">Thử Thách Câu Cá Mạo Hiểm Cùng Robson Green</title>
+  </programme>
+  <programme start="20210912135000 +0700" stop="20210912144500 +0700" channel="bbc.earth">
+    <title lang="vi">Bên Trong Nhà Máy</title>
+  </programme>
+  <programme start="20210912144500 +0700" stop="20210912154000 +0700" channel="bbc.earth">
+    <title lang="vi">Trại Huấn Luyện Bộ Lạc</title>
+  </programme>
+  <programme start="20210912154000 +0700" stop="20210912163500 +0700" channel="bbc.earth">
+    <title lang="vi">Những Hiện Tượng Thời Tiết Nguy Hiểm Nhất Thế Giới</title>
+  </programme>
+  <programme start="20210912163500 +0700" stop="20210912173000 +0700" channel="bbc.earth">
+    <title lang="vi">Bên Trong Nhà Máy</title>
+  </programme>
+  <programme start="20210912173000 +0700" stop="20210912182500 +0700" channel="bbc.earth">
+    <title lang="vi">Khám Phá Con Đường Tơ Lụa Cùng Joanna Lumley</title>
+  </programme>
+  <programme start="20210912182500 +0700" stop="20210912192000 +0700" channel="bbc.earth">
+    <title lang="vi">Trại Huấn Luyện Bộ Lạc</title>
+  </programme>
+  <programme start="20210912192000 +0700" stop="20210912201500 +0700" channel="bbc.earth">
+    <title lang="vi">New Zealand Hoang Dã</title>
+  </programme>
+  <programme start="20210912201500 +0700" stop="20210912210000 +0700" channel="bbc.earth">
+    <title lang="vi">Anthony Bourdain Những Góc Khuất</title>
+  </programme>
+  <programme start="20210912210000 +0700" stop="20210912215000 +0700" channel="bbc.earth">
+    <title lang="vi">Săn Đuổi Quái Thú</title>
+  </programme>
+  <programme start="20210912215000 +0700" stop="20210912224500 +0700" channel="bbc.earth">
+    <title lang="vi">Trại Huấn Luyện Bộ Lạc</title>
+  </programme>
+  <programme start="20210912224500 +0700" stop="20210912233500 +0700" channel="bbc.earth">
+    <title lang="vi">Tiến Vào Nơi Hoang Dã Cùng Ben Fogle</title>
+  </programme>
+  <programme start="20210912233500 +0700" stop="20210913002000 +0700" channel="bbc.earth">
+    <title lang="vi">Anthony Bourdain Những Góc Khuất</title>
+  </programme>
+  <programme start="20210913002000 +0700" stop="20210913011000 +0700" channel="bbc.earth">
+    <title lang="vi">Săn Đuổi Quái Thú</title>
+  </programme>
+  <programme start="20210913011000 +0700" stop="20210913020000 +0700" channel="bbc.earth">
+    <title lang="vi">Trại Huấn Luyện Bộ Lạc</title>
+  </programme>
+  <programme start="20210913020000 +0700" stop="20210913025000 +0700" channel="bbc.earth">
+    <title lang="vi">Tiến Vào Nơi Hoang Dã Cùng Ben Fogle</title>
+  </programme>
+  <programme start="20210913025000 +0700" stop="20210913033500 +0700" channel="bbc.earth">
+    <title lang="vi">Anthony Bourdain Những Góc Khuất</title>
+  </programme>
+  <programme start="20210913033500 +0700" stop="20210913042000 +0700" channel="bbc.earth">
+    <title lang="vi">Săn Đuổi Quái Thú</title>
+  </programme>
+  <programme start="20210913042000 +0700" stop="20210913051000 +0700" channel="bbc.earth">
+    <title lang="vi">Trại Huấn Luyện Bộ Lạc</title>
+  </programme>
+  <programme start="20210913051000 +0700" stop="20210913060000 +0700" channel="bbc.earth">
+    <title lang="vi">Tiến Vào Nơi Hoang Dã Cùng Ben Fogle</title>
+  </programme>
+  <programme start="20210913060000 +0700" stop="20210913070000 +0700" channel="bbc.earth">
+    <title lang="vi">Đô Thị Hoang Dã</title>
+  </programme>
+  <programme start="20210913070000 +0700" stop="20210913075000 +0700" channel="bbc.earth">
+    <title lang="vi">Săn Đuổi Quái Thú</title>
+  </programme>
+  <programme start="20210913075000 +0700" stop="20210913084500 +0700" channel="bbc.earth">
+    <title lang="vi">Những Hiện Tượng Thời Tiết Nguy Hiểm Nhất Thế Giới</title>
+  </programme>
+  <programme start="20210913084500 +0700" stop="20210913093000 +0700" channel="bbc.earth">
+    <title lang="vi">Anthony Bourdain Những Góc Khuất</title>
+  </programme>
+  <programme start="20210913093000 +0700" stop="20210913095500 +0700" channel="bbc.earth">
+    <title lang="vi">Nhà Máy Thực Phẩm</title>
+  </programme>
+  <programme start="20210913095500 +0700" stop="20210913102000 +0700" channel="bbc.earth">
+    <title lang="vi">Nhà Máy Thực Phẩm</title>
+  </programme>
+  <programme start="20210913102000 +0700" stop="20210913112000 +0700" channel="bbc.earth">
+    <title lang="vi">Đô Thị Hoang Dã</title>
+  </programme>
+  <programme start="20210913112000 +0700" stop="20210913121000 +0700" channel="bbc.earth">
+    <title lang="vi">Săn Đuổi Quái Thú</title>
+  </programme>
+  <programme start="20210913121000 +0700" stop="20210913130000 +0700" channel="bbc.earth">
+    <title lang="vi">Những Hiện Tượng Thời Tiết Nguy Hiểm Nhất Thế Giới</title>
+  </programme>
+  <programme start="20210913130000 +0700" stop="20210913132500 +0700" channel="bbc.earth">
+    <title lang="vi">Nhà Máy Thực Phẩm</title>
+  </programme>
+  <programme start="20210913132500 +0700" stop="20210913135000 +0700" channel="bbc.earth">
+    <title lang="vi">Nhà Máy Thực Phẩm</title>
+  </programme>
+  <programme start="20210913135000 +0700" stop="20210913145000 +0700" channel="bbc.earth">
+    <title lang="vi">Đô Thị Hoang Dã</title>
+  </programme>
+  <programme start="20210913145000 +0700" stop="20210913154000 +0700" channel="bbc.earth">
+    <title lang="vi">Săn Đuổi Quái Thú</title>
+  </programme>
+  <programme start="20210913154000 +0700" stop="20210913163500 +0700" channel="bbc.earth">
+    <title lang="vi">Khám Phá Nước Nga Cùng Simon Reeve</title>
+  </programme>
+  <programme start="20210913163500 +0700" stop="20210913170000 +0700" channel="bbc.earth">
+    <title lang="vi">Nhà Máy Thực Phẩm</title>
+  </programme>
+  <programme start="20210913170000 +0700" stop="20210913172500 +0700" channel="bbc.earth">
+    <title lang="vi">Nhà Máy Thực Phẩm</title>
+  </programme>
+  <programme start="20210913172500 +0700" stop="20210913182000 +0700" channel="bbc.earth">
+    <title lang="vi">Đô Thị Hoang Dã</title>
+  </programme>
+  <programme start="20210913182000 +0700" stop="20210913191000 +0700" channel="bbc.earth">
+    <title lang="vi">Săn Đuổi Quái Thú</title>
+  </programme>
+  <programme start="20210913191000 +0700" stop="20210913193500 +0700" channel="bbc.earth">
+    <title lang="vi">Nhà Máy Thực Phẩm</title>
+  </programme>
+  <programme start="20210913193500 +0700" stop="20210913200500 +0700" channel="bbc.earth">
+    <title lang="vi">Nhà Máy Thực Phẩm</title>
+  </programme>
+  <programme start="20210913200500 +0700" stop="20210913210000 +0700" channel="bbc.earth">
+    <title lang="vi">Thế Giới Hoang Dã Tại Nhật Bản</title>
+  </programme>
+  <programme start="20210913210000 +0700" stop="20210913215500 +0700" channel="bbc.earth">
+    <title lang="vi">Hành Trình Việt Dã: Đường Đến Sài Gòn</title>
+  </programme>
+  <programme start="20210913215500 +0700" stop="20210913224500 +0700" channel="bbc.earth">
+    <title lang="vi">Tiến Vào Nơi Hoang Dã Cùng Ben Fogle</title>
+  </programme>
+  <programme start="20210913224500 +0700" stop="20210913234000 +0700" channel="bbc.earth">
+    <title lang="vi">Câu Cá Mạo Hiểm Cùng Robson Green</title>
+  </programme>
+  <programme start="20210911230000 +0700" stop="20210911235000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Bang On Budget</title>
+  </programme>
+  <programme start="20210911235000 +0700" stop="20210912004500 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Rick Stein: From Venice To Istanbul</title>
+  </programme>
+  <programme start="20210912004500 +0700" stop="20210912014000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">The Great Australian Bake Off</title>
+  </programme>
+  <programme start="20210912014000 +0700" stop="20210912023500 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Your Home, Made Perfect</title>
+  </programme>
+  <programme start="20210912023500 +0700" stop="20210912032000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Undercover Boss Usa</title>
+  </programme>
+  <programme start="20210912032000 +0700" stop="20210912040500 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Gordon, Gino And Fred's Road Trip</title>
+  </programme>
+  <programme start="20210912040500 +0700" stop="20210912050000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Your Home, Made Perfect</title>
+  </programme>
+  <programme start="20210912050000 +0700" stop="20210912054500 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Undercover Boss Usa</title>
+  </programme>
+  <programme start="20210912054500 +0700" stop="20210912061000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Rick Stein's Cornwall</title>
+  </programme>
+  <programme start="20210912061000 +0700" stop="20210912064000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Rick Stein's Cornwall</title>
+  </programme>
+  <programme start="20210912064000 +0700" stop="20210912073500 +0700" channel="bbc.lifestyle">
+    <title lang="vi">The Great British Sewing Bee</title>
+  </programme>
+  <programme start="20210912073500 +0700" stop="20210912083000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Your Home, Made Perfect</title>
+  </programme>
+  <programme start="20210912083000 +0700" stop="20210912085500 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Rachel Allen: All Things Sweet</title>
+  </programme>
+  <programme start="20210912085500 +0700" stop="20210912095000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Rick Stein: From Venice To Istanbul</title>
+  </programme>
+  <programme start="20210912095000 +0700" stop="20210912102000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Nigella's Cook, Eat, Repeat</title>
+  </programme>
+  <programme start="20210912102000 +0700" stop="20210912111500 +0700" channel="bbc.lifestyle">
+    <title lang="vi">The Great Australian Bake Off</title>
+  </programme>
+  <programme start="20210912111500 +0700" stop="20210912121000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Your Home, Made Perfect</title>
+  </programme>
+  <programme start="20210912121000 +0700" stop="20210912125500 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Undercover Boss Usa</title>
+  </programme>
+  <programme start="20210912125500 +0700" stop="20210912134500 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Bang On Budget</title>
+  </programme>
+  <programme start="20210912134500 +0700" stop="20210912141500 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Nigella's Cook, Eat, Repeat</title>
+  </programme>
+  <programme start="20210912141500 +0700" stop="20210912151000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Rick Stein: From Venice To Istanbul</title>
+  </programme>
+  <programme start="20210912151000 +0700" stop="20210912154000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Donal's Super Food In Minutes</title>
+  </programme>
+  <programme start="20210912154000 +0700" stop="20210912163500 +0700" channel="bbc.lifestyle">
+    <title lang="vi">The Great Australian Bake Off</title>
+  </programme>
+  <programme start="20210912163500 +0700" stop="20210912173000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Your Home, Made Perfect</title>
+  </programme>
+  <programme start="20210912173000 +0700" stop="20210912182500 +0700" channel="bbc.lifestyle">
+    <title lang="vi">The Great British Sewing Bee</title>
+  </programme>
+  <programme start="20210912182500 +0700" stop="20210912192000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Rick Stein: From Venice To Istanbul</title>
+  </programme>
+  <programme start="20210912192000 +0700" stop="20210912194500 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Donal's Super Food In Minutes</title>
+  </programme>
+  <programme start="20210912194500 +0700" stop="20210912203500 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Bang On Budget</title>
+  </programme>
+  <programme start="20210912203500 +0700" stop="20210912212000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Undercover Boss Usa</title>
+  </programme>
+  <programme start="20210912212000 +0700" stop="20210912221500 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Your Home, Made Perfect</title>
+  </programme>
+  <programme start="20210912221500 +0700" stop="20210912230500 +0700" channel="bbc.lifestyle">
+    <title lang="vi">The Graham Norton Show</title>
+  </programme>
+  <programme start="20210912230500 +0700" stop="20210912235000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Gordon, Gino And Fred's Road Trip</title>
+  </programme>
+  <programme start="20210912235000 +0700" stop="20210913003500 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Undercover Boss Usa</title>
+  </programme>
+  <programme start="20210913003500 +0700" stop="20210913013000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">The Great Australian Bake Off</title>
+  </programme>
+  <programme start="20210913013000 +0700" stop="20210913022500 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Hairy Bikers: Mediterranean Adventure</title>
+  </programme>
+  <programme start="20210913022500 +0700" stop="20210913025000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Rick Stein's Cornwall</title>
+  </programme>
+  <programme start="20210913025000 +0700" stop="20210913032000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Rick Stein's Cornwall</title>
+  </programme>
+  <programme start="20210913032000 +0700" stop="20210913041500 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Rick Stein: From Venice To Istanbul</title>
+  </programme>
+  <programme start="20210913041500 +0700" stop="20210913050000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Gordon, Gino And Fred's Road Trip</title>
+  </programme>
+  <programme start="20210913050000 +0700" stop="20210913055500 +0700" channel="bbc.lifestyle">
+    <title lang="vi">The Great British Bake Off</title>
+  </programme>
+  <programme start="20210913055500 +0700" stop="20210913065500 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Masterchef: The Professionals</title>
+  </programme>
+  <programme start="20210913065500 +0700" stop="20210913072000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Rachel Allen: All Things Sweet</title>
+  </programme>
+  <programme start="20210913072000 +0700" stop="20210913081000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Undercover Boss Usa</title>
+  </programme>
+  <programme start="20210913081000 +0700" stop="20210913090500 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Hairy Bikers: Mediterranean Adventure</title>
+  </programme>
+  <programme start="20210913090500 +0700" stop="20210913093000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Rachel Khoo's Kitchen Notebook: Melbourne</title>
+  </programme>
+  <programme start="20210913093000 +0700" stop="20210913095500 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Rachel Allen: All Things Sweet</title>
+  </programme>
+  <programme start="20210913095500 +0700" stop="20210913105000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Masterchef: The Professionals</title>
+  </programme>
+  <programme start="20210913105000 +0700" stop="20210913114000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Undercover Boss Usa</title>
+  </programme>
+  <programme start="20210913114000 +0700" stop="20210913123500 +0700" channel="bbc.lifestyle">
+    <title lang="vi">The Great British Bake Off</title>
+  </programme>
+  <programme start="20210913123500 +0700" stop="20210913133000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Your Home, Made Perfect</title>
+  </programme>
+  <programme start="20210913133000 +0700" stop="20210913142500 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Hairy Bikers: Mediterranean Adventure</title>
+  </programme>
+  <programme start="20210913142500 +0700" stop="20210913152000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Masterchef: The Professionals</title>
+  </programme>
+  <programme start="20210913152000 +0700" stop="20210913161000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Undercover Boss Usa</title>
+  </programme>
+  <programme start="20210913161000 +0700" stop="20210913170500 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Hairy Bikers: Mediterranean Adventure</title>
+  </programme>
+  <programme start="20210913170500 +0700" stop="20210913180000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">The Great British Bake Off</title>
+  </programme>
+  <programme start="20210913180000 +0700" stop="20210913183000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Nigella's Cook, Eat, Repeat</title>
+  </programme>
+  <programme start="20210913183000 +0700" stop="20210913185500 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Rick Stein's Cornwall</title>
+  </programme>
+  <programme start="20210913185500 +0700" stop="20210913192000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Rick Stein's Cornwall</title>
+  </programme>
+  <programme start="20210913192000 +0700" stop="20210913201500 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Masterchef: The Professionals</title>
+  </programme>
+  <programme start="20210913201500 +0700" stop="20210913211000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">The Great British Sewing Bee</title>
+  </programme>
+  <programme start="20210913211000 +0700" stop="20210913215500 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Ramsay's Kitchen Nightmares Usa</title>
+  </programme>
+  <programme start="20210913215500 +0700" stop="20210913222000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Rick Stein's Cornwall</title>
+  </programme>
+  <programme start="20210913222000 +0700" stop="20210913225000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Rick Stein's Cornwall</title>
+  </programme>
+  <programme start="20210913225000 +0700" stop="20210913232000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Nigella's Cook, Eat, Repeat</title>
+  </programme>
+  <programme start="20210911230000 +0700" stop="20210912060000 +0700" channel="fox.sports">
+    <title lang="vi">US Open Tennis 2021: Day 13</title>
+  </programme>
+  <programme start="20210912060000 +0700" stop="20210912063000 +0700" channel="fox.sports">
+    <title lang="vi">Ufc Fight Camp 2021</title>
+  </programme>
+  <programme start="20210912063000 +0700" stop="20210912073000 +0700" channel="fox.sports">
+    <title lang="vi">Formula 1 Heineken Gran Premio D'italia 2021: Practice 1</title>
+  </programme>
+  <programme start="20210912073000 +0700" stop="20210912090000 +0700" channel="fox.sports">
+    <title lang="vi">Formula 1 Heineken Gran Premio D'italia 2021: Qualifying</title>
+  </programme>
+  <programme start="20210912090000 +0700" stop="20210912100000 +0700" channel="fox.sports">
+    <title lang="vi">Formula 1 Heineken Gran Premio D'italia 2021: Practice 2</title>
+  </programme>
+  <programme start="20210912100000 +0700" stop="20210912110000 +0700" channel="fox.sports">
+    <title lang="vi">Formula 1 Heineken Gran Premio D'italia 2021: Sprint Qualifying</title>
+  </programme>
+  <programme start="20210912110000 +0700" stop="20210912113000 +0700" channel="fox.sports">
+    <title lang="vi">Espn Fc 2021 255</title>
+  </programme>
+  <programme start="20210912113000 +0700" stop="20210912120000 +0700" channel="fox.sports">
+    <title lang="vi">Generation Gap - Football Fairytales</title>
+  </programme>
+  <programme start="20210912120000 +0700" stop="20210912130000 +0700" channel="fox.sports">
+    <title lang="vi">US Open Tennis 2021: Best Matches Of The Day 13 - Women's Singles Final</title>
+  </programme>
+  <programme start="20210912130000 +0700" stop="20210912140000 +0700" channel="fox.sports">
+    <title lang="vi">US Open Tennis 2021: Best Matches Of The Day 13 - Mixed Doubles Final</title>
+  </programme>
+  <programme start="20210912140000 +0700" stop="20210912153000 +0700" channel="fox.sports">
+    <title lang="vi">Moto GP 2021: Qualifying - Grand Prix Of Aragon</title>
+  </programme>
+  <programme start="20210912153000 +0700" stop="20210912203000 +0700" channel="fox.sports">
+    <title lang="vi">Moto GP 2021: Races - Grand Prix Of Aragon</title>
+  </programme>
+  <programme start="20210912203000 +0700" stop="20210912211500 +0700" channel="fox.sports">
+    <title lang="vi">Red Bull Rookies Cup 2021: Race 14</title>
+  </programme>
+  <programme start="20210912211500 +0700" stop="20210912214500 +0700" channel="fox.sports">
+    <title lang="vi">US Open Tennis 2021: Day 13 Highlights</title>
+  </programme>
+  <programme start="20210912214500 +0700" stop="20210912215500 +0700" channel="fox.sports">
+    <title lang="vi">In Focus: Henrik Stenson</title>
+  </programme>
+  <programme start="20210912215500 +0700" stop="20210912220000 +0700" channel="fox.sports">
+    <title lang="vi">In Focus: Ian Poulter (5Mins)</title>
+  </programme>
+  <programme start="20210912220000 +0700" stop="20210912230000 +0700" channel="fox.sports">
+    <title lang="vi">US Open Tennis 2021: Best Matches Of The Day 13 - Women's Singles Final</title>
+  </programme>
+  <programme start="20210912230000 +0700" stop="20210912233000 +0700" channel="fox.sports">
+    <title lang="vi">Ufc Ultimate Submission : Heavyweights</title>
+  </programme>
+  <programme start="20210912233000 +0700" stop="20210913000000 +0700" channel="fox.sports">
+    <title lang="vi">US Open Tennis 2021: Day 13 Highlights</title>
+  </programme>
+  <programme start="20210913000000 +0700" stop="20210913060000 +0700" channel="fox.sports">
+    <title lang="vi">US Open Tennis 2021: Day 14</title>
+  </programme>
+  <programme start="20210913060000 +0700" stop="20210913070000 +0700" channel="fox.sports">
+    <title lang="vi">Abb Fia Formula E World C'ship 2021 - Highlights: Berlin E-Prix</title>
+  </programme>
+  <programme start="20210913070000 +0700" stop="20210913073000 +0700" channel="fox.sports">
+    <title lang="vi">Generation Gap - Bad Boys Of Tennis</title>
+  </programme>
+  <programme start="20210913073000 +0700" stop="20210913090000 +0700" channel="fox.sports">
+    <title lang="vi">Moto GP 2021: Qualifying - Grand Prix Of Aragon</title>
+  </programme>
+  <programme start="20210913090000 +0700" stop="20210913110000 +0700" channel="fox.sports">
+    <title lang="vi">Moto GP 2021: Races - Grand Prix Of Aragon</title>
+  </programme>
+  <programme start="20210913110000 +0700" stop="20210913113000 +0700" channel="fox.sports">
+    <title lang="vi">Espn Fc 2021 256</title>
+  </programme>
+  <programme start="20210913113000 +0700" stop="20210913123000 +0700" channel="fox.sports">
+    <title lang="vi">Abb Fia Formula E World C'ship 2021 - Highlights: Berlin E-Prix</title>
+  </programme>
+  <programme start="20210913123000 +0700" stop="20210913130000 +0700" channel="fox.sports">
+    <title lang="vi">Espn Fc 2021 256</title>
+  </programme>
+  <programme start="20210913130000 +0700" stop="20210913140000 +0700" channel="fox.sports">
+    <title lang="vi">US Open Tennis 2021: Best Matches Of The Day 14 - Womens Doubles Final</title>
+  </programme>
+  <programme start="20210913140000 +0700" stop="20210913150000 +0700" channel="fox.sports">
+    <title lang="vi">US Open Tennis 2021: Best Matches Of The Day 14 - Men's Singles Final</title>
+  </programme>
+  <programme start="20210913150000 +0700" stop="20210913151500 +0700" channel="fox.sports">
+    <title lang="vi">Sportscenter Asia 2021</title>
+  </programme>
+  <programme start="20210913151500 +0700" stop="20210913152500 +0700" channel="fox.sports">
+    <title lang="vi">In Focus: Jazz Janeeattananond</title>
+  </programme>
+  <programme start="20210913152500 +0700" stop="20210913153000 +0700" channel="fox.sports">
+    <title lang="vi">In Focus: Harry Kane: The Goal Machine (5Mins)</title>
+  </programme>
+  <programme start="20210913153000 +0700" stop="20210913160000 +0700" channel="fox.sports">
+    <title lang="vi">Espn Fc 2021 256</title>
+  </programme>
+  <programme start="20210913160000 +0700" stop="20210913180000 +0700" channel="fox.sports">
+    <title lang="vi">Formula 1 Heineken Italian Grand Prix 2021: Main Race</title>
+  </programme>
+  <programme start="20210913180000 +0700" stop="20210913183000 +0700" channel="fox.sports">
+    <title lang="vi">US Open Tennis 2021: Day 14 Highlights</title>
+  </programme>
+  <programme start="20210913183000 +0700" stop="20210913184500 +0700" channel="fox.sports">
+    <title lang="vi">Sportscenter Asia 2021</title>
+  </programme>
+  <programme start="20210913184500 +0700" stop="20210913185500 +0700" channel="fox.sports">
+    <title lang="vi">In Focus: Jazz Janeeattananond</title>
+  </programme>
+  <programme start="20210913185500 +0700" stop="20210913190000 +0700" channel="fox.sports">
+    <title lang="vi">In Focus: Harry Kane: The Goal Machine (5Mins)</title>
+  </programme>
+  <programme start="20210913190000 +0700" stop="20210913200000 +0700" channel="fox.sports">
+    <title lang="vi">The John Dykes Show</title>
+  </programme>
+  <programme start="20210913200000 +0700" stop="20210913210000 +0700" channel="fox.sports">
+    <title lang="vi">Formula 1 Heineken Gran Premio D'italia 2021: Highlights</title>
+  </programme>
+  <programme start="20210913210000 +0700" stop="20210913213000 +0700" channel="fox.sports">
+    <title lang="vi">Espn Fc 2021 256</title>
+  </programme>
+  <programme start="20210913213000 +0700" stop="20210913214500 +0700" channel="fox.sports">
+    <title lang="vi">Sportscenter Asia 2021</title>
+  </programme>
+  <programme start="20210913214500 +0700" stop="20210913215500 +0700" channel="fox.sports">
+    <title lang="vi">In Focus: Jazz Janeeattananond</title>
+  </programme>
+  <programme start="20210913215500 +0700" stop="20210913220000 +0700" channel="fox.sports">
+    <title lang="vi">In Focus: Harry Kane: The Goal Machine (5Mins)</title>
+  </programme>
+  <programme start="20210913220000 +0700" stop="20210913230000 +0700" channel="fox.sports">
+    <title lang="vi">The John Dykes Show</title>
+  </programme>
+  <programme start="20210911230000 +0700" stop="20210912023000 +0700" channel="fox.sports2">
+    <title lang="vi">Moto GP 2021: Qualifying - Grand Prix Of Aragon</title>
+  </programme>
+  <programme start="20210912023000 +0700" stop="20210912030000 +0700" channel="fox.sports2">
+    <title lang="vi">Vendee Globe 2020 21 - Weekly Highlights</title>
+  </programme>
+  <programme start="20210912030000 +0700" stop="20210912033000 +0700" channel="fox.sports2">
+    <title lang="vi">Vendee Globe 2020 21 - Weekly Highlights</title>
+  </programme>
+  <programme start="20210912033000 +0700" stop="20210912040000 +0700" channel="fox.sports2">
+    <title lang="vi">Vendee Globe 2020 21 - Weekly Highlights</title>
+  </programme>
+  <programme start="20210912040000 +0700" stop="20210912050000 +0700" channel="fox.sports2">
+    <title lang="vi">Formula 1 Heineken Gran Premio D'italia 2021: Practice 2</title>
+  </programme>
+  <programme start="20210912050000 +0700" stop="20210912063000 +0700" channel="fox.sports2">
+    <title lang="vi">Ntt Indycar Series 2021: Qualifying Grand Prix Of Portland</title>
+  </programme>
+  <programme start="20210912063000 +0700" stop="20210912080000 +0700" channel="fox.sports2">
+    <title lang="vi">Sailgp 2021-22 - Saint-Tropez Day 1</title>
+  </programme>
+  <programme start="20210912080000 +0700" stop="20210912093000 +0700" channel="fox.sports2">
+    <title lang="vi">Moto GP 2021: Qualifying - Grand Prix Of Aragon</title>
+  </programme>
+  <programme start="20210912093000 +0700" stop="20210912103000 +0700" channel="fox.sports2">
+    <title lang="vi">Monster Jam 2021: St Louis 3</title>
+  </programme>
+  <programme start="20210912103000 +0700" stop="20210912113000 +0700" channel="fox.sports2">
+    <title lang="vi">Max Power</title>
+  </programme>
+  <programme start="20210912113000 +0700" stop="20210912123000 +0700" channel="fox.sports2">
+    <title lang="vi">Red Bull Rookies Cup 2021 : Race 13</title>
+  </programme>
+  <programme start="20210912123000 +0700" stop="20210912140000 +0700" channel="fox.sports2">
+    <title lang="vi">Sailgp 2021-22 - Saint-Tropez Day 1</title>
+  </programme>
+  <programme start="20210912140000 +0700" stop="20210912141000 +0700" channel="fox.sports2">
+    <title lang="vi">In Focus: Valtteri Bottas</title>
+  </programme>
+  <programme start="20210912141000 +0700" stop="20210912142000 +0700" channel="fox.sports2">
+    <title lang="vi">In Focus: Lewis Hamilton</title>
+  </programme>
+  <programme start="20210912142000 +0700" stop="20210912152000 +0700" channel="fox.sports2">
+    <title lang="vi">Fia Formula 2 Championship 2021: Race 2</title>
+  </programme>
+  <programme start="20210912152000 +0700" stop="20210912164000 +0700" channel="fox.sports2">
+    <title lang="vi">Fia Formula 2 Championship 2021: Feature Race</title>
+  </programme>
+  <programme start="20210912164000 +0700" stop="20210912165000 +0700" channel="fox.sports2">
+    <title lang="vi">In Focus: Lindsay Davenport The Journey Continues</title>
+  </programme>
+  <programme start="20210912165000 +0700" stop="20210912170000 +0700" channel="fox.sports2">
+    <title lang="vi">In Focus: Jazz Janeeattananond</title>
+  </programme>
+  <programme start="20210912170000 +0700" stop="20210912180000 +0700" channel="fox.sports2">
+    <title lang="vi">Formula 1 Heineken Gran Premio D'italia 2021: Sprint Qualifying</title>
+  </programme>
+  <programme start="20210912180000 +0700" stop="20210912183000 +0700" channel="fox.sports2">
+    <title lang="vi">US Open Tennis 2021: Day 13 Highlights</title>
+  </programme>
+  <programme start="20210912183000 +0700" stop="20210912190000 +0700" channel="fox.sports2">
+    <title lang="vi">Espn Fc 2021 255</title>
+  </programme>
+  <programme start="20210912190000 +0700" stop="20210912220000 +0700" channel="fox.sports2">
+    <title lang="vi">Formula 1 Heineken Italian Grand Prix 2021: Main Race</title>
+  </programme>
+  <programme start="20210912220000 +0700" stop="20210913003000 +0700" channel="fox.sports2">
+    <title lang="vi">International 9-Ball Open 2019</title>
+  </programme>
+  <programme start="20210913003000 +0700" stop="20210913013000 +0700" channel="fox.sports2">
+    <title lang="vi">Vendee Globe 2020 21 - Final Hghlights</title>
+  </programme>
+  <programme start="20210913013000 +0700" stop="20210913020000 +0700" channel="fox.sports2">
+    <title lang="vi">Outdoor Sports Show 2021</title>
+  </programme>
+  <programme start="20210913020000 +0700" stop="20210913050000 +0700" channel="fox.sports2">
+    <title lang="vi">Ntt Indycar Series 2021: Grand Prix Of Portland</title>
+  </programme>
+  <programme start="20210913050000 +0700" stop="20210913070000 +0700" channel="fox.sports2">
+    <title lang="vi">Formula 1 Heineken Italian Grand Prix 2021: Main Race</title>
+  </programme>
+  <programme start="20210913070000 +0700" stop="20210913083000 +0700" channel="fox.sports2">
+    <title lang="vi">Sailgp 2021-22 - Saint-Tropez Day 1</title>
+  </programme>
+  <programme start="20210913083000 +0700" stop="20210913100000 +0700" channel="fox.sports2">
+    <title lang="vi">Sailgp 2021-22 - Saint-Tropez Day 2</title>
+  </programme>
+  <programme start="20210913100000 +0700" stop="20210913103000 +0700" channel="fox.sports2">
+    <title lang="vi">World Of Freesports 2021</title>
+  </programme>
+  <programme start="20210913103000 +0700" stop="20210913110000 +0700" channel="fox.sports2">
+    <title lang="vi">World Of Freesports 2021</title>
+  </programme>
+  <programme start="20210913110000 +0700" stop="20210913120000 +0700" channel="fox.sports2">
+    <title lang="vi">US Open Tennis 2021: Best Matches Of The Day 13 - Women's Singles Final</title>
+  </programme>
+  <programme start="20210913120000 +0700" stop="20210913140000 +0700" channel="fox.sports2">
+    <title lang="vi">Moto GP 2021: Races - Grand Prix Of Aragon</title>
+  </programme>
+  <programme start="20210913140000 +0700" stop="20210913153000 +0700" channel="fox.sports2">
+    <title lang="vi">Sailgp 2021-22 - Saint-Tropez Day 1</title>
+  </programme>
+  <programme start="20210913153000 +0700" stop="20210913170000 +0700" channel="fox.sports2">
+    <title lang="vi">Sailgp 2021-22 - Saint-Tropez Day 2</title>
+  </programme>
+  <programme start="20210913170000 +0700" stop="20210913180000 +0700" channel="fox.sports2">
+    <title lang="vi">US Open Tennis 2021: Best Matches Of The Day 14 - Womens Doubles Final</title>
+  </programme>
+  <programme start="20210913180000 +0700" stop="20210913200000 +0700" channel="fox.sports2">
+    <title lang="vi">Moto GP 2021: Races - Grand Prix Of Aragon</title>
+  </programme>
+  <programme start="20210913200000 +0700" stop="20210913210000 +0700" channel="fox.sports2">
+    <title lang="vi">Spruce Meadows Masters 2021</title>
+  </programme>
+  <programme start="20210913210000 +0700" stop="20210913220000 +0700" channel="fox.sports2">
+    <title lang="vi">US Open Tennis 2021: Best Matches Of The Day 14 - Men's Singles Final</title>
+  </programme>
+  <programme start="20210913220000 +0700" stop="20210913230000 +0700" channel="fox.sports2">
+    <title lang="vi">US Open Tennis 2021: Best Matches Of The Day 14 - Womens Doubles Final</title>
+  </programme>
+  <programme start="20210911230000 +0700" stop="20210911233000 +0700" channel="fox.sports3">
+    <title lang="vi">W Series 2021 : Highlights</title>
+  </programme>
+  <programme start="20210911233000 +0700" stop="20210912000000 +0700" channel="fox.sports3">
+    <title lang="vi">Planet Speed</title>
+  </programme>
+  <programme start="20210912000000 +0700" stop="20210912010000 +0700" channel="fox.sports3">
+    <title lang="vi">Motoamerica Superbikes Championship 2021 : Race</title>
+  </programme>
+  <programme start="20210912010000 +0700" stop="20210912020000 +0700" channel="fox.sports3">
+    <title lang="vi">Motoamerica Superbikes Championship 2021 : Race</title>
+  </programme>
+  <programme start="20210912020000 +0700" stop="20210912030000 +0700" channel="fox.sports3">
+    <title lang="vi">Motoamerica Superbikes Championship 2021 : Race</title>
+  </programme>
+  <programme start="20210912030000 +0700" stop="20210912033000 +0700" channel="fox.sports3">
+    <title lang="vi">W Series 2021 : Highlights</title>
+  </programme>
+  <programme start="20210912033000 +0700" stop="20210912040000 +0700" channel="fox.sports3">
+    <title lang="vi">Planet Speed</title>
+  </programme>
+  <programme start="20210912040000 +0700" stop="20210912050000 +0700" channel="fox.sports3">
+    <title lang="vi">Fia Formula 2 Championship 2021 - Race 1</title>
+  </programme>
+  <programme start="20210912050000 +0700" stop="20210912060000 +0700" channel="fox.sports3">
+    <title lang="vi">Max Power</title>
+  </programme>
+  <programme start="20210912060000 +0700" stop="20210912070000 +0700" channel="fox.sports3">
+    <title lang="vi">Monster Jam 2021 St Louis 3</title>
+  </programme>
+  <programme start="20210912070000 +0700" stop="20210912083000 +0700" channel="fox.sports3">
+    <title lang="vi">Espn Classic Boxing: Muhammad Ali Vs George Chuvalo</title>
+  </programme>
+  <programme start="20210912083000 +0700" stop="20210912093000 +0700" channel="fox.sports3">
+    <title lang="vi">Max Power</title>
+  </programme>
+  <programme start="20210912093000 +0700" stop="20210912103000 +0700" channel="fox.sports3">
+    <title lang="vi">Fia Formula 2 Championship 2021 - Race 2</title>
+  </programme>
+  <programme start="20210912103000 +0700" stop="20210912113000 +0700" channel="fox.sports3">
+    <title lang="vi">Monster Jam 2021 St Louis 3</title>
+  </programme>
+  <programme start="20210912113000 +0700" stop="20210912133000 +0700" channel="fox.sports3">
+    <title lang="vi">Extreme E Championship 2021 : Race Arctic X-Prix</title>
+  </programme>
+  <programme start="20210912133000 +0700" stop="20210912140000 +0700" channel="fox.sports3">
+    <title lang="vi">W Series 2021 : Highlights</title>
+  </programme>
+  <programme start="20210912140000 +0700" stop="20210912143000 +0700" channel="fox.sports3">
+    <title lang="vi">Planet Speed</title>
+  </programme>
+  <programme start="20210912143000 +0700" stop="20210912150000 +0700" channel="fox.sports3">
+    <title lang="vi">Extreme E Championship 2021: Qualifying Highlights</title>
+  </programme>
+  <programme start="20210912150000 +0700" stop="20210912160000 +0700" channel="fox.sports3">
+    <title lang="vi">Fim Enel Moto E World Cup 2021 : E-Pole</title>
+  </programme>
+  <programme start="20210912160000 +0700" stop="20210912170000 +0700" channel="fox.sports3">
+    <title lang="vi">Motoamerica Superbikes Championship 2021 : Race</title>
+  </programme>
+  <programme start="20210912170000 +0700" stop="20210912180000 +0700" channel="fox.sports3">
+    <title lang="vi">Red Bull Rookies Cup 2021 : Race 13</title>
+  </programme>
+  <programme start="20210912180000 +0700" stop="20210912183000 +0700" channel="fox.sports3">
+    <title lang="vi">Porsche Supercup 2021 - Highlights</title>
+  </programme>
+  <programme start="20210912183000 +0700" stop="20210912200000 +0700" channel="fox.sports3">
+    <title lang="vi">Sailgp 2021-22 - Saint-Tropez Day 2</title>
+  </programme>
+  <programme start="20210912200000 +0700" stop="20210912203000 +0700" channel="fox.sports3">
+    <title lang="vi">W Series 2021 : Highlights</title>
+  </programme>
+  <programme start="20210912203000 +0700" stop="20210912220000 +0700" channel="fox.sports3">
+    <title lang="vi">Ntt Indycar Series 2021 : Qualifying Grand Prix Of Portland</title>
+  </programme>
+  <programme start="20210912220000 +0700" stop="20210912230000 +0700" channel="fox.sports3">
+    <title lang="vi">Motoamerica Superbikes Championship 2021 : Race</title>
+  </programme>
+  <programme start="20210912230000 +0700" stop="20210913000000 +0700" channel="fox.sports3">
+    <title lang="vi">Monster Jam 2021 St Louis 3</title>
+  </programme>
+  <programme start="20210913000000 +0700" stop="20210913003000 +0700" channel="fox.sports3">
+    <title lang="vi">Porsche Supercup 2021 - Highlights</title>
+  </programme>
+  <programme start="20210913003000 +0700" stop="20210913020000 +0700" channel="fox.sports3">
+    <title lang="vi">Ntt Indycar Series 2021 : Qualifying Grand Prix Of Portland</title>
+  </programme>
+  <programme start="20210913020000 +0700" stop="20210913030000 +0700" channel="fox.sports3">
+    <title lang="vi">Motoamerica Superbikes Championship 2021 : Race</title>
+  </programme>
+  <programme start="20210913030000 +0700" stop="20210913053000 +0700" channel="fox.sports3">
+    <title lang="vi">Amma : Authentic Mixed Martial Arts 2020 : Phuket</title>
+  </programme>
+  <programme start="20210913053000 +0700" stop="20210913060000 +0700" channel="fox.sports3">
+    <title lang="vi">Planet Speed</title>
+  </programme>
+  <programme start="20210913060000 +0700" stop="20210913070000 +0700" channel="fox.sports3">
+    <title lang="vi">European Le Mans Series 2021 - Highlights</title>
+  </programme>
+  <programme start="20210913070000 +0700" stop="20210913080000 +0700" channel="fox.sports3">
+    <title lang="vi">European Le Mans Series 2021 - Highlights</title>
+  </programme>
+  <programme start="20210913080000 +0700" stop="20210913083000 +0700" channel="fox.sports3">
+    <title lang="vi">Gearing Up 2021</title>
+  </programme>
+  <programme start="20210913083000 +0700" stop="20210913093000 +0700" channel="fox.sports3">
+    <title lang="vi">Fia Formula 2 Championship 2021 - Feature Race</title>
+  </programme>
+  <programme start="20210913093000 +0700" stop="20210913100000 +0700" channel="fox.sports3">
+    <title lang="vi">Fim Enel Moto E World Cup 2021 : Race</title>
+  </programme>
+  <programme start="20210913100000 +0700" stop="20210913110000 +0700" channel="fox.sports3">
+    <title lang="vi">Ergp Global Edition 2021</title>
+  </programme>
+  <programme start="20210913110000 +0700" stop="20210913120000 +0700" channel="fox.sports3">
+    <title lang="vi">Motoamerica Superbikes Championship 2021 : Race</title>
+  </programme>
+  <programme start="20210913120000 +0700" stop="20210913130000 +0700" channel="fox.sports3">
+    <title lang="vi">Motoamerica Superbikes Championship 2021 : Race</title>
+  </programme>
+  <programme start="20210913130000 +0700" stop="20210913140000 +0700" channel="fox.sports3">
+    <title lang="vi">Red Bull Rookies Cup 2021 : Race 14</title>
+  </programme>
+  <programme start="20210913140000 +0700" stop="20210913153000 +0700" channel="fox.sports3">
+    <title lang="vi">Ntt Indycar Series 2021 : Qualifying Grand Prix Of Portland</title>
+  </programme>
+  <programme start="20210913153000 +0700" stop="20210913160000 +0700" channel="fox.sports3">
+    <title lang="vi">Fim Enel Moto E World Cup 2021 : Race</title>
+  </programme>
+  <programme start="20210913160000 +0700" stop="20210913170000 +0700" channel="fox.sports3">
+    <title lang="vi">Fim Enel Moto E World Cup 2021 : E-Pole</title>
+  </programme>
+  <programme start="20210913170000 +0700" stop="20210913180000 +0700" channel="fox.sports3">
+    <title lang="vi">Ergp Global Edition 2021</title>
+  </programme>
+  <programme start="20210913180000 +0700" stop="20210913190000 +0700" channel="fox.sports3">
+    <title lang="vi">Asian Le Mans Series 2020 21 : Highlights</title>
+  </programme>
+  <programme start="20210913190000 +0700" stop="20210913200000 +0700" channel="fox.sports3">
+    <title lang="vi">Max Power</title>
+  </programme>
+  <programme start="20210913200000 +0700" stop="20210913210000 +0700" channel="fox.sports3">
+    <title lang="vi">Monster Jam 2021 Glendale 1</title>
+  </programme>
+</tv>

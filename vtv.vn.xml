@@ -330,7 +330,7 @@
   </programme>
   <programme start="20210912073000 +0700" stop="20210912080000 +0700" channel="vtv1">
     <title lang="vi">Phim tài liệu</title>
-    <sub-title lang="vi">Hành trình để trở về cuộc sống</sub-title>
+    <sub-title lang="vi">Trở về cuộc sống</sub-title>
   </programme>
   <programme start="20210912080000 +0700" stop="20210912080500 +0700" channel="vtv1">
     <title lang="vi">Thời sự 8h</title>
@@ -1956,10 +1956,15 @@
   </programme>
   <programme start="20210912033000 +0700" stop="20210912040000 +0700" channel="vtv4">
     <title lang="vi">Việt Nam và Thế giới</title>
+    <sub-title lang="vi">Hiệp định UKVFTA - Cơ hội và thách thức</sub-title>
   </programme>
-  <programme start="20210912040000 +0700" stop="20210912054500 +0700" channel="vtv4">
+  <programme start="20210912040000 +0700" stop="20210912053000 +0700" channel="vtv4">
     <title lang="vi">Phim cuối tuần</title>
     <sub-title lang="vi">Biệt thự mờ sương</sub-title>
+  </programme>
+  <programme start="20210912053000 +0700" stop="20210912054500 +0700" channel="vtv4">
+    <title lang="vi">Giai điệu cuộc sống</title>
+    <sub-title lang="vi">Thành phố mưa bay</sub-title>
   </programme>
   <programme start="20210912054500 +0700" stop="20210912060000 +0700" channel="vtv4">
     <title lang="vi">Thời tiết du lịch</title>
@@ -1982,13 +1987,15 @@
   </programme>
   <programme start="20210912080000 +0700" stop="20210912083000 +0700" channel="vtv4">
     <title lang="vi">Giai điệu cuộc sống</title>
-    <sub-title lang="vi">Dân ca Việt Nam: Hệ thống làn điệu trong nghệ thuật Hát Văn</sub-title>
+    <sub-title lang="vi">Hệ thống làn điệu trong nghệ thuật Hát Văn</sub-title>
   </programme>
   <programme start="20210912083000 +0700" stop="20210912090000 +0700" channel="vtv4">
     <title lang="vi">Bizline</title>
+    <sub-title lang="vi">Sản xuất an toàn - Yếu tố giữ chân FDI</sub-title>
   </programme>
   <programme start="20210912090000 +0700" stop="20210912093000 +0700" channel="vtv4">
     <title lang="vi">Việt Nam và Thế giới</title>
+    <sub-title lang="vi">Hiệp định UKVFTA - Cơ hội và thách thức</sub-title>
   </programme>
   <programme start="20210912093000 +0700" stop="20210912095500 +0700" channel="vtv4">
     <title lang="vi">Phim tài liệu</title>
@@ -2007,12 +2014,17 @@
   </programme>
   <programme start="20210912114500 +0700" stop="20210912120000 +0700" channel="vtv4">
     <title lang="vi">Tinh hoa nghề Việt</title>
+    <sub-title lang="vi">Biến bánh trung thu thành tác phẩm nghệ thuật</sub-title>
   </programme>
   <programme start="20210912120000 +0700" stop="20210912123000 +0700" channel="vtv4">
     <title lang="vi">Bản tin tiếng Việt 12h</title>
   </programme>
-  <programme start="20210912123000 +0700" stop="20210912140000 +0700" channel="vtv4">
+  <programme start="20210912123000 +0700" stop="20210912133000 +0700" channel="vtv4">
     <title lang="vi">Gia đình hoàn mỹ</title>
+  </programme>
+  <programme start="20210912133000 +0700" stop="20210912140000 +0700" channel="vtv4">
+    <title lang="vi">Giai điệu cuộc sống</title>
+    <sub-title lang="vi">Hát về Tổ quốc tôi</sub-title>
   </programme>
   <programme start="20210912140000 +0700" stop="20210912143000 +0700" channel="vtv4">
     <title lang="vi">Sắc màu các dân tộc</title>
@@ -2020,6 +2032,7 @@
   </programme>
   <programme start="20210912143000 +0700" stop="20210912150000 +0700" channel="vtv4">
     <title lang="vi">Tạp chí tiếng Nhật</title>
+    <sub-title lang="vi">Tạp chí tiếng Nhật</sub-title>
   </programme>
   <programme start="20210912150000 +0700" stop="20210912153000 +0700" channel="vtv4">
     <title lang="vi">Giai điệu cuộc sống</title>
@@ -2034,6 +2047,7 @@
   </programme>
   <programme start="20210912174500 +0700" stop="20210912180000 +0700" channel="vtv4">
     <title lang="vi">Từ những miền quê</title>
+    <sub-title lang="vi">Người trồng lại lúa mùa</sub-title>
   </programme>
   <programme start="20210912180000 +0700" stop="20210912181500 +0700" channel="vtv4">
     <title lang="vi">Gia đình vui vẻ</title>
@@ -2048,6 +2062,7 @@
   </programme>
   <programme start="20210912193000 +0700" stop="20210912194500 +0700" channel="vtv4">
     <title lang="vi">Tinh hoa nghề Việt</title>
+    <sub-title lang="vi">Biến bánh trung thu thành tác phẩm nghệ thuật</sub-title>
   </programme>
   <programme start="20210912194500 +0700" stop="20210912195500 +0700" channel="vtv4">
     <title lang="vi">Tác phẩm mới</title>
@@ -2055,6 +2070,7 @@
   </programme>
   <programme start="20210912195500 +0700" stop="20210912200000 +0700" channel="vtv4">
     <title lang="vi">Nhịp đập Việt Nam</title>
+    <sub-title lang="vi">Chè kho Cam Thượng</sub-title>
   </programme>
   <programme start="20210912200000 +0700" stop="20210912203000 +0700" channel="vtv4">
     <title lang="vi">Tạp chí tiếng Nhật</title>
@@ -2081,11 +2097,12 @@
     <sub-title lang="vi">Bên thác Nàng Tiên</sub-title>
   </programme>
   <programme start="20210912221500 +0700" stop="20210912230000 +0700" channel="vtv4">
-    <title lang="vi">Điều ước thứ 7</title>
-    <sub-title lang="vi">Số 2</sub-title>
+    <title lang="vi">VTV đặc biệt</title>
+    <sub-title lang="vi">Ranh giới</sub-title>
   </programme>
   <programme start="20210912230000 +0700" stop="20210912233000 +0700" channel="vtv4">
     <title lang="vi">Việt Nam và Thế giới</title>
+    <sub-title lang="vi">Hiệp định UKVFTA - Cơ hội và thách thức</sub-title>
   </programme>
   <programme start="20210912233000 +0700" stop="20210913000000 +0700" channel="vtv4">
     <title lang="vi">Thế giới tuổi thơ</title>
@@ -3406,11 +3423,11 @@
   </programme>
   <programme start="20210912014500 +0700" stop="20210912021500 +0700" channel="vtv5tn">
     <title lang="vi">Trên từng cây số</title>
-    <sub-title lang="vi">Số 5</sub-title>
+    <sub-title lang="vi">Trên từng cây số - Số 5</sub-title>
   </programme>
   <programme start="20210912021500 +0700" stop="20210912030000 +0700" channel="vtv5tn">
     <title lang="vi">Khám phá thế giới</title>
-    <sub-title lang="vi">Chinh phục không gian - Tập 2 Rác thải trong không gian</sub-title>
+    <sub-title lang="vi">Chinh phục không gian – Tập 2 Rác thải trong không gian</sub-title>
   </programme>
   <programme start="20210912030000 +0700" stop="20210912033000 +0700" channel="vtv5tn">
     <title lang="vi">Tổ quốc trong tim</title>
@@ -3448,7 +3465,7 @@
   </programme>
   <programme start="20210912084500 +0700" stop="20210912094000 +0700" channel="vtv5tn">
     <title lang="vi">Khám phá thế giới</title>
-    <sub-title lang="vi">Chinh phục không gian - Tập 3: Trên trạm vũ trụ ISS</sub-title>
+    <sub-title lang="vi">Chinh phục không gian – Tập 3: Trên trạm vũ trụ ISS</sub-title>
   </programme>
   <programme start="20210912094000 +0700" stop="20210912094500 +0700" channel="vtv5tn">
     <title lang="vi">Thời tiết</title>
@@ -3490,7 +3507,7 @@
   </programme>
   <programme start="20210912144500 +0700" stop="20210912153000 +0700" channel="vtv5tn">
     <title lang="vi">Khám phá thế giới</title>
-    <sub-title lang="vi">Chinh phục không gian - Tập 3: Trên trạm vũ trụ ISS</sub-title>
+    <sub-title lang="vi">Chinh phục không gian – Tập 3: Trên trạm vũ trụ ISS</sub-title>
   </programme>
   <programme start="20210912153000 +0700" stop="20210912160000 +0700" channel="vtv5tn">
     <title lang="vi">Ghế không tựa</title>
@@ -3506,11 +3523,11 @@
   </programme>
   <programme start="20210912163000 +0700" stop="20210912170000 +0700" channel="vtv5tn">
     <title lang="vi">Trên từng cây số</title>
-    <sub-title lang="vi">Số 5</sub-title>
+    <sub-title lang="vi">Trên từng cây số - Số 5</sub-title>
   </programme>
   <programme start="20210912170000 +0700" stop="20210912173000 +0700" channel="vtv5tn">
     <title lang="vi">Khám phá thế giới</title>
-    <sub-title lang="vi">Câu chuyện ẩm thực – Tập 16</sub-title>
+    <sub-title lang="vi">Câu chuyện ẩm thực - Tập 16</sub-title>
   </programme>
   <programme start="20210912173000 +0700" stop="20210912175000 +0700" channel="vtv5tn">
     <title lang="vi">Những mảnh ghép của cuộc sống</title>
@@ -3518,6 +3535,7 @@
   </programme>
   <programme start="20210912175000 +0700" stop="20210912180000 +0700" channel="vtv5tn">
     <title lang="vi">Covid-19 phòng và chống</title>
+    <sub-title lang="vi">Làm gì khi mình là F0?</sub-title>
   </programme>
   <programme start="20210912180000 +0700" stop="20210912183000 +0700" channel="vtv5tn">
     <title lang="vi">VTV Sports News</title>
@@ -3528,32 +3546,23 @@
   <programme start="20210912185500 +0700" stop="20210912190000 +0700" channel="vtv5tn">
     <title lang="vi">Thời tiết</title>
   </programme>
-  <programme start="20210912190000 +0700" stop="20210912200000 +0700" channel="vtv5tn">
-    <title lang="vi">VTV – Những giai điệu đẹp</title>
+  <programme start="20210912190000 +0700" stop="20210912195000 +0700" channel="vtv5tn">
+    <title lang="vi">VTV - Những giai điệu đẹp</title>
     <sub-title lang="vi">Số 3</sub-title>
   </programme>
-  <programme start="20210912200000 +0700" stop="20210912213000 +0700" channel="vtv5tn">
-    <title lang="vi">Cất cánh</title>
+  <programme start="20210912195000 +0700" stop="20210912215500 +0700" channel="vtv5tn">
+    <title lang="vi">Truyền hình trực tiếp</title>
+    <sub-title lang="vi">Vòng chung kết FIFA Futsal World Cup 2021: Bảng B: Nga - Ai Cập</sub-title>
   </programme>
-  <programme start="20210912213000 +0700" stop="20210912215500 +0700" channel="vtv5tn">
-    <title lang="vi">Tổ quốc trong tim</title>
-  </programme>
-  <programme start="20210912215500 +0700" stop="20210912220000 +0700" channel="vtv5tn">
+  <programme start="20210912215500 +0700" stop="20210912215900 +0700" channel="vtv5tn">
     <title lang="vi">Thời tiết</title>
   </programme>
-  <programme start="20210912220000 +0700" stop="20210912223000 +0700" channel="vtv5tn">
+  <programme start="20210912215900 +0700" stop="20210912220500 +0700" channel="vtv5tn">
+    <title lang="vi">Truyền hình trực tiếp</title>
+    <sub-title lang="vi">Vòng chung kết FIFA Futsal World Cup 2021, Bảng A: Kazakhstan– Costa Rica</sub-title>
+  </programme>
+  <programme start="20210912220500 +0700" stop="20210913000000 +0700" channel="vtv5tn">
     <title lang="vi">360 độ thể thao</title>
-  </programme>
-  <programme start="20210912223000 +0700" stop="20210912223500 +0700" channel="vtv5tn">
-    <title lang="vi">Nhật ký người Việt</title>
-  </programme>
-  <programme start="20210912223500 +0700" stop="20210912230000 +0700" channel="vtv5tn">
-    <title lang="vi">Chuyến đi màu xanh</title>
-    <sub-title lang="vi">Số 4</sub-title>
-  </programme>
-  <programme start="20210912230000 +0700" stop="20210913000000 +0700" channel="vtv5tn">
-    <title lang="vi">Thể thao</title>
-    <sub-title lang="vi">Các trận tranh huy chương đơn nam môn cầu lông Olympic Tokyo 2020</sub-title>
   </programme>
   <programme start="20210913000000 +0700" stop="20210913001000 +0700" channel="vtv5tn">
     <title lang="vi">Ký sự</title>
@@ -4598,6 +4607,7 @@
   </programme>
   <programme start="20210912035000 +0700" stop="20210912040500 +0700" channel="vtv7">
     <title lang="vi">Phía sau tay lái</title>
+    <sub-title lang="vi">Đảm bảo trật tự an toàn giao thông trong thi công tuyến đường cao tốc qua tỉnh Thừa Thiên Huế</sub-title>
   </programme>
   <programme start="20210912040500 +0700" stop="20210912043500 +0700" channel="vtv7">
     <title lang="vi">Phim truyện</title>
@@ -4611,20 +4621,16 @@
     <title lang="vi">Phim Sitcom</title>
     <sub-title lang="vi">Ô kìa ông chủ! - Phần 2 - Tập 468</sub-title>
   </programme>
-  <programme start="20210912051500 +0700" stop="20210912052500 +0700" channel="vtv7">
+  <programme start="20210912051500 +0700" stop="20210912053000 +0700" channel="vtv7">
     <title lang="vi">Phóng sự</title>
     <sub-title lang="vi">Đô thị thông minh - Nhìn từ góc độ đảm bảo an ninh trật tự</sub-title>
   </programme>
-  <programme start="20210912052500 +0700" stop="20210912053500 +0700" channel="vtv7">
-    <title lang="vi">Kinh tế - Đầu tư</title>
-  </programme>
-  <programme start="20210912053500 +0700" stop="20210912054500 +0700" channel="vtv7">
-    <title lang="vi">Quyến rũ Việt Nam</title>
-    <sub-title lang="vi">Khám phá safari Diễn Lâm</sub-title>
+  <programme start="20210912053000 +0700" stop="20210912054500 +0700" channel="vtv7">
+    <title lang="vi">Bản tin thời sự</title>
   </programme>
   <programme start="20210912054500 +0700" stop="20210912060000 +0700" channel="vtv7">
-    <title lang="vi">Khám phá Việt Nam</title>
-    <sub-title lang="vi">Nghề đan cỏ bàng làng Phò Trạch</sub-title>
+    <title lang="vi">Tôi chọn Việt Nam</title>
+    <sub-title lang="vi">Tôi yêu tiếng nói Việt Nam</sub-title>
   </programme>
   <programme start="20210912060000 +0700" stop="20210912063000 +0700" channel="vtv7">
     <title lang="vi">Phim truyện</title>
@@ -4654,21 +4660,16 @@
     <sub-title lang="vi">Ranh giới</sub-title>
   </programme>
   <programme start="20210912083000 +0700" stop="20210912084500 +0700" channel="vtv7">
-    <title lang="vi">Ký sự</title>
-  </programme>
-  <programme start="20210912084500 +0700" stop="20210912090000 +0700" channel="vtv7">
-    <title lang="vi">Phía sau tay lái</title>
-  </programme>
-  <programme start="20210912090000 +0700" stop="20210912091500 +0700" channel="vtv7">
-    <title lang="vi">Cà phê Tám</title>
-  </programme>
-  <programme start="20210912091500 +0700" stop="20210912093000 +0700" channel="vtv7">
     <title lang="vi">Tác phẩm mới</title>
     <sub-title lang="vi">Ánh sao nơi đầu tuyến</sub-title>
   </programme>
-  <programme start="20210912093000 +0700" stop="20210912094500 +0700" channel="vtv7">
-    <title lang="vi">Tôi chọn Việt Nam</title>
-    <sub-title lang="vi">Tôi yêu tiếng nói Việt Nam</sub-title>
+  <programme start="20210912084500 +0700" stop="20210912090000 +0700" channel="vtv7">
+    <title lang="vi">Phía sau tay lái</title>
+    <sub-title lang="vi">Đảm bảo trật tự an toàn giao thông trong thi công tuyến đường cao tốc qua tỉnh Thừa Thiên Huế</sub-title>
+  </programme>
+  <programme start="20210912090000 +0700" stop="20210912094500 +0700" channel="vtv7">
+    <title lang="vi">Phim tài liệu</title>
+    <sub-title lang="vi">Khúc quanh trong đại dịch</sub-title>
   </programme>
   <programme start="20210912094500 +0700" stop="20210912100000 +0700" channel="vtv7">
     <title lang="vi">Nóng cùng V8</title>
@@ -4751,6 +4752,7 @@
   </programme>
   <programme start="20210912160000 +0700" stop="20210912161500 +0700" channel="vtv7">
     <title lang="vi">Phóng sự</title>
+    <sub-title lang="vi">Vùng xanh lá chắn Covid-19</sub-title>
   </programme>
   <programme start="20210912161500 +0700" stop="20210912170000 +0700" channel="vtv7">
     <title lang="vi">Chất lượng cuộc sống</title>
@@ -4778,6 +4780,7 @@
   </programme>
   <programme start="20210912184000 +0700" stop="20210912185000 +0700" channel="vtv7">
     <title lang="vi">Sống Xanh</title>
+    <sub-title lang="vi">Sống xanh nơi đô thị</sub-title>
   </programme>
   <programme start="20210912185000 +0700" stop="20210912185500 +0700" channel="vtv7">
     <title lang="vi">Thông tin - Thông báo</title>
@@ -4792,6 +4795,7 @@
   </programme>
   <programme start="20210912193000 +0700" stop="20210912200000 +0700" channel="vtv7">
     <title lang="vi">Cuộc sống hôm nay</title>
+    <sub-title lang="vi">Số 35</sub-title>
   </programme>
   <programme start="20210912200000 +0700" stop="20210912200500 +0700" channel="vtv7">
     <title lang="vi">Bản tin thể thao</title>
@@ -4813,6 +4817,7 @@
   </programme>
   <programme start="20210912212000 +0700" stop="20210912215000 +0700" channel="vtv7">
     <title lang="vi">Tọa đàm</title>
+    <sub-title lang="vi">An dân</sub-title>
   </programme>
   <programme start="20210912215000 +0700" stop="20210912221000 +0700" channel="vtv7">
     <title lang="vi">Cà phê Tám</title>
@@ -4827,12 +4832,8 @@
   <programme start="20210912224500 +0700" stop="20210912225500 +0700" channel="vtv7">
     <title lang="vi">Kinh tế - Đầu tư: Bất động sản</title>
   </programme>
-  <programme start="20210912225500 +0700" stop="20210912230000 +0700" channel="vtv7">
+  <programme start="20210912225500 +0700" stop="20210912231000 +0700" channel="vtv7">
     <title lang="vi">Camera 8</title>
-  </programme>
-  <programme start="20210912230000 +0700" stop="20210912231000 +0700" channel="vtv7">
-    <title lang="vi">Chém gió - Gió chém</title>
-    <sub-title lang="vi">Sống tự lập</sub-title>
   </programme>
   <programme start="20210912231000 +0700" stop="20210912232000 +0700" channel="vtv7">
     <title lang="vi">Phim Sitcom</title>
@@ -5081,9 +5082,12 @@
     <title lang="vi">VTV đặc biệt</title>
     <sub-title lang="vi">Ranh giới</sub-title>
   </programme>
-  <programme start="20210911211500 +0700" stop="20210911224500 +0700" channel="vtv8">
+  <programme start="20210911211500 +0700" stop="20210911214500 +0700" channel="vtv8">
     <title lang="vi">Điện ảnh cuối tuần</title>
     <sub-title lang="vi">Huyền thoại xứ Oz - Dorothy trở lại</sub-title>
+  </programme>
+  <programme start="20210911214500 +0700" stop="20210911224500 +0700" channel="vtv8">
+    <title lang="vi">Thời sự đặc biệt</title>
   </programme>
   <programme start="20210911224500 +0700" stop="20210911225500 +0700" channel="vtv8">
     <title lang="vi">Kinh tế - Đầu tư</title>
@@ -5515,6 +5519,7 @@
   </programme>
   <programme start="20210912050500 +0700" stop="20210912051000 +0700" channel="vtv9">
     <title lang="vi">S - Việt Nam</title>
+    <sub-title lang="vi">Hà Nam những ngôi làng duyên dáng</sub-title>
   </programme>
   <programme start="20210912051000 +0700" stop="20210912053000 +0700" channel="vtv9">
     <title lang="vi">Hành trình hy vọng</title>
@@ -5567,8 +5572,7 @@
     <title lang="vi">Toàn cảnh thế giới</title>
   </programme>
   <programme start="20210912105500 +0700" stop="20210912110000 +0700" channel="vtv9">
-    <title lang="vi">Trái tim cho em</title>
-    <sub-title lang="vi">Vùng ký ức</sub-title>
+    <title lang="vi">Nét đẹp dân gian</title>
   </programme>
   <programme start="20210912110000 +0700" stop="20210912111500 +0700" channel="vtv9">
     <title lang="vi">Thời sự 11h</title>
@@ -5594,7 +5598,6 @@
   </programme>
   <programme start="20210912140000 +0700" stop="20210912141000 +0700" channel="vtv9">
     <title lang="vi">Ký sự</title>
-    <sub-title lang="vi">Từ những miền quê: Cọn Nước - bánh xe của thời gian</sub-title>
   </programme>
   <programme start="20210912141000 +0700" stop="20210912150000 +0700" channel="vtv9">
     <title lang="vi">Sống mới</title>
@@ -5622,7 +5625,7 @@
     <title lang="vi">Sự kiện và bình luận</title>
   </programme>
   <programme start="20210912170000 +0700" stop="20210912170500 +0700" channel="vtv9">
-    <title lang="vi">Thời sự 17h</title>
+    <title lang="vi">Thời sự</title>
   </programme>
   <programme start="20210912170500 +0700" stop="20210912173000 +0700" channel="vtv9">
     <title lang="vi">Cải cách hành chính</title>
@@ -5645,6 +5648,7 @@
   </programme>
   <programme start="20210912200000 +0700" stop="20210912200500 +0700" channel="vtv9">
     <title lang="vi">S - Việt Nam</title>
+    <sub-title lang="vi">Những "nghệ sĩ nông dân" ở Đà Lạt</sub-title>
   </programme>
   <programme start="20210912200500 +0700" stop="20210912201000 +0700" channel="vtv9">
     <title lang="vi">Vì tầm vóc Việt</title>
@@ -5661,7 +5665,7 @@
   </programme>
   <programme start="20210912210000 +0700" stop="20210912213000 +0700" channel="vtv9">
     <title lang="vi">Phim truyện</title>
-    <sub-title lang="vi">Hương vị tình thân - Phần 2 - Tập 33</sub-title>
+    <sub-title lang="vi">Hương vị tình than  -Phần 2 - Tập 33</sub-title>
   </programme>
   <programme start="20210912213000 +0700" stop="20210912215000 +0700" channel="vtv9">
     <title lang="vi">Tài chính - Kinh doanh</title>

@@ -1,0 +1,1111 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="vtc5">
+    <display-name lang="vi">VTC5</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="vtc6">
+    <display-name lang="vi">VTC6</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="vtc8">
+    <display-name lang="vi">VTC8</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="vtc9">
+    <display-name lang="vi">VTC9</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="vtc10">
+    <display-name lang="vi">VTC10</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="vtc11">
+    <display-name lang="vi">VTC11 - Kids - Family TV</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="VTC12">
+    <display-name lang="vi">VTC12</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="vtc13">
+    <display-name lang="vi">VTC13 HD</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="vtc16">
+    <display-name lang="vi">VTC16</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="htv1">
+    <display-name lang="vi">HTV1</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="htv4">
+    <display-name lang="vi">HTV4</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="htvc.shopping">
+    <display-name lang="vi">HTVC Shopping</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="htvc.du.lich">
+    <display-name lang="vi">HTVC Du Lịch - Cuộc Sống</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="htvc.phu.nu">
+    <display-name lang="vi">HTVC Phụ Nữ HD</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="htvc.gia.dinh">
+    <display-name lang="vi">HTVC Gia Đình</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="htvc.ca.nha">
+    <display-name lang="vi">HTVC Ca Nhạc HD</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="htvc.phim">
+    <display-name lang="vi">HTVC Phim HD</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="PARAMOUNT CHANNEL VIETNAM">
+    <display-name lang="vi">PARAMOUNT CHANNEL VIETNAM</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="htvc.thuan.viet.hd">
+    <display-name lang="vi">HTVC Thuần Việt HD</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="htvc.thuan.viet">
+    <display-name lang="vi">HTVC Thuần Việt</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <programme start="20210911000000 +0700" stop="20210911004500 +0700" channel="vtc5">
+    <title lang="vi">Phim truyền hình</title>
+    <desc lang="vi">SONG SINH BÍ ẨN (33): TẬP 21.(n)</desc>
+  </programme>
+  <programme start="20210911004500 +0700" stop="20210911013000 +0700" channel="vtc5">
+    <title lang="vi">Phim truyền hình</title>
+    <desc lang="vi">CHIẾN BINH HỌC ĐƯỜNG (55): TẬP 41.(n)</desc>
+  </programme>
+  <programme start="20210911013000 +0700" stop="20210911023000 +0700" channel="vtc5">
+    <title lang="vi">Chương trình giải trí</title>
+    <desc lang="vi">MẸ VỢ LÊN ĐỜI + ĐỜI SINH VIÊN.(n)</desc>
+  </programme>
+  <programme start="20210911023000 +0700" stop="20210911031500 +0700" channel="vtc5">
+    <title lang="vi">Chương trình du lịch</title>
+    <desc lang="vi">SỐNG Ở VIỆT NAM (156): TẬP 17-20.(n)</desc>
+  </programme>
+  <programme start="20210911031500 +0700" stop="20210911040000 +0700" channel="vtc5">
+    <title lang="vi">Phim truyền hình</title>
+    <desc lang="vi">SONG SINH BÍ ẨN (33): TẬP 22.(n)</desc>
+  </programme>
+  <programme start="20210911040000 +0700" stop="20210911044500 +0700" channel="vtc5">
+    <title lang="vi">Phim truyền hình</title>
+    <desc lang="vi">CHIẾN BINH HỌC ĐƯỜNG (55): TẬP 42.(n)</desc>
+  </programme>
+  <programme start="20210911044500 +0700" stop="20210911051500 +0700" channel="vtc5">
+    <title lang="vi">Sitcom</title>
+    <desc lang="vi">TÁM XUYÊN VIỆT (265): TẬP 43 + 44.(n)</desc>
+  </programme>
+  <programme start="20210911051500 +0700" stop="20210911061500 +0700" channel="vtc5">
+    <title lang="vi">Chương trình giải trí</title>
+    <desc lang="vi">KHÓA TÌNH YÊU + CHUYỆN TÌNH GIÀ.(n)</desc>
+  </programme>
+  <programme start="20210911061500 +0700" stop="20210911070000 +0700" channel="vtc5">
+    <title lang="vi">Chương trình du lịch</title>
+    <desc lang="vi">SỐNG Ở VIỆT NAM (156): TẬP 21-24.(n)</desc>
+  </programme>
+  <programme start="20210911070000 +0700" stop="20210911074500 +0700" channel="vtc5">
+    <title lang="vi">Phim truyền hình</title>
+    <desc lang="vi">SONG SINH BÍ ẨN (33): TẬP 23.(n)</desc>
+  </programme>
+  <programme start="20210911074500 +0700" stop="20210911083000 +0700" channel="vtc5">
+    <title lang="vi">Phim truyền hình</title>
+    <desc lang="vi">CHIẾN BINH HỌC ĐƯỜNG (55): TẬP 43.(n)</desc>
+  </programme>
+  <programme start="20210911083000 +0700" stop="20210911090000 +0700" channel="vtc5">
+    <title lang="vi">Sitcom</title>
+    <desc lang="vi">TÁM XUYÊN VIỆT (265): TẬP 45 + 46.(n)</desc>
+  </programme>
+  <programme start="20210911090000 +0700" stop="20210911100000 +0700" channel="vtc5">
+    <title lang="vi">Chương trình giải trí</title>
+    <desc lang="vi">TA TẮM AO TA + NẠN NHÂN TÌNH NGUYỆN.(n)</desc>
+  </programme>
+  <programme start="20210911100000 +0700" stop="20210911104500 +0700" channel="vtc5">
+    <title lang="vi">Chương trình du lịch</title>
+    <desc lang="vi">SỐNG Ở VIỆT NAM (156): TẬP 25-28.(n)</desc>
+  </programme>
+  <programme start="20210911104500 +0700" stop="20210911113000 +0700" channel="vtc5">
+    <title lang="vi">Phim truyền hình</title>
+    <desc lang="vi">SONG SINH BÍ ẨN (33): TẬP 24.(n)</desc>
+  </programme>
+  <programme start="20210911113000 +0700" stop="20210911121500 +0700" channel="vtc5">
+    <title lang="vi">Phim truyền hình</title>
+    <desc lang="vi">CHIẾN BINH HỌC ĐƯỜNG (55): TẬP 44.(n)</desc>
+  </programme>
+  <programme start="20210911121500 +0700" stop="20210911124500 +0700" channel="vtc5">
+    <title lang="vi">Sitcom</title>
+    <desc lang="vi">TÁM XUYÊN VIỆT (265): TẬP 47 + 48.(n)</desc>
+  </programme>
+  <programme start="20210911124500 +0700" stop="20210911134500 +0700" channel="vtc5">
+    <title lang="vi">Chương trình giải trí</title>
+    <desc lang="vi">HOA HÒE TÁI XUẤT + VỌNG CỔ TEEN.(n)</desc>
+  </programme>
+  <programme start="20210911134500 +0700" stop="20210911143000 +0700" channel="vtc5">
+    <title lang="vi">Chương trình du lịch</title>
+    <desc lang="vi">SỐNG Ở VIỆT NAM (156): TẬP 29-32.(n)</desc>
+  </programme>
+  <programme start="20210911143000 +0700" stop="20210911151500 +0700" channel="vtc5">
+    <title lang="vi">Phim truyền hình</title>
+    <desc lang="vi">SONG SINH BÍ ẨN (33): TẬP 25.(n)</desc>
+  </programme>
+  <programme start="20210911151500 +0700" stop="20210911160000 +0700" channel="vtc5">
+    <title lang="vi">Phim truyền hình</title>
+    <desc lang="vi">CHIẾN BINH HỌC ĐƯỜNG (55): TẬP 45.(n)</desc>
+  </programme>
+  <programme start="20210911160000 +0700" stop="20210911163000 +0700" channel="vtc5">
+    <title lang="vi">Sitcom</title>
+    <desc lang="vi">TÁM XUYÊN VIỆT (265): TẬP 49 + 50.(n)</desc>
+  </programme>
+  <programme start="20210911163000 +0700" stop="20210911173000 +0700" channel="vtc5">
+    <title lang="vi">Chương trình giải trí</title>
+    <desc lang="vi">VẠ LÂY + TỶ PHÚ MỚI NHẬN LÀM CHA.(n)</desc>
+  </programme>
+  <programme start="20210911173000 +0700" stop="20210911181500 +0700" channel="vtc5">
+    <title lang="vi">Chương trình du lịch</title>
+    <desc lang="vi">SỐNG Ở VIỆT NAM (156): TẬP 33-36.(n)</desc>
+  </programme>
+  <programme start="20210911181500 +0700" stop="20210911190000 +0700" channel="vtc5">
+    <title lang="vi">Phim truyền hình</title>
+    <desc lang="vi">SONG SINH BÍ ẨN (33): TẬP 26.(n)</desc>
+  </programme>
+  <programme start="20210911190000 +0700" stop="20210911194500 +0700" channel="vtc5">
+    <title lang="vi">Phim truyền hình</title>
+    <desc lang="vi">CHIẾN BINH HỌC ĐƯỜNG (55): TẬP 46.(n)</desc>
+  </programme>
+  <programme start="20210911194500 +0700" stop="20210911201500 +0700" channel="vtc5">
+    <title lang="vi">Sitcom</title>
+    <desc lang="vi">TÁM XUYÊN VIỆT (265): TẬP 51 + 52.(n)</desc>
+  </programme>
+  <programme start="20210911201500 +0700" stop="20210911211500 +0700" channel="vtc5">
+    <title lang="vi">Chương trình giải trí</title>
+    <desc lang="vi">VẠ LÂY + TỶ PHÚ MỚI NHẬN LÀM CHA.(n)</desc>
+  </programme>
+  <programme start="20210911211500 +0700" stop="20210911220000 +0700" channel="vtc5">
+    <title lang="vi">Chương trình du lịch</title>
+    <desc lang="vi">SỐNG Ở VIỆT NAM (156): TẬP 33-36.(n)</desc>
+  </programme>
+  <programme start="20210911220000 +0700" stop="20210911224500 +0700" channel="vtc5">
+    <title lang="vi">Phim truyền hình</title>
+    <desc lang="vi">SONG SINH BÍ ẨN (33): TẬP 26.(n)</desc>
+  </programme>
+  <programme start="20210911224500 +0700" stop="20210911233000 +0700" channel="vtc5">
+    <title lang="vi">Phim truyền hình</title>
+    <desc lang="vi">CHIẾN BINH HỌC ĐƯỜNG (55): TẬP 46.(n)</desc>
+  </programme>
+  <programme start="20210911233000 +0700" stop="20210912000000 +0700" channel="vtc5">
+    <title lang="vi">Sitcom</title>
+    <desc lang="vi">TÁM XUYÊN VIỆT (265): TẬP 51 + 52.(n)</desc>
+  </programme>
+  <programme start="20210912000000 +0700" stop="20210912004500 +0700" channel="vtc5">
+    <title lang="vi">Phim truyền hình</title>
+    <desc lang="vi">SONG SINH BÍ ẨN (33): TẬP 22.(n)</desc>
+  </programme>
+  <programme start="20210912004500 +0700" stop="20210912013000 +0700" channel="vtc5">
+    <title lang="vi">Phim truyền hình</title>
+    <desc lang="vi">CHIẾN BINH HỌC ĐƯỜNG (55): TẬP 42.(n)</desc>
+  </programme>
+  <programme start="20210912013000 +0700" stop="20210912023000 +0700" channel="vtc5">
+    <title lang="vi">Chương trình giải trí</title>
+    <desc lang="vi">KHÓA TÌNH YÊU + CHUYỆN TÌNH GIÀ.(n)</desc>
+  </programme>
+  <programme start="20210912023000 +0700" stop="20210912031500 +0700" channel="vtc5">
+    <title lang="vi">Chương trình du lịch</title>
+    <desc lang="vi">SỐNG Ở VIỆT NAM (156): TẬP 21-24.(n)</desc>
+  </programme>
+  <programme start="20210912031500 +0700" stop="20210912040000 +0700" channel="vtc5">
+    <title lang="vi">Phim truyền hình</title>
+    <desc lang="vi">SONG SINH BÍ ẨN (33): TẬP 23.(n)</desc>
+  </programme>
+  <programme start="20210912040000 +0700" stop="20210912044500 +0700" channel="vtc5">
+    <title lang="vi">Phim truyền hình</title>
+    <desc lang="vi">CHIẾN BINH HỌC ĐƯỜNG (55): TẬP 43.(n)</desc>
+  </programme>
+  <programme start="20210912044500 +0700" stop="20210912051500 +0700" channel="vtc5">
+    <title lang="vi">Sitcom</title>
+    <desc lang="vi">TÁM XUYÊN VIỆT (265): TẬP 45 + 46.(n)</desc>
+  </programme>
+  <programme start="20210912051500 +0700" stop="20210912061500 +0700" channel="vtc5">
+    <title lang="vi">Chương trình giải trí</title>
+    <desc lang="vi">TA TẮM AO TA + NẠN NHÂN TÌNH NGUYỆN.(n)</desc>
+  </programme>
+  <programme start="20210912061500 +0700" stop="20210912070000 +0700" channel="vtc5">
+    <title lang="vi">Chương trình du lịch</title>
+    <desc lang="vi">SỐNG Ở VIỆT NAM (156): TẬP 25-28.(n)</desc>
+  </programme>
+  <programme start="20210912070000 +0700" stop="20210912074500 +0700" channel="vtc5">
+    <title lang="vi">Phim truyền hình</title>
+    <desc lang="vi">SONG SINH BÍ ẨN (33): TẬP 24.(n)</desc>
+  </programme>
+  <programme start="20210912074500 +0700" stop="20210912083000 +0700" channel="vtc5">
+    <title lang="vi">Phim truyền hình</title>
+    <desc lang="vi">CHIẾN BINH HỌC ĐƯỜNG (55): TẬP 44.(n)</desc>
+  </programme>
+  <programme start="20210912083000 +0700" stop="20210912090000 +0700" channel="vtc5">
+    <title lang="vi">Sitcom</title>
+    <desc lang="vi">TÁM XUYÊN VIỆT (265): TẬP 47 + 48.(n)</desc>
+  </programme>
+  <programme start="20210912090000 +0700" stop="20210912100000 +0700" channel="vtc5">
+    <title lang="vi">Chương trình giải trí</title>
+    <desc lang="vi">HOA HÒE TÁI XUẤT + VỌNG CỔ TEEN.(n)</desc>
+  </programme>
+  <programme start="20210912100000 +0700" stop="20210912104500 +0700" channel="vtc5">
+    <title lang="vi">Chương trình du lịch</title>
+    <desc lang="vi">SỐNG Ở VIỆT NAM (156): TẬP 29-32.(n)</desc>
+  </programme>
+  <programme start="20210912104500 +0700" stop="20210912113000 +0700" channel="vtc5">
+    <title lang="vi">Phim truyền hình</title>
+    <desc lang="vi">SONG SINH BÍ ẨN (33): TẬP 25.(n)</desc>
+  </programme>
+  <programme start="20210912113000 +0700" stop="20210912121500 +0700" channel="vtc5">
+    <title lang="vi">Phim truyền hình</title>
+    <desc lang="vi">CHIẾN BINH HỌC ĐƯỜNG (55): TẬP 45.(n)</desc>
+  </programme>
+  <programme start="20210912121500 +0700" stop="20210912124500 +0700" channel="vtc5">
+    <title lang="vi">Sitcom</title>
+    <desc lang="vi">TÁM XUYÊN VIỆT (265): TẬP 49 + 50.(n)</desc>
+  </programme>
+  <programme start="20210912124500 +0700" stop="20210912134500 +0700" channel="vtc5">
+    <title lang="vi">Chương trình giải trí</title>
+    <desc lang="vi">VẠ LÂY + TỶ PHÚ MỚI NHẬN LÀM CHA.(n)</desc>
+  </programme>
+  <programme start="20210912134500 +0700" stop="20210912143000 +0700" channel="vtc5">
+    <title lang="vi">Chương trình du lịch</title>
+    <desc lang="vi">SỐNG Ở VIỆT NAM (156): TẬP 33-36.(n)</desc>
+  </programme>
+  <programme start="20210912143000 +0700" stop="20210912151500 +0700" channel="vtc5">
+    <title lang="vi">Phim truyền hình</title>
+    <desc lang="vi">SONG SINH BÍ ẨN (33): TẬP 26.(n)</desc>
+  </programme>
+  <programme start="20210912151500 +0700" stop="20210912160000 +0700" channel="vtc5">
+    <title lang="vi">Phim truyền hình</title>
+    <desc lang="vi">CHIẾN BINH HỌC ĐƯỜNG (55): TẬP 46.(n)</desc>
+  </programme>
+  <programme start="20210912160000 +0700" stop="20210912163000 +0700" channel="vtc5">
+    <title lang="vi">Sitcom</title>
+    <desc lang="vi">TÁM XUYÊN VIỆT (265): TẬP 51 + 52.(n)</desc>
+  </programme>
+  <programme start="20210912163000 +0700" stop="20210912173000 +0700" channel="vtc5">
+    <title lang="vi">Chương trình giải trí</title>
+    <desc lang="vi">MÓN QUÀ NGUY HIỂM + TƯ GÀN HẾT DÁM GÀN.(n)</desc>
+  </programme>
+  <programme start="20210912173000 +0700" stop="20210912181500 +0700" channel="vtc5">
+    <title lang="vi">Chương trình du lịch</title>
+    <desc lang="vi">SỐNG Ở VIỆT NAM (156): TẬP 37-40.(n)</desc>
+  </programme>
+  <programme start="20210912181500 +0700" stop="20210912190000 +0700" channel="vtc5">
+    <title lang="vi">Phim truyền hình</title>
+    <desc lang="vi">SONG SINH BÍ ẨN (33): TẬP 27.(n)</desc>
+  </programme>
+  <programme start="20210912190000 +0700" stop="20210912194500 +0700" channel="vtc5">
+    <title lang="vi">Phim truyền hình</title>
+    <desc lang="vi">CHIẾN BINH HỌC ĐƯỜNG (55): TẬP 47.(n)</desc>
+  </programme>
+  <programme start="20210912194500 +0700" stop="20210912201500 +0700" channel="vtc5">
+    <title lang="vi">Sitcom</title>
+    <desc lang="vi">TÁM XUYÊN VIỆT (265): TẬP 53 + 54.(n)</desc>
+  </programme>
+  <programme start="20210912201500 +0700" stop="20210912211500 +0700" channel="vtc5">
+    <title lang="vi">Chương trình giải trí</title>
+    <desc lang="vi">MÓN QUÀ NGUY HIỂM + TƯ GÀN HẾT DÁM GÀN.(n)</desc>
+  </programme>
+  <programme start="20210912211500 +0700" stop="20210912220000 +0700" channel="vtc5">
+    <title lang="vi">Chương trình du lịch</title>
+    <desc lang="vi">SỐNG Ở VIỆT NAM (156): TẬP 37-40.(n)</desc>
+  </programme>
+  <programme start="20210912220000 +0700" stop="20210912224500 +0700" channel="vtc5">
+    <title lang="vi">Phim truyền hình</title>
+    <desc lang="vi">SONG SINH BÍ ẨN (33): TẬP 27.(n)</desc>
+  </programme>
+  <programme start="20210912224500 +0700" stop="20210912233000 +0700" channel="vtc5">
+    <title lang="vi">Phim truyền hình</title>
+    <desc lang="vi">CHIẾN BINH HỌC ĐƯỜNG (55): TẬP 47.(n)</desc>
+  </programme>
+  <programme start="20210911233000 +0700" stop="20210912000000 +0700" channel="vtc9">
+    <title lang="vi">ĐI VÀ TRẢI NGHIỆM</title>
+    <desc lang="vi">Con đường trầm hương - Phần 2.(n)</desc>
+  </programme>
+  <programme start="20210912000000 +0700" stop="20210912010000 +0700" channel="vtc9">
+    <title lang="vi">PHIM TRUYỆN</title>
+    <desc lang="vi">Tình yêu Chocolate - Tập 41.(n)</desc>
+  </programme>
+  <programme start="20210912010000 +0700" stop="20210912020000 +0700" channel="vtc9">
+    <title lang="vi">PHIM TRUYỆN</title>
+    <desc lang="vi">Bất khả xâm phạm - Tập 16.(n)</desc>
+  </programme>
+  <programme start="20210912020000 +0700" stop="20210912030000 +0700" channel="vtc9">
+    <title lang="vi">PHIM TRUYỆN</title>
+    <desc lang="vi">Tình tay ba - Tập 41.(n)</desc>
+  </programme>
+  <programme start="20210912030000 +0700" stop="20210912040000 +0700" channel="vtc9">
+    <title lang="vi">PHIM TRUYỆN</title>
+    <desc lang="vi">Cuộc đối đầu hoàn hảo - Tập 11.(n)</desc>
+  </programme>
+  <programme start="20210912040000 +0700" stop="20210912043000 +0700" channel="vtc9">
+    <title lang="vi">NHỊP SỐNG ĐỎ</title>
+    <desc lang="vi">Những lưu ý cho bệnh nhân tim mạch trong mùa dịch bệnh.(n)</desc>
+  </programme>
+  <programme start="20210912043000 +0700" stop="20210912050000 +0700" channel="vtc9">
+    <title lang="vi">NHÀ MÁT</title>
+    <desc lang="vi">Kiến trúc sinh thái với ngôn ngữ thiết kế cộng sinh.(n)</desc>
+  </programme>
+  <programme start="20210912050000 +0700" stop="20210912060000 +0700" channel="vtc9">
+    <title lang="vi">V MUSIC</title>
+  </programme>
+  <programme start="20210912060000 +0700" stop="20210912063000 +0700" channel="vtc9">
+    <title lang="vi">ĐI VÀ TRẢI NGHIỆM</title>
+    <desc lang="vi">Con đường trầm hương - Phần 3.(n)</desc>
+  </programme>
+  <programme start="20210912063000 +0700" stop="20210912080000 +0700" channel="vtc9">
+    <title lang="vi">CÀ PHÊ NGÀY MỚI</title>
+  </programme>
+  <programme start="20210912080000 +0700" stop="20210912090000 +0700" channel="vtc9">
+    <title lang="vi">V MUSIC</title>
+  </programme>
+  <programme start="20210912090000 +0700" stop="20210912093000 +0700" channel="vtc9">
+    <title lang="vi">360 ĐỘ SHOWBIZ</title>
+  </programme>
+  <programme start="20210912093000 +0700" stop="20210912094500 +0700" channel="vtc9">
+    <title lang="vi">SÁCH VÀ CUỘC SỐNG</title>
+    <desc lang="vi">Trường làng vẫn ra thế giới.(n)</desc>
+  </programme>
+  <programme start="20210912094500 +0700" stop="20210912100500 +0700" channel="vtc9">
+    <title lang="vi">VỀ CHỐN LINH THIÊNG</title>
+    <desc lang="vi">Chốn linh thiêng tổ Đình Hồng Phúc.(n)</desc>
+  </programme>
+  <programme start="20210912100500 +0700" stop="20210912105000 +0700" channel="vtc9">
+    <title lang="vi">PHIM TRUYỆN</title>
+    <desc lang="vi">Truyền thuyết Bạch Xà - Tập 18.(n)</desc>
+  </programme>
+  <programme start="20210912105000 +0700" stop="20210912110000 +0700" channel="vtc9">
+    <title lang="vi">TƯ VẤN PHÒNG CHỐNG COVID 19</title>
+  </programme>
+  <programme start="20210912110000 +0700" stop="20210912113000 +0700" channel="vtc9">
+    <title lang="vi">NHỊP SỐNG ĐỎ</title>
+    <desc lang="vi">Những lưu ý cho bệnh nhân tim mạch trong mùa dịch bệnh.(n)</desc>
+  </programme>
+  <programme start="20210912113000 +0700" stop="20210912120500 +0700" channel="vtc9">
+    <title lang="vi">TỌA ĐÀM</title>
+    <desc lang="vi">Toạ đàm Kỷ niệm 76 năm ngành Thông tin và Truyền thông.(n)</desc>
+  </programme>
+  <programme start="20210912120500 +0700" stop="20210912130000 +0700" channel="vtc9">
+    <title lang="vi">PHIM TRUYỆN</title>
+    <desc lang="vi">Tình yêu Chocolate - Tập 42.(n)</desc>
+  </programme>
+  <programme start="20210912130000 +0700" stop="20210912140000 +0700" channel="vtc9">
+    <title lang="vi">PHIM TRUYỆN</title>
+    <desc lang="vi">Nhân sinh nếu như lần đầu gặp gỡ - Tập 4.(n)</desc>
+  </programme>
+  <programme start="20210912140000 +0700" stop="20210912153000 +0700" channel="vtc9">
+    <title lang="vi">CÀ PHÊ NGÀY MỚI</title>
+  </programme>
+  <programme start="20210912153000 +0700" stop="20210912160000 +0700" channel="vtc9">
+    <title lang="vi">PHIM TÀI LIỆU</title>
+    <desc lang="vi">Bài học kinh nghiệm trong triển khai dự án cơ sở dữ liệu quốc gia về dân cư.(n)</desc>
+  </programme>
+  <programme start="20210912160000 +0700" stop="20210912163000 +0700" channel="vtc9">
+    <title lang="vi">THIÊN NHIÊN VIỆT NAM</title>
+    <desc lang="vi">Chiềng Yên thăm thẳm nước trôi.(n)</desc>
+  </programme>
+  <programme start="20210912163000 +0700" stop="20210912164500 +0700" channel="vtc9">
+    <title lang="vi">NGON VÀ LÀNH</title>
+    <desc lang="vi">Bánh nướng điêu khắc 4D.(n)</desc>
+  </programme>
+  <programme start="20210912164500 +0700" stop="20210912170000 +0700" channel="vtc9">
+    <title lang="vi">PHÓNG SỰ TÀI LIỆU</title>
+    <desc lang="vi">Đưa nông sản lên sàn TMDT – Giải pháp hiệu quả tiêu thụ nông sản.(n)</desc>
+  </programme>
+  <programme start="20210912170000 +0700" stop="20210912180000 +0700" channel="vtc9">
+    <title lang="vi">PHIM TRUYỆN</title>
+    <desc lang="vi">Tình tay ba - Tập 42.(n)</desc>
+  </programme>
+  <programme start="20210912180000 +0700" stop="20210912183500 +0700" channel="vtc9">
+    <title lang="vi">XỔ SỐ MIỀN BẮC</title>
+  </programme>
+  <programme start="20210912183500 +0700" stop="20210912194000 +0700" channel="vtc9">
+    <title lang="vi">PHIM TRUYỆN</title>
+    <desc lang="vi">Truyền thuyết Bạch Xà - Tập 19.(n)</desc>
+  </programme>
+  <programme start="20210912194000 +0700" stop="20210912204000 +0700" channel="vtc9">
+    <title lang="vi">PHIM TRUYỆN</title>
+    <desc lang="vi">Nhân sinh nếu như lần đầu gặp gỡ - Tập 5.(n)</desc>
+  </programme>
+  <programme start="20210912204000 +0700" stop="20210912214500 +0700" channel="vtc9">
+    <title lang="vi">PHIM TRUYỆN</title>
+    <desc lang="vi">Bất khả xâm phạm - Tập 17.(n)</desc>
+  </programme>
+  <programme start="20210912214500 +0700" stop="20210912221500 +0700" channel="vtc9">
+    <title lang="vi">360 ĐỘ SHOWBIZ</title>
+  </programme>
+  <programme start="20210912221500 +0700" stop="20210912223000 +0700" channel="vtc9">
+    <title lang="vi">PHÓNG SỰ TÀI LIỆU</title>
+    <desc lang="vi">Đưa nông sản lên sàn TMDT – Giải pháp hiệu quả tiêu thụ nông sản.(n)</desc>
+  </programme>
+  <programme start="20210912223000 +0700" stop="20210912233000 +0700" channel="vtc9">
+    <title lang="vi">PHIM TRUYỆN</title>
+    <desc lang="vi">Cuộc đối đầu hoàn hảo - Tập 12.(n)</desc>
+  </programme>
+  <programme start="20210912233000 +0700" stop="20210913000000 +0700" channel="vtc9">
+    <title lang="vi">ĐI VÀ TRẢI NGHIỆM</title>
+    <desc lang="vi">Con đường trầm hương - Phần 3.(n)</desc>
+  </programme>
+  <programme start="20210913000000 +0700" stop="20210913010000 +0700" channel="vtc9">
+    <title lang="vi">PHIM TRUYỆN</title>
+    <desc lang="vi">Tình yêu Chocolate - Tập 42.(n)</desc>
+  </programme>
+  <programme start="20210913010000 +0700" stop="20210913020000 +0700" channel="vtc9">
+    <title lang="vi">PHIM TRUYỆN</title>
+    <desc lang="vi">Bất khả xâm phạm - Tập 17.(n)</desc>
+  </programme>
+  <programme start="20210913020000 +0700" stop="20210913030000 +0700" channel="vtc9">
+    <title lang="vi">PHIM TRUYỆN</title>
+    <desc lang="vi">Tình tay ba - Tập 42.(n)</desc>
+  </programme>
+  <programme start="20210913030000 +0700" stop="20210913035500 +0700" channel="vtc9">
+    <title lang="vi">PHIM TRUYỆN</title>
+    <desc lang="vi">Cuộc đối đầu hoàn hảo - Tập 12.(n)</desc>
+  </programme>
+  <programme start="20210913035500 +0700" stop="20210913043000 +0700" channel="vtc9">
+    <title lang="vi">PHIÊU LƯU CÙNG ẨM THỰC</title>
+    <desc lang="vi">Bí quyết nấu ăn của Gordon Ramsay - Phần 7.(n)</desc>
+  </programme>
+  <programme start="20210913043000 +0700" stop="20210913050000 +0700" channel="vtc9">
+    <title lang="vi">GÓC NHÌN CUỘC SỐNG</title>
+    <desc lang="vi">Đối thoại phía đông rừng.(n)</desc>
+  </programme>
+  <programme start="20210913050000 +0700" stop="20210913060000 +0700" channel="vtc9">
+    <title lang="vi">VMUSIC</title>
+  </programme>
+  <programme start="20210913060000 +0700" stop="20210913063000 +0700" channel="vtc9">
+    <title lang="vi">ĐI VÀ TRẢI NGHIỆM</title>
+    <desc lang="vi">Con đường trầm hương - Phần 4.(n)</desc>
+  </programme>
+  <programme start="20210913063000 +0700" stop="20210913080000 +0700" channel="vtc9">
+    <title lang="vi">CÀ PHÊ NGÀY MỚI</title>
+  </programme>
+  <programme start="20210913080000 +0700" stop="20210913090000 +0700" channel="vtc9">
+    <title lang="vi">VMUSIC</title>
+  </programme>
+  <programme start="20210913090000 +0700" stop="20210913093000 +0700" channel="vtc9">
+    <title lang="vi">TỌA ĐÀM</title>
+    <desc lang="vi">Nhìn về lịch sử để sống xứng đáng hơn.(n)</desc>
+  </programme>
+  <programme start="20210913093000 +0700" stop="20210913094500 +0700" channel="vtc9">
+    <title lang="vi">SÁCH VÀ CUỘC SỐNG</title>
+    <desc lang="vi">Ta ba lô trên đất Á.(n)</desc>
+  </programme>
+  <programme start="20210913094500 +0700" stop="20210913100500 +0700" channel="vtc9">
+    <title lang="vi">VỀ CHỐN LINH THIÊNG</title>
+    <desc lang="vi">Sắc vàng Pitu Khôsa Răngsây.(n)</desc>
+  </programme>
+  <programme start="20210913100500 +0700" stop="20210913105000 +0700" channel="vtc9">
+    <title lang="vi">PHIM TRUYỆN</title>
+    <desc lang="vi">Truyền thuyết Bạch Xà - Tập 19.(n)</desc>
+  </programme>
+  <programme start="20210913105000 +0700" stop="20210913110000 +0700" channel="vtc9">
+    <title lang="vi">TƯ VẤN PHÒNG CHỐNG COVID 19</title>
+  </programme>
+  <programme start="20210913110000 +0700" stop="20210913113000 +0700" channel="vtc9">
+    <title lang="vi">THẾ GIỚI XE XANH</title>
+  </programme>
+  <programme start="20210913113000 +0700" stop="20210913120500 +0700" channel="vtc9">
+    <title lang="vi">PHIM TÀI LIỆU</title>
+    <desc lang="vi">Vẹn nguyên cảm xúc ngày độc lập.(n)</desc>
+  </programme>
+  <programme start="20210913120500 +0700" stop="20210913130500 +0700" channel="vtc9">
+    <title lang="vi">PHIM TRUYỆN</title>
+    <desc lang="vi">Tình yêu Chocolate - Tập 43.(n)</desc>
+  </programme>
+  <programme start="20210913130500 +0700" stop="20210913140000 +0700" channel="vtc9">
+    <title lang="vi">PHIM TRUYỆN</title>
+    <desc lang="vi">Nhân sinh nếu như lần đầu gặp gỡ - Tập 5.(n)</desc>
+  </programme>
+  <programme start="20210913140000 +0700" stop="20210913153000 +0700" channel="vtc9">
+    <title lang="vi">CÀ PHÊ NGÀY MỚI</title>
+  </programme>
+  <programme start="20210913153000 +0700" stop="20210913160000 +0700" channel="vtc9">
+    <title lang="vi">CA NHẠC QUỐC TẾ</title>
+  </programme>
+  <programme start="20210913160000 +0700" stop="20210913161500 +0700" channel="vtc9">
+    <title lang="vi">VỀ CHỐN LINH THIÊNG</title>
+    <desc lang="vi">Sắc vàng Pitu Khôsa Răngsây.(n)</desc>
+  </programme>
+  <programme start="20210913161500 +0700" stop="20210913163000 +0700" channel="vtc9">
+    <title lang="vi">PHÓNG SỰ TÀI LIỆU</title>
+    <desc lang="vi">Tuổi trẻ Ngành Thông tin và Truyền thông: Tiếp lửa truyền thống – Hướng tới tương lai.(n)</desc>
+  </programme>
+  <programme start="20210913163000 +0700" stop="20210913164500 +0700" channel="vtc9">
+    <title lang="vi">NGON VÀ LÀNH</title>
+    <desc lang="vi">Bánh trung thu Keto cho người ăn chay và tiểu đường.(n)</desc>
+  </programme>
+  <programme start="20210913164500 +0700" stop="20210913170000 +0700" channel="vtc9">
+    <title lang="vi">PHÓNG SỰ TÀI LIỆU</title>
+    <desc lang="vi">Truyền lửa cách mạng qua những tờ truyền đơn.(n)</desc>
+  </programme>
+  <programme start="20210913170000 +0700" stop="20210913180000 +0700" channel="vtc9">
+    <title lang="vi">PHIM TRUYỆN</title>
+    <desc lang="vi">Tình tay ba - Tập 43.(n)</desc>
+  </programme>
+  <programme start="20210913180000 +0700" stop="20210913183500 +0700" channel="vtc9">
+    <title lang="vi">XỔ SỐ MIỀN BẮC</title>
+  </programme>
+  <programme start="20210913183500 +0700" stop="20210913194000 +0700" channel="vtc9">
+    <title lang="vi">PHIM TRUYỆN</title>
+    <desc lang="vi">Truyền thuyết Bạch Xà - Tập 20.(n)</desc>
+  </programme>
+  <programme start="20210913194000 +0700" stop="20210913204000 +0700" channel="vtc9">
+    <title lang="vi">PHIM TRUYỆN</title>
+    <desc lang="vi">Nhân sinh nếu như lần đầu gặp gỡ - Tập 6.(n)</desc>
+  </programme>
+  <programme start="20210913204000 +0700" stop="20210913214500 +0700" channel="vtc9">
+    <title lang="vi">PHIM TRUYỆN</title>
+    <desc lang="vi">Bất khả xâm phạm - Tập 18.(n)</desc>
+  </programme>
+  <programme start="20210913214500 +0700" stop="20210913221500 +0700" channel="vtc9">
+    <title lang="vi">CHUYỆN THẾ GIỚI</title>
+  </programme>
+  <programme start="20210913221500 +0700" stop="20210913223000 +0700" channel="vtc9">
+    <title lang="vi">PHÓNG SỰ TÀI LIỆU</title>
+    <desc lang="vi">Truyền lửa cách mạng qua những tờ truyền đơn.(n)</desc>
+  </programme>
+  <programme start="20210913223000 +0700" stop="20210913233000 +0700" channel="vtc9">
+    <title lang="vi">PHIM TRUYỆN</title>
+    <desc lang="vi">Cuộc đối đầu hoàn hảo - Tập 13.(n)</desc>
+  </programme>
+  <programme start="20210911233000 +0700" stop="20210912000500 +0700" channel="VTC12">
+    <title lang="vi">TV SHOW</title>
+    <desc lang="vi">Thử đi rồi biết.(n)</desc>
+  </programme>
+  <programme start="20210912000500 +0700" stop="20210912010000 +0700" channel="VTC12">
+    <title lang="vi">TV SHOW</title>
+    <desc lang="vi">Ẩm thực cho hội độc thân.(n)</desc>
+  </programme>
+  <programme start="20210912010000 +0700" stop="20210912020500 +0700" channel="VTC12">
+    <title lang="vi">SÂN KHẤU ÂM NHẠC</title>
+  </programme>
+  <programme start="20210912020500 +0700" stop="20210912023000 +0700" channel="VTC12">
+    <title lang="vi">TV SHOW</title>
+    <desc lang="vi">Thử đi rồi biết.(n)</desc>
+  </programme>
+  <programme start="20210912023000 +0700" stop="20210912033000 +0700" channel="VTC12">
+    <title lang="vi">TV SHOW</title>
+    <desc lang="vi">BTOB - Những chàng trai hoàn hảo.(n)</desc>
+  </programme>
+  <programme start="20210912033000 +0700" stop="20210912040000 +0700" channel="VTC12">
+    <title lang="vi">TV SHOW</title>
+    <desc lang="vi">Thử đi rồi biết.(n)</desc>
+  </programme>
+  <programme start="20210912040000 +0700" stop="20210912050000 +0700" channel="VTC12">
+    <title lang="vi">TV SHOW</title>
+    <desc lang="vi">Điên chút thì sao.(n)</desc>
+  </programme>
+  <programme start="20210912050000 +0700" stop="20210912060500 +0700" channel="VTC12">
+    <title lang="vi">SÂN KHẤU ÂM NHẠC</title>
+  </programme>
+  <programme start="20210912060500 +0700" stop="20210912070500 +0700" channel="VTC12">
+    <title lang="vi">KPOP RANKING</title>
+  </programme>
+  <programme start="20210912070500 +0700" stop="20210912080500 +0700" channel="VTC12">
+    <title lang="vi">CÂU CHUYỆN ÂM NHẠC</title>
+  </programme>
+  <programme start="20210912080500 +0700" stop="20210912090000 +0700" channel="VTC12">
+    <title lang="vi">TV SHOW</title>
+    <desc lang="vi">Thách thức siêu đầu bếp.(n)</desc>
+  </programme>
+  <programme start="20210912090000 +0700" stop="20210912091500 +0700" channel="VTC12">
+    <title lang="vi">ĐIỂM TIN HÀN QUỐC</title>
+    <desc lang="vi">Đặc sản hồng sấy dẻo và cơm cháy tỉnh Gyeongsangbuk-do.(n)</desc>
+  </programme>
+  <programme start="20210912091500 +0700" stop="20210912093000 +0700" channel="VTC12">
+    <title lang="vi">ĐIỂM TIN HÀN QUỐC</title>
+    <desc lang="vi">Lễ hội Văn hoá ẩm thực Việt - Hàn 2020.(n)</desc>
+  </programme>
+  <programme start="20210912093000 +0700" stop="20210912094500 +0700" channel="VTC12">
+    <title lang="vi">ĐIỂM TIN HÀN QUỐC</title>
+    <desc lang="vi">Gặp gỡ Giám đốc Quốc gia\/ Văn phòng KOICA Việt Nam Han Deog Cho.(n)</desc>
+  </programme>
+  <programme start="20210912094500 +0700" stop="20210912100000 +0700" channel="VTC12">
+    <title lang="vi">ĐIỂM TIN HÀN QUỐC</title>
+    <desc lang="vi">Lễ hội kim chi 2020.(n)</desc>
+  </programme>
+  <programme start="20210912100000 +0700" stop="20210912101500 +0700" channel="VTC12">
+    <title lang="vi">ĐIỂM TIN HÀN QUỐC</title>
+    <desc lang="vi">Gặp gỡ Chủ tịch KOTRA khu vực Đông Nam Á và Châu Đại Dương Lee Jong Seob.(n)</desc>
+  </programme>
+  <programme start="20210912101500 +0700" stop="20210912103000 +0700" channel="VTC12">
+    <title lang="vi">ĐIỂM TIN HÀN QUỐC</title>
+    <desc lang="vi">Công ty Kỹ thuật &amp; Xây dựng DaeKyung E&amp;C và Công ty ACE&amp;E.(n)</desc>
+  </programme>
+  <programme start="20210912103000 +0700" stop="20210912110000 +0700" channel="VTC12">
+    <title lang="vi">ĐIỂM TIN HÀN QUỐC</title>
+    <desc lang="vi">Gặp gỡ Tùy viên Lao động và việc làm - Đại sứ Quán Hàn Quốc Lee Jae Guk.(n)</desc>
+  </programme>
+  <programme start="20210912110000 +0700" stop="20210912114500 +0700" channel="VTC12">
+    <title lang="vi">ĐẠI NHẠC HỘI CHÂU Á 2020</title>
+    <desc lang="vi">Phần 1.(n)</desc>
+  </programme>
+  <programme start="20210912114500 +0700" stop="20210912120500 +0700" channel="VTC12">
+    <title lang="vi">TV SHOW</title>
+    <desc lang="vi">Lớp học âm nhạc - Mingalaba.(n)</desc>
+  </programme>
+  <programme start="20210912120500 +0700" stop="20210912130000 +0700" channel="VTC12">
+    <title lang="vi">PHIM TRUYỆN</title>
+    <desc lang="vi">Tạm biệt Mr.Black.(n)</desc>
+  </programme>
+  <programme start="20210912130000 +0700" stop="20210912131500 +0700" channel="VTC12">
+    <title lang="vi">ĐIỂM TIN HÀN QUỐC</title>
+    <desc lang="vi">Lễ hội Văn hoá ẩm thực Việt - Hàn 2020.(n)</desc>
+  </programme>
+  <programme start="20210912131500 +0700" stop="20210912133000 +0700" channel="VTC12">
+    <title lang="vi">ĐIỂM TIN HÀN QUỐC</title>
+    <desc lang="vi">Công ty Kỹ thuật &amp; Xây dựng DaeKyung E&amp;C và Công ty ACE&amp;E.(n)</desc>
+  </programme>
+  <programme start="20210912133000 +0700" stop="20210912134500 +0700" channel="VTC12">
+    <title lang="vi">ĐIỂM TIN HÀN QUỐC</title>
+    <desc lang="vi">Gặp gỡ Giám đốc Quốc gia\/ Văn phòng KOICA Việt Nam Han Deog Cho.(n)</desc>
+  </programme>
+  <programme start="20210912134500 +0700" stop="20210912140000 +0700" channel="VTC12">
+    <title lang="vi">ĐIỂM TIN HÀN QUỐC</title>
+    <desc lang="vi">Lễ hội kim chi 2020.(n)</desc>
+  </programme>
+  <programme start="20210912140000 +0700" stop="20210912141500 +0700" channel="VTC12">
+    <title lang="vi">ĐIỂM TIN HÀN QUỐC</title>
+    <desc lang="vi">Gặp gỡ Chủ tịch KOTRA khu vực Đông Nam Á và Châu Đại Dương Lee Jong Seob.(n)</desc>
+  </programme>
+  <programme start="20210912141500 +0700" stop="20210912143000 +0700" channel="VTC12">
+    <title lang="vi">TOUR ĐẠI HÀN DÂN QUỐC</title>
+    <desc lang="vi">Đặc sản hồng sấy dẻo và cơm cháy tỉnh Gyeongsangbuk-do.(n)</desc>
+  </programme>
+  <programme start="20210912143000 +0700" stop="20210912145000 +0700" channel="VTC12">
+    <title lang="vi">ĐIỂM TIN HÀN QUỐC</title>
+    <desc lang="vi">Gặp gỡ Tùy viên Lao động và việc làm - Đại sứ Quán Hàn Quốc Lee Jae Guk.(n)</desc>
+  </programme>
+  <programme start="20210912145000 +0700" stop="20210912150000 +0700" channel="VTC12">
+    <title lang="vi">ĐIỂM TIN HÀN QUỐC</title>
+    <desc lang="vi">Công ty Kỹ thuật &amp; Xây dựng DaeKyung E&amp;C và Công ty ACE&amp;E.(n)</desc>
+  </programme>
+  <programme start="20210912150000 +0700" stop="20210912155500 +0700" channel="VTC12">
+    <title lang="vi">TV SHOW</title>
+    <desc lang="vi">Điên chút thì sao.(n)</desc>
+  </programme>
+  <programme start="20210912155500 +0700" stop="20210912165000 +0700" channel="VTC12">
+    <title lang="vi">TV SHOW</title>
+    <desc lang="vi">Thách thức siêu đầu bếp.(n)</desc>
+  </programme>
+  <programme start="20210912165000 +0700" stop="20210912170500 +0700" channel="VTC12">
+    <title lang="vi">TV SHOW</title>
+    <desc lang="vi">Thử đi rồi biết.(n)</desc>
+  </programme>
+  <programme start="20210912170500 +0700" stop="20210912175000 +0700" channel="VTC12">
+    <title lang="vi">PHIM TRUYỆN</title>
+    <desc lang="vi">Tạm biệt Mr.Black.(n)</desc>
+  </programme>
+  <programme start="20210912175000 +0700" stop="20210912180500 +0700" channel="VTC12">
+    <title lang="vi">ĐIỂM TIN HÀN QUỐC</title>
+    <desc lang="vi">Công ty Kỹ thuật &amp; Xây dựng DaeKyung E&amp;C và Công ty ACE&amp;E.(n)</desc>
+  </programme>
+  <programme start="20210912180500 +0700" stop="20210912190000 +0700" channel="VTC12">
+    <title lang="vi">ĐẠI NHẠC HỘI CHÂU Á 2020</title>
+    <desc lang="vi">Phần 2.(n)</desc>
+  </programme>
+  <programme start="20210912190000 +0700" stop="20210912200000 +0700" channel="VTC12">
+    <title lang="vi">KPOP RANKING</title>
+  </programme>
+  <programme start="20210912200000 +0700" stop="20210912205000 +0700" channel="VTC12">
+    <title lang="vi">TV SHOW</title>
+    <desc lang="vi">Ẩm thực cho hội độc thân.(n)</desc>
+  </programme>
+  <programme start="20210912205000 +0700" stop="20210912210000 +0700" channel="VTC12">
+    <title lang="vi">ĐIỂM TIN HÀN QUỐC</title>
+    <desc lang="vi">Công ty Kỹ thuật &amp; Xây dựng DaeKyung E&amp;C và Công ty ACE&amp;E.(n)</desc>
+  </programme>
+  <programme start="20210912210000 +0700" stop="20210912220000 +0700" channel="VTC12">
+    <title lang="vi">PHIM TRUYỆN</title>
+    <desc lang="vi">Tạm biệt Mr.Black.(n)</desc>
+  </programme>
+  <programme start="20210912220000 +0700" stop="20210912230500 +0700" channel="VTC12">
+    <title lang="vi">CÂU CHUYỆN ÂM NHẠC</title>
+  </programme>
+  <programme start="20210912230500 +0700" stop="20210912233000 +0700" channel="VTC12">
+    <title lang="vi">TV SHOW</title>
+    <desc lang="vi">Lớp học Âm nhạc - Mingalaba.(n)</desc>
+  </programme>
+  <programme start="20210912233000 +0700" stop="20210913000500 +0700" channel="VTC12">
+    <title lang="vi">TV SHOW</title>
+    <desc lang="vi">Thử đi rồi biết.(n)</desc>
+  </programme>
+  <programme start="20210913000500 +0700" stop="20210913010000 +0700" channel="VTC12">
+    <title lang="vi">TV SHOW</title>
+    <desc lang="vi">Đột nhập trường học cùng Idol Kpop.(n)</desc>
+  </programme>
+  <programme start="20210913010000 +0700" stop="20210913020500 +0700" channel="VTC12">
+    <title lang="vi">CÂU CHUYỆN ÂM NHẠC</title>
+  </programme>
+  <programme start="20210913020500 +0700" stop="20210913023000 +0700" channel="VTC12">
+    <title lang="vi">TV SHOW</title>
+    <desc lang="vi">Lớp học Âm nhạc - Mingalaba.(n)</desc>
+  </programme>
+  <programme start="20210913023000 +0700" stop="20210913033000 +0700" channel="VTC12">
+    <title lang="vi">TV SHOW</title>
+    <desc lang="vi">Thách thức siêu đầu bếp.(n)</desc>
+  </programme>
+  <programme start="20210913033000 +0700" stop="20210913040000 +0700" channel="VTC12">
+    <title lang="vi">TV SHOW</title>
+    <desc lang="vi">Thử đi rồi biết.(n)</desc>
+  </programme>
+  <programme start="20210913040000 +0700" stop="20210913050000 +0700" channel="VTC12">
+    <title lang="vi">TV SHOW</title>
+    <desc lang="vi">BTOB - Những chàng trai hoàn hảo.(n)</desc>
+  </programme>
+  <programme start="20210913050000 +0700" stop="20210913060500 +0700" channel="VTC12">
+    <title lang="vi">CÂU CHUYỆN ÂM NHẠC</title>
+  </programme>
+  <programme start="20210913060500 +0700" stop="20210913070500 +0700" channel="VTC12">
+    <title lang="vi">SÂN KHẤU ÂM NHẠC</title>
+  </programme>
+  <programme start="20210913070500 +0700" stop="20210913080500 +0700" channel="VTC12">
+    <title lang="vi">KPOP RANKING</title>
+  </programme>
+  <programme start="20210913080500 +0700" stop="20210913090000 +0700" channel="VTC12">
+    <title lang="vi">TV SHOW</title>
+    <desc lang="vi">Ẩm thực cho hội độc thân.(n)</desc>
+  </programme>
+  <programme start="20210913090000 +0700" stop="20210913091500 +0700" channel="VTC12">
+    <title lang="vi">ĐIỂM TIN HÀN QUỐC</title>
+    <desc lang="vi">Đặc sản hồng sấy dẻo và cơm cháy tỉnh Gyeongsangbuk-do.(n)</desc>
+  </programme>
+  <programme start="20210913091500 +0700" stop="20210913093000 +0700" channel="VTC12">
+    <title lang="vi">ĐIỂM TIN HÀN QUỐC</title>
+    <desc lang="vi">Lễ hội Văn hoá ẩm thực Việt - Hàn 2020.(n)</desc>
+  </programme>
+  <programme start="20210913093000 +0700" stop="20210913094500 +0700" channel="VTC12">
+    <title lang="vi">ĐIỂM TIN HÀN QUỐC</title>
+    <desc lang="vi">Gặp gỡ Giám đốc Quốc gia\/ Văn phòng KOICA Việt Nam Han Deog Cho.(n)</desc>
+  </programme>
+  <programme start="20210913094500 +0700" stop="20210913100000 +0700" channel="VTC12">
+    <title lang="vi">ĐIỂM TIN HÀN QUỐC</title>
+    <desc lang="vi">Lễ hội kim chi 2020.(n)</desc>
+  </programme>
+  <programme start="20210913100000 +0700" stop="20210913101500 +0700" channel="VTC12">
+    <title lang="vi">ĐIỂM TIN HÀN QUỐC</title>
+    <desc lang="vi">Gặp gỡ Chủ tịch KOTRA khu vực Đông Nam Á và Châu Đại Dương Lee Jong Seob.(n)</desc>
+  </programme>
+  <programme start="20210913101500 +0700" stop="20210913103000 +0700" channel="VTC12">
+    <title lang="vi">ĐIỂM TIN HÀN QUỐC</title>
+    <desc lang="vi">Công ty Kỹ thuật &amp; Xây dựng DaeKyung E&amp;C và Công ty ACE&amp;E.(n)</desc>
+  </programme>
+  <programme start="20210913103000 +0700" stop="20210913110000 +0700" channel="VTC12">
+    <title lang="vi">ĐIỂM TIN HÀN QUỐC</title>
+    <desc lang="vi">Gặp gỡ Tùy viên Lao động và việc làm - Đại sứ Quán Hàn Quốc Lee Jae Guk.(n)</desc>
+  </programme>
+  <programme start="20210913110000 +0700" stop="20210913114500 +0700" channel="VTC12">
+    <title lang="vi">ĐẠI NHẠC HỘI CHÂU Á 2020</title>
+    <desc lang="vi">Phần 3.(n)</desc>
+  </programme>
+  <programme start="20210913114500 +0700" stop="20210913120500 +0700" channel="VTC12">
+    <title lang="vi">TV SHOW</title>
+    <desc lang="vi">Thử đi rồi biết.(n)</desc>
+  </programme>
+  <programme start="20210913120500 +0700" stop="20210913130000 +0700" channel="VTC12">
+    <title lang="vi">PHIM TRUYỆN</title>
+    <desc lang="vi">Tạm biệt Mr.Black.(n)</desc>
+  </programme>
+  <programme start="20210913130000 +0700" stop="20210913131500 +0700" channel="VTC12">
+    <title lang="vi">ĐIỂM TIN HÀN QUỐC</title>
+    <desc lang="vi">Lễ hội Văn hoá ẩm thực Việt - Hàn 2020.(n)</desc>
+  </programme>
+  <programme start="20210913131500 +0700" stop="20210913133000 +0700" channel="VTC12">
+    <title lang="vi">ĐIỂM TIN HÀN QUỐC</title>
+    <desc lang="vi">Công ty Kỹ thuật &amp; Xây dựng DaeKyung E&amp;C và Công ty ACE&amp;E.(n)</desc>
+  </programme>
+  <programme start="20210913133000 +0700" stop="20210913134500 +0700" channel="VTC12">
+    <title lang="vi">ĐIỂM TIN HÀN QUỐC</title>
+    <desc lang="vi">Gặp gỡ Giám đốc Quốc gia\/ Văn phòng KOICA Việt Nam Han Deog Cho.(n)</desc>
+  </programme>
+  <programme start="20210913134500 +0700" stop="20210913140000 +0700" channel="VTC12">
+    <title lang="vi">ĐIỂM TIN HÀN QUỐC</title>
+    <desc lang="vi">Lễ hội kim chi 2020.(n)</desc>
+  </programme>
+  <programme start="20210913140000 +0700" stop="20210913141500 +0700" channel="VTC12">
+    <title lang="vi">ĐIỂM TIN HÀN QUỐC</title>
+    <desc lang="vi">Gặp gỡ Chủ tịch KOTRA khu vực Đông Nam Á và Châu Đại Dương Lee Jong Seob.(n)</desc>
+  </programme>
+  <programme start="20210913141500 +0700" stop="20210913143000 +0700" channel="VTC12">
+    <title lang="vi">TOUR ĐẠI HÀN DÂN QUỐC</title>
+    <desc lang="vi">Đặc sản hồng sấy dẻo và cơm cháy tỉnh Gyeongsangbuk-do.(n)</desc>
+  </programme>
+  <programme start="20210913143000 +0700" stop="20210913145000 +0700" channel="VTC12">
+    <title lang="vi">ĐIỂM TIN HÀN QUỐC</title>
+    <desc lang="vi">Gặp gỡ Tùy viên Lao động và việc làm - Đại sứ Quán Hàn Quốc Lee Jae Guk.(n)</desc>
+  </programme>
+  <programme start="20210913145000 +0700" stop="20210913150000 +0700" channel="VTC12">
+    <title lang="vi">ĐIỂM TIN HÀN QUỐC</title>
+    <desc lang="vi">Công ty Kỹ thuật &amp; Xây dựng DaeKyung E&amp;C và Công ty ACE&amp;E.(n)</desc>
+  </programme>
+  <programme start="20210913150000 +0700" stop="20210913155500 +0700" channel="VTC12">
+    <title lang="vi">TV SHOW</title>
+    <desc lang="vi">BTOB - Những chàng trai hoàn hảo.(n)</desc>
+  </programme>
+  <programme start="20210913155500 +0700" stop="20210913165000 +0700" channel="VTC12">
+    <title lang="vi">TV SHOW</title>
+    <desc lang="vi">Ẩm thực cho hội độc thân.(n)</desc>
+  </programme>
+  <programme start="20210913165000 +0700" stop="20210913170500 +0700" channel="VTC12">
+    <title lang="vi">TV SHOW</title>
+    <desc lang="vi">Lớp học Âm nhạc - Mingalaba.(n)</desc>
+  </programme>
+  <programme start="20210913170500 +0700" stop="20210913180500 +0700" channel="VTC12">
+    <title lang="vi">PHIM TRUYỆN</title>
+    <desc lang="vi">Tạm biệt Mr.Black.(n)</desc>
+  </programme>
+  <programme start="20210913180500 +0700" stop="20210913190000 +0700" channel="VTC12">
+    <title lang="vi">ĐẠI NHẠC HỘI CHÂU Á 2020</title>
+    <desc lang="vi">Phần 4.(n)</desc>
+  </programme>
+  <programme start="20210913190000 +0700" stop="20210913200000 +0700" channel="VTC12">
+    <title lang="vi">SÂN KHẤU ÂM NHẠC</title>
+  </programme>
+  <programme start="20210913200000 +0700" stop="20210913205000 +0700" channel="VTC12">
+    <title lang="vi">TV SHOW</title>
+    <desc lang="vi">Đột nhập trường học cùng Idol Kpop.(n)</desc>
+  </programme>
+  <programme start="20210913205000 +0700" stop="20210913210000 +0700" channel="VTC12">
+    <title lang="vi">ĐIỂM TIN HÀN QUỐC</title>
+    <desc lang="vi">Công ty Kỹ thuật &amp; Xây dựng DaeKyung E&amp;C và Công ty ACE&amp;E.(n)</desc>
+  </programme>
+  <programme start="20210913210000 +0700" stop="20210913220000 +0700" channel="VTC12">
+    <title lang="vi">PHIM TRUYỆN</title>
+    <desc lang="vi">Tạm biệt Mr.Black.(n)</desc>
+  </programme>
+  <programme start="20210913220000 +0700" stop="20210913230500 +0700" channel="VTC12">
+    <title lang="vi">CÂU CHUYỆN ÂM NHẠC</title>
+  </programme>
+  <programme start="20210913230500 +0700" stop="20210913233000 +0700" channel="VTC12">
+    <title lang="vi">TV SHOW</title>
+    <desc lang="vi">Lớp học Âm nhạc - Mingalaba.(n)</desc>
+  </programme>
+  <programme start="20210911000000 +0700" stop="20210911050000 +0700" channel="htv4">
+    <title lang="vi">những chương trình Bổ trợ kiến thức, phim tài liệu, phóng sự</title>
+  </programme>
+  <programme start="20210911050000 +0700" stop="20210911053000 +0700" channel="htv4">
+    <title lang="vi">Sống khỏe - Sống đẹp</title>
+  </programme>
+  <programme start="20210911053000 +0700" stop="20210911061500 +0700" channel="htv4">
+    <title lang="vi">Thể dục cho mọi người</title>
+  </programme>
+  <programme start="20210911061500 +0700" stop="20210911063000 +0700" channel="htv4">
+    <title lang="vi">Cuộc sống quanh ta</title>
+  </programme>
+  <programme start="20210911063000 +0700" stop="20210911070000 +0700" channel="htv4">
+    <title lang="vi">Bạn muốn hẹn hò</title>
+  </programme>
+  <programme start="20210911070000 +0700" stop="20210911071500 +0700" channel="htv4">
+    <title lang="vi">Trailer 10 nguyên tắc Bảo vệ gia đình</title>
+  </programme>
+  <programme start="20210911071500 +0700" stop="20210911080000 +0700" channel="htv4">
+    <title lang="vi">Bản tin 60S</title>
+  </programme>
+  <programme start="20210911080000 +0700" stop="20210911082000 +0700" channel="htv4">
+    <title lang="vi">Kết nối không giới hạn</title>
+  </programme>
+  <programme start="20210911082000 +0700" stop="20210911084500 +0700" channel="htv4">
+    <title lang="vi">Chính sách đời sống</title>
+  </programme>
+  <programme start="20210911084500 +0700" stop="20210911090000 +0700" channel="htv4">
+    <title lang="vi">Câu chuyện thương hiệu</title>
+  </programme>
+  <programme start="20210911090000 +0700" stop="20210911094000 +0700" channel="htv4">
+    <title lang="vi">Thấu tình đạt lý</title>
+  </programme>
+  <programme start="20210911094000 +0700" stop="20210911101000 +0700" channel="htv4">
+    <title lang="vi">Những giải đáp từ cuộc sống</title>
+  </programme>
+  <programme start="20210911101000 +0700" stop="20210911110000 +0700" channel="htv4">
+    <title lang="vi">Năng lượng xanh</title>
+  </programme>
+  <programme start="20210911110000 +0700" stop="20210911111500 +0700" channel="htv4">
+    <title lang="vi">Sống xanh</title>
+  </programme>
+  <programme start="20210911111500 +0700" stop="20210911125000 +0700" channel="htv4">
+    <title lang="vi">Phim truyện Việt Nam</title>
+    <desc lang="vi">Khép lại quá khứ - Tập 28+29.(n)</desc>
+  </programme>
+  <programme start="20210911125000 +0700" stop="20210911142000 +0700" channel="htv4">
+    <title lang="vi">Trailer Sức bật - Sáng tạo khởi nghiệp</title>
+  </programme>
+  <programme start="20210911142000 +0700" stop="20210911155000 +0700" channel="htv4">
+    <title lang="vi">Tạp chí sức khỏe</title>
+  </programme>
+  <programme start="20210911155000 +0700" stop="20210911160000 +0700" channel="htv4">
+    <title lang="vi">Hành trình trái đất</title>
+  </programme>
+  <programme start="20210911160000 +0700" stop="20210911163500 +0700" channel="htv4">
+    <title lang="vi">Kết nối không giới hạn</title>
+  </programme>
+  <programme start="20210911163500 +0700" stop="20210911170000 +0700" channel="htv4">
+    <title lang="vi">Những ngôi sao thầm lăng</title>
+  </programme>
+  <programme start="20210911170000 +0700" stop="20210911172000 +0700" channel="htv4">
+    <title lang="vi">Thế giới giải trí</title>
+  </programme>
+  <programme start="20210911172000 +0700" stop="20210911175000 +0700" channel="htv4">
+    <title lang="vi">Siêu thị cười</title>
+  </programme>
+  <programme start="20210911175000 +0700" stop="20210911180500 +0700" channel="htv4">
+    <title lang="vi">Kiến thức cuộc sống</title>
+  </programme>
+  <programme start="20210911180500 +0700" stop="20210911183000 +0700" channel="htv4">
+    <title lang="vi">Vơ Chồng son</title>
+  </programme>
+  <programme start="20210911183000 +0700" stop="20210911190500 +0700" channel="htv4">
+    <title lang="vi">Sức bật Khởi nghiệp</title>
+  </programme>
+  <programme start="20210911190500 +0700" stop="20210911203000 +0700" channel="htv4">
+    <title lang="vi">Phim truyện Việt Nam</title>
+    <desc lang="vi">Rừng thiêng - tập 14+15.(n)</desc>
+  </programme>
+  <programme start="20210911203000 +0700" stop="20210911210000 +0700" channel="htv4">
+    <title lang="vi">Bạn muốn hẹn hò</title>
+  </programme>
+  <programme start="20210911210000 +0700" stop="20210911220000 +0700" channel="htv4">
+    <title lang="vi">Chuyển động 4.0</title>
+  </programme>
+  <programme start="20210911220000 +0700" stop="20210911223000 +0700" channel="htv4">
+    <title lang="vi">Bản tin 60s</title>
+  </programme>
+  <programme start="20210911234500 +0700" stop="20210912004400 +0700" channel="htvc.thuan.viet.hd">
+    <title lang="vi">Phim truyện Việt Nam</title>
+    <desc lang="vi">Tình yêu và thử thách - Tập 7.(n)</desc>
+  </programme>
+  <programme start="20210912004400 +0700" stop="20210912014400 +0700" channel="htvc.thuan.viet.hd">
+    <title lang="vi">Phim truyện Việt Nam</title>
+    <desc lang="vi">Bí mật anh và em - Tập 30.(n)</desc>
+  </programme>
+  <programme start="20210912014400 +0700" stop="20210912015700 +0700" channel="htvc.thuan.viet.hd">
+    <title lang="vi">Phim truyện Việt Nam</title>
+    <desc lang="vi">Tiệm tóc tình yêu- Tập 39.(n)</desc>
+  </programme>
+  <programme start="20210912015700 +0700" stop="20210912024600 +0700" channel="htvc.thuan.viet.hd">
+    <title lang="vi">Phim truyện Việt Nam</title>
+    <desc lang="vi">Tiệm tóc tình yêu- Tập 40.(n)</desc>
+  </programme>
+  <programme start="20210912024600 +0700" stop="20210912034500 +0700" channel="htvc.thuan.viet.hd">
+    <title lang="vi">Phim truyện Việt Nam</title>
+    <desc lang="vi">Biển xanh &amp; ốc nhỏ - Tập 39.(n)</desc>
+  </programme>
+  <programme start="20210912034500 +0700" stop="20210912044600 +0700" channel="htvc.thuan.viet.hd">
+    <title lang="vi">Phim truyện Việt Nam</title>
+    <desc lang="vi">Con trai con gái - Tập 49.(n)</desc>
+  </programme>
+  <programme start="20210912044600 +0700" stop="20210912060000 +0700" channel="htvc.thuan.viet.hd">
+    <title lang="vi">Phim truyện Việt Nam</title>
+    <desc lang="vi">Khép lại quá khứ- Tập 1.(n)</desc>
+  </programme>
+  <programme start="20210912060000 +0700" stop="20210912061300 +0700" channel="htvc.thuan.viet.hd">
+    <title lang="vi">Phim truyện Việt Nam</title>
+    <desc lang="vi">Tiệm tóc tình yêu- Tập 41.(n)</desc>
+  </programme>
+  <programme start="20210912061300 +0700" stop="20210912062700 +0700" channel="htvc.thuan.viet.hd">
+    <title lang="vi">Phim truyện Việt Nam</title>
+    <desc lang="vi">Tiệm tóc tình yêu- Tập 42.(n)</desc>
+  </programme>
+  <programme start="20210912062700 +0700" stop="20210912065400 +0700" channel="htvc.thuan.viet.hd">
+    <title lang="vi">Phim truyện Việt Nam</title>
+    <desc lang="vi">Cười lên vợ ơi -Phần 1 -Tập 29.(n)</desc>
+  </programme>
+  <programme start="20210912065400 +0700" stop="20210912074600 +0700" channel="htvc.thuan.viet.hd">
+    <title lang="vi">Phim truyện Việt Nam</title>
+    <desc lang="vi">Tình yêu và thử thách - Tập 9.(n)</desc>
+  </programme>
+  <programme start="20210912074600 +0700" stop="20210912084500 +0700" channel="htvc.thuan.viet.hd">
+    <title lang="vi">Phim truyện Việt Nam</title>
+    <desc lang="vi">Bí mật anh và em - Tập 31.(n)</desc>
+  </programme>
+  <programme start="20210912084500 +0700" stop="20210912094500 +0700" channel="htvc.thuan.viet.hd">
+    <title lang="vi">Phim truyện Việt Nam</title>
+    <desc lang="vi">Biển xanh &amp; ốc nhỏ - Tập 40.(n)</desc>
+  </programme>
+  <programme start="20210912094500 +0700" stop="20210912104500 +0700" channel="htvc.thuan.viet.hd">
+    <title lang="vi">Phim truyện Việt Nam</title>
+    <desc lang="vi">Con trai con gái - Tập 50.(n)</desc>
+  </programme>
+  <programme start="20210912104500 +0700" stop="20210912114500 +0700" channel="htvc.thuan.viet.hd">
+    <title lang="vi">Phim truyện Việt Nam</title>
+    <desc lang="vi">Khép lại quá khứ- Tập 2.(n)</desc>
+  </programme>
+  <programme start="20210912114500 +0700" stop="20210912124400 +0700" channel="htvc.thuan.viet.hd">
+    <title lang="vi">Phim truyện Việt Nam</title>
+    <desc lang="vi">Bằng chứng vô hình - Tập 19.(n)</desc>
+  </programme>
+  <programme start="20210912124400 +0700" stop="20210912134400 +0700" channel="htvc.thuan.viet.hd">
+    <title lang="vi">Phim truyện Việt Nam</title>
+    <desc lang="vi">Bí mật anh và em - Tập 31.(n)</desc>
+  </programme>
+  <programme start="20210912134400 +0700" stop="20210912135800 +0700" channel="htvc.thuan.viet.hd">
+    <title lang="vi">Phim truyện Việt Nam</title>
+    <desc lang="vi">Tiệm tóc tình yêu- Tập 41.(n)</desc>
+  </programme>
+  <programme start="20210912135800 +0700" stop="20210912141400 +0700" channel="htvc.thuan.viet.hd">
+    <title lang="vi">Phim truyện Việt Nam</title>
+    <desc lang="vi">Tiệm tóc tình yêu- Tập 42.(n)</desc>
+  </programme>
+  <programme start="20210912141400 +0700" stop="20210912144600 +0700" channel="htvc.thuan.viet.hd">
+    <title lang="vi">Phim truyện Việt Nam</title>
+    <desc lang="vi">Cười lên vợ ơi -Phần 1 -Tập 29.(n)</desc>
+  </programme>
+  <programme start="20210912144600 +0700" stop="20210912154500 +0700" channel="htvc.thuan.viet.hd">
+    <title lang="vi">Phim truyện Việt Nam</title>
+    <desc lang="vi">Biển xanh &amp; ốc nhỏ - Tập 40.(n)</desc>
+  </programme>
+  <programme start="20210912154500 +0700" stop="20210912164400 +0700" channel="htvc.thuan.viet.hd">
+    <title lang="vi">Phim truyện Việt Nam</title>
+    <desc lang="vi">Con trai con gái - Tập 50.(n)</desc>
+  </programme>
+  <programme start="20210912164400 +0700" stop="20210912174400 +0700" channel="htvc.thuan.viet.hd">
+    <title lang="vi">Phim truyện Việt Nam</title>
+    <desc lang="vi">Khép lại quá khứ- Tập 3.(n)</desc>
+  </programme>
+  <programme start="20210912174400 +0700" stop="20210912184300 +0700" channel="htvc.thuan.viet.hd">
+    <title lang="vi">Phim truyện Việt Nam</title>
+    <desc lang="vi">Tình yêu và thử thách - Tập 10.(n)</desc>
+  </programme>
+  <programme start="20210912184300 +0700" stop="20210912194400 +0700" channel="htvc.thuan.viet.hd">
+    <title lang="vi">Phim truyện Việt Nam</title>
+    <desc lang="vi">Bí mật anh và em - Tập 32.(n)</desc>
+  </programme>
+  <programme start="20210912194400 +0700" stop="20210912195600 +0700" channel="htvc.thuan.viet.hd">
+    <title lang="vi">Phim truyện Việt Nam</title>
+    <desc lang="vi">Tiệm tóc tình yêu- Tập 43.(n)</desc>
+  </programme>
+  <programme start="20210912195600 +0700" stop="20210912201600 +0700" channel="htvc.thuan.viet.hd">
+    <title lang="vi">Phim truyện Việt Nam</title>
+    <desc lang="vi">Tiệm tóc tình yêu- Tập 44.(n)</desc>
+  </programme>
+  <programme start="20210912201600 +0700" stop="20210912204600 +0700" channel="htvc.thuan.viet.hd">
+    <title lang="vi">Phim truyện Việt Nam</title>
+    <desc lang="vi">Cười lên vợ ơi -Phần 1 -Tập 30.(n)</desc>
+  </programme>
+  <programme start="20210912204600 +0700" stop="20210912214400 +0700" channel="htvc.thuan.viet.hd">
+    <title lang="vi">Phim truyện Việt Nam</title>
+    <desc lang="vi">Biển xanh &amp; ốc nhỏ - Tập 41.(n)</desc>
+  </programme>
+  <programme start="20210912214400 +0700" stop="20210912224400 +0700" channel="htvc.thuan.viet.hd">
+    <title lang="vi">Phim truyện Việt Nam</title>
+    <desc lang="vi">Con trai con gái - Tập 51.(n)</desc>
+  </programme>
+  <programme start="20210912224400 +0700" stop="20210912234400 +0700" channel="htvc.thuan.viet.hd">
+    <title lang="vi">Phim truyện Việt Nam</title>
+    <desc lang="vi">Khép lại quá khứ- Tập 3.(n)</desc>
+  </programme>
+</tv>

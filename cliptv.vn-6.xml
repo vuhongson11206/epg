@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="ha.giang">
+    <display-name lang="vi">Hà Giang</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="cao.bang">
+    <display-name lang="vi">Cao Bằng</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="bac.kan">
+    <display-name lang="vi">Bắc Kạn</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="lang.son">
+    <display-name lang="vi">Lạng Sơn</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="dien.bien">
+    <display-name lang="vi">Điện Biên</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="hoa.binh">
+    <display-name lang="vi">Hòa Bình</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="bac.giang">
+    <display-name lang="vi">Bắc Giang</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="tuyen.quang">
+    <display-name lang="vi">Tuyên Quang</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="lao.cai">
+    <display-name lang="vi">Lào Cai</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="son.la">
+    <display-name lang="vi">Sơn La</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="yen.bai">
+    <display-name lang="vi">Yên Bái</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="thai.nguyen">
+    <display-name lang="vi">Thái Nguyên</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="hai.duong">
+    <display-name lang="vi">Hải Dương</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="hai.phong">
+    <display-name lang="vi">Hải Phòng</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="phu.tho">
+    <display-name lang="vi">Phú Thọ</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="quang.ninh1">
+    <display-name lang="vi">Quảng Ninh 1</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="quang.ninh3">
+    <display-name lang="vi">Quảng Ninh 3</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="bac.ninh">
+    <display-name lang="vi">Bắc Ninh</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="ha.nam">
+    <display-name lang="vi">Hà Nam</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+  <channel id="hung.yen">
+    <display-name lang="vi">Hưng Yên</display-name>
+    <url>http://www.cliptv.vn</url>
+  </channel>
+</tv>
