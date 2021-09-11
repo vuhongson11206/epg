@@ -1,0 +1,1142 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="THVL1">
+    <display-name lang="vi">THVL1</display-name>
+    <url>http://www.thvl.vn</url>
+  </channel>
+  <channel id="THVL2">
+    <display-name lang="vi">THVL2</display-name>
+    <url>http://www.thvl.vn</url>
+  </channel>
+  <channel id="THVL3">
+    <display-name lang="vi">THVL3</display-name>
+    <url>http://www.thvl.vn</url>
+  </channel>
+  <channel id="THVL4">
+    <display-name lang="vi">THVL4</display-name>
+    <url>http://www.thvl.vn</url>
+  </channel>
+  <channel id="Phát thanh">
+    <display-name lang="vi">Phát thanh</display-name>
+    <url>http://www.thvl.vn</url>
+  </channel>
+  <programme start="20210911000000 +0700" stop="20210911004500 +0700" channel="THVL1">
+    <title lang="vi">Phim Ấn Độ: Aladdin và cây đèn thần-P1 - T.34</title>
+  </programme>
+  <programme start="20210911004500 +0700" stop="20210911013000 +0700" channel="THVL1">
+    <title lang="vi">Phim Croatia: Vì yêu -  Tập 56</title>
+  </programme>
+  <programme start="20210911013000 +0700" stop="20210911014500 +0700" channel="THVL1">
+    <title lang="vi">Chuyện hôm nay</title>
+  </programme>
+  <programme start="20210911014500 +0700" stop="20210911020000 +0700" channel="THVL1">
+    <title lang="vi">Phóng sự</title>
+  </programme>
+  <programme start="20210911020000 +0700" stop="20210911022000 +0700" channel="THVL1">
+    <title lang="vi">Thế giới động vật</title>
+  </programme>
+  <programme start="20210911022000 +0700" stop="20210911024000 +0700" channel="THVL1">
+    <title lang="vi">Thế giới giải trí</title>
+  </programme>
+  <programme start="20210911024000 +0700" stop="20210911032500 +0700" channel="THVL1">
+    <title lang="vi">Phim Việt Nam: Canh bạc tình yêu - Tập 66</title>
+  </programme>
+  <programme start="20210911032500 +0700" stop="20210911035000 +0700" channel="THVL1">
+    <title lang="vi">Chuyện hậu trường</title>
+  </programme>
+  <programme start="20210911035000 +0700" stop="20210911041500 +0700" channel="THVL1">
+    <title lang="vi">Phim Trung Quốc: Quỷ Cốc Tử - T.3</title>
+  </programme>
+  <programme start="20210911041500 +0700" stop="20210911050000 +0700" channel="THVL1">
+    <title lang="vi">Giải trí truyền hình: Solo cùng Bolero 21</title>
+  </programme>
+  <programme start="20210911050000 +0700" stop="20210911054000 +0700" channel="THVL1">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20210911054000 +0700" stop="20210911055500 +0700" channel="THVL1">
+    <title lang="vi">Phóng sự</title>
+  </programme>
+  <programme start="20210911055500 +0700" stop="20210911060000 +0700" channel="THVL1">
+    <title lang="vi">Nhà nông hội nhập</title>
+  </programme>
+  <programme start="20210911060000 +0700" stop="20210911063000 +0700" channel="THVL1">
+    <title lang="vi">Chào buổi sáng</title>
+  </programme>
+  <programme start="20210911063000 +0700" stop="20210911071500 +0700" channel="THVL1">
+    <title lang="vi">Người đưa tin 24H</title>
+  </programme>
+  <programme start="20210911071500 +0700" stop="20210911073500 +0700" channel="THVL1">
+    <title lang="vi">Phim tài liệu: Đội cận vệ A6 anh hùng - T4</title>
+  </programme>
+  <programme start="20210911073500 +0700" stop="20210911075000 +0700" channel="THVL1">
+    <title lang="vi">Văn hóa văn nghệ: Workshop nhân ái</title>
+  </programme>
+  <programme start="20210911075000 +0700" stop="20210911083500 +0700" channel="THVL1">
+    <title lang="vi">Phim Việt Nam: Danh vọng phù hoa - Tập 46</title>
+  </programme>
+  <programme start="20210911083500 +0700" stop="20210911090000 +0700" channel="THVL1">
+    <title lang="vi">Phim Việt Nam: Tiếng sét trong mưa - T.10</title>
+  </programme>
+  <programme start="20210911090000 +0700" stop="20210911094500 +0700" channel="THVL1">
+    <title lang="vi">Giải trí truyền hình: Cười Xuyên Việt</title>
+  </programme>
+  <programme start="20210911094500 +0700" stop="20210911100000 +0700" channel="THVL1">
+    <title lang="vi">Tinh hoa Bếp Việt</title>
+  </programme>
+  <programme start="20210911100000 +0700" stop="20210911103000 +0700" channel="THVL1">
+    <title lang="vi">Bí quyết sống khỏe</title>
+  </programme>
+  <programme start="20210911103000 +0700" stop="20210911110000 +0700" channel="THVL1">
+    <title lang="vi">Quyền năng phái đẹp</title>
+  </programme>
+  <programme start="20210911110000 +0700" stop="20210911111000 +0700" channel="THVL1">
+    <title lang="vi">Bản tin trưa</title>
+  </programme>
+  <programme start="20210911111000 +0700" stop="20210911115000 +0700" channel="THVL1">
+    <title lang="vi">Người đưa tin 24H</title>
+  </programme>
+  <programme start="20210911115000 +0700" stop="20210911120000 +0700" channel="THVL1">
+    <title lang="vi">Phút thư giãn</title>
+  </programme>
+  <programme start="20210911120000 +0700" stop="20210911125500 +0700" channel="THVL1">
+    <title lang="vi">Phim Ấn Độ: Aladdin và cây đèn thần-P1 - T.35</title>
+  </programme>
+  <programme start="20210911125500 +0700" stop="20210911130000 +0700" channel="THVL1">
+    <title lang="vi">Sống khỏe mỗi ngày</title>
+  </programme>
+  <programme start="20210911130000 +0700" stop="20210911140000 +0700" channel="THVL1">
+    <title lang="vi">Phim Croatia: Vì yêu  -  Tập 57</title>
+  </programme>
+  <programme start="20210911140000 +0700" stop="20210911145000 +0700" channel="THVL1">
+    <title lang="vi">Phim Việt Nam: Hai người vợ - T.7</title>
+  </programme>
+  <programme start="20210911145000 +0700" stop="20210911150000 +0700" channel="THVL1">
+    <title lang="vi">Thế giới quanh ta</title>
+  </programme>
+  <programme start="20210911150000 +0700" stop="20210911162000 +0700" channel="THVL1">
+    <title lang="vi">Truyền hình trực tiếp: NHỊP CẦU Y TẾ Giải pháp y tế hướng tới bình thường mới</title>
+  </programme>
+  <programme start="20210911162000 +0700" stop="20210911164000 +0700" channel="THVL1">
+    <title lang="vi">Ký sự truyền hình: Nhịp sống vùng xanh</title>
+  </programme>
+  <programme start="20210911164000 +0700" stop="20210911170000 +0700" channel="THVL1">
+    <title lang="vi">Thắp sáng niềm tin</title>
+  </programme>
+  <programme start="20210911170000 +0700" stop="20210911173000 +0700" channel="THVL1">
+    <title lang="vi">Cả nhà cùng vui</title>
+  </programme>
+  <programme start="20210911173000 +0700" stop="20210911183000 +0700" channel="THVL1">
+    <title lang="vi">Phim Đài Loan: Đại thời đại -T.856</title>
+  </programme>
+  <programme start="20210911183000 +0700" stop="20210911190000 +0700" channel="THVL1">
+    <title lang="vi">Thời sự Vĩnh Long</title>
+  </programme>
+  <programme start="20210911190000 +0700" stop="20210911191000 +0700" channel="THVL1">
+    <title lang="vi">Thời tiết nông vụ</title>
+  </programme>
+  <programme start="20210911191000 +0700" stop="20210911191500 +0700" channel="THVL1">
+    <title lang="vi">Nhà nông hội nhập</title>
+  </programme>
+  <programme start="20210911191500 +0700" stop="20210911194500 +0700" channel="THVL1">
+    <title lang="vi">Chuyến xe nhân ái</title>
+  </programme>
+  <programme start="20210911194500 +0700" stop="20210911195000 +0700" channel="THVL1">
+    <title lang="vi">Dr. Khỏe</title>
+  </programme>
+  <programme start="20210911195000 +0700" stop="20210911200000 +0700" channel="THVL1">
+    <title lang="vi">Việt Nam mến yêu</title>
+  </programme>
+  <programme start="20210911200000 +0700" stop="20210911210000 +0700" channel="THVL1">
+    <title lang="vi">Phim Việt Nam: Canh bạc tình yêu - Tập 67</title>
+  </programme>
+  <programme start="20210911210000 +0700" stop="20210911220000 +0700" channel="THVL1">
+    <title lang="vi">Giải trí truyền hình: Ca sĩ thần tượng</title>
+  </programme>
+  <programme start="20210911220000 +0700" stop="20210911223000 +0700" channel="THVL1">
+    <title lang="vi">Phim Đài Loan: Nhân gian huyền ảo tân truyện–T259</title>
+  </programme>
+  <programme start="20210911223000 +0700" stop="20210911230000 +0700" channel="THVL1">
+    <title lang="vi">Phim Trung Quốc: Quỷ Cốc Tử - T.4</title>
+  </programme>
+  <programme start="20210911230000 +0700" stop="20210911232000 +0700" channel="THVL1">
+    <title lang="vi">Thế giới trước 0H</title>
+  </programme>
+  <programme start="20210911232000 +0700" stop="20210911234000 +0700" channel="THVL1">
+    <title lang="vi">Nhìn ra thế giới</title>
+  </programme>
+  <programme start="20210911234000 +0700" stop="20210912000000 +0700" channel="THVL1">
+    <title lang="vi">Ẩm thực nước ngoài</title>
+  </programme>
+  <programme start="20210912000000 +0700" stop="20210912004500 +0700" channel="THVL1">
+    <title lang="vi">Phim Ấn Độ: Aladdin và cây đèn thần-P1 - T.35</title>
+  </programme>
+  <programme start="20210912004500 +0700" stop="20210912013000 +0700" channel="THVL1">
+    <title lang="vi">Phim Croatia: Vì yêu -  Tập 57</title>
+  </programme>
+  <programme start="20210912013000 +0700" stop="20210912014500 +0700" channel="THVL1">
+    <title lang="vi">Sức khỏe của bạn</title>
+  </programme>
+  <programme start="20210912014500 +0700" stop="20210912020000 +0700" channel="THVL1">
+    <title lang="vi">Khởi nghiệp xanh</title>
+  </programme>
+  <programme start="20210912020000 +0700" stop="20210912022000 +0700" channel="THVL1">
+    <title lang="vi">Tạp chí khoa học</title>
+  </programme>
+  <programme start="20210912022000 +0700" stop="20210912024000 +0700" channel="THVL1">
+    <title lang="vi">Nhìn ra thế giới</title>
+  </programme>
+  <programme start="20210912024000 +0700" stop="20210912032500 +0700" channel="THVL1">
+    <title lang="vi">Phim Việt Nam: Canh bạc tình yêu - Tập 67</title>
+  </programme>
+  <programme start="20210912032500 +0700" stop="20210912035000 +0700" channel="THVL1">
+    <title lang="vi">Thắp sáng niềm tin</title>
+  </programme>
+  <programme start="20210912035000 +0700" stop="20210912041500 +0700" channel="THVL1">
+    <title lang="vi">Phim Trung Quốc: Quỷ Cốc Tử - T.4</title>
+  </programme>
+  <programme start="20210912041500 +0700" stop="20210912050000 +0700" channel="THVL1">
+    <title lang="vi">Giải trí truyền hình: Ca sĩ thần tượng</title>
+  </programme>
+  <programme start="20210912050000 +0700" stop="20210912053000 +0700" channel="THVL1">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20210912053000 +0700" stop="20210912055500 +0700" channel="THVL1">
+    <title lang="vi">Chuyện kể Đất phương Nam:   Noi gương đại nghĩa</title>
+  </programme>
+  <programme start="20210912055500 +0700" stop="20210912060000 +0700" channel="THVL1">
+    <title lang="vi">Nhà nông hội nhập</title>
+  </programme>
+  <programme start="20210912060000 +0700" stop="20210912063000 +0700" channel="THVL1">
+    <title lang="vi">Chào buổi sáng</title>
+  </programme>
+  <programme start="20210912063000 +0700" stop="20210912071500 +0700" channel="THVL1">
+    <title lang="vi">Người đưa tin 24H</title>
+  </programme>
+  <programme start="20210912071500 +0700" stop="20210912073500 +0700" channel="THVL1">
+    <title lang="vi">Ký sự truyền hình: Nhịp sống vùng xanh</title>
+  </programme>
+  <programme start="20210912073500 +0700" stop="20210912075000 +0700" channel="THVL1">
+    <title lang="vi">Phim hoạt hình: Truyền thuyết các chiến binh - T.24</title>
+  </programme>
+  <programme start="20210912075000 +0700" stop="20210912083500 +0700" channel="THVL1">
+    <title lang="vi">Phim Việt Nam: Danh vọng phù hoa - Tập 47</title>
+  </programme>
+  <programme start="20210912083500 +0700" stop="20210912090000 +0700" channel="THVL1">
+    <title lang="vi">Cổ tích Việt Nam: Hai chàng hảo hớn - T.19</title>
+  </programme>
+  <programme start="20210912090000 +0700" stop="20210912094500 +0700" channel="THVL1">
+    <title lang="vi">Giải trí truyền hình: Cười Xuyên Việt</title>
+  </programme>
+  <programme start="20210912094500 +0700" stop="20210912101000 +0700" channel="THVL1">
+    <title lang="vi">Nhịp sống đồng bằng</title>
+  </programme>
+  <programme start="20210912101000 +0700" stop="20210912103000 +0700" channel="THVL1">
+    <title lang="vi">Chuyện hậu trường</title>
+  </programme>
+  <programme start="20210912103000 +0700" stop="20210912110000 +0700" channel="THVL1">
+    <title lang="vi">Giải mã sức khỏe</title>
+  </programme>
+  <programme start="20210912110000 +0700" stop="20210912111000 +0700" channel="THVL1">
+    <title lang="vi">Bản tin trưa</title>
+  </programme>
+  <programme start="20210912111000 +0700" stop="20210912115000 +0700" channel="THVL1">
+    <title lang="vi">Người đưa tin 24H</title>
+  </programme>
+  <programme start="20210912115000 +0700" stop="20210912120000 +0700" channel="THVL1">
+    <title lang="vi">Phút thư giãn</title>
+  </programme>
+  <programme start="20210912120000 +0700" stop="20210912125000 +0700" channel="THVL1">
+    <title lang="vi">Phim Ấn Độ: Aladdin và cây đèn thần-P1- T.36</title>
+  </programme>
+  <programme start="20210912125000 +0700" stop="20210912130000 +0700" channel="THVL1">
+    <title lang="vi">Bác sĩ gia đình</title>
+  </programme>
+  <programme start="20210912130000 +0700" stop="20210912140000 +0700" channel="THVL1">
+    <title lang="vi">Phim Croatia: Vì yêu - Tập 58</title>
+  </programme>
+  <programme start="20210912140000 +0700" stop="20210912145000 +0700" channel="THVL1">
+    <title lang="vi">Phim Việt Nam: Hai người vợ - T.8</title>
+  </programme>
+  <programme start="20210912145000 +0700" stop="20210912150000 +0700" channel="THVL1">
+    <title lang="vi">Thế giới quanh ta</title>
+  </programme>
+  <programme start="20210912150000 +0700" stop="20210912154500 +0700" channel="THVL1">
+    <title lang="vi">Chất lượng cuộc sống</title>
+  </programme>
+  <programme start="20210912154500 +0700" stop="20210912160000 +0700" channel="THVL1">
+    <title lang="vi">Bí quyết sống khỏe</title>
+  </programme>
+  <programme start="20210912160000 +0700" stop="20210912162000 +0700" channel="THVL1">
+    <title lang="vi">Niềm tin Blouse trắng</title>
+  </programme>
+  <programme start="20210912162000 +0700" stop="20210912164000 +0700" channel="THVL1">
+    <title lang="vi">Ký sự truyền hình: ATM Oxy</title>
+  </programme>
+  <programme start="20210912164000 +0700" stop="20210912170000 +0700" channel="THVL1">
+    <title lang="vi">Chuyện cảnh giác</title>
+  </programme>
+  <programme start="20210912170000 +0700" stop="20210912173000 +0700" channel="THVL1">
+    <title lang="vi">Phụ nữ ngày nay</title>
+  </programme>
+  <programme start="20210912173000 +0700" stop="20210912183000 +0700" channel="THVL1">
+    <title lang="vi">Phim Đài Loan: Đại thời đại -T.857</title>
+  </programme>
+  <programme start="20210912183000 +0700" stop="20210912190000 +0700" channel="THVL1">
+    <title lang="vi">Thời sự Vĩnh Long</title>
+  </programme>
+  <programme start="20210912190000 +0700" stop="20210912191000 +0700" channel="THVL1">
+    <title lang="vi">Thời tiết nông vụ</title>
+  </programme>
+  <programme start="20210912191000 +0700" stop="20210912194000 +0700" channel="THVL1">
+    <title lang="vi">Thần tài gõ cửa</title>
+  </programme>
+  <programme start="20210912194000 +0700" stop="20210912195000 +0700" channel="THVL1">
+    <title lang="vi">Hành trình hương vị</title>
+  </programme>
+  <programme start="20210912195000 +0700" stop="20210912200500 +0700" channel="THVL1">
+    <title lang="vi">Phim ngắn cuối tuần: Ly hôn</title>
+  </programme>
+  <programme start="20210912200500 +0700" stop="20210912203000 +0700" channel="THVL1">
+    <title lang="vi">Cổ tích Việt Nam: Gái khôn được chồng - T.28</title>
+  </programme>
+  <programme start="20210912203000 +0700" stop="20210912210000 +0700" channel="THVL1">
+    <title lang="vi">Vợ tôi là số 1</title>
+  </programme>
+  <programme start="20210912210000 +0700" stop="20210912220000 +0700" channel="THVL1">
+    <title lang="vi">Giải trí truyền hình: Người hát tình ca</title>
+  </programme>
+  <programme start="20210912220000 +0700" stop="20210912223000 +0700" channel="THVL1">
+    <title lang="vi">Phim Đài Loan: Nhân gian huyền ảo tân truyện-T.260</title>
+  </programme>
+  <programme start="20210912223000 +0700" stop="20210912230000 +0700" channel="THVL1">
+    <title lang="vi">Phim Trung Quốc: Quỷ Cốc Tử - T.5</title>
+  </programme>
+  <programme start="20210912230000 +0700" stop="20210912232000 +0700" channel="THVL1">
+    <title lang="vi">Thế giới trước 0H</title>
+  </programme>
+  <programme start="20210912232000 +0700" stop="20210912234000 +0700" channel="THVL1">
+    <title lang="vi">Thế giới giải trí</title>
+  </programme>
+  <programme start="20210912234000 +0700" stop="20210913000000 +0700" channel="THVL1">
+    <title lang="vi">Tạp chí khoa học</title>
+  </programme>
+  <programme start="20210913000000 +0700" stop="20210913004500 +0700" channel="THVL1">
+    <title lang="vi">Phim Ấn Độ: Aladdin và cây đèn thần-P1- T.36</title>
+  </programme>
+  <programme start="20210913004500 +0700" stop="20210913013000 +0700" channel="THVL1">
+    <title lang="vi">Phim Croatia: Vì yêu -  Tập 58</title>
+  </programme>
+  <programme start="20210913013000 +0700" stop="20210913014500 +0700" channel="THVL1">
+    <title lang="vi">Ký sự truyền hình: ATM Oxy</title>
+  </programme>
+  <programme start="20210913014500 +0700" stop="20210913020000 +0700" channel="THVL1">
+    <title lang="vi">Nhịp sống đồng bằng</title>
+  </programme>
+  <programme start="20210913020000 +0700" stop="20210913022000 +0700" channel="THVL1">
+    <title lang="vi">Nhìn ra thế giới</title>
+  </programme>
+  <programme start="20210913022000 +0700" stop="20210913025000 +0700" channel="THVL1">
+    <title lang="vi">Thần tài gõ cửa</title>
+  </programme>
+  <programme start="20210913025000 +0700" stop="20210913032500 +0700" channel="THVL1">
+    <title lang="vi">Vợ tôi là số 1</title>
+  </programme>
+  <programme start="20210913032500 +0700" stop="20210913035000 +0700" channel="THVL1">
+    <title lang="vi">Quyền năng phái đẹp</title>
+  </programme>
+  <programme start="20210913035000 +0700" stop="20210913041500 +0700" channel="THVL1">
+    <title lang="vi">Phim Trung Quốc: Quỷ Cốc Tử – T.5</title>
+  </programme>
+  <programme start="20210911003000 +0700" stop="20210911011500 +0700" channel="THVL2">
+    <title lang="vi">Phim Ấn Độ: Đội đặc nhiệm CID - T.858</title>
+  </programme>
+  <programme start="20210911011500 +0700" stop="20210911015500 +0700" channel="THVL2">
+    <title lang="vi">Phim truyện Việt Nam: Giọt máu vô hình - T.30 (H)</title>
+  </programme>
+  <programme start="20210911015500 +0700" stop="20210911022500 +0700" channel="THVL2">
+    <title lang="vi">Phim Việt Nam: Tiếng sét trong mưa - T.8</title>
+  </programme>
+  <programme start="20210911022500 +0700" stop="20210911025500 +0700" channel="THVL2">
+    <title lang="vi">Giải mã tri kỷ</title>
+  </programme>
+  <programme start="20210911025500 +0700" stop="20210911050000 +0700" channel="THVL2">
+    <title lang="vi">Sân khấu cải lương: Vực thẳm cuộc đời - P.1</title>
+  </programme>
+  <programme start="20210911050000 +0700" stop="20210911051500 +0700" channel="THVL2">
+    <title lang="vi">Thế giới Quanh ta</title>
+  </programme>
+  <programme start="20210911051500 +0700" stop="20210911060000 +0700" channel="THVL2">
+    <title lang="vi">Phim truyện Việt Nam: Phận làm dâu  - T.1</title>
+  </programme>
+  <programme start="20210911060000 +0700" stop="20210911063000 +0700" channel="THVL2">
+    <title lang="vi">Chào buổi sáng</title>
+  </programme>
+  <programme start="20210911063000 +0700" stop="20210911071500 +0700" channel="THVL2">
+    <title lang="vi">Người đưa tin 24H</title>
+  </programme>
+  <programme start="20210911071500 +0700" stop="20210911080100 +0700" channel="THVL2">
+    <title lang="vi">Phim truyện Trung Quốc: Truyền thuyết Bạch Xà - T.53</title>
+  </programme>
+  <programme start="20210911080100 +0700" stop="20210911083200 +0700" channel="THVL2">
+    <title lang="vi">Thế giới cổ tích: Ngưu Lang – Chức Nữ</title>
+  </programme>
+  <programme start="20210911083200 +0700" stop="20210911085200 +0700" channel="THVL2">
+    <title lang="vi">Văn hóa văn nghệ</title>
+  </programme>
+  <programme start="20210911085200 +0700" stop="20210911091500 +0700" channel="THVL2">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20210911091500 +0700" stop="20210911101500 +0700" channel="THVL2">
+    <title lang="vi">Phim truyện Việt Nam: Mẹ Hổ dạy con dâu  – T.31</title>
+  </programme>
+  <programme start="20210911101500 +0700" stop="20210911110000 +0700" channel="THVL2">
+    <title lang="vi">Chất lượng cuộc sống</title>
+  </programme>
+  <programme start="20210911110000 +0700" stop="20210911113200 +0700" channel="THVL2">
+    <title lang="vi">Phim Việt Nam: Tiếng sét trong mưa - T.9</title>
+  </programme>
+  <programme start="20210911113200 +0700" stop="20210911114700 +0700" channel="THVL2">
+    <title lang="vi">Cổ tích Việt Nam: Gái khôn được chồng - T.27 - P.1</title>
+  </programme>
+  <programme start="20210911114700 +0700" stop="20210911120400 +0700" channel="THVL2">
+    <title lang="vi">Bí kíp hạnh phúc</title>
+  </programme>
+  <programme start="20210911120400 +0700" stop="20210911125800 +0700" channel="THVL2">
+    <title lang="vi">Phim truyện Đài Loan: Hương vị cuộc sống - T.857</title>
+  </programme>
+  <programme start="20210911125800 +0700" stop="20210911135000 +0700" channel="THVL2">
+    <title lang="vi">Giải trí truyền hình: Solo cùng Bolero</title>
+  </programme>
+  <programme start="20210911135000 +0700" stop="20210911140700 +0700" channel="THVL2">
+    <title lang="vi">Sống xanh</title>
+  </programme>
+  <programme start="20210911140700 +0700" stop="20210911143500 +0700" channel="THVL2">
+    <title lang="vi">Phim truyện Đài Loan: Nhân gian huyền ảo tân truyện - T.258</title>
+  </programme>
+  <programme start="20210911143500 +0700" stop="20210911150300 +0700" channel="THVL2">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20210911150300 +0700" stop="20210911155300 +0700" channel="THVL2">
+    <title lang="vi">Phim Việt Nam: Phía sau tội ác  - T.16</title>
+  </programme>
+  <programme start="20210911155300 +0700" stop="20210911162500 +0700" channel="THVL2">
+    <title lang="vi">Phim tài liệu</title>
+  </programme>
+  <programme start="20210911162500 +0700" stop="20210911164700 +0700" channel="THVL2">
+    <title lang="vi">Khu phố vui vẻ</title>
+  </programme>
+  <programme start="20210911164700 +0700" stop="20210911173200 +0700" channel="THVL2">
+    <title lang="vi">Phim truyện Trung Quốc: Quý ông hoàn hảo – T.1</title>
+  </programme>
+  <programme start="20210911173200 +0700" stop="20210911183000 +0700" channel="THVL2">
+    <title lang="vi">Phim truyện Việt Nam: Bên lề tội ác  - T.43</title>
+  </programme>
+  <programme start="20210911183000 +0700" stop="20210911190000 +0700" channel="THVL2">
+    <title lang="vi">Người đưa tin 24H</title>
+  </programme>
+  <programme start="20210911190000 +0700" stop="20210911194800 +0700" channel="THVL2">
+    <title lang="vi">Tiếp chuyển TSTHVN</title>
+  </programme>
+  <programme start="20210911194800 +0700" stop="20210911200300 +0700" channel="THVL2">
+    <title lang="vi">Nhịp sống đồng bằng</title>
+  </programme>
+  <programme start="20210911200300 +0700" stop="20210911205400 +0700" channel="THVL2">
+    <title lang="vi">Phim truyện Trung Quốc: Truyền thuyết Bạch Xà - T.54</title>
+  </programme>
+  <programme start="20210911205400 +0700" stop="20210911214300 +0700" channel="THVL2">
+    <title lang="vi">Phim truyện Việt Nam: Giọt nước mắt hận thù – T.11</title>
+  </programme>
+  <programme start="20210911214300 +0700" stop="20210911215500 +0700" channel="THVL2">
+    <title lang="vi">Tinh hoa Bếp Việt</title>
+  </programme>
+  <programme start="20210911215500 +0700" stop="20210911221000 +0700" channel="THVL2">
+    <title lang="vi">Thế giới 24H</title>
+  </programme>
+  <programme start="20210911221000 +0700" stop="20210912003000 +0700" channel="THVL2">
+    <title lang="vi">Sân khấu cải lương: Vực thẳm cuộc đời - P.2</title>
+  </programme>
+  <programme start="20210912003000 +0700" stop="20210912011500 +0700" channel="THVL2">
+    <title lang="vi">Phim Ấn Độ: Đội đặc nhiệm CID - T.859</title>
+  </programme>
+  <programme start="20210912011500 +0700" stop="20210912015500 +0700" channel="THVL2">
+    <title lang="vi">Phim truyện Việt Nam: Phận làm dâu  - T.1</title>
+  </programme>
+  <programme start="20210912015500 +0700" stop="20210912022500 +0700" channel="THVL2">
+    <title lang="vi">Phim Việt Nam: Tiếng sét trong mưa - T.9</title>
+  </programme>
+  <programme start="20210912022500 +0700" stop="20210912025500 +0700" channel="THVL2">
+    <title lang="vi">Thứ Năm vui nhộn</title>
+  </programme>
+  <programme start="20210912025500 +0700" stop="20210912050000 +0700" channel="THVL2">
+    <title lang="vi">Sân khấu cải lương: Vực thẳm cuộc đời - P.2</title>
+  </programme>
+  <programme start="20210912050000 +0700" stop="20210912051500 +0700" channel="THVL2">
+    <title lang="vi">Thế giới Quanh ta</title>
+  </programme>
+  <programme start="20210912051500 +0700" stop="20210912060000 +0700" channel="THVL2">
+    <title lang="vi">Phim truyện Việt Nam: Phận làm dâu  - T.2</title>
+  </programme>
+  <programme start="20210912060000 +0700" stop="20210912063000 +0700" channel="THVL2">
+    <title lang="vi">Chào buổi sáng</title>
+  </programme>
+  <programme start="20210912063000 +0700" stop="20210912071700 +0700" channel="THVL2">
+    <title lang="vi">Người đưa tin 24H</title>
+  </programme>
+  <programme start="20210912071700 +0700" stop="20210912080200 +0700" channel="THVL2">
+    <title lang="vi">Phim truyện Trung Quốc: Truyền thuyết Bạch Xà - T.54</title>
+  </programme>
+  <programme start="20210912080200 +0700" stop="20210912083300 +0700" channel="THVL2">
+    <title lang="vi">Thế giới cổ tích: Đồng tiền Vạn Lịch</title>
+  </programme>
+  <programme start="20210912083300 +0700" stop="20210912085200 +0700" channel="THVL2">
+    <title lang="vi">Chuyện kể đất phương Nam</title>
+  </programme>
+  <programme start="20210912085200 +0700" stop="20210912090500 +0700" channel="THVL2">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20210912090500 +0700" stop="20210912110000 +0700" channel="THVL2">
+    <title lang="vi">Phim truyện Việt Nam: Mẹ Hổ dạy con dâu  – T.32-33</title>
+  </programme>
+  <programme start="20210912110000 +0700" stop="20210912113300 +0700" channel="THVL2">
+    <title lang="vi">Phim Việt Nam: Tiếng sét trong mưa - T.10</title>
+  </programme>
+  <programme start="20210912113300 +0700" stop="20210912114700 +0700" channel="THVL2">
+    <title lang="vi">Cổ tích Việt Nam: Gái khôn được chồng - T.27 - P.2</title>
+  </programme>
+  <programme start="20210912114700 +0700" stop="20210912120400 +0700" channel="THVL2">
+    <title lang="vi">Bí kíp hạnh phúc</title>
+  </programme>
+  <programme start="20210912120400 +0700" stop="20210912125800 +0700" channel="THVL2">
+    <title lang="vi">Phim truyện Đài Loan: Hương vị cuộc sống - T.858</title>
+  </programme>
+  <programme start="20210912125800 +0700" stop="20210912134400 +0700" channel="THVL2">
+    <title lang="vi">Giải trí truyền hình: Ca sĩ thần tượng</title>
+  </programme>
+  <programme start="20210912134400 +0700" stop="20210912140000 +0700" channel="THVL2">
+    <title lang="vi">Phóng sự</title>
+  </programme>
+  <programme start="20210912140000 +0700" stop="20210912143000 +0700" channel="THVL2">
+    <title lang="vi">Phim truyện Đài Loan: Nhân gian huyền ảo tân truyện - T.259</title>
+  </programme>
+  <programme start="20210912143000 +0700" stop="20210912145700 +0700" channel="THVL2">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20210912145700 +0700" stop="20210912154700 +0700" channel="THVL2">
+    <title lang="vi">Phim Việt Nam: Phía sau tội ác  - T.17</title>
+  </programme>
+  <programme start="20210912154700 +0700" stop="20210912161700 +0700" channel="THVL2">
+    <title lang="vi">Phim tài liệu</title>
+  </programme>
+  <programme start="20210912161700 +0700" stop="20210912164700 +0700" channel="THVL2">
+    <title lang="vi">Truy tìm cao thủ</title>
+  </programme>
+  <programme start="20210912164700 +0700" stop="20210912173200 +0700" channel="THVL2">
+    <title lang="vi">Phim truyện Trung Quốc: Quý ông hoàn hảo – T.2</title>
+  </programme>
+  <programme start="20210912173200 +0700" stop="20210912183000 +0700" channel="THVL2">
+    <title lang="vi">Phim Việt Nam: Bên lề tội ác - T.44 (H)</title>
+  </programme>
+  <programme start="20210912183000 +0700" stop="20210912190000 +0700" channel="THVL2">
+    <title lang="vi">Người đưa tin 24H</title>
+  </programme>
+  <programme start="20210912190000 +0700" stop="20210912194900 +0700" channel="THVL2">
+    <title lang="vi">Tiếp chuyển TSTHVN</title>
+  </programme>
+  <programme start="20210912194900 +0700" stop="20210912200500 +0700" channel="THVL2">
+    <title lang="vi">Xây dựng Đảng</title>
+  </programme>
+  <programme start="20210912200500 +0700" stop="20210912205200 +0700" channel="THVL2">
+    <title lang="vi">Phim truyện Trung Quốc: Truyền thuyết Bạch Xà - T.55</title>
+  </programme>
+  <programme start="20210912205200 +0700" stop="20210912214200 +0700" channel="THVL2">
+    <title lang="vi">Phim truyện Việt Nam: Giọt nước mắt hận thù – T.12</title>
+  </programme>
+  <programme start="20210912214200 +0700" stop="20210912220000 +0700" channel="THVL2">
+    <title lang="vi">Ký sự truyền hình</title>
+  </programme>
+  <programme start="20210912220000 +0700" stop="20210912221500 +0700" channel="THVL2">
+    <title lang="vi">Thế giới 24H</title>
+  </programme>
+  <programme start="20210912221500 +0700" stop="20210913003000 +0700" channel="THVL2">
+    <title lang="vi">Sân khấu cải lương: Bạch môn lầu Lữ Bố quy vị</title>
+  </programme>
+  <programme start="20210913003000 +0700" stop="20210913011500 +0700" channel="THVL2">
+    <title lang="vi">Phim Ấn Độ: Đội đặc nhiệm CID - T.860</title>
+  </programme>
+  <programme start="20210913011500 +0700" stop="20210913015500 +0700" channel="THVL2">
+    <title lang="vi">Phim truyện Việt Nam: Phận làm dâu  - T.2</title>
+  </programme>
+  <programme start="20210913015500 +0700" stop="20210913022500 +0700" channel="THVL2">
+    <title lang="vi">Phim Việt Nam: Tiếng sét trong mưa - T.10</title>
+  </programme>
+  <programme start="20210913022500 +0700" stop="20210913025500 +0700" channel="THVL2">
+    <title lang="vi">Truy tìm cao thủ</title>
+  </programme>
+  <programme start="20210913025500 +0700" stop="20210913050000 +0700" channel="THVL2">
+    <title lang="vi">Sân khấu cải lương: Bạch môn lầu Lữ Bố quy vị</title>
+  </programme>
+  <programme start="20210913050000 +0700" stop="20210913051500 +0700" channel="THVL2">
+    <title lang="vi">Thế giới Quanh ta</title>
+  </programme>
+  <programme start="20210913051500 +0700" stop="20210913060000 +0700" channel="THVL2">
+    <title lang="vi">Phim truyện Việt Nam: Phận làm dâu  - T.3</title>
+  </programme>
+  <programme start="20210913060000 +0700" stop="20210913063000 +0700" channel="THVL2">
+    <title lang="vi">Chào buổi sáng</title>
+  </programme>
+  <programme start="20210913063000 +0700" stop="20210913071700 +0700" channel="THVL2">
+    <title lang="vi">Người đưa tin 24H</title>
+  </programme>
+  <programme start="20210913071700 +0700" stop="20210913080200 +0700" channel="THVL2">
+    <title lang="vi">Phim truyện Trung Quốc: Truyền thuyết Bạch Xà - T.55</title>
+  </programme>
+  <programme start="20210913080200 +0700" stop="20210913083300 +0700" channel="THVL2">
+    <title lang="vi">Thế giới cổ tích: Thần giữ của</title>
+  </programme>
+  <programme start="20210913083300 +0700" stop="20210913085100 +0700" channel="THVL2">
+    <title lang="vi">Chuyện hậu trường</title>
+  </programme>
+  <programme start="20210913085100 +0700" stop="20210913093600 +0700" channel="THVL2">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20210913093600 +0700" stop="20210913110000 +0700" channel="THVL2">
+    <title lang="vi">Nhịp cầu y tế</title>
+  </programme>
+  <programme start="20210913110000 +0700" stop="20210913113400 +0700" channel="THVL2">
+    <title lang="vi">Cả nhà cùng vui</title>
+  </programme>
+  <programme start="20210913113400 +0700" stop="20210913114300 +0700" channel="THVL2">
+    <title lang="vi">Bác sĩ gia đình</title>
+  </programme>
+  <programme start="20210913114300 +0700" stop="20210913120000 +0700" channel="THVL2">
+    <title lang="vi">Bí kíp hạnh phúc</title>
+  </programme>
+  <programme start="20210913120000 +0700" stop="20210913125600 +0700" channel="THVL2">
+    <title lang="vi">Phim truyện Đài Loan: Hương vị cuộc sống - T.859</title>
+  </programme>
+  <programme start="20210913125600 +0700" stop="20210913134700 +0700" channel="THVL2">
+    <title lang="vi">Giải trí truyền hình: Người hát tình ca phiên bản đặc biệt</title>
+  </programme>
+  <programme start="20210913134700 +0700" stop="20210913140500 +0700" channel="THVL2">
+    <title lang="vi">Thế giới giải trí</title>
+  </programme>
+  <programme start="20210913140500 +0700" stop="20210913143600 +0700" channel="THVL2">
+    <title lang="vi">Phim truyện Đài Loan: Nhân gian huyền ảo tân truyện - T.260</title>
+  </programme>
+  <programme start="20210913143600 +0700" stop="20210913151300 +0700" channel="THVL2">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20210913151300 +0700" stop="20210913160200 +0700" channel="THVL2">
+    <title lang="vi">Phim Việt Nam: Phía sau tội ác  - T.18</title>
+  </programme>
+  <programme start="20210913160200 +0700" stop="20210913162600 +0700" channel="THVL2">
+    <title lang="vi">Phim tài liệu</title>
+  </programme>
+  <programme start="20210913162600 +0700" stop="20210913165600 +0700" channel="THVL2">
+    <title lang="vi">Vợ tôi là số 1</title>
+  </programme>
+  <programme start="20210913165600 +0700" stop="20210913174000 +0700" channel="THVL2">
+    <title lang="vi">Phim truyện Trung Quốc: Quý ông hoàn hảo – T.3</title>
+  </programme>
+  <programme start="20210913174000 +0700" stop="20210913183000 +0700" channel="THVL2">
+    <title lang="vi">Phim truyện Việt Nam: Bình minh trên ngọn lửa – T.1</title>
+  </programme>
+  <programme start="20210913183000 +0700" stop="20210913190000 +0700" channel="THVL2">
+    <title lang="vi">Người đưa tin 24H</title>
+  </programme>
+  <programme start="20210913190000 +0700" stop="20210913194500 +0700" channel="THVL2">
+    <title lang="vi">Tiếp chuyển TSTHVN</title>
+  </programme>
+  <programme start="20210913194500 +0700" stop="20210913200500 +0700" channel="THVL2">
+    <title lang="vi">Chuyên đề kinh tế</title>
+  </programme>
+  <programme start="20210913200500 +0700" stop="20210913205400 +0700" channel="THVL2">
+    <title lang="vi">Phim truyện Trung Quốc: Truyền thuyết Bạch Xà - T.56</title>
+  </programme>
+  <programme start="20210913205400 +0700" stop="20210913214400 +0700" channel="THVL2">
+    <title lang="vi">Phim truyện Việt Nam: Giọt nước mắt hận thù – T.13</title>
+  </programme>
+  <programme start="20210913214400 +0700" stop="20210913215900 +0700" channel="THVL2">
+    <title lang="vi">Nông nghiệp bền vững</title>
+  </programme>
+  <programme start="20210913215900 +0700" stop="20210913221400 +0700" channel="THVL2">
+    <title lang="vi">Thế giới 24H</title>
+  </programme>
+  <programme start="20210911002400 +0700" stop="20210911010900 +0700" channel="THVL3">
+    <title lang="vi">Phim Việt Nam: Hiệp sĩ giữa đời thường - T.1</title>
+  </programme>
+  <programme start="20210911010900 +0700" stop="20210911012600 +0700" channel="THVL3">
+    <title lang="vi">Thế giới Giải trí</title>
+  </programme>
+  <programme start="20210911012600 +0700" stop="20210911014400 +0700" channel="THVL3">
+    <title lang="vi">Thế giới động vật</title>
+  </programme>
+  <programme start="20210911014400 +0700" stop="20210911022900 +0700" channel="THVL3">
+    <title lang="vi">Phim Đài Loan: Đại thời đại - T.854</title>
+  </programme>
+  <programme start="20210911022900 +0700" stop="20210911024600 +0700" channel="THVL3">
+    <title lang="vi">Phóng sự</title>
+  </programme>
+  <programme start="20210911024600 +0700" stop="20210911030100 +0700" channel="THVL3">
+    <title lang="vi">Nông nghiệp bền vững</title>
+  </programme>
+  <programme start="20210911030100 +0700" stop="20210911034800 +0700" channel="THVL3">
+    <title lang="vi">Phim Ấn Độ: Đội đặc nhiệm CID - T.858</title>
+  </programme>
+  <programme start="20210911034800 +0700" stop="20210911041300 +0700" channel="THVL3">
+    <title lang="vi">Quyền năng phái đẹp</title>
+  </programme>
+  <programme start="20210911041300 +0700" stop="20210911050200 +0700" channel="THVL3">
+    <title lang="vi">Phim Việt Nam: Hạnh phúc của người khác - T.6</title>
+  </programme>
+  <programme start="20210911050200 +0700" stop="20210911061300 +0700" channel="THVL3">
+    <title lang="vi">Giải trí truyền hình: Ai sẽ thành sao</title>
+  </programme>
+  <programme start="20210911061300 +0700" stop="20210911063500 +0700" channel="THVL3">
+    <title lang="vi">Chuyện kể đất phương nam</title>
+  </programme>
+  <programme start="20210911063500 +0700" stop="20210911072300 +0700" channel="THVL3">
+    <title lang="vi">Phim Trung Quốc: Đại mỹ nhân - T.28</title>
+  </programme>
+  <programme start="20210911072300 +0700" stop="20210911080800 +0700" channel="THVL3">
+    <title lang="vi">Phim Việt Nam: Hiệp sĩ giữa đời thường - T.1</title>
+  </programme>
+  <programme start="20210911080800 +0700" stop="20210911095400 +0700" channel="THVL3">
+    <title lang="vi">Phim Việt Nam: Lời sám hối - T.16-17</title>
+  </programme>
+  <programme start="20210911095400 +0700" stop="20210911100800 +0700" channel="THVL3">
+    <title lang="vi">Bí kíp hạnh phúc</title>
+  </programme>
+  <programme start="20210911100800 +0700" stop="20210911110100 +0700" channel="THVL3">
+    <title lang="vi">Phim Đài Loan: Hương vị cuộc sống - T.857</title>
+  </programme>
+  <programme start="20210911110100 +0700" stop="20210911114700 +0700" channel="THVL3">
+    <title lang="vi">Phim Đài Loan: Đại thời đại - T.855</title>
+  </programme>
+  <programme start="20210911114700 +0700" stop="20210911123700 +0700" channel="THVL3">
+    <title lang="vi">Phim Việt Nam: Hiệp sĩ giữa đời thường - T.2</title>
+  </programme>
+  <programme start="20210911123700 +0700" stop="20210911125800 +0700" channel="THVL3">
+    <title lang="vi">Phim tài liệu</title>
+  </programme>
+  <programme start="20210911125800 +0700" stop="20210911134400 +0700" channel="THVL3">
+    <title lang="vi">Phim Việt Nam: Hạnh phúc của người khác - T.6</title>
+  </programme>
+  <programme start="20210911134400 +0700" stop="20210911140300 +0700" channel="THVL3">
+    <title lang="vi">Phút thư giãn</title>
+  </programme>
+  <programme start="20210911140300 +0700" stop="20210911144700 +0700" channel="THVL3">
+    <title lang="vi">Phim Trung Quốc: Thầy giáo thể chất – T.38</title>
+  </programme>
+  <programme start="20210911144700 +0700" stop="20210911150300 +0700" channel="THVL3">
+    <title lang="vi">Phóng sự: Nghĩa tình đồng hương</title>
+  </programme>
+  <programme start="20210911150300 +0700" stop="20210911154800 +0700" channel="THVL3">
+    <title lang="vi">Phim Việt Nam: Bên lề tội ác – T.42</title>
+  </programme>
+  <programme start="20210911154800 +0700" stop="20210911160500 +0700" channel="THVL3">
+    <title lang="vi">Sống xanh</title>
+  </programme>
+  <programme start="20210911160500 +0700" stop="20210911170100 +0700" channel="THVL3">
+    <title lang="vi">Phim Ấn Độ: Đội đặc nhiệm CID - T.858</title>
+  </programme>
+  <programme start="20210911170100 +0700" stop="20210911174800 +0700" channel="THVL3">
+    <title lang="vi">Giải trí truyền hình: Solo cùng bolero</title>
+  </programme>
+  <programme start="20210911174800 +0700" stop="20210911181800 +0700" channel="THVL3">
+    <title lang="vi">Thế giới cổ tích</title>
+  </programme>
+  <programme start="20210911181800 +0700" stop="20210911182900 +0700" channel="THVL3">
+    <title lang="vi">Chuyện của đốm</title>
+  </programme>
+  <programme start="20210911182900 +0700" stop="20210911185900 +0700" channel="THVL3">
+    <title lang="vi">Quyền năng phái đẹp</title>
+  </programme>
+  <programme start="20210911185900 +0700" stop="20210911195500 +0700" channel="THVL3">
+    <title lang="vi">Phim Đài Loan: Hương vị cuộc sống - T.858</title>
+  </programme>
+  <programme start="20210911195500 +0700" stop="20210911204300 +0700" channel="THVL3">
+    <title lang="vi">Phim Trung Quốc: Đại mỹ nhân – T.29</title>
+  </programme>
+  <programme start="20210911204300 +0700" stop="20210911210500 +0700" channel="THVL3">
+    <title lang="vi">Phút thư giãn</title>
+  </programme>
+  <programme start="20210911210500 +0700" stop="20210911215400 +0700" channel="THVL3">
+    <title lang="vi">Phim Ấn Độ: Đội đặc nhiệm CID - T.859</title>
+  </programme>
+  <programme start="20210911215400 +0700" stop="20210911224000 +0700" channel="THVL3">
+    <title lang="vi">Phim truyện Việt Nam: Hạnh phúc của người khác - T.7</title>
+  </programme>
+  <programme start="20210911224000 +0700" stop="20210911232600 +0700" channel="THVL3">
+    <title lang="vi">Giải trí truyền hình: Solo cùng bolero</title>
+  </programme>
+  <programme start="20210911232600 +0700" stop="20210911234200 +0700" channel="THVL3">
+    <title lang="vi">Chuyện cảnh giác</title>
+  </programme>
+  <programme start="20210911000000 +0700" stop="20210911001800 +0700" channel="THVL4">
+    <title lang="vi">Ký sự truyền hình</title>
+  </programme>
+  <programme start="20210911001800 +0700" stop="20210911003600 +0700" channel="THVL4">
+    <title lang="vi">Nhìn ra thế giới</title>
+  </programme>
+  <programme start="20210911003600 +0700" stop="20210911010000 +0700" channel="THVL4">
+    <title lang="vi">Ẩm thực nước ngoài</title>
+  </programme>
+  <programme start="20210911010000 +0700" stop="20210911014500 +0700" channel="THVL4">
+    <title lang="vi">Phim Việt Nam: Bảy lá bài –T.29</title>
+  </programme>
+  <programme start="20210911014500 +0700" stop="20210911020000 +0700" channel="THVL4">
+    <title lang="vi">Phóng sự</title>
+  </programme>
+  <programme start="20210911020000 +0700" stop="20210911021700 +0700" channel="THVL4">
+    <title lang="vi">Chuyên đề kinh tế</title>
+  </programme>
+  <programme start="20210911021700 +0700" stop="20210911033000 +0700" channel="THVL4">
+    <title lang="vi">Giải trí truyền hình: Sao nối ngôi 2019</title>
+  </programme>
+  <programme start="20210911033000 +0700" stop="20210911041500 +0700" channel="THVL4">
+    <title lang="vi">Phim Việt Nam: Đò xuôi vạn lý T.10</title>
+  </programme>
+  <programme start="20210911041500 +0700" stop="20210911050100 +0700" channel="THVL4">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20210911050100 +0700" stop="20210911052600 +0700" channel="THVL4">
+    <title lang="vi">Phim Sitcom: Sui gia đại chiến</title>
+  </programme>
+  <programme start="20210911052600 +0700" stop="20210911063500 +0700" channel="THVL4">
+    <title lang="vi">Giải trí truyền hình: Sao nối ngôi 2019</title>
+  </programme>
+  <programme start="20210911063500 +0700" stop="20210911072100 +0700" channel="THVL4">
+    <title lang="vi">Phim Việt Nam: Thương lắm đò ơi - T.24</title>
+  </programme>
+  <programme start="20210911072100 +0700" stop="20210911073800 +0700" channel="THVL4">
+    <title lang="vi">Ký sự truyền hình</title>
+  </programme>
+  <programme start="20210911073800 +0700" stop="20210911075500 +0700" channel="THVL4">
+    <title lang="vi">Vì an ninh tổ quốc</title>
+  </programme>
+  <programme start="20210911075500 +0700" stop="20210911081200 +0700" channel="THVL4">
+    <title lang="vi">Phóng sự</title>
+  </programme>
+  <programme start="20210911081200 +0700" stop="20210911085700 +0700" channel="THVL4">
+    <title lang="vi">Phim Việt Nam: Đò xuôi vạn lý T.11</title>
+  </programme>
+  <programme start="20210911085700 +0700" stop="20210911091500 +0700" channel="THVL4">
+    <title lang="vi">Không gian xanh</title>
+  </programme>
+  <programme start="20210911091500 +0700" stop="20210911093100 +0700" channel="THVL4">
+    <title lang="vi">Tạp chí khoa học</title>
+  </programme>
+  <programme start="20210911093100 +0700" stop="20210911101300 +0700" channel="THVL4">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20210911101300 +0700" stop="20210911110000 +0700" channel="THVL4">
+    <title lang="vi">Phim Việt Nam: Vết thù năm tháng - T.6</title>
+  </programme>
+  <programme start="20210911110000 +0700" stop="20210911112800 +0700" channel="THVL4">
+    <title lang="vi">Phim Việt Nam: Trà Táo đỏ - T.49</title>
+  </programme>
+  <programme start="20210911112800 +0700" stop="20210911114200 +0700" channel="THVL4">
+    <title lang="vi">Bóng mát tâm hồn</title>
+  </programme>
+  <programme start="20210911114200 +0700" stop="20210911115900 +0700" channel="THVL4">
+    <title lang="vi">Nhịp sống đồng bằng:</title>
+  </programme>
+  <programme start="20210911115900 +0700" stop="20210911122400 +0700" channel="THVL4">
+    <title lang="vi">Vợ tôi là số 1</title>
+  </programme>
+  <programme start="20210911122400 +0700" stop="20210911122900 +0700" channel="THVL4">
+    <title lang="vi">Dr Khỏe</title>
+  </programme>
+  <programme start="20210911122900 +0700" stop="20210911125900 +0700" channel="THVL4">
+    <title lang="vi">Truy tìm cao thủ</title>
+  </programme>
+  <programme start="20210911125900 +0700" stop="20210911135300 +0700" channel="THVL4">
+    <title lang="vi">Phim Việt Nam: Bảy lá bài –T.30</title>
+  </programme>
+  <programme start="20210911135300 +0700" stop="20210911140600 +0700" channel="THVL4">
+    <title lang="vi">Thế giới quanh ta</title>
+  </programme>
+  <programme start="20210911140600 +0700" stop="20210911142800 +0700" channel="THVL4">
+    <title lang="vi">Phim tài liệu</title>
+  </programme>
+  <programme start="20210911142800 +0700" stop="20210911170200 +0700" channel="THVL4">
+    <title lang="vi">Cải lương: Làm dâu vợ lớn</title>
+  </programme>
+  <programme start="20210911170200 +0700" stop="20210911175000 +0700" channel="THVL4">
+    <title lang="vi">Phim Việt Nam: Vết thù năm tháng - T.7</title>
+  </programme>
+  <programme start="20210911175000 +0700" stop="20210911190000 +0700" channel="THVL4">
+    <title lang="vi">Giải trí truyền hình: Sao nối ngôi 2019</title>
+  </programme>
+  <programme start="20210911190000 +0700" stop="20210911194500 +0700" channel="THVL4">
+    <title lang="vi">Tiếp chuyển TSTHVN</title>
+  </programme>
+  <programme start="20210911194500 +0700" stop="20210911200900 +0700" channel="THVL4">
+    <title lang="vi">Phim tài liệu</title>
+  </programme>
+  <programme start="20210911200900 +0700" stop="20210911224200 +0700" channel="THVL4">
+    <title lang="vi">Cải lương: Trọn đời yêu anh</title>
+  </programme>
+  <programme start="20210911224200 +0700" stop="20210911230700 +0700" channel="THVL4">
+    <title lang="vi">Nhịp sống đồng bằng</title>
+  </programme>
+  <programme start="20210911230700 +0700" stop="20210911233600 +0700" channel="THVL4">
+    <title lang="vi">Phim Việt Nam: Trà Táo đỏ - T.49</title>
+  </programme>
+  <programme start="20210912000000 +0700" stop="20210912001800 +0700" channel="THVL4">
+    <title lang="vi">Ký sự truyền hình</title>
+  </programme>
+  <programme start="20210912001800 +0700" stop="20210912003600 +0700" channel="THVL4">
+    <title lang="vi">Không gian xanh</title>
+  </programme>
+  <programme start="20210912003600 +0700" stop="20210912010000 +0700" channel="THVL4">
+    <title lang="vi">Tạp chí khoa học</title>
+  </programme>
+  <programme start="20210912010000 +0700" stop="20210912014500 +0700" channel="THVL4">
+    <title lang="vi">Phim Việt Nam: Bảy lá bài –T.30</title>
+  </programme>
+  <programme start="20210912014500 +0700" stop="20210912020500 +0700" channel="THVL4">
+    <title lang="vi">Ký sự truyền hình</title>
+  </programme>
+  <programme start="20210912020500 +0700" stop="20210912022000 +0700" channel="THVL4">
+    <title lang="vi">Đời sống pháp luật</title>
+  </programme>
+  <programme start="20210912022000 +0700" stop="20210912032900 +0700" channel="THVL4">
+    <title lang="vi">Giải trí truyền hình: Sao nối ngôi 2019</title>
+  </programme>
+  <programme start="20210912032900 +0700" stop="20210912041800 +0700" channel="THVL4">
+    <title lang="vi">Phim Việt Nam: Đò xuôi vạn lý - T.11</title>
+  </programme>
+  <programme start="20210912041800 +0700" stop="20210912050100 +0700" channel="THVL4">
+    <title lang="vi">Ca nhạc: Tổ quốc gọi tên mình</title>
+  </programme>
+  <programme start="20210912050100 +0700" stop="20210912052500 +0700" channel="THVL4">
+    <title lang="vi">Phim Sitcom: Sui gia đại chiến</title>
+  </programme>
+  <programme start="20210912052500 +0700" stop="20210912063800 +0700" channel="THVL4">
+    <title lang="vi">Giải trí truyền hình: Sao nối ngôi 2019</title>
+  </programme>
+  <programme start="20210912063800 +0700" stop="20210912072400 +0700" channel="THVL4">
+    <title lang="vi">Phim Việt Nam: Thương lắm đò ơi - T.25</title>
+  </programme>
+  <programme start="20210912072400 +0700" stop="20210912074100 +0700" channel="THVL4">
+    <title lang="vi">Nhịp sống đồng bằng</title>
+  </programme>
+  <programme start="20210912074100 +0700" stop="20210912080100 +0700" channel="THVL4">
+    <title lang="vi">Chuyện hôm nay</title>
+  </programme>
+  <programme start="20210912080100 +0700" stop="20210912084700 +0700" channel="THVL4">
+    <title lang="vi">Phim Việt Nam: Đò xuôi vạn lý - T.12</title>
+  </programme>
+  <programme start="20210912084700 +0700" stop="20210912090500 +0700" channel="THVL4">
+    <title lang="vi">Nhìn ra thế giới</title>
+  </programme>
+  <programme start="20210912090500 +0700" stop="20210912092400 +0700" channel="THVL4">
+    <title lang="vi">Âm thực nước ngoài</title>
+  </programme>
+  <programme start="20210912092400 +0700" stop="20210912100800 +0700" channel="THVL4">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20210912100800 +0700" stop="20210912110000 +0700" channel="THVL4">
+    <title lang="vi">Phim Việt Nam: Vết thù năm tháng - T.7</title>
+  </programme>
+  <programme start="20210912110000 +0700" stop="20210912112700 +0700" channel="THVL4">
+    <title lang="vi">Phim Việt Nam: Trà Táo đỏ - T.50</title>
+  </programme>
+  <programme start="20210912112700 +0700" stop="20210912113800 +0700" channel="THVL4">
+    <title lang="vi">Bóng mát tâm hồn</title>
+  </programme>
+  <programme start="20210912113800 +0700" stop="20210912120000 +0700" channel="THVL4">
+    <title lang="vi">Phim tài liệu</title>
+  </programme>
+  <programme start="20210912120000 +0700" stop="20210912122500 +0700" channel="THVL4">
+    <title lang="vi">Cổ tích Việt Nam: Hai chàng hảo hớn –T.51</title>
+  </programme>
+  <programme start="20210912122500 +0700" stop="20210912122900 +0700" channel="THVL4">
+    <title lang="vi">Dr Khỏe</title>
+  </programme>
+  <programme start="20210912122900 +0700" stop="20210912125800 +0700" channel="THVL4">
+    <title lang="vi">Quyền năng phái đẹp</title>
+  </programme>
+  <programme start="20210912125800 +0700" stop="20210912134200 +0700" channel="THVL4">
+    <title lang="vi">Phim Việt Nam: Bảy lá bài –T.31</title>
+  </programme>
+  <programme start="20210912134200 +0700" stop="20210912135400 +0700" channel="THVL4">
+    <title lang="vi">Thế giới quanh ta</title>
+  </programme>
+  <programme start="20210912135400 +0700" stop="20210912141100 +0700" channel="THVL4">
+    <title lang="vi">Ký sự truyền hình</title>
+  </programme>
+  <programme start="20210912141100 +0700" stop="20210912142600 +0700" channel="THVL4">
+    <title lang="vi">Nhịp sống đồng bằng</title>
+  </programme>
+  <programme start="20210912142600 +0700" stop="20210912170100 +0700" channel="THVL4">
+    <title lang="vi">Cải lương: Trọn đời yêu anh</title>
+  </programme>
+  <programme start="20210912170100 +0700" stop="20210912174600 +0700" channel="THVL4">
+    <title lang="vi">Phim Việt Nam: Vết thù năm tháng - T.8</title>
+  </programme>
+  <programme start="20210912174600 +0700" stop="20210912190000 +0700" channel="THVL4">
+    <title lang="vi">Giải trí truyền hình: Sao nối ngôi 2019</title>
+  </programme>
+  <programme start="20210912190000 +0700" stop="20210912194500 +0700" channel="THVL4">
+    <title lang="vi">Tiếp chuyển TSTHVN</title>
+  </programme>
+  <programme start="20210912194500 +0700" stop="20210912200800 +0700" channel="THVL4">
+    <title lang="vi">Phim tài liệu</title>
+  </programme>
+  <programme start="20210912200800 +0700" stop="20210912204900 +0700" channel="THVL4">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20210912204900 +0700" stop="20210912210000 +0700" channel="THVL4">
+    <title lang="vi">Bóng mát tâm hồn</title>
+  </programme>
+  <programme start="20210912210000 +0700" stop="20210912214500 +0700" channel="THVL4">
+    <title lang="vi">Phim Việt Nam: Ông Trùm –T.33</title>
+  </programme>
+  <programme start="20210912214500 +0700" stop="20210912215900 +0700" channel="THVL4">
+    <title lang="vi">Phút thư giãn</title>
+  </programme>
+  <programme start="20210912215900 +0700" stop="20210912224500 +0700" channel="THVL4">
+    <title lang="vi">Phim Việt Nam: Sự thật vô hình –T.18</title>
+  </programme>
+  <programme start="20210912224500 +0700" stop="20210912230000 +0700" channel="THVL4">
+    <title lang="vi">Phim trên THVL</title>
+  </programme>
+  <programme start="20210912230000 +0700" stop="20210912233600 +0700" channel="THVL4">
+    <title lang="vi">Phim Việt Nam: Trà Táo đỏ - T.50</title>
+  </programme>
+  <programme start="20210913000000 +0700" stop="20210913001700 +0700" channel="THVL4">
+    <title lang="vi">Nhịp sống đồng bằng</title>
+  </programme>
+  <programme start="20210913001700 +0700" stop="20210913003600 +0700" channel="THVL4">
+    <title lang="vi">Ẩm thực nước ngoài</title>
+  </programme>
+  <programme start="20210913003600 +0700" stop="20210913005900 +0700" channel="THVL4">
+    <title lang="vi">Nhìn ra thế giới</title>
+  </programme>
+  <programme start="20210913005900 +0700" stop="20210913014300 +0700" channel="THVL4">
+    <title lang="vi">Phim Việt Nam: Bảy lá bài - T.31</title>
+  </programme>
+  <programme start="20210913014300 +0700" stop="20210913020100 +0700" channel="THVL4">
+    <title lang="vi">Ký sự truyền hình</title>
+  </programme>
+  <programme start="20210913020100 +0700" stop="20210913021600 +0700" channel="THVL4">
+    <title lang="vi">Xây dựng Đảng</title>
+  </programme>
+  <programme start="20210913021600 +0700" stop="20210913032900 +0700" channel="THVL4">
+    <title lang="vi">Giải trí truyền hình: Sao nối ngôi 2019</title>
+  </programme>
+  <programme start="20210913032900 +0700" stop="20210913041700 +0700" channel="THVL4">
+    <title lang="vi">Phim Việt Nam: Đò xuôi vạn lý - T.12</title>
+  </programme>
+  <programme start="20210913041700 +0700" stop="20210913050100 +0700" channel="THVL4">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20210913050100 +0700" stop="20210913052600 +0700" channel="THVL4">
+    <title lang="vi">Phim Sitcom: Sui gia đại chiến</title>
+  </programme>
+  <programme start="20210913052600 +0700" stop="20210913063900 +0700" channel="THVL4">
+    <title lang="vi">Giải trí truyền hình: Sao nối ngôi 2019</title>
+  </programme>
+  <programme start="20210913063900 +0700" stop="20210913072400 +0700" channel="THVL4">
+    <title lang="vi">Phim Việt Nam: Thương lắm đò ơi - T.26</title>
+  </programme>
+  <programme start="20210913072400 +0700" stop="20210913074600 +0700" channel="THVL4">
+    <title lang="vi">Phim tài liệu</title>
+  </programme>
+  <programme start="20210913074600 +0700" stop="20210913080300 +0700" channel="THVL4">
+    <title lang="vi">Nhịp sống đồng bằng: Bên vườn dừa xanh</title>
+  </programme>
+  <programme start="20210913080300 +0700" stop="20210913084700 +0700" channel="THVL4">
+    <title lang="vi">Phim Việt Nam: Đò xuôi vạn lý - T.13</title>
+  </programme>
+  <programme start="20210913084700 +0700" stop="20210913090600 +0700" channel="THVL4">
+    <title lang="vi">Ẩm thực nước ngoài</title>
+  </programme>
+  <programme start="20210913090600 +0700" stop="20210913092400 +0700" channel="THVL4">
+    <title lang="vi">Nhìn ra thế giới</title>
+  </programme>
+  <programme start="20210913092400 +0700" stop="20210913100600 +0700" channel="THVL4">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20210913100600 +0700" stop="20210913110000 +0700" channel="THVL4">
+    <title lang="vi">Phim Việt Nam: Vết thù năm tháng - T.8</title>
+  </programme>
+  <programme start="20210913110000 +0700" stop="20210913112700 +0700" channel="THVL4">
+    <title lang="vi">Phim Việt Nam: Trà Táo đỏ- T.51</title>
+  </programme>
+  <programme start="20210913112700 +0700" stop="20210913114100 +0700" channel="THVL4">
+    <title lang="vi">Bóng mát tâm hồn</title>
+  </programme>
+  <programme start="20210913114100 +0700" stop="20210913120100 +0700" channel="THVL4">
+    <title lang="vi">Phim tài liệu</title>
+  </programme>
+  <programme start="20210913120100 +0700" stop="20210913123100 +0700" channel="THVL4">
+    <title lang="vi">Thần tài gõ cửa</title>
+  </programme>
+  <programme start="20210913123100 +0700" stop="20210913123500 +0700" channel="THVL4">
+    <title lang="vi">Dr Khỏe</title>
+  </programme>
+  <programme start="20210913123500 +0700" stop="20210913130000 +0700" channel="THVL4">
+    <title lang="vi">Chuyện hậu trường</title>
+  </programme>
+  <programme start="20210913130000 +0700" stop="20210913134300 +0700" channel="THVL4">
+    <title lang="vi">Phim Việt Nam: Bảy lá bài - T.32</title>
+  </programme>
+  <programme start="20210913134300 +0700" stop="20210913135500 +0700" channel="THVL4">
+    <title lang="vi">Thế giới quanh ta</title>
+  </programme>
+  <programme start="20210913135500 +0700" stop="20210913144100 +0700" channel="THVL4">
+    <title lang="vi">Phim Việt Nam: Ông Trùm –T.33</title>
+  </programme>
+  <programme start="20210913144100 +0700" stop="20210913150100 +0700" channel="THVL4">
+    <title lang="vi">Phút thư giãn</title>
+  </programme>
+  <programme start="20210913150100 +0700" stop="20210913154800 +0700" channel="THVL4">
+    <title lang="vi">Phim Việt Nam: Sự thật vô hình -T.18</title>
+  </programme>
+  <programme start="20210913154800 +0700" stop="20210913160300 +0700" channel="THVL4">
+    <title lang="vi">Xây dựng Đảng</title>
+  </programme>
+  <programme start="20210913160300 +0700" stop="20210913161900 +0700" channel="THVL4">
+    <title lang="vi">Phóng sự</title>
+  </programme>
+  <programme start="20210913161900 +0700" stop="20210913170200 +0700" channel="THVL4">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20210913170200 +0700" stop="20210913174800 +0700" channel="THVL4">
+    <title lang="vi">Phim Việt Nam: Vết thù năm tháng - T.9</title>
+  </programme>
+  <programme start="20210913174800 +0700" stop="20210913190000 +0700" channel="THVL4">
+    <title lang="vi">Giải trí truyền hình: Sao nối ngôi 2019</title>
+  </programme>
+  <programme start="20210913190000 +0700" stop="20210913194500 +0700" channel="THVL4">
+    <title lang="vi">Tiếp chuyển TSTHVN</title>
+  </programme>
+  <programme start="20210913194500 +0700" stop="20210913200400 +0700" channel="THVL4">
+    <title lang="vi">Chuyện kể đất Phương Nam</title>
+  </programme>
+  <programme start="20210913200400 +0700" stop="20210913204700 +0700" channel="THVL4">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20210913204700 +0700" stop="20210913205800 +0700" channel="THVL4">
+    <title lang="vi">Bóng mát tâm hồn</title>
+  </programme>
+  <programme start="20210913205800 +0700" stop="20210913214200 +0700" channel="THVL4">
+    <title lang="vi">Phim Việt Nam: Ông Trùm –T.34</title>
+  </programme>
+  <programme start="20210913214200 +0700" stop="20210913220200 +0700" channel="THVL4">
+    <title lang="vi">Phút thư giãn</title>
+  </programme>
+  <programme start="20210913220200 +0700" stop="20210913225000 +0700" channel="THVL4">
+    <title lang="vi">Phim Việt Nam: Sự thật vô hình - T19</title>
+  </programme>
+  <programme start="20210913225000 +0700" stop="20210913230400 +0700" channel="THVL4">
+    <title lang="vi">Phim ngắn cuối tuần</title>
+  </programme>
+  <programme start="20210913230400 +0700" stop="20210913233100 +0700" channel="THVL4">
+    <title lang="vi">Phim Việt Nam: Trà Táo đỏ- T.51</title>
+  </programme>
+</tv>
