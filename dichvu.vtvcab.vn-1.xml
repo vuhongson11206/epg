@@ -40,7 +40,7 @@
     <display-name lang="vi">VTVcab 23 - ON Golf Premium</display-name>
     <url>http://www.dichvu.vtvcab.vn</url>
   </channel>
-  <channel id="box.movie">
+  <channel id="box.movie1">
     <display-name lang="vi">BOX Movie 1</display-name>
     <url>http://www.dichvu.vtvcab.vn</url>
   </channel>
@@ -1651,10 +1651,10 @@ Siêu Mèo</title>
   <programme start="20210912174500 +0700" stop="20210912180000 +0700" channel="vtvcab23">
     <title lang="vi">Bản tin Golfing World Phát lại</title>
   </programme>
-  <programme start="20210912015000 +0700" stop="20210912031800 +0700" channel="box.movie">
+  <programme start="20210912015000 +0700" stop="20210912031800 +0700" channel="box.movie1">
     <title lang="vi">Họ đến cùng nhau</title>
   </programme>
-  <programme start="20210912031800 +0700" stop="20210912045700 +0700" channel="box.movie">
+  <programme start="20210912031800 +0700" stop="20210912045700 +0700" channel="box.movie1">
     <title lang="vi">Tháng giêng hai mặt</title>
   </programme>
   <programme start="20210912000800 +0700" stop="20210912005300 +0700" channel="dr.fit">

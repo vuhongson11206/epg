@@ -4,7 +4,7 @@
     <display-name lang="vi">Animal Planet</display-name>
     <url>http://www.cliptv.vn</url>
   </channel>
-  <channel id="TLC">
+  <channel id="tlc">
     <display-name lang="vi">TLC</display-name>
     <url>http://www.cliptv.vn</url>
   </channel>
@@ -32,7 +32,7 @@
     <display-name lang="vi">Animax</display-name>
     <url>http://www.cliptv.vn</url>
   </channel>
-  <channel id="in.the.box">
+  <channel id="in.the.box.channel">
     <display-name lang="vi">In The Box Channel</display-name>
     <url>http://www.cliptv.vn</url>
   </channel>
@@ -80,60 +80,6 @@
     <display-name lang="vi">VTC4 - Yeah1 Family</display-name>
     <url>http://www.cliptv.vn</url>
   </channel>
-  <programme start="20210912020000 +0700" stop="20210912023000 +0700" channel="animal.planet">
-    <title lang="vi">Coyote Peterson Khám Phá Miền Hoang Dã</title>
-  </programme>
-  <programme start="20210912023000 +0700" stop="20210912030000 +0700" channel="animal.planet">
-    <title lang="vi">Bản Năng Sát Thủ</title>
-  </programme>
-  <programme start="20210912030000 +0700" stop="20210912040000 +0700" channel="animal.planet">
-    <title lang="vi">Sở Thú: San Diego (Phần 2)</title>
-  </programme>
-  <programme start="20210912040000 +0700" stop="20210912050000 +0700" channel="animal.planet">
-    <title lang="vi">Sở Thú: San Diego (Phần 2)</title>
-  </programme>
-  <programme start="20210912050000 +0700" stop="20210912060000 +0700" channel="animal.planet">
-    <title lang="vi">Sở Thú: San Diego (Phần 2)</title>
-  </programme>
-  <programme start="20210912060000 +0700" stop="20210912070000 +0700" channel="animal.planet">
-    <title lang="vi">Những Thợ Săn Nguy Hiểm Chết Người</title>
-  </programme>
-  <programme start="20210912070000 +0700" stop="20210912080000 +0700" channel="animal.planet">
-    <title lang="vi">Frank Hoang Dã Ở California</title>
-  </programme>
-  <programme start="20210912080000 +0700" stop="20210912090000 +0700" channel="animal.planet">
-    <title lang="vi">Quái Vật Trong Tôi (Phần 5)</title>
-  </programme>
-  <programme start="20210912090000 +0700" stop="20210912100000 +0700" channel="animal.planet">
-    <title lang="vi">Mỹ Latinh Hoang Dã</title>
-  </programme>
-  <programme start="20210912100000 +0700" stop="20210912103000 +0700" channel="animal.planet">
-    <title lang="vi">Khám Phá Miền Hoang Dã</title>
-  </programme>
-  <programme start="20210912103000 +0700" stop="20210912110000 +0700" channel="animal.planet">
-    <title lang="vi">Trái Đất Tuyệt Vời</title>
-  </programme>
-  <programme start="20210912110000 +0700" stop="20210912120000 +0700" channel="animal.planet">
-    <title lang="vi">Mạng Lưới Xã Hội Của Động Vật</title>
-  </programme>
-  <programme start="20210912120000 +0700" stop="20210912130000 +0700" channel="animal.planet">
-    <title lang="vi">Bác Sĩ Jeff: Bác Sĩ Thú Y Núi Rocky (Phần 6)</title>
-  </programme>
-  <programme start="20210912130000 +0700" stop="20210912140000 +0700" channel="animal.planet">
-    <title lang="vi">Luật Texas (Phần 6)</title>
-  </programme>
-  <programme start="20210912140000 +0700" stop="20210912150000 +0700" channel="animal.planet">
-    <title lang="vi">Cuộc Đua Vũ Trang Của Động Vật</title>
-  </programme>
-  <programme start="20210912150000 +0700" stop="20210912160000 +0700" channel="animal.planet">
-    <title lang="vi">Cuộc Đua Vũ Trang Của Động Vật</title>
-  </programme>
-  <programme start="20210912160000 +0700" stop="20210912170000 +0700" channel="animal.planet">
-    <title lang="vi">Những Thợ Săn Nguy Hiểm Chết Người</title>
-  </programme>
-  <programme start="20210912170000 +0700" stop="20210912180000 +0700" channel="animal.planet">
-    <title lang="vi">Những Thợ Săn Nguy Hiểm Chết Người</title>
-  </programme>
   <programme start="20210912180000 +0700" stop="20210912190000 +0700" channel="animal.planet">
     <title lang="vi">Những Thợ Săn Nguy Hiểm Chết Người</title>
   </programme>
@@ -235,72 +181,6 @@
   </programme>
   <programme start="20210913220000 +0700" stop="20210913230000 +0700" channel="animal.planet">
     <title lang="vi">Luật Texas (Phần 6)</title>
-  </programme>
-  <programme start="20210912011000 +0700" stop="20210912020000 +0700" channel="discovery.asia">
-    <title lang="vi">Bậc Thầy Về Rắn</title>
-  </programme>
-  <programme start="20210912020000 +0700" stop="20210912025000 +0700" channel="discovery.asia">
-    <title lang="vi">Khám Phá: Adn- Làn Sóng Của Tương Lai</title>
-  </programme>
-  <programme start="20210912025000 +0700" stop="20210912034000 +0700" channel="discovery.asia">
-    <title lang="vi">Sống Cùng Những Kẻ Ăn Thịt Người</title>
-  </programme>
-  <programme start="20210912034000 +0700" stop="20210912043000 +0700" channel="discovery.asia">
-    <title lang="vi">Bậc Thầy Về Rắn</title>
-  </programme>
-  <programme start="20210912043000 +0700" stop="20210912053000 +0700" channel="discovery.asia">
-    <title lang="vi">Người Ý Gốc Ấn (Phần 2)</title>
-  </programme>
-  <programme start="20210912053000 +0700" stop="20210912060000 +0700" channel="discovery.asia">
-    <title lang="vi">Du Lịch Bụi: Kerala</title>
-  </programme>
-  <programme start="20210912060000 +0700" stop="20210912065000 +0700" channel="discovery.asia">
-    <title lang="vi">Bản Sắc</title>
-  </programme>
-  <programme start="20210912065000 +0700" stop="20210912074000 +0700" channel="discovery.asia">
-    <title lang="vi">Lamelera: Cuộc Chiến Cuối Cùng</title>
-  </programme>
-  <programme start="20210912074000 +0700" stop="20210912083000 +0700" channel="discovery.asia">
-    <title lang="vi">Hành Trình Tâm Linh</title>
-  </programme>
-  <programme start="20210912083000 +0700" stop="20210912085500 +0700" channel="discovery.asia">
-    <title lang="vi">Can Trường</title>
-  </programme>
-  <programme start="20210912085500 +0700" stop="20210912092100 +0700" channel="discovery.asia">
-    <title lang="vi">Những Nhà Làm Phim Lần Đầu: Nam Kinh Vẫy Gọi</title>
-  </programme>
-  <programme start="20210912092100 +0700" stop="20210912101000 +0700" channel="discovery.asia">
-    <title lang="vi">Âm Thanh Trên Tuyến Đường Biên Giới Trung Quốc</title>
-  </programme>
-  <programme start="20210912101000 +0700" stop="20210912110000 +0700" channel="discovery.asia">
-    <title lang="vi">Bậc Thầy Về Rắn</title>
-  </programme>
-  <programme start="20210912110000 +0700" stop="20210912115000 +0700" channel="discovery.asia">
-    <title lang="vi">Bản Sắc</title>
-  </programme>
-  <programme start="20210912115000 +0700" stop="20210912124000 +0700" channel="discovery.asia">
-    <title lang="vi">Lamelera: Cuộc Chiến Cuối Cùng</title>
-  </programme>
-  <programme start="20210912124000 +0700" stop="20210912133000 +0700" channel="discovery.asia">
-    <title lang="vi">Hành Trình Tâm Linh</title>
-  </programme>
-  <programme start="20210912133000 +0700" stop="20210912142000 +0700" channel="discovery.asia">
-    <title lang="vi">Khám Phá: Adn- Làn Sóng Của Tương Lai</title>
-  </programme>
-  <programme start="20210912142000 +0700" stop="20210912144500 +0700" channel="discovery.asia">
-    <title lang="vi">Can Trường</title>
-  </programme>
-  <programme start="20210912144500 +0700" stop="20210912151100 +0700" channel="discovery.asia">
-    <title lang="vi">Những Nhà Làm Phim Lần Đầu: Nam Kinh Vẫy Gọi</title>
-  </programme>
-  <programme start="20210912151100 +0700" stop="20210912160000 +0700" channel="discovery.asia">
-    <title lang="vi">Sống Cùng Những Kẻ Ăn Thịt Người</title>
-  </programme>
-  <programme start="20210912160000 +0700" stop="20210912165000 +0700" channel="discovery.asia">
-    <title lang="vi">Âm Thanh Trên Tuyến Đường Biên Giới Trung Quốc</title>
-  </programme>
-  <programme start="20210912165000 +0700" stop="20210912174000 +0700" channel="discovery.asia">
-    <title lang="vi">Bậc Thầy Về Rắn</title>
   </programme>
   <programme start="20210912174000 +0700" stop="20210912183000 +0700" channel="discovery.asia">
     <title lang="vi">Bậc Thầy Về Rắn</title>
@@ -425,60 +305,6 @@
   <programme start="20210913224000 +0700" stop="20210913233000 +0700" channel="discovery.asia">
     <title lang="vi">Giải Mã Nhật Bản</title>
   </programme>
-  <programme start="20210912012500 +0700" stop="20210912021500 +0700" channel="discovery">
-    <title lang="vi">Alaska: Biên Giới Cuối Cùng (Phần 9) (Đặc Biệt)</title>
-  </programme>
-  <programme start="20210912021500 +0700" stop="20210912030500 +0700" channel="discovery">
-    <title lang="vi">Chuyến Săn Bão Táp (Phần 17)</title>
-  </programme>
-  <programme start="20210912030500 +0700" stop="20210912035500 +0700" channel="discovery">
-    <title lang="vi">Tỷ Phú Ngầm: Trở Lại Thành Phố</title>
-  </programme>
-  <programme start="20210912035500 +0700" stop="20210912044500 +0700" channel="discovery">
-    <title lang="vi">Tìm Vàng (Phần 11) (Đặc Biệt)</title>
-  </programme>
-  <programme start="20210912044500 +0700" stop="20210912053500 +0700" channel="discovery">
-    <title lang="vi">Những Người Rừng Alaska (Phần 5)</title>
-  </programme>
-  <programme start="20210912053500 +0700" stop="20210912063500 +0700" channel="discovery">
-    <title lang="vi">Chuyến Săn Bão Táp (Phần 17)</title>
-  </programme>
-  <programme start="20210912063500 +0700" stop="20210912072500 +0700" channel="discovery">
-    <title lang="vi">Tìm Vàng (Phần 11) (Đặc Biệt)</title>
-  </programme>
-  <programme start="20210912072500 +0700" stop="20210912081500 +0700" channel="discovery">
-    <title lang="vi">Alaska: Biên Giới Cuối Cùng (Phần 9) (Đặc Biệt)</title>
-  </programme>
-  <programme start="20210912081500 +0700" stop="20210912090500 +0700" channel="discovery">
-    <title lang="vi">Tìm Vàng Ở Biển Bering</title>
-  </programme>
-  <programme start="20210912090500 +0700" stop="20210912095500 +0700" channel="discovery">
-    <title lang="vi">Những Thứ Hủy Diệt Vũ Trụ</title>
-  </programme>
-  <programme start="20210912095500 +0700" stop="20210912113500 +0700" channel="discovery">
-    <title lang="vi">Những Người Hùng Của Tầng 88 Trong Ngày 11 10</title>
-  </programme>
-  <programme start="20210912113500 +0700" stop="20210912122500 +0700" channel="discovery">
-    <title lang="vi">Tiền Đồn Cuối Cùng</title>
-  </programme>
-  <programme start="20210912122500 +0700" stop="20210912131500 +0700" channel="discovery">
-    <title lang="vi">Tiền Đồn Cuối Cùng</title>
-  </programme>
-  <programme start="20210912131500 +0700" stop="20210912140500 +0700" channel="discovery">
-    <title lang="vi">Tiền Đồn Cuối Cùng</title>
-  </programme>
-  <programme start="20210912140500 +0700" stop="20210912145500 +0700" channel="discovery">
-    <title lang="vi">Tiền Đồn Cuối Cùng</title>
-  </programme>
-  <programme start="20210912145500 +0700" stop="20210912154500 +0700" channel="discovery">
-    <title lang="vi">Tiền Đồn Cuối Cùng</title>
-  </programme>
-  <programme start="20210912154500 +0700" stop="20210912172500 +0700" channel="discovery">
-    <title lang="vi">Những Người Hùng Của Tầng 88 Trong Ngày 11 11</title>
-  </programme>
-  <programme start="20210912172500 +0700" stop="20210912181500 +0700" channel="discovery">
-    <title lang="vi">Con Người Đối Mặt Tự Nhiên (Phần 4)</title>
-  </programme>
   <programme start="20210912181500 +0700" stop="20210912191000 +0700" channel="discovery">
     <title lang="vi">Những Thứ Hủy Diệt Vũ Trụ</title>
   </programme>
@@ -587,33 +413,6 @@
   <programme start="20210913225000 +0700" stop="20210913234500 +0700" channel="discovery">
     <title lang="vi">Tìm Vàng (Phần 11) (Đặc Biệt)</title>
   </programme>
-  <programme start="20210912012000 +0700" stop="20210912032500 +0700" channel="hbo">
-    <title lang="vi">Syriana</title>
-  </programme>
-  <programme start="20210912032500 +0700" stop="20210912055000 +0700" channel="hbo">
-    <title lang="vi">Cô Gái Có Hình Xăm Rồng</title>
-  </programme>
-  <programme start="20210912055000 +0700" stop="20210912072500 +0700" channel="hbo">
-    <title lang="vi">Người Dẫn Chương Trình Huyền Thoại Ron Burgundy</title>
-  </programme>
-  <programme start="20210912072500 +0700" stop="20210912090500 +0700" channel="hbo">
-    <title lang="vi">Mặt Nạ</title>
-  </programme>
-  <programme start="20210912090500 +0700" stop="20210912104500 +0700" channel="hbo">
-    <title lang="vi">Dolittle</title>
-  </programme>
-  <programme start="20210912104500 +0700" stop="20210912122000 +0700" channel="hbo">
-    <title lang="vi">Những Kẻ Thất Thế</title>
-  </programme>
-  <programme start="20210912122000 +0700" stop="20210912135000 +0700" channel="hbo">
-    <title lang="vi">Giờ Cao Điểm 3</title>
-  </programme>
-  <programme start="20210912135000 +0700" stop="20210912160000 +0700" channel="hbo">
-    <title lang="vi">Nhanh Và Nguy Hiểm, Phần 5</title>
-  </programme>
-  <programme start="20210912160000 +0700" stop="20210912174000 +0700" channel="hbo">
-    <title lang="vi">Roald Dahl's The Witches</title>
-  </programme>
   <programme start="20210912174000 +0700" stop="20210912191500 +0700" channel="hbo">
     <title lang="vi">Chú Nhím Sonic</title>
   </programme>
@@ -670,33 +469,6 @@
     <title lang="vi">Scenes From A Marriage S1</title>
     <desc lang="vi">Tập 1.(n)</desc>
   </programme>
-  <programme start="20210912015500 +0700" stop="20210912032000 +0700" channel="cinemax">
-    <title lang="vi">Khách Không Mời</title>
-  </programme>
-  <programme start="20210912032000 +0700" stop="20210912052000 +0700" channel="cinemax">
-    <title lang="vi">Vụ Va Chạm Thảm Họa</title>
-  </programme>
-  <programme start="20210912052000 +0700" stop="20210912071000 +0700" channel="cinemax">
-    <title lang="vi">Bí Mật Chính Thức</title>
-  </programme>
-  <programme start="20210912071000 +0700" stop="20210912090000 +0700" channel="cinemax">
-    <title lang="vi">Thời Khắc Ngọt Ngào</title>
-  </programme>
-  <programme start="20210912090000 +0700" stop="20210912111000 +0700" channel="cinemax">
-    <title lang="vi">Bảy Tay Súng Cao Thượng</title>
-  </programme>
-  <programme start="20210912111000 +0700" stop="20210912125000 +0700" channel="cinemax">
-    <title lang="vi">Những Nghi Phạm Thông Thường</title>
-  </programme>
-  <programme start="20210912125000 +0700" stop="20210912143000 +0700" channel="cinemax">
-    <title lang="vi">Trả Đũa</title>
-  </programme>
-  <programme start="20210912143000 +0700" stop="20210912161000 +0700" channel="cinemax">
-    <title lang="vi">Tôi Quý Anh, Anh Bạn</title>
-  </programme>
-  <programme start="20210912161000 +0700" stop="20210912182000 +0700" channel="cinemax">
-    <title lang="vi">Bầu Trời Màu Vani</title>
-  </programme>
   <programme start="20210912182000 +0700" stop="20210912195500 +0700" channel="cinemax">
     <title lang="vi">Không Một Mái Chèo</title>
   </programme>
@@ -747,276 +519,6 @@
   </programme>
   <programme start="20210913220000 +0700" stop="20210913234500 +0700" channel="cinemax">
     <title lang="vi">Vào Sinh Ra Tử</title>
-  </programme>
-  <programme start="20210912012000 +0700" stop="20210912012700 +0700" channel="cbeebies">
-    <title lang="vi">Nelly Và Nora</title>
-  </programme>
-  <programme start="20210912012700 +0700" stop="20210912013500 +0700" channel="cbeebies">
-    <title lang="vi">Nelly Và Nora</title>
-  </programme>
-  <programme start="20210912013500 +0700" stop="20210912014200 +0700" channel="cbeebies">
-    <title lang="vi">Sarah Và Vịt</title>
-  </programme>
-  <programme start="20210912014200 +0700" stop="20210912015000 +0700" channel="cbeebies">
-    <title lang="vi">Sarah Và Vịt</title>
-  </programme>
-  <programme start="20210912015000 +0700" stop="20210912020500 +0700" channel="cbeebies">
-    <title lang="vi">Thomas Và Những Người Bạn</title>
-  </programme>
-  <programme start="20210912020500 +0700" stop="20210912021500 +0700" channel="cbeebies">
-    <title lang="vi">Bluey</title>
-  </programme>
-  <programme start="20210912021500 +0700" stop="20210912022500 +0700" channel="cbeebies">
-    <title lang="vi">Dog Yêu Sách</title>
-  </programme>
-  <programme start="20210912022500 +0700" stop="20210912023200 +0700" channel="cbeebies">
-    <title lang="vi">Chào Duggee</title>
-  </programme>
-  <programme start="20210912023200 +0700" stop="20210912024000 +0700" channel="cbeebies">
-    <title lang="vi">Chào Duggee</title>
-  </programme>
-  <programme start="20210912024000 +0700" stop="20210912024500 +0700" channel="cbeebies">
-    <title lang="vi">Chào Duggee</title>
-  </programme>
-  <programme start="20210912024500 +0700" stop="20210912025600 +0700" channel="cbeebies">
-    <title lang="vi">Tiến Lên Phi Đội Máy Bay</title>
-  </programme>
-  <programme start="20210912025600 +0700" stop="20210912030700 +0700" channel="cbeebies">
-    <title lang="vi">Tiến Lên Phi Đội Máy Bay</title>
-  </programme>
-  <programme start="20210912030700 +0700" stop="20210912032000 +0700" channel="cbeebies">
-    <title lang="vi">Tiến Lên Phi Đội Máy Bay</title>
-  </programme>
-  <programme start="20210912032000 +0700" stop="20210912033500 +0700" channel="cbeebies">
-    <title lang="vi">Những Cỗ Máy Phi Thường Của Cathie</title>
-  </programme>
-  <programme start="20210912033500 +0700" stop="20210912035000 +0700" channel="cbeebies">
-    <title lang="vi">Những Chuyến Phiêu Lưu Về Thế Giới Khủng Long Của Andy</title>
-  </programme>
-  <programme start="20210912035000 +0700" stop="20210912041200 +0700" channel="cbeebies">
-    <title lang="vi">Những Người Hùng</title>
-  </programme>
-  <programme start="20210912041200 +0700" stop="20210912043500 +0700" channel="cbeebies">
-    <title lang="vi">Những Người Hùng</title>
-  </programme>
-  <programme start="20210912043500 +0700" stop="20210912045000 +0700" channel="cbeebies">
-    <title lang="vi">Thú Cưng Và Tôi</title>
-  </programme>
-  <programme start="20210912045000 +0700" stop="20210912050000 +0700" channel="cbeebies">
-    <title lang="vi">Những Người Bạn Numtum</title>
-  </programme>
-  <programme start="20210912050000 +0700" stop="20210912050700 +0700" channel="cbeebies">
-    <title lang="vi">Chào Duggee</title>
-  </programme>
-  <programme start="20210912050700 +0700" stop="20210912051400 +0700" channel="cbeebies">
-    <title lang="vi">Chào Duggee</title>
-  </programme>
-  <programme start="20210912051400 +0700" stop="20210912052000 +0700" channel="cbeebies">
-    <title lang="vi">Chào Duggee</title>
-  </programme>
-  <programme start="20210912052000 +0700" stop="20210912053100 +0700" channel="cbeebies">
-    <title lang="vi">Tiến Lên Phi Đội Máy Bay</title>
-  </programme>
-  <programme start="20210912053100 +0700" stop="20210912054500 +0700" channel="cbeebies">
-    <title lang="vi">Tiến Lên Phi Đội Máy Bay</title>
-  </programme>
-  <programme start="20210912054500 +0700" stop="20210912055000 +0700" channel="cbeebies">
-    <title lang="vi">Kit Và Pup</title>
-  </programme>
-  <programme start="20210912055000 +0700" stop="20210912055500 +0700" channel="cbeebies">
-    <title lang="vi">Yakka Dee</title>
-  </programme>
-  <programme start="20210912055500 +0700" stop="20210912061000 +0700" channel="cbeebies">
-    <title lang="vi">Những Em Bé Rối Teletubby</title>
-  </programme>
-  <programme start="20210912061000 +0700" stop="20210912062000 +0700" channel="cbeebies">
-    <title lang="vi">Nhà Clanger</title>
-  </programme>
-  <programme start="20210912062000 +0700" stop="20210912063000 +0700" channel="cbeebies">
-    <title lang="vi">Nhà Clanger</title>
-  </programme>
-  <programme start="20210912063000 +0700" stop="20210912064000 +0700" channel="cbeebies">
-    <title lang="vi">Chân Khủng Long</title>
-  </programme>
-  <programme start="20210912064000 +0700" stop="20210912065500 +0700" channel="cbeebies">
-    <title lang="vi">Chân Khủng Long</title>
-  </programme>
-  <programme start="20210912065500 +0700" stop="20210912070700 +0700" channel="cbeebies">
-    <title lang="vi">Charlie Và Lola</title>
-  </programme>
-  <programme start="20210912070700 +0700" stop="20210912072000 +0700" channel="cbeebies">
-    <title lang="vi">Charlie Và Lola</title>
-  </programme>
-  <programme start="20210912072000 +0700" stop="20210912072700 +0700" channel="cbeebies">
-    <title lang="vi">Nelly Và Nora</title>
-  </programme>
-  <programme start="20210912072700 +0700" stop="20210912073500 +0700" channel="cbeebies">
-    <title lang="vi">Nelly Và Nora</title>
-  </programme>
-  <programme start="20210912073500 +0700" stop="20210912074200 +0700" channel="cbeebies">
-    <title lang="vi">Sarah Và Vịt</title>
-  </programme>
-  <programme start="20210912074200 +0700" stop="20210912075000 +0700" channel="cbeebies">
-    <title lang="vi">Sarah Và Vịt</title>
-  </programme>
-  <programme start="20210912075000 +0700" stop="20210912080500 +0700" channel="cbeebies">
-    <title lang="vi">Thomas Và Những Người Bạn</title>
-  </programme>
-  <programme start="20210912080500 +0700" stop="20210912081500 +0700" channel="cbeebies">
-    <title lang="vi">Bluey</title>
-  </programme>
-  <programme start="20210912081500 +0700" stop="20210912082500 +0700" channel="cbeebies">
-    <title lang="vi">Dog Yêu Sách</title>
-  </programme>
-  <programme start="20210912082500 +0700" stop="20210912083200 +0700" channel="cbeebies">
-    <title lang="vi">Chào Duggee</title>
-  </programme>
-  <programme start="20210912083200 +0700" stop="20210912084000 +0700" channel="cbeebies">
-    <title lang="vi">Chào Duggee</title>
-  </programme>
-  <programme start="20210912084000 +0700" stop="20210912084500 +0700" channel="cbeebies">
-    <title lang="vi">Chào Duggee</title>
-  </programme>
-  <programme start="20210912084500 +0700" stop="20210912085600 +0700" channel="cbeebies">
-    <title lang="vi">Tiến Lên Phi Đội Máy Bay</title>
-  </programme>
-  <programme start="20210912085600 +0700" stop="20210912090700 +0700" channel="cbeebies">
-    <title lang="vi">Tiến Lên Phi Đội Máy Bay</title>
-  </programme>
-  <programme start="20210912090700 +0700" stop="20210912092000 +0700" channel="cbeebies">
-    <title lang="vi">Tiến Lên Phi Đội Máy Bay</title>
-  </programme>
-  <programme start="20210912092000 +0700" stop="20210912093500 +0700" channel="cbeebies">
-    <title lang="vi">Những Cỗ Máy Phi Thường Của Cathie</title>
-  </programme>
-  <programme start="20210912093500 +0700" stop="20210912095000 +0700" channel="cbeebies">
-    <title lang="vi">Những Chuyến Phiêu Lưu Về Thế Giới Khủng Long Của Andy</title>
-  </programme>
-  <programme start="20210912095000 +0700" stop="20210912101200 +0700" channel="cbeebies">
-    <title lang="vi">Những Người Hùng</title>
-  </programme>
-  <programme start="20210912101200 +0700" stop="20210912103500 +0700" channel="cbeebies">
-    <title lang="vi">Những Người Hùng</title>
-  </programme>
-  <programme start="20210912103500 +0700" stop="20210912105000 +0700" channel="cbeebies">
-    <title lang="vi">Thú Cưng Và Tôi</title>
-  </programme>
-  <programme start="20210912105000 +0700" stop="20210912110000 +0700" channel="cbeebies">
-    <title lang="vi">Những Người Bạn Numtum</title>
-  </programme>
-  <programme start="20210912110000 +0700" stop="20210912110700 +0700" channel="cbeebies">
-    <title lang="vi">Chào Duggee</title>
-  </programme>
-  <programme start="20210912110700 +0700" stop="20210912111400 +0700" channel="cbeebies">
-    <title lang="vi">Chào Duggee</title>
-  </programme>
-  <programme start="20210912111400 +0700" stop="20210912112000 +0700" channel="cbeebies">
-    <title lang="vi">Chào Duggee</title>
-  </programme>
-  <programme start="20210912112000 +0700" stop="20210912113100 +0700" channel="cbeebies">
-    <title lang="vi">Tiến Lên Phi Đội Máy Bay</title>
-  </programme>
-  <programme start="20210912113100 +0700" stop="20210912114500 +0700" channel="cbeebies">
-    <title lang="vi">Tiến Lên Phi Đội Máy Bay</title>
-  </programme>
-  <programme start="20210912114500 +0700" stop="20210912115000 +0700" channel="cbeebies">
-    <title lang="vi">Kit Và Pup</title>
-  </programme>
-  <programme start="20210912115000 +0700" stop="20210912115500 +0700" channel="cbeebies">
-    <title lang="vi">Yakka Dee</title>
-  </programme>
-  <programme start="20210912115500 +0700" stop="20210912121000 +0700" channel="cbeebies">
-    <title lang="vi">Những Em Bé Rối Teletubby</title>
-  </programme>
-  <programme start="20210912121000 +0700" stop="20210912122000 +0700" channel="cbeebies">
-    <title lang="vi">Nhà Clanger</title>
-  </programme>
-  <programme start="20210912122000 +0700" stop="20210912123000 +0700" channel="cbeebies">
-    <title lang="vi">Nhà Clanger</title>
-  </programme>
-  <programme start="20210912123000 +0700" stop="20210912124000 +0700" channel="cbeebies">
-    <title lang="vi">Chân Khủng Long</title>
-  </programme>
-  <programme start="20210912124000 +0700" stop="20210912125500 +0700" channel="cbeebies">
-    <title lang="vi">Chân Khủng Long</title>
-  </programme>
-  <programme start="20210912125500 +0700" stop="20210912130700 +0700" channel="cbeebies">
-    <title lang="vi">Charlie Và Lola</title>
-  </programme>
-  <programme start="20210912130700 +0700" stop="20210912132000 +0700" channel="cbeebies">
-    <title lang="vi">Charlie Và Lola</title>
-  </programme>
-  <programme start="20210912132000 +0700" stop="20210912132700 +0700" channel="cbeebies">
-    <title lang="vi">Nelly Và Nora</title>
-  </programme>
-  <programme start="20210912132700 +0700" stop="20210912133500 +0700" channel="cbeebies">
-    <title lang="vi">Nelly Và Nora</title>
-  </programme>
-  <programme start="20210912133500 +0700" stop="20210912134200 +0700" channel="cbeebies">
-    <title lang="vi">Sarah Và Vịt</title>
-  </programme>
-  <programme start="20210912134200 +0700" stop="20210912135000 +0700" channel="cbeebies">
-    <title lang="vi">Sarah Và Vịt</title>
-  </programme>
-  <programme start="20210912135000 +0700" stop="20210912140500 +0700" channel="cbeebies">
-    <title lang="vi">Thomas Và Những Người Bạn</title>
-  </programme>
-  <programme start="20210912140500 +0700" stop="20210912141500 +0700" channel="cbeebies">
-    <title lang="vi">Bluey</title>
-  </programme>
-  <programme start="20210912141500 +0700" stop="20210912142500 +0700" channel="cbeebies">
-    <title lang="vi">Dog Yêu Sách</title>
-  </programme>
-  <programme start="20210912142500 +0700" stop="20210912143200 +0700" channel="cbeebies">
-    <title lang="vi">Chào Duggee</title>
-  </programme>
-  <programme start="20210912143200 +0700" stop="20210912144000 +0700" channel="cbeebies">
-    <title lang="vi">Chào Duggee</title>
-  </programme>
-  <programme start="20210912144000 +0700" stop="20210912144500 +0700" channel="cbeebies">
-    <title lang="vi">Chào Duggee</title>
-  </programme>
-  <programme start="20210912144500 +0700" stop="20210912145600 +0700" channel="cbeebies">
-    <title lang="vi">Tiến Lên Phi Đội Máy Bay</title>
-  </programme>
-  <programme start="20210912145600 +0700" stop="20210912150700 +0700" channel="cbeebies">
-    <title lang="vi">Tiến Lên Phi Đội Máy Bay</title>
-  </programme>
-  <programme start="20210912150700 +0700" stop="20210912152000 +0700" channel="cbeebies">
-    <title lang="vi">Tiến Lên Phi Đội Máy Bay</title>
-  </programme>
-  <programme start="20210912152000 +0700" stop="20210912153500 +0700" channel="cbeebies">
-    <title lang="vi">Những Cỗ Máy Phi Thường Của Cathie</title>
-  </programme>
-  <programme start="20210912153500 +0700" stop="20210912155000 +0700" channel="cbeebies">
-    <title lang="vi">Những Chuyến Phiêu Lưu Về Thế Giới Khủng Long Của Andy</title>
-  </programme>
-  <programme start="20210912155000 +0700" stop="20210912161200 +0700" channel="cbeebies">
-    <title lang="vi">Những Người Hùng</title>
-  </programme>
-  <programme start="20210912161200 +0700" stop="20210912163500 +0700" channel="cbeebies">
-    <title lang="vi">Những Người Hùng</title>
-  </programme>
-  <programme start="20210912163500 +0700" stop="20210912165000 +0700" channel="cbeebies">
-    <title lang="vi">Thú Cưng Và Tôi</title>
-  </programme>
-  <programme start="20210912165000 +0700" stop="20210912170000 +0700" channel="cbeebies">
-    <title lang="vi">Những Người Bạn Numtum</title>
-  </programme>
-  <programme start="20210912170000 +0700" stop="20210912170700 +0700" channel="cbeebies">
-    <title lang="vi">Chào Duggee</title>
-  </programme>
-  <programme start="20210912170700 +0700" stop="20210912171400 +0700" channel="cbeebies">
-    <title lang="vi">Chào Duggee</title>
-  </programme>
-  <programme start="20210912171400 +0700" stop="20210912172000 +0700" channel="cbeebies">
-    <title lang="vi">Chào Duggee</title>
-  </programme>
-  <programme start="20210912172000 +0700" stop="20210912173100 +0700" channel="cbeebies">
-    <title lang="vi">Tiến Lên Phi Đội Máy Bay</title>
-  </programme>
-  <programme start="20210912173100 +0700" stop="20210912174500 +0700" channel="cbeebies">
-    <title lang="vi">Tiến Lên Phi Đội Máy Bay</title>
   </programme>
   <programme start="20210912174500 +0700" stop="20210912175000 +0700" channel="cbeebies">
     <title lang="vi">Kit Và Pup</title>
@@ -1122,106 +624,6 @@
   </programme>
   <programme start="20210912235000 +0700" stop="20210912235500 +0700" channel="cbeebies">
     <title lang="vi">Yakka Dee</title>
-  </programme>
-  <programme start="20210912053000 +0700" stop="20210912060000 +0700" channel="animax">
-    <title lang="vi">Bạn Gái 3D Ngoài Đời Thực</title>
-    <desc lang="vi">About When I Tried To Make Summer Memories.(n)</desc>
-  </programme>
-  <programme start="20210912060000 +0700" stop="20210912063000 +0700" channel="animax">
-    <title lang="vi">Chuyển Sinh Thành Đại Ác Nữ: Kiểu Gì Cũng Chết Thêm Lần Nữa</title>
-    <desc lang="vi">Episode 11.(n)</desc>
-  </programme>
-  <programme start="20210912063000 +0700" stop="20210912070000 +0700" channel="animax">
-    <title lang="vi">Quán Trọ Linh Hồn</title>
-    <desc lang="vi">The Secret Of The Ceremony In The Southern Land.(n)</desc>
-  </programme>
-  <programme start="20210912070000 +0700" stop="20210912073000 +0700" channel="animax">
-    <title lang="vi">Quán Trọ Linh Hồn</title>
-    <desc lang="vi">A Big Fight Between A Tengu Father And His Son.(n)</desc>
-  </programme>
-  <programme start="20210912073000 +0700" stop="20210912080000 +0700" channel="animax">
-    <title lang="vi">Nữ Quái Nhà Kế Bên</title>
-    <desc lang="vi">The Pink Method!! The Wheel Of Fate Is A Round Tire!!(n)</desc>
-  </programme>
-  <programme start="20210912080000 +0700" stop="20210912083000 +0700" channel="animax">
-    <title lang="vi">Nữ Quái Nhà Kế Bên</title>
-    <desc lang="vi">The Cursed Fruit!! Beware The Sour Mikan!!(n)</desc>
-  </programme>
-  <programme start="20210912083000 +0700" stop="20210912090000 +0700" channel="animax">
-    <title lang="vi">Chuyển Sinh Thành Đại Ác Nữ: Kiểu Gì Cũng Chết Thêm Lần Nữa</title>
-    <desc lang="vi">Episode 11.(n)</desc>
-  </programme>
-  <programme start="20210912090000 +0700" stop="20210912093000 +0700" channel="animax">
-    <title lang="vi">Vua Bóng Chuyền (Phần 1)</title>
-    <desc lang="vi">The Third Day.(n)</desc>
-  </programme>
-  <programme start="20210912093000 +0700" stop="20210912100000 +0700" channel="animax">
-    <title lang="vi">Bóng Chày Và Tiền Bạc</title>
-    <desc lang="vi">My Workplace \/ Spot Starter.(n)</desc>
-  </programme>
-  <programme start="20210912100000 +0700" stop="20210912103000 +0700" channel="animax">
-    <title lang="vi">Bóng Chày Và Tiền Bạc</title>
-    <desc lang="vi">Tendency \/ Buddies.(n)</desc>
-  </programme>
-  <programme start="20210912103000 +0700" stop="20210912110000 +0700" channel="animax">
-    <title lang="vi">Bóng Chày Và Tiền Bạc</title>
-    <desc lang="vi">Prefecture Clique.(n)</desc>
-  </programme>
-  <programme start="20210912110000 +0700" stop="20210912113000 +0700" channel="animax">
-    <title lang="vi">Osamake: Chuyện Tình Bi Hài Về Cô Bạn Thời Thơ Ấu Không Chịu Thua</title>
-    <desc lang="vi">The Girl Who Lost Her Memories \/ The Octopus Wiener Trap.(n)</desc>
-  </programme>
-  <programme start="20210912113000 +0700" stop="20210912120000 +0700" channel="animax">
-    <title lang="vi">Osamake: Chuyện Tình Bi Hài Về Cô Bạn Thời Thơ Ấu Không Chịu Thua</title>
-    <desc lang="vi">The One Who Laughs Last.(n)</desc>
-  </programme>
-  <programme start="20210912120000 +0700" stop="20210912123000 +0700" channel="animax">
-    <title lang="vi">Osamake: Chuyện Tình Bi Hài Về Cô Bạn Thời Thơ Ấu Không Chịu Thua</title>
-    <desc lang="vi">I Know! Let's Go To Okinawa!(n)</desc>
-  </programme>
-  <programme start="20210912123000 +0700" stop="20210912130000 +0700" channel="animax">
-    <title lang="vi">Osamake: Chuyện Tình Bi Hài Về Cô Bạn Thời Thơ Ấu Không Chịu Thua</title>
-    <desc lang="vi">Shirokusa's Counterattack.(n)</desc>
-  </programme>
-  <programme start="20210912130000 +0700" stop="20210912133000 +0700" channel="animax">
-    <title lang="vi">Nữ Quái Nhà Kế Bên</title>
-    <desc lang="vi">The Pink Method!! The Wheel Of Fate Is A Round Tire!!(n)</desc>
-  </programme>
-  <programme start="20210912133000 +0700" stop="20210912140000 +0700" channel="animax">
-    <title lang="vi">Nữ Quái Nhà Kế Bên</title>
-    <desc lang="vi">The Cursed Fruit!! Beware The Sour Mikan!!(n)</desc>
-  </programme>
-  <programme start="20210912140000 +0700" stop="20210912143000 +0700" channel="animax">
-    <title lang="vi">Long Vương Bận Rộn</title>
-    <desc lang="vi">Training Group Entrance Exam.(n)</desc>
-  </programme>
-  <programme start="20210912143000 +0700" stop="20210912150000 +0700" channel="animax">
-    <title lang="vi">Long Vương Bận Rộn</title>
-    <desc lang="vi">The Other Ai.(n)</desc>
-  </programme>
-  <programme start="20210912150000 +0700" stop="20210912153000 +0700" channel="animax">
-    <title lang="vi">Long Vương Bận Rộn</title>
-    <desc lang="vi">Artlessly Flawless.(n)</desc>
-  </programme>
-  <programme start="20210912153000 +0700" stop="20210912160000 +0700" channel="animax">
-    <title lang="vi">Long Vương Bận Rộn</title>
-    <desc lang="vi">All-Rounder.(n)</desc>
-  </programme>
-  <programme start="20210912160000 +0700" stop="20210912163000 +0700" channel="animax">
-    <title lang="vi">Long Vương Bận Rộn</title>
-    <desc lang="vi">Dear 10-Year-Old Me.(n)</desc>
-  </programme>
-  <programme start="20210912163000 +0700" stop="20210912170000 +0700" channel="animax">
-    <title lang="vi">Khi Các Tế Bào Hoạt Động: Mật Mã Đen</title>
-    <desc lang="vi">Desperation, Gout, And Rebellion.(n)</desc>
-  </programme>
-  <programme start="20210912170000 +0700" stop="20210912173000 +0700" channel="animax">
-    <title lang="vi">Khi Các Tế Bào Hoạt Động: Mật Mã Đen</title>
-    <desc lang="vi">Return, The Heart, And Demise.(n)</desc>
-  </programme>
-  <programme start="20210912173000 +0700" stop="20210912180000 +0700" channel="animax">
-    <title lang="vi">Khi Các Tế Bào Hoạt Động: Mật Mã Đen</title>
-    <desc lang="vi">Cardiac Arrest, Revival, And A Change.(n)</desc>
   </programme>
   <programme start="20210912180000 +0700" stop="20210912183000 +0700" channel="animax">
     <title lang="vi">Tổng Hợp Animax</title>
@@ -1415,231 +817,121 @@
     <title lang="vi">Osamake: Chuyện Tình Bi Hài Về Cô Bạn Thời Thơ Ấu Không Chịu Thua</title>
     <desc lang="vi">Paradise Sos.(n)</desc>
   </programme>
-  <programme start="20210912014000 +0700" stop="20210912022500 +0700" channel="in.the.box">
-    <title lang="vi">Falling Skies S1</title>
-    <desc lang="vi">Ep 7.(n)</desc>
-  </programme>
-  <programme start="20210912022500 +0700" stop="20210912031000 +0700" channel="in.the.box">
-    <title lang="vi">Covert Affairs S2</title>
-    <desc lang="vi">Ep 3.(n)</desc>
-  </programme>
-  <programme start="20210912031000 +0700" stop="20210912035500 +0700" channel="in.the.box">
-    <title lang="vi">Chicago Fire S3</title>
-    <desc lang="vi">Ep 11.(n)</desc>
-  </programme>
-  <programme start="20210912035500 +0700" stop="20210912044000 +0700" channel="in.the.box">
-    <title lang="vi">Chicago Fire S3</title>
-    <desc lang="vi">Ep 12.(n)</desc>
-  </programme>
-  <programme start="20210912044000 +0700" stop="20210912052500 +0700" channel="in.the.box">
-    <title lang="vi">Mr. Robot S4</title>
-    <desc lang="vi">Ep 10.(n)</desc>
-  </programme>
-  <programme start="20210912052500 +0700" stop="20210912062000 +0700" channel="in.the.box">
+  <programme start="20210912173500 +0700" stop="20210912183000 +0700" channel="in.the.box.channel">
     <title lang="vi">Mr. Robot S4</title>
     <desc lang="vi">Ep 11.(n)</desc>
   </programme>
-  <programme start="20210912062000 +0700" stop="20210912070500 +0700" channel="in.the.box">
-    <title lang="vi">Falling Skies S1</title>
-    <desc lang="vi">Ep 5.(n)</desc>
-  </programme>
-  <programme start="20210912070500 +0700" stop="20210912075500 +0700" channel="in.the.box">
-    <title lang="vi">Falling Skies S1</title>
-    <desc lang="vi">Ep 6.(n)</desc>
-  </programme>
-  <programme start="20210912075500 +0700" stop="20210912084000 +0700" channel="in.the.box">
-    <title lang="vi">Arn S1</title>
-    <desc lang="vi">Ep 6.(n)</desc>
-  </programme>
-  <programme start="20210912084000 +0700" stop="20210912093000 +0700" channel="in.the.box">
-    <title lang="vi">Nikita S2</title>
-    <desc lang="vi">Ep 21.(n)</desc>
-  </programme>
-  <programme start="20210912093000 +0700" stop="20210912102000 +0700" channel="in.the.box">
-    <title lang="vi">Nikita S2</title>
-    <desc lang="vi">Ep 22.(n)</desc>
-  </programme>
-  <programme start="20210912102000 +0700" stop="20210912110500 +0700" channel="in.the.box">
-    <title lang="vi">Falling Skies S1</title>
-    <desc lang="vi">Ep 7.(n)</desc>
-  </programme>
-  <programme start="20210912110500 +0700" stop="20210912115500 +0700" channel="in.the.box">
-    <title lang="vi">Mr. Robot S4</title>
-    <desc lang="vi">Ep 9.(n)</desc>
-  </programme>
-  <programme start="20210912115500 +0700" stop="20210912124500 +0700" channel="in.the.box">
-    <title lang="vi">Mr. Robot S4</title>
-    <desc lang="vi">Ep 10.(n)</desc>
-  </programme>
-  <programme start="20210912124500 +0700" stop="20210912133000 +0700" channel="in.the.box">
-    <title lang="vi">Terminator: The Sarah Connor... S2</title>
-    <desc lang="vi">Ep 18.(n)</desc>
-  </programme>
-  <programme start="20210912133000 +0700" stop="20210912142000 +0700" channel="in.the.box">
-    <title lang="vi">Terminator: The Sarah Connor... S2</title>
-    <desc lang="vi">Ep 19.(n)</desc>
-  </programme>
-  <programme start="20210912142000 +0700" stop="20210912151000 +0700" channel="in.the.box">
-    <title lang="vi">Six S2</title>
-    <desc lang="vi">Ep 3.(n)</desc>
-  </programme>
-  <programme start="20210912151000 +0700" stop="20210912155500 +0700" channel="in.the.box">
-    <title lang="vi">Six S2</title>
-    <desc lang="vi">Ep 4.(n)</desc>
-  </programme>
-  <programme start="20210912155500 +0700" stop="20210912164500 +0700" channel="in.the.box">
-    <title lang="vi">Falling Skies S1</title>
-    <desc lang="vi">Ep 6.(n)</desc>
-  </programme>
-  <programme start="20210912164500 +0700" stop="20210912173500 +0700" channel="in.the.box">
-    <title lang="vi">Falling Skies S1</title>
-    <desc lang="vi">Ep 7.(n)</desc>
-  </programme>
-  <programme start="20210912173500 +0700" stop="20210912183000 +0700" channel="in.the.box">
-    <title lang="vi">Mr. Robot S4</title>
-    <desc lang="vi">Ep 11.(n)</desc>
-  </programme>
-  <programme start="20210912183000 +0700" stop="20210912191500 +0700" channel="in.the.box">
+  <programme start="20210912183000 +0700" stop="20210912191500 +0700" channel="in.the.box.channel">
     <title lang="vi">Mr. Robot S4</title>
     <desc lang="vi">Ep 12.(n)</desc>
   </programme>
-  <programme start="20210912191500 +0700" stop="20210912200000 +0700" channel="in.the.box">
+  <programme start="20210912191500 +0700" stop="20210912200000 +0700" channel="in.the.box.channel">
     <title lang="vi">Nikita S2</title>
     <desc lang="vi">Ep 22.(n)</desc>
   </programme>
-  <programme start="20210912200000 +0700" stop="20210912205000 +0700" channel="in.the.box">
+  <programme start="20210912200000 +0700" stop="20210912205000 +0700" channel="in.the.box.channel">
     <title lang="vi">Nikita S2</title>
     <desc lang="vi">Ep 23.(n)</desc>
   </programme>
-  <programme start="20210912205000 +0700" stop="20210912213500 +0700" channel="in.the.box">
+  <programme start="20210912205000 +0700" stop="20210912213500 +0700" channel="in.the.box.channel">
     <title lang="vi">Arn S1</title>
     <desc lang="vi">Ep 5.(n)</desc>
   </programme>
-  <programme start="20210912213500 +0700" stop="20210912222500 +0700" channel="in.the.box">
+  <programme start="20210912213500 +0700" stop="20210912222500 +0700" channel="in.the.box.channel">
     <title lang="vi">Arn S1</title>
     <desc lang="vi">Ep 6.(n)</desc>
   </programme>
-  <programme start="20210912222500 +0700" stop="20210912231500 +0700" channel="in.the.box">
+  <programme start="20210912222500 +0700" stop="20210912231500 +0700" channel="in.the.box.channel">
     <title lang="vi">Mr. Robot S4</title>
     <desc lang="vi">Ep 12.(n)</desc>
   </programme>
-  <programme start="20210912231500 +0700" stop="20210913061000 +0700" channel="in.the.box">
+  <programme start="20210912231500 +0700" stop="20210913061000 +0700" channel="in.the.box.channel">
     <title lang="vi">Falling Skies S1</title>
     <desc lang="vi">Ep 6.(n)</desc>
   </programme>
-  <programme start="20210913061000 +0700" stop="20210913065500 +0700" channel="in.the.box">
+  <programme start="20210913061000 +0700" stop="20210913065500 +0700" channel="in.the.box.channel">
     <title lang="vi">Six S2</title>
     <desc lang="vi">Ep 2.(n)</desc>
   </programme>
-  <programme start="20210913065500 +0700" stop="20210913074500 +0700" channel="in.the.box">
+  <programme start="20210913065500 +0700" stop="20210913074500 +0700" channel="in.the.box.channel">
     <title lang="vi">Six S2</title>
     <desc lang="vi">Ep 3.(n)</desc>
   </programme>
-  <programme start="20210913074500 +0700" stop="20210913083000 +0700" channel="in.the.box">
+  <programme start="20210913074500 +0700" stop="20210913083000 +0700" channel="in.the.box.channel">
     <title lang="vi">Six S2</title>
     <desc lang="vi">Ep 4.(n)</desc>
   </programme>
-  <programme start="20210913083000 +0700" stop="20210913092000 +0700" channel="in.the.box">
+  <programme start="20210913083000 +0700" stop="20210913092000 +0700" channel="in.the.box.channel">
     <title lang="vi">Nikita S2</title>
     <desc lang="vi">Ep 22.(n)</desc>
   </programme>
-  <programme start="20210913092000 +0700" stop="20210913101000 +0700" channel="in.the.box">
+  <programme start="20210913092000 +0700" stop="20210913101000 +0700" channel="in.the.box.channel">
     <title lang="vi">Nikita S2</title>
     <desc lang="vi">Ep 23.(n)</desc>
   </programme>
-  <programme start="20210913101000 +0700" stop="20210913105500 +0700" channel="in.the.box">
+  <programme start="20210913101000 +0700" stop="20210913105500 +0700" channel="in.the.box.channel">
     <title lang="vi">Covert Affairs S2</title>
     <desc lang="vi">Ep 2.(n)</desc>
   </programme>
-  <programme start="20210913105500 +0700" stop="20210913114500 +0700" channel="in.the.box">
+  <programme start="20210913105500 +0700" stop="20210913114500 +0700" channel="in.the.box.channel">
     <title lang="vi">Mr. Robot S4</title>
     <desc lang="vi">Ep 10.(n)</desc>
   </programme>
-  <programme start="20210913114500 +0700" stop="20210913124000 +0700" channel="in.the.box">
+  <programme start="20210913114500 +0700" stop="20210913124000 +0700" channel="in.the.box.channel">
     <title lang="vi">Mr. Robot S4</title>
     <desc lang="vi">Ep 11.(n)</desc>
   </programme>
-  <programme start="20210913124000 +0700" stop="20210913133000 +0700" channel="in.the.box">
+  <programme start="20210913124000 +0700" stop="20210913133000 +0700" channel="in.the.box.channel">
     <title lang="vi">Arn S1</title>
     <desc lang="vi">Ep 4.(n)</desc>
   </programme>
-  <programme start="20210913133000 +0700" stop="20210913142000 +0700" channel="in.the.box">
+  <programme start="20210913133000 +0700" stop="20210913142000 +0700" channel="in.the.box.channel">
     <title lang="vi">Arn S1</title>
     <desc lang="vi">Ep 5.(n)</desc>
   </programme>
-  <programme start="20210913142000 +0700" stop="20210913151000 +0700" channel="in.the.box">
+  <programme start="20210913142000 +0700" stop="20210913151000 +0700" channel="in.the.box.channel">
     <title lang="vi">Falling Skies S1</title>
     <desc lang="vi">Ep 4.(n)</desc>
   </programme>
-  <programme start="20210913151000 +0700" stop="20210913155500 +0700" channel="in.the.box">
+  <programme start="20210913151000 +0700" stop="20210913155500 +0700" channel="in.the.box.channel">
     <title lang="vi">Falling Skies S1</title>
     <desc lang="vi">Ep 5.(n)</desc>
   </programme>
-  <programme start="20210913155500 +0700" stop="20210913164500 +0700" channel="in.the.box">
+  <programme start="20210913155500 +0700" stop="20210913164500 +0700" channel="in.the.box.channel">
     <title lang="vi">Covert Affairs S2</title>
     <desc lang="vi">Ep 4.(n)</desc>
   </programme>
-  <programme start="20210913164500 +0700" stop="20210913173500 +0700" channel="in.the.box">
+  <programme start="20210913164500 +0700" stop="20210913173500 +0700" channel="in.the.box.channel">
     <title lang="vi">Covert Affairs S2</title>
     <desc lang="vi">Ep 5.(n)</desc>
   </programme>
-  <programme start="20210913173500 +0700" stop="20210913182000 +0700" channel="in.the.box">
+  <programme start="20210913173500 +0700" stop="20210913182000 +0700" channel="in.the.box.channel">
     <title lang="vi">Mr. Robot S4</title>
     <desc lang="vi">Ep 12.(n)</desc>
   </programme>
-  <programme start="20210913182000 +0700" stop="20210913191500 +0700" channel="in.the.box">
+  <programme start="20210913182000 +0700" stop="20210913191500 +0700" channel="in.the.box.channel">
     <title lang="vi">Mr. Robot S4</title>
     <desc lang="vi">Ep 13.(n)</desc>
   </programme>
-  <programme start="20210913191500 +0700" stop="20210913200000 +0700" channel="in.the.box">
+  <programme start="20210913191500 +0700" stop="20210913200000 +0700" channel="in.the.box.channel">
     <title lang="vi">Terminator: The Sarah Connor... S2</title>
     <desc lang="vi">Ep 19.(n)</desc>
   </programme>
-  <programme start="20210913200000 +0700" stop="20210913205000 +0700" channel="in.the.box">
+  <programme start="20210913200000 +0700" stop="20210913205000 +0700" channel="in.the.box.channel">
     <title lang="vi">Terminator: The Sarah Connor... S2</title>
     <desc lang="vi">Ep 20.(n)</desc>
   </programme>
-  <programme start="20210913205000 +0700" stop="20210913213500 +0700" channel="in.the.box">
+  <programme start="20210913205000 +0700" stop="20210913213500 +0700" channel="in.the.box.channel">
     <title lang="vi">Six S2</title>
     <desc lang="vi">Ep 3.(n)</desc>
   </programme>
-  <programme start="20210913213500 +0700" stop="20210913222500 +0700" channel="in.the.box">
+  <programme start="20210913213500 +0700" stop="20210913222500 +0700" channel="in.the.box.channel">
     <title lang="vi">Six S2</title>
     <desc lang="vi">Ep 4.(n)</desc>
   </programme>
-  <programme start="20210913222500 +0700" stop="20210913232000 +0700" channel="in.the.box">
+  <programme start="20210913222500 +0700" stop="20210913232000 +0700" channel="in.the.box.channel">
     <title lang="vi">Mr. Robot S4</title>
     <desc lang="vi">Ep 13.(n)</desc>
-  </programme>
-  <programme start="20210912021500 +0700" stop="20210912034500 +0700" channel="box.hits">
-    <title lang="vi">Universal Soldier: Regeneration</title>
-  </programme>
-  <programme start="20210912034500 +0700" stop="20210912052500 +0700" channel="box.hits">
-    <title lang="vi">Mechanic: Resurrection</title>
-  </programme>
-  <programme start="20210912052500 +0700" stop="20210912072500 +0700" channel="box.hits">
-    <title lang="vi">Ma Sói</title>
-    <desc lang="vi">The Wolfman.(n)</desc>
-  </programme>
-  <programme start="20210912072500 +0700" stop="20210912093500 +0700" channel="box.hits">
-    <title lang="vi">Chú Hề Ma Quái</title>
-    <desc lang="vi">It (2017).(n)</desc>
-  </programme>
-  <programme start="20210912093500 +0700" stop="20210912113500 +0700" channel="box.hits">
-    <title lang="vi">Đại Chiến Thái Bình Dương</title>
-    <desc lang="vi">Pacific Rim.(n)</desc>
-  </programme>
-  <programme start="20210912113500 +0700" stop="20210912140000 +0700" channel="box.hits">
-    <title lang="vi">Ngày Tận Thế</title>
-    <desc lang="vi">Armageddon.(n)</desc>
-  </programme>
-  <programme start="20210912140000 +0700" stop="20210912155500 +0700" channel="box.hits">
-    <title lang="vi">Biệt Đội Săn Ma</title>
-    <desc lang="vi">Ghostbusters.(n)</desc>
-  </programme>
-  <programme start="20210912155500 +0700" stop="20210912180500 +0700" channel="box.hits">
-    <title lang="vi">Người Sói: Trận Chiến Cuối Cùng</title>
-    <desc lang="vi">Logan.(n)</desc>
   </programme>
   <programme start="20210912180500 +0700" stop="20210912200000 +0700" channel="box.hits">
     <title lang="vi">Nàng Bạch Tuyết và Gã Thợ Săn</title>
@@ -1691,123 +983,6 @@
   <programme start="20210913214000 +0700" stop="20210913233500 +0700" channel="box.hits">
     <title lang="vi">Năm Anh Em Siêu Nhân</title>
     <desc lang="vi">Power Rangers.(n)</desc>
-  </programme>
-  <programme start="20210912011500 +0700" stop="20210912012000 +0700" channel="man">
-    <title lang="vi">Men's Style Destination</title>
-  </programme>
-  <programme start="20210912012000 +0700" stop="20210912012500 +0700" channel="man">
-    <title lang="vi">Train Like A Celebrity</title>
-    <desc lang="vi">Ep 74.(n)</desc>
-  </programme>
-  <programme start="20210912012500 +0700" stop="20210912021500 +0700" channel="man">
-    <title lang="vi">From Russia To Iran: Crossing The S01</title>
-    <desc lang="vi">Ep 1.(n)</desc>
-  </programme>
-  <programme start="20210912021500 +0700" stop="20210912030000 +0700" channel="man">
-    <title lang="vi">Leepu &amp; Pitbull S01</title>
-    <desc lang="vi">Ep 8.(n)</desc>
-  </programme>
-  <programme start="20210912030000 +0700" stop="20210912031500 +0700" channel="man">
-    <title lang="vi">Keep Your Tips Up S02</title>
-    <desc lang="vi">Ep 8.(n)</desc>
-  </programme>
-  <programme start="20210912031500 +0700" stop="20210912034000 +0700" channel="man">
-    <title lang="vi">Moto Spy S04</title>
-    <desc lang="vi">Ep 1.(n)</desc>
-  </programme>
-  <programme start="20210912034000 +0700" stop="20210912040000 +0700" channel="man">
-    <title lang="vi">Alternate Route S01</title>
-    <desc lang="vi">Ep 3.(n)</desc>
-  </programme>
-  <programme start="20210912040000 +0700" stop="20210912045000 +0700" channel="man">
-    <title lang="vi">Biker Battleground Phoenix S01</title>
-    <desc lang="vi">Ep 1.(n)</desc>
-  </programme>
-  <programme start="20210912045000 +0700" stop="20210912045500 +0700" channel="man">
-    <title lang="vi">Men's Style Destination</title>
-  </programme>
-  <programme start="20210912045500 +0700" stop="20210912050000 +0700" channel="man">
-    <title lang="vi">Train Like A Celebrity</title>
-    <desc lang="vi">Ep 74.(n)</desc>
-  </programme>
-  <programme start="20210912050000 +0700" stop="20210912055000 +0700" channel="man">
-    <title lang="vi">From Russia To Iran: Crossing The S01</title>
-    <desc lang="vi">Ep 1.(n)</desc>
-  </programme>
-  <programme start="20210912055000 +0700" stop="20210912064000 +0700" channel="man">
-    <title lang="vi">Leepu &amp; Pitbull S01</title>
-    <desc lang="vi">Ep 8.(n)</desc>
-  </programme>
-  <programme start="20210912064000 +0700" stop="20210912070000 +0700" channel="man">
-    <title lang="vi">Moto Spy S04</title>
-    <desc lang="vi">Ep 1.(n)</desc>
-  </programme>
-  <programme start="20210912070000 +0700" stop="20210912071000 +0700" channel="man">
-    <title lang="vi">Train Like A Celebrity</title>
-    <desc lang="vi">Ep 29.(n)</desc>
-  </programme>
-  <programme start="20210912071000 +0700" stop="20210912080000 +0700" channel="man">
-    <title lang="vi">Trận Chiến Xe Ảo (Phần 1 - Tập 1)</title>
-    <desc lang="vi">Driving Wars.(n)</desc>
-  </programme>
-  <programme start="20210912080000 +0700" stop="20210912082500 +0700" channel="man">
-    <title lang="vi">Moto Spy S04</title>
-    <desc lang="vi">Ep 1.(n)</desc>
-  </programme>
-  <programme start="20210912082500 +0700" stop="20210912091500 +0700" channel="man">
-    <title lang="vi">Jesse James Blacksmith (Tập 2)</title>
-  </programme>
-  <programme start="20210912091500 +0700" stop="20210912100000 +0700" channel="man">
-    <title lang="vi">Leepu Và Pitbull (Phần 1 - Tập 8)</title>
-    <desc lang="vi">Leepu &amp; Pitbull S01.(n)</desc>
-  </programme>
-  <programme start="20210912100000 +0700" stop="20210912100500 +0700" channel="man">
-    <title lang="vi">Train Like A Celebrity</title>
-    <desc lang="vi">Ep 30.(n)</desc>
-  </programme>
-  <programme start="20210912100500 +0700" stop="20210912113500 +0700" channel="man">
-    <title lang="vi">Chiến Binh Ninja Mỹ (Phần 12 - Tập 7)</title>
-    <desc lang="vi">American Ninja Warrior S12.(n)</desc>
-  </programme>
-  <programme start="20210912113500 +0700" stop="20210912114500 +0700" channel="man">
-    <title lang="vi">Huyền Thoại Lướt Sóng 8.0 (Tập 1)</title>
-    <desc lang="vi">Who Is Job 8.0.(n)</desc>
-  </programme>
-  <programme start="20210912114500 +0700" stop="20210912123500 +0700" channel="man">
-    <title lang="vi">Những Tay Trượt Cừ Khôi (Phần 2 - Tập 4)</title>
-    <desc lang="vi">Keep Your Tips Up.(n)</desc>
-  </programme>
-  <programme start="20210912123500 +0700" stop="20210912130000 +0700" channel="man">
-    <title lang="vi">Người Hùng Ẩm Thực (Phần 1 - Tập 10)</title>
-    <desc lang="vi">Epic Meal Empire S01.(n)</desc>
-  </programme>
-  <programme start="20210912130000 +0700" stop="20210912134500 +0700" channel="man">
-    <title lang="vi">Theo Chân Người Nổi Tiếng (Phần 1 - Tập 5)</title>
-    <desc lang="vi">The Getaway S01.(n)</desc>
-  </programme>
-  <programme start="20210912134500 +0700" stop="20210912142000 +0700" channel="man">
-    <title lang="vi">Khám Phá Ẩm Thực Bắc Âu (Phần 2 - Tập 3)</title>
-    <desc lang="vi">Tareq Taylor's Nordic Cookery.(n)</desc>
-  </programme>
-  <programme start="20210912142000 +0700" stop="20210912151000 +0700" channel="man">
-    <title lang="vi">Hương Vị Cho Bánh Xe (Phần 1 - Tập 2)</title>
-    <desc lang="vi">Taste For Wheels S01.(n)</desc>
-  </programme>
-  <programme start="20210912151000 +0700" stop="20210912153000 +0700" channel="man">
-    <title lang="vi">Khám Phá Cuối Tuần (Phần 1 - Tập 5)</title>
-    <desc lang="vi">Weekend Fix S01.(n)</desc>
-  </programme>
-  <programme start="20210912153000 +0700" stop="20210912162000 +0700" channel="man">
-    <title lang="vi">Bí Mật Giới Siêu Giàu (Phần 4 - Tập 17)</title>
-    <desc lang="vi">Secret Lives Of The Super Rich S04.(n)</desc>
-  </programme>
-  <programme start="20210912162000 +0700" stop="20210912171000 +0700" channel="man">
-    <title lang="vi">Muộn Còn Hơn Không (Phần 2 - Tập 6)</title>
-    <desc lang="vi">Better Late Than Never S02.(n)</desc>
-  </programme>
-  <programme start="20210912171000 +0700" stop="20210912175500 +0700" channel="man">
-    <title lang="vi">Fistful Of Steel</title>
-    <desc lang="vi">Ep pt2.(n)</desc>
   </programme>
   <programme start="20210912175500 +0700" stop="20210912181000 +0700" channel="man">
     <title lang="vi">Ross Edgley's Strongman Swimming S1</title>
@@ -1995,100 +1170,189 @@
     <title lang="vi">On Pace With Pastrana S01</title>
     <desc lang="vi">Ep 4.(n)</desc>
   </programme>
-  <programme start="20210912060000 +0700" stop="20210912064500 +0700" channel="vtc2">
+  <programme start="20210912000500 +0700" stop="20210912004500 +0700" channel="vtc1">
+    <title lang="vi">Thời sự tối</title>
+  </programme>
+  <programme start="20210912004500 +0700" stop="20210912013000 +0700" channel="vtc1">
     <title lang="vi">PHIM TRUYỆN</title>
-    <desc lang="vi">Chỉ là ảo vọng.(n)</desc>
+    <desc lang="vi">Tướng quân tại thượng Tập 44.(n)</desc>
   </programme>
-  <programme start="20210912064500 +0700" stop="20210912071500 +0700" channel="vtc2">
-    <title lang="vi">THIÊN NHIÊN VIỆT NAM</title>
+  <programme start="20210912013000 +0700" stop="20210912014500 +0700" channel="vtc1">
+    <title lang="vi">Đường dây nóng</title>
   </programme>
-  <programme start="20210912071500 +0700" stop="20210912072000 +0700" channel="vtc2">
-    <title lang="vi">TƯ VẤN PHÒNG,CHỐNG DỊCH COVID 19</title>
+  <programme start="20210912014500 +0700" stop="20210912021500 +0700" channel="vtc1">
+    <title lang="vi">NHẬT KÝ CUỘC SỐNG</title>
   </programme>
-  <programme start="20210912072000 +0700" stop="20210912075000 +0700" channel="vtc2">
-    <title lang="vi">GIỜ CÔNG NGHỆ</title>
+  <programme start="20210912021500 +0700" stop="20210912023000 +0700" channel="vtc1">
+    <title lang="vi">Thế giới nghiêng</title>
   </programme>
-  <programme start="20210912075000 +0700" stop="20210912080000 +0700" channel="vtc2">
+  <programme start="20210912023000 +0700" stop="20210912030000 +0700" channel="vtc1">
+    <title lang="vi">GIẢI MÃ</title>
+    <desc lang="vi">Đội tuần tra trên biển Phần 7.(n)</desc>
+  </programme>
+  <programme start="20210912030000 +0700" stop="20210912033000 +0700" channel="vtc1">
+    <title lang="vi">CHÀO BUỔI TỐI</title>
+  </programme>
+  <programme start="20210912033000 +0700" stop="20210912040000 +0700" channel="vtc1">
+    <title lang="vi">CẬN CẢNH</title>
+    <desc lang="vi">An ninh nguồn nước vấn đề sống còn.(n)</desc>
+  </programme>
+  <programme start="20210912040000 +0700" stop="20210912043000 +0700" channel="vtc1">
+    <title lang="vi">Thời sự tối</title>
+  </programme>
+  <programme start="20210912043000 +0700" stop="20210912050000 +0700" channel="vtc1">
+    <title lang="vi">GÓC NHÌN KHÁN GiẢ</title>
+  </programme>
+  <programme start="20210912050000 +0700" stop="20210912051500 +0700" channel="vtc1">
+    <title lang="vi">22+II</title>
+  </programme>
+  <programme start="20210912051500 +0700" stop="20210912060500 +0700" channel="vtc1">
+    <title lang="vi">Phim truyện</title>
+    <desc lang="vi">Khánh dư niên Tập 18.(n)</desc>
+  </programme>
+  <programme start="20210912060500 +0700" stop="20210912070000 +0700" channel="vtc1">
+    <title lang="vi">Cuộc sống 24h</title>
+  </programme>
+  <programme start="20210912070000 +0700" stop="20210912071500 +0700" channel="vtc1">
+    <title lang="vi">TẤN CÔNG COVID, ỔN ĐỊNH SẢN XUẤT</title>
+    <desc lang="vi">Đẩy mạnh chế biến sâu nông sản trong bão dịch covid-19.(n)</desc>
+  </programme>
+  <programme start="20210912071500 +0700" stop="20210912073000 +0700" channel="vtc1">
     <title lang="vi">SỐNG KẾT NỐI</title>
   </programme>
-  <programme start="20210912080000 +0700" stop="20210912081500 +0700" channel="vtc2">
-    <title lang="vi">PHIM SITCOM</title>
-    <desc lang="vi">Sống chung với em chồng.(n)</desc>
+  <programme start="20210912073000 +0700" stop="20210912080000 +0700" channel="vtc1">
+    <title lang="vi">PHIM TÀI LIỆU</title>
+    <desc lang="vi">Triển vọng đặc khu kinh tế Phú Quốc.(n)</desc>
   </programme>
-  <programme start="20210912081500 +0700" stop="20210912091500 +0700" channel="vtc2">
+  <programme start="20210912080000 +0700" stop="20210912080500 +0700" channel="vtc1">
+    <title lang="vi">TƯ VẤN PHÒNG CHỐNG COVID - 19</title>
+  </programme>
+  <programme start="20210912080500 +0700" stop="20210912084500 +0700" channel="vtc1">
+    <title lang="vi">HIỂM HỌA QUANH TA</title>
+    <desc lang="vi">Nguy cơ ảnh hưởng sức khỏe từ máy sấy tay.(n)</desc>
+  </programme>
+  <programme start="20210912084500 +0700" stop="20210912090000 +0700" channel="vtc1">
+    <title lang="vi">ĐƯỜNG DÂY NÓNG</title>
+  </programme>
+  <programme start="20210912090000 +0700" stop="20210912091000 +0700" channel="vtc1">
+    <title lang="vi">NHẬT KÝ COVID - 19</title>
+  </programme>
+  <programme start="20210912091000 +0700" stop="20210912100000 +0700" channel="vtc1">
+    <title lang="vi">BÌNH LUẬN</title>
+    <desc lang="vi">Đề xuất tiêm vắc xin Covid-19 cho trẻ em.(n)</desc>
+  </programme>
+  <programme start="20210912100000 +0700" stop="20210912101500 +0700" channel="vtc1">
+    <title lang="vi">THẾ GIỚI NGHIÊNG</title>
+  </programme>
+  <programme start="20210912101500 +0700" stop="20210912103000 +0700" channel="vtc1">
+    <title lang="vi">114</title>
+    <desc lang="vi">An toàn PCCC tại hộ gia đình khi giãn cách xã hội dài ngày.(n)</desc>
+  </programme>
+  <programme start="20210912103000 +0700" stop="20210912110000 +0700" channel="vtc1">
+    <title lang="vi">GÓC NHÌN</title>
+    <desc lang="vi">Nghệ sỹ tiếp sức chống dịch.(n)</desc>
+  </programme>
+  <programme start="20210912110000 +0700" stop="20210912111500 +0700" channel="vtc1">
+    <title lang="vi">TIN 11H</title>
+  </programme>
+  <programme start="20210912111500 +0700" stop="20210912113000 +0700" channel="vtc1">
+    <title lang="vi">NÓNG DƯ LUẬN</title>
+    <desc lang="vi">Hỗ trợ doanh nghiệp vượt khó khăn trong và sau dịch covid-19.(n)</desc>
+  </programme>
+  <programme start="20210912113000 +0700" stop="20210912120000 +0700" channel="vtc1">
+    <title lang="vi">Bản tin trưa</title>
+  </programme>
+  <programme start="20210912120000 +0700" stop="20210912121000 +0700" channel="vtc1">
+    <title lang="vi">TƯ VẤN PHÒNG CHỐNG COVID - 19</title>
+  </programme>
+  <programme start="20210912121000 +0700" stop="20210912130000 +0700" channel="vtc1">
+    <title lang="vi">Phim truyện</title>
+    <desc lang="vi">Tướng quân tại thượng Tập 45.(n)</desc>
+  </programme>
+  <programme start="20210912130000 +0700" stop="20210912131500 +0700" channel="vtc1">
+    <title lang="vi">22+II</title>
+  </programme>
+  <programme start="20210912131500 +0700" stop="20210912140000 +0700" channel="vtc1">
+    <title lang="vi">BÌNH LUẬN</title>
+    <desc lang="vi">Cấp bách khơi thông chuỗi sản xuất, tiêu thụ nông sản.(n)</desc>
+  </programme>
+  <programme start="20210912140000 +0700" stop="20210912141000 +0700" channel="vtc1">
+    <title lang="vi">THẾ GIỚI NGHIÊNG</title>
+  </programme>
+  <programme start="20210912141000 +0700" stop="20210912143000 +0700" channel="vtc1">
     <title lang="vi">PHIM TRUYỆN</title>
-    <desc lang="vi">Tìm chồng cho vợ tôi.(n)</desc>
+    <desc lang="vi">Đứa em thừa kế Tập 11.(n)</desc>
   </programme>
-  <programme start="20210912091500 +0700" stop="20210912093000 +0700" channel="vtc2">
-    <title lang="vi">KINH TẾ SỐ</title>
-  </programme>
-  <programme start="20210912093000 +0700" stop="20210912094500 +0700" channel="vtc2">
-    <title lang="vi">BẢN TIN COVID 19</title>
-  </programme>
-  <programme start="20210912094500 +0700" stop="20210912100000 +0700" channel="vtc2">
-    <title lang="vi">PHIM SITCOM</title>
-    <desc lang="vi">Sống chung với em chồng.(n)</desc>
-  </programme>
-  <programme start="20210912100000 +0700" stop="20210912101500 +0700" channel="vtc2">
-    <title lang="vi">BẢN TIN 22+</title>
-  </programme>
-  <programme start="20210912101500 +0700" stop="20210912110000 +0700" channel="vtc2">
+  <programme start="20210912143000 +0700" stop="20210912150000 +0700" channel="vtc1">
     <title lang="vi">PHIM TRUYỆN</title>
-    <desc lang="vi">Một nửa yêu thương.(n)</desc>
+    <desc lang="vi">Nửa là đường mật, nửa đau thương Tập 32.(n)</desc>
   </programme>
-  <programme start="20210912110000 +0700" stop="20210912113000 +0700" channel="vtc2">
-    <title lang="vi">GIẢI MÃ</title>
+  <programme start="20210912150000 +0700" stop="20210912151500 +0700" channel="vtc1">
+    <title lang="vi">NHẬT KÝ COVID - 19</title>
   </programme>
-  <programme start="20210912113000 +0700" stop="20210912120000 +0700" channel="vtc2">
-    <title lang="vi">THẾ GIỚI ĐỘNG VẬT</title>
+  <programme start="20210912151500 +0700" stop="20210912153000 +0700" channel="vtc1">
+    <title lang="vi">Sống kết nối</title>
   </programme>
-  <programme start="20210912120000 +0700" stop="20210912123000 +0700" channel="vtc2">
-    <title lang="vi">VĂN HÓA ẨM THỤC VIỆT</title>
+  <programme start="20210912153000 +0700" stop="20210912160000 +0700" channel="vtc1">
+    <title lang="vi">PHIM TÀI LIỆU</title>
+    <desc lang="vi">Bảo vệ giới trẻ khỏi tác hại của khói thuốc lá.(n)</desc>
   </programme>
-  <programme start="20210912123000 +0700" stop="20210912130000 +0700" channel="vtc2">
-    <title lang="vi">PHIÊU LƯU CÙNG ẨM THỰC</title>
+  <programme start="20210912160000 +0700" stop="20210912160500 +0700" channel="vtc1">
+    <title lang="vi">TIN 16H00</title>
   </programme>
-  <programme start="20210912130000 +0700" stop="20210912131500 +0700" channel="vtc2">
-    <title lang="vi">NO COMMENT</title>
+  <programme start="20210912160500 +0700" stop="20210912161500 +0700" channel="vtc1">
+    <title lang="vi">ĐƯỜNG DÂY NÓNG</title>
   </programme>
-  <programme start="20210912131500 +0700" stop="20210912132000 +0700" channel="vtc2">
-    <title lang="vi">TƯ VẤN PHÒNG,CHỐNG DỊCH COVID 19</title>
+  <programme start="20210912161500 +0700" stop="20210912164500 +0700" channel="vtc1">
+    <title lang="vi">TẠP CHÍ KINH TẾ &amp; TIÊU DÙNG</title>
   </programme>
-  <programme start="20210912132000 +0700" stop="20210912135000 +0700" channel="vtc2">
-    <title lang="vi">THẾ GIỚI XE XANH</title>
+  <programme start="20210912164500 +0700" stop="20210912170000 +0700" channel="vtc1">
+    <title lang="vi">TẤN CÔNG COVID, ỔN ĐỊNH SẢN XUẤT</title>
+    <desc lang="vi">Đẩy mạnh chế biến sâu nông sản trong bão dịch covid-19.(n)</desc>
   </programme>
-  <programme start="20210912135000 +0700" stop="20210912140000 +0700" channel="vtc2">
-    <title lang="vi">NHỊP SỐNG MỚI</title>
+  <programme start="20210912170000 +0700" stop="20210912175000 +0700" channel="vtc1">
+    <title lang="vi">PHIM TRUYỆN BỘ</title>
+    <desc lang="vi">Khánh dư niên Tập 19.(n)</desc>
   </programme>
-  <programme start="20210912140000 +0700" stop="20210912141500 +0700" channel="vtc2">
-    <title lang="vi">KINH TẾ SỐ</title>
+  <programme start="20210912175000 +0700" stop="20210912180000 +0700" channel="vtc1">
+    <title lang="vi">NHỊP ĐẬP THỊ TRƯỜNG</title>
   </programme>
-  <programme start="20210912141500 +0700" stop="20210912143000 +0700" channel="vtc2">
-    <title lang="vi">PHIM SITCOM</title>
-    <desc lang="vi">Sống chung với em chồng.(n)</desc>
+  <programme start="20210912180000 +0700" stop="20210912183000 +0700" channel="vtc1">
+    <title lang="vi">CHÀO BUỔI TỐI</title>
   </programme>
-  <programme start="20210912143000 +0700" stop="20210912153000 +0700" channel="vtc2">
+  <programme start="20210912183000 +0700" stop="20210912194500 +0700" channel="vtc1">
+    <title lang="vi">Bản tin tối</title>
+  </programme>
+  <programme start="20210912194500 +0700" stop="20210912201000 +0700" channel="vtc1">
     <title lang="vi">PHIM TRUYỆN</title>
-    <desc lang="vi">Hậu họa.(n)</desc>
+    <desc lang="vi">Gạo nếp gạo tẻ Tập 36.(n)</desc>
   </programme>
-  <programme start="20210912153000 +0700" stop="20210912154500 +0700" channel="vtc2">
-    <title lang="vi">NO COMMENT</title>
-  </programme>
-  <programme start="20210912154500 +0700" stop="20210912160000 +0700" channel="vtc2">
-    <title lang="vi">TÔI KHÁC MỖI NGÀY</title>
-  </programme>
-  <programme start="20210912160000 +0700" stop="20210912161500 +0700" channel="vtc2">
-    <title lang="vi">BẢN TIN 22+</title>
-  </programme>
-  <programme start="20210912161500 +0700" stop="20210912170000 +0700" channel="vtc2">
+  <programme start="20210912201000 +0700" stop="20210912204500 +0700" channel="vtc1">
     <title lang="vi">PHIM TRUYỆN</title>
-    <desc lang="vi">Một nửa yêu thương.(n)</desc>
+    <desc lang="vi">Nửa là đường mật, nửa đau thương Tập 33.(n)</desc>
   </programme>
-  <programme start="20210912170000 +0700" stop="20210912173000 +0700" channel="vtc2">
-    <title lang="vi">GIẢI MÃ</title>
+  <programme start="20210912204500 +0700" stop="20210912210000 +0700" channel="vtc1">
+    <title lang="vi">SỐNG KẾT NỐI</title>
   </programme>
-  <programme start="20210912173000 +0700" stop="20210912180000 +0700" channel="vtc2">
-    <title lang="vi">XU HƯỚNG 24H</title>
+  <programme start="20210912210000 +0700" stop="20210912220000 +0700" channel="vtc1">
+    <title lang="vi">PHIM TRUYỆN BỘ</title>
+    <desc lang="vi">Khu rừng bí mật Tập 26.(n)</desc>
+  </programme>
+  <programme start="20210912220000 +0700" stop="20210912221500 +0700" channel="vtc1">
+    <title lang="vi">22+II</title>
+  </programme>
+  <programme start="20210912221500 +0700" stop="20210912223000 +0700" channel="vtc1">
+    <title lang="vi">ĐƯỜNG DÂY NÓNG</title>
+  </programme>
+  <programme start="20210912223000 +0700" stop="20210912230000 +0700" channel="vtc1">
+    <title lang="vi">Thời sự tối</title>
+  </programme>
+  <programme start="20210912230000 +0700" stop="20210912231000 +0700" channel="vtc1">
+    <title lang="vi">NHỊP ĐẬP THỊ TRƯỜNG</title>
+  </programme>
+  <programme start="20210912231000 +0700" stop="20210912234500 +0700" channel="vtc1">
+    <title lang="vi">PHIM TÀI LIỆU</title>
+    <desc lang="vi">Những ngôi làng sống trên \"đỉnh lũ\" ở Quảng Bình.(n)</desc>
   </programme>
   <programme start="20210912180000 +0700" stop="20210912184500 +0700" channel="vtc2">
     <title lang="vi">PHIM TRUYỆN</title>

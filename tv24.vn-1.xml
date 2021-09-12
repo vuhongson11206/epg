@@ -24,7 +24,7 @@
     <display-name lang="vi">Bloomberg</display-name>
     <url>http://www.tv24.vn</url>
   </channel>
-  <channel id="box.movie">
+  <channel id="box.movie1">
     <display-name lang="vi">BOX Movie 1</display-name>
     <url>http://www.tv24.vn</url>
   </channel>
@@ -392,46 +392,46 @@
   <programme start="20210913224000 +0700" stop="20210913233500 +0700" channel="axn">
     <title lang="vi">THE ROOKIE (SEASON 3) : LÍNH MỚI (PHẦN 3)</title>
   </programme>
-  <programme start="20210912012500 +0700" stop="20210912015000 +0700" channel="box.movie">
+  <programme start="20210912012500 +0700" stop="20210912015000 +0700" channel="box.movie1">
     <title lang="vi">Rogue : Cá sấu ăn thịt người</title>
   </programme>
-  <programme start="20210912015000 +0700" stop="20210912032000 +0700" channel="box.movie">
+  <programme start="20210912015000 +0700" stop="20210912032000 +0700" channel="box.movie1">
     <title lang="vi">They Came Together : Họ đến cùng nhau</title>
   </programme>
-  <programme start="20210912032000 +0700" stop="20210912032000 +0700" channel="box.movie">
+  <programme start="20210912032000 +0700" stop="20210912032000 +0700" channel="box.movie1">
     <title lang="vi">The Protector : NGƯỜI BẢO VỆ</title>
   </programme>
-  <programme start="20210912032000 +0700" stop="20210912050000 +0700" channel="box.movie">
+  <programme start="20210912032000 +0700" stop="20210912050000 +0700" channel="box.movie1">
     <title lang="vi">The Two Faces of January : Tháng giêng hai mặt</title>
   </programme>
-  <programme start="20210912050000 +0700" stop="20210912063000 +0700" channel="box.movie">
+  <programme start="20210912050000 +0700" stop="20210912063000 +0700" channel="box.movie1">
     <title lang="vi">Midnight in Paris : Nửa đêm ở Paris</title>
   </programme>
-  <programme start="20210912063000 +0700" stop="20210912080500 +0700" channel="box.movie">
+  <programme start="20210912063000 +0700" stop="20210912080500 +0700" channel="box.movie1">
     <title lang="vi">Just a Breath Away : Màn sương chết</title>
   </programme>
-  <programme start="20210912080500 +0700" stop="20210912100000 +0700" channel="box.movie">
+  <programme start="20210912080500 +0700" stop="20210912100000 +0700" channel="box.movie1">
     <title lang="vi">22 Bullets : 22 viên đạn</title>
   </programme>
-  <programme start="20210912100000 +0700" stop="20210912115500 +0700" channel="box.movie">
+  <programme start="20210912100000 +0700" stop="20210912115500 +0700" channel="box.movie1">
     <title lang="vi">Super 8 : Quái vật vũ trụ</title>
   </programme>
-  <programme start="20210912115500 +0700" stop="20210912140000 +0700" channel="box.movie">
+  <programme start="20210912115500 +0700" stop="20210912140000 +0700" channel="box.movie1">
     <title lang="vi">Savages : Những kẻ man rợ</title>
   </programme>
-  <programme start="20210912140000 +0700" stop="20210912153500 +0700" channel="box.movie">
+  <programme start="20210912140000 +0700" stop="20210912153500 +0700" channel="box.movie1">
     <title lang="vi">After Earth : Trở về trái đất</title>
   </programme>
-  <programme start="20210912153500 +0700" stop="20210912181000 +0700" channel="box.movie">
+  <programme start="20210912153500 +0700" stop="20210912181000 +0700" channel="box.movie1">
     <title lang="vi">Watchmen : Người hùng báo thù</title>
   </programme>
-  <programme start="20210912181000 +0700" stop="20210912200000 +0700" channel="box.movie">
+  <programme start="20210912181000 +0700" stop="20210912200000 +0700" channel="box.movie1">
     <title lang="vi">Independence Day: Resurgence : Ngày độc lập 2: Tái chiến</title>
   </programme>
-  <programme start="20210912200000 +0700" stop="20210912215500 +0700" channel="box.movie">
+  <programme start="20210912200000 +0700" stop="20210912215500 +0700" channel="box.movie1">
     <title lang="vi">Le Chant du Loup : Cuộc gọi của sói biển</title>
   </programme>
-  <programme start="20210912215500 +0700" stop="20210912234000 +0700" channel="box.movie">
+  <programme start="20210912215500 +0700" stop="20210912234000 +0700" channel="box.movie1">
     <title lang="vi">Colombiana : Nữ sát thủ Colombiana</title>
   </programme>
   <programme start="20210912000000 +0700" stop="20210912020000 +0700" channel="btv5">
