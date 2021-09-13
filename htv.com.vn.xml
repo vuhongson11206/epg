@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="htv7">
+    <display-name lang="vi">HTV7</display-name>
+    <url>http://www.htv.com.vn</url>
+  </channel>
+  <channel id="htv9">
+    <display-name lang="vi">HTV9</display-name>
+    <url>http://www.htv.com.vn</url>
+  </channel>
+  <channel id="htv.the.thao">
+    <display-name lang="vi">HTV Thể Thao</display-name>
+    <url>http://www.htv.com.vn</url>
+  </channel>
+  <channel id="htv1">
+    <display-name lang="vi">HTV1</display-name>
+    <url>http://www.htv.com.vn</url>
+  </channel>
+  <channel id="htv2">
+    <display-name lang="vi">HTV2</display-name>
+    <url>http://www.htv.com.vn</url>
+  </channel>
+  <channel id="htv3">
+    <display-name lang="vi">HTV3</display-name>
+    <url>http://www.htv.com.vn</url>
+  </channel>
+  <channel id="htv4">
+    <display-name lang="vi">HTV4</display-name>
+    <url>http://www.htv.com.vn</url>
+  </channel>
+</tv>
