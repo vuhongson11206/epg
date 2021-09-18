@@ -80,51 +80,6 @@
     <display-name lang="vi">Animal Planet</display-name>
     <url>http://www.dichvu.vtvcab.vn</url>
   </channel>
-  <programme start="20210917011500 +0700" stop="20210917040000 +0700" channel="kix">
-    <title lang="vi">Road FC 2019</title>
-  </programme>
-  <programme start="20210917040000 +0700" stop="20210917054500 +0700" channel="kix">
-    <title lang="vi">Island of Fire</title>
-  </programme>
-  <programme start="20210917054500 +0700" stop="20210917070500 +0700" channel="kix">
-    <title lang="vi">10 Fight 10</title>
-  </programme>
-  <programme start="20210917070500 +0700" stop="20210917084500 +0700" channel="kix">
-    <title lang="vi">Exorcist Judge Bao</title>
-  </programme>
-  <programme start="20210917084500 +0700" stop="20210917101500 +0700" channel="kix">
-    <title lang="vi">Infinite Challenge</title>
-  </programme>
-  <programme start="20210917101500 +0700" stop="20210917115500 +0700" channel="kix">
-    <title lang="vi">Kung Fu Chefs</title>
-  </programme>
-  <programme start="20210917115500 +0700" stop="20210917130500 +0700" channel="kix">
-    <title lang="vi">Two Cops</title>
-  </programme>
-  <programme start="20210917130500 +0700" stop="20210917143500 +0700" channel="kix">
-    <title lang="vi">Australian Ninja Warrior S2</title>
-  </programme>
-  <programme start="20210917143500 +0700" stop="20210917155500 +0700" channel="kix">
-    <title lang="vi">Yacht Expedition</title>
-  </programme>
-  <programme start="20210917155500 +0700" stop="20210917165000 +0700" channel="kix">
-    <title lang="vi">G Wars</title>
-  </programme>
-  <programme start="20210917165000 +0700" stop="20210917185000 +0700" channel="kix">
-    <title lang="vi">Grand Prix</title>
-  </programme>
-  <programme start="20210917185000 +0700" stop="20210917200000 +0700" channel="kix">
-    <title lang="vi">Two Cops</title>
-  </programme>
-  <programme start="20210917200000 +0700" stop="20210917212500 +0700" channel="kix">
-    <title lang="vi">Urban Cops Season 1</title>
-  </programme>
-  <programme start="20210917212500 +0700" stop="20210917230500 +0700" channel="kix">
-    <title lang="vi">Warriors of the Nation</title>
-  </programme>
-  <programme start="20210917230500 +0700" stop="20210918012500 +0700" channel="kix">
-    <title lang="vi">Road FC 2019</title>
-  </programme>
   <programme start="20210918012500 +0700" stop="20210918015500 +0700" channel="kix">
     <title lang="vi">Idiot TV</title>
   </programme>
@@ -185,77 +140,62 @@
   <programme start="20210918214000 +0700" stop="20210918232000 +0700" channel="kix">
     <title lang="vi">Hero Among Heroes</title>
   </programme>
-  <programme start="20210917002500 +0700" stop="20210917012000 +0700" channel="history">
-    <title lang="vi">Assembly Required</title>
+  <programme start="20210918232000 +0700" stop="20210919001500 +0700" channel="kix">
+    <title lang="vi">Travel Man: 48 hours in...</title>
   </programme>
-  <programme start="20210917012000 +0700" stop="20210917021500 +0700" channel="history">
-    <title lang="vi">Forged In Fire (S6)</title>
+  <programme start="20210919001500 +0700" stop="20210919004500 +0700" channel="kix">
+    <title lang="vi">Idiot TV</title>
   </programme>
-  <programme start="20210917021500 +0700" stop="20210917031500 +0700" channel="history">
-    <title lang="vi">The Cars That Made The World</title>
+  <programme start="20210919004500 +0700" stop="20210919021500 +0700" channel="kix">
+    <title lang="vi">Kunlun Fight 2019</title>
   </programme>
-  <programme start="20210917031500 +0700" stop="20210917041500 +0700" channel="history">
-    <title lang="vi">Pawn Stars (S21)</title>
+  <programme start="20210919021500 +0700" stop="20210919040500 +0700" channel="kix">
+    <title lang="vi">A Chinese Fairy Tale</title>
   </programme>
-  <programme start="20210917041500 +0700" stop="20210917051000 +0700" channel="history">
-    <title lang="vi">Forged in Fire (S8)</title>
+  <programme start="20210919040500 +0700" stop="20210919050000 +0700" channel="kix">
+    <title lang="vi">Fifth Gear S27</title>
   </programme>
-  <programme start="20210917051000 +0700" stop="20210917060500 +0700" channel="history">
-    <title lang="vi">History Drama: Vikings (S6)</title>
+  <programme start="20210919050000 +0700" stop="20210919062500 +0700" channel="kix">
+    <title lang="vi">Urban Cops Season 1</title>
   </programme>
-  <programme start="20210917060500 +0700" stop="20210917070500 +0700" channel="history">
-    <title lang="vi">Pawn Stars (S21)</title>
+  <programme start="20210919062500 +0700" stop="20210919082500 +0700" channel="kix">
+    <title lang="vi">Legendary Amazons</title>
   </programme>
-  <programme start="20210917070500 +0700" stop="20210917075500 +0700" channel="history">
-    <title lang="vi">Forged in Fire: Beat the Judges (S1)</title>
+  <programme start="20210919082500 +0700" stop="20210919085500 +0700" channel="kix">
+    <title lang="vi">Car Crash TV</title>
   </programme>
-  <programme start="20210917075500 +0700" stop="20210917085500 +0700" channel="history">
-    <title lang="vi">Assembly Required</title>
+  <programme start="20210919085500 +0700" stop="20210919092500 +0700" channel="kix">
+    <title lang="vi">Car Crash TV</title>
   </programme>
-  <programme start="20210917085500 +0700" stop="20210917095000 +0700" channel="history">
-    <title lang="vi">Forged in Fire (S8)</title>
+  <programme start="20210919092500 +0700" stop="20210919105500 +0700" channel="kix">
+    <title lang="vi">Sindiket</title>
   </programme>
-  <programme start="20210917095000 +0700" stop="20210917104500 +0700" channel="history">
-    <title lang="vi">Forged In Fire (S6)</title>
+  <programme start="20210919105500 +0700" stop="20210919120500 +0700" channel="kix">
+    <title lang="vi">2020 Idol Star Athletics</title>
   </programme>
-  <programme start="20210917104500 +0700" stop="20210917114000 +0700" channel="history">
-    <title lang="vi">The Cars That Made The World</title>
+  <programme start="20210919120500 +0700" stop="20210919130000 +0700" channel="kix">
+    <title lang="vi">Travel Man: 48 hours in...</title>
   </programme>
-  <programme start="20210917114000 +0700" stop="20210917123500 +0700" channel="history">
-    <title lang="vi">History Drama: Vikings (S6)</title>
+  <programme start="20210919130000 +0700" stop="20210919142000 +0700" channel="kix">
+    <title lang="vi">Dunia: Into A New World</title>
   </programme>
-  <programme start="20210917123500 +0700" stop="20210917133000 +0700" channel="history">
-    <title lang="vi">Pawn Stars (S21)</title>
+  <programme start="20210919142000 +0700" stop="20210919155500 +0700" channel="kix">
+    <title lang="vi">Zhongkui Kill Demon Legend</title>
   </programme>
-  <programme start="20210917133000 +0700" stop="20210917142500 +0700" channel="history">
-    <title lang="vi">Forged in Fire (S8)</title>
+  <programme start="20210919155500 +0700" stop="20210919172000 +0700" channel="kix">
+    <title lang="vi">Infinite Challenge</title>
   </programme>
-  <programme start="20210917142500 +0700" stop="20210917152000 +0700" channel="history">
-    <title lang="vi">History Drama: Vikings (S6)</title>
+  <programme start="20210919172000 +0700" stop="20210919181500 +0700" channel="kix">
+    <title lang="vi">The Ultimate BROcation</title>
   </programme>
-  <programme start="20210917152000 +0700" stop="20210917161000 +0700" channel="history">
-    <title lang="vi">Forged in Fire: Beat the Judges (S1)</title>
+  <programme start="20210919181500 +0700" stop="20210919200000 +0700" channel="kix">
+    <title lang="vi">The New Big Boss</title>
   </programme>
-  <programme start="20210917161000 +0700" stop="20210917171000 +0700" channel="history">
-    <title lang="vi">Assembly Required</title>
+  <programme start="20210919200000 +0700" stop="20210919215000 +0700" channel="kix">
+    <title lang="vi">Shaolin vs Evil Dead Ultimate Power</title>
   </programme>
-  <programme start="20210917171000 +0700" stop="20210917181000 +0700" channel="history">
-    <title lang="vi">The Pickers (S15)</title>
-  </programme>
-  <programme start="20210917181000 +0700" stop="20210917190500 +0700" channel="history">
-    <title lang="vi">Pawn Stars (S21)</title>
-  </programme>
-  <programme start="20210917190500 +0700" stop="20210917200000 +0700" channel="history">
-    <title lang="vi">The Pickers (S15)</title>
-  </programme>
-  <programme start="20210917200000 +0700" stop="20210917215000 +0700" channel="history">
-    <title lang="vi">9/11: Four Flights</title>
-  </programme>
-  <programme start="20210917215000 +0700" stop="20210917234000 +0700" channel="history">
-    <title lang="vi">Rise and Fall: The World Trade Center</title>
-  </programme>
-  <programme start="20210917234000 +0700" stop="20210918003500 +0700" channel="history">
-    <title lang="vi">The Pickers (S15)</title>
+  <programme start="20210919215000 +0700" stop="20210919232500 +0700" channel="kix">
+    <title lang="vi">The Legend of Zu</title>
   </programme>
   <programme start="20210918003500 +0700" stop="20210918022500 +0700" channel="history">
     <title lang="vi">9/11: Four Flights</title>
@@ -320,272 +260,80 @@
   <programme start="20210918224500 +0700" stop="20210918234000 +0700" channel="history">
     <title lang="vi">History Drama: Vikings (S6)</title>
   </programme>
-  <programme start="20210917001500 +0700" stop="20210917003600 +0700" channel="davinci">
-    <title lang="vi">Kỳ Quan Của Mẹ Thiên Nhiên</title>
+  <programme start="20210918234000 +0700" stop="20210919003500 +0700" channel="history">
+    <title lang="vi">Swamp People (S12)</title>
   </programme>
-  <programme start="20210917003600 +0700" stop="20210917003900 +0700" channel="davinci">
-    <title lang="vi">Làm Phân Tâm Tri Giác</title>
+  <programme start="20210919003500 +0700" stop="20210919013000 +0700" channel="history">
+    <title lang="vi">Lost Gold Of World War II (S2)</title>
   </programme>
-  <programme start="20210917003900 +0700" stop="20210917004800 +0700" channel="davinci">
-    <title lang="vi">Đốm Nhan Sắc</title>
+  <programme start="20210919013000 +0700" stop="20210919022500 +0700" channel="history">
+    <title lang="vi">Ancient Aliens (S12)</title>
   </programme>
-  <programme start="20210917004800 +0700" stop="20210917005700 +0700" channel="davinci">
-    <title lang="vi">Làn Da Bị Tấn Công</title>
+  <programme start="20210919022500 +0700" stop="20210919032000 +0700" channel="history">
+    <title lang="vi">Ancient Aliens (S12)</title>
   </programme>
-  <programme start="20210917005700 +0700" stop="20210917010000 +0700" channel="davinci">
-    <title lang="vi">Phản Xạ Ức Chế</title>
+  <programme start="20210919032000 +0700" stop="20210919041500 +0700" channel="history">
+    <title lang="vi">Beyond Oak Island (S1)</title>
   </programme>
-  <programme start="20210917010000 +0700" stop="20210917020000 +0700" channel="davinci">
-    <title lang="vi">Trí Tuệ Nhân Tạo Thú Vị</title>
+  <programme start="20210919041500 +0700" stop="20210919051000 +0700" channel="history">
+    <title lang="vi">The Curse Of Oak Island (S8)</title>
   </programme>
-  <programme start="20210917020000 +0700" stop="20210917030000 +0700" channel="davinci">
-    <title lang="vi">Khỉ Aye-Aye</title>
+  <programme start="20210919051000 +0700" stop="20210919060500 +0700" channel="history">
+    <title lang="vi">History Drama: Vikings (S6)</title>
   </programme>
-  <programme start="20210917030000 +0700" stop="20210917032100 +0700" channel="davinci">
-    <title lang="vi">Xác Sống Của Dunkin Và No Volt Của Von Bolt</title>
+  <programme start="20210919060500 +0700" stop="20210919070000 +0700" channel="history">
+    <title lang="vi">Ancient Aliens (S12)</title>
   </programme>
-  <programme start="20210917032100 +0700" stop="20210917032400 +0700" channel="davinci">
-    <title lang="vi">Lý Do Bầu Trời Màu Xanh</title>
+  <programme start="20210919070000 +0700" stop="20210919075500 +0700" channel="history">
+    <title lang="vi">Beyond Oak Island (S1)</title>
   </programme>
-  <programme start="20210917032400 +0700" stop="20210917033000 +0700" channel="davinci">
-    <title lang="vi">Động Vật Có Sống Sót Trong Không Gian?</title>
+  <programme start="20210919075500 +0700" stop="20210919085500 +0700" channel="history">
+    <title lang="vi">Swamp People (S12)</title>
   </programme>
-  <programme start="20210917033000 +0700" stop="20210917034200 +0700" channel="davinci">
-    <title lang="vi">Tội Ác Và Trừng Phạt</title>
+  <programme start="20210919085500 +0700" stop="20210919095000 +0700" channel="history">
+    <title lang="vi">The Curse Of Oak Island (S8)</title>
   </programme>
-  <programme start="20210917034200 +0700" stop="20210917040000 +0700" channel="davinci">
-    <title lang="vi">Don Quixote Nhà Quý Tộc Tài Ba Xứ Mancha</title>
+  <programme start="20210919095000 +0700" stop="20210919104500 +0700" channel="history">
+    <title lang="vi">Lost Gold Of World War II (S2)</title>
   </programme>
-  <programme start="20210917040000 +0700" stop="20210917041200 +0700" channel="davinci">
-    <title lang="vi">Xe Tên Lửa Bóng Bay</title>
+  <programme start="20210919104500 +0700" stop="20210919114000 +0700" channel="history">
+    <title lang="vi">Ancient Aliens (S12)</title>
   </programme>
-  <programme start="20210917041200 +0700" stop="20210917042100 +0700" channel="davinci">
-    <title lang="vi">Hành Trình Khám Phá Trứng - Tương Quan Giữa Chim Và Trứng</title>
+  <programme start="20210919114000 +0700" stop="20210919123500 +0700" channel="history">
+    <title lang="vi">History Drama: Vikings (S6)</title>
   </programme>
-  <programme start="20210917042100 +0700" stop="20210917043000 +0700" channel="davinci">
-    <title lang="vi">Con Rối</title>
+  <programme start="20210919123500 +0700" stop="20210919133000 +0700" channel="history">
+    <title lang="vi">Ancient Aliens (S12)</title>
   </programme>
-  <programme start="20210917043000 +0700" stop="20210917044200 +0700" channel="davinci">
-    <title lang="vi">Bom Phá Điện</title>
+  <programme start="20210919133000 +0700" stop="20210919142500 +0700" channel="history">
+    <title lang="vi">The Curse Of Oak Island (S8)</title>
   </programme>
-  <programme start="20210917044200 +0700" stop="20210917045700 +0700" channel="davinci">
-    <title lang="vi">Trong Đầu Của Gấu</title>
+  <programme start="20210919142500 +0700" stop="20210919152000 +0700" channel="history">
+    <title lang="vi">Ancient Aliens (S12)</title>
   </programme>
-  <programme start="20210917045700 +0700" stop="20210917050000 +0700" channel="davinci">
-    <title lang="vi">Chứng Minh Nào!</title>
+  <programme start="20210919152000 +0700" stop="20210919162000 +0700" channel="history">
+    <title lang="vi">Beyond Oak Island (S1)</title>
   </programme>
-  <programme start="20210917050000 +0700" stop="20210917050900 +0700" channel="davinci">
-    <title lang="vi">Mật Ong Màu Xanh</title>
+  <programme start="20210919162000 +0700" stop="20210919171000 +0700" channel="history">
+    <title lang="vi">Swamp People (S12)</title>
   </programme>
-  <programme start="20210917050900 +0700" stop="20210917051500 +0700" channel="davinci">
-    <title lang="vi">Dự Báo Thời Tiết Như Thế Nào?</title>
+  <programme start="20210919171000 +0700" stop="20210919181000 +0700" channel="history">
+    <title lang="vi">Assembly Required</title>
   </programme>
-  <programme start="20210917051500 +0700" stop="20210917051800 +0700" channel="davinci">
-    <title lang="vi">Tinh Vân</title>
+  <programme start="20210919181000 +0700" stop="20210919190500 +0700" channel="history">
+    <title lang="vi">Forged in Fire (S8)</title>
   </programme>
-  <programme start="20210917051800 +0700" stop="20210917053000 +0700" channel="davinci">
-    <title lang="vi">Hố Đen</title>
+  <programme start="20210919190500 +0700" stop="20210919200000 +0700" channel="history">
+    <title lang="vi">Scars Of Nanking</title>
   </programme>
-  <programme start="20210917053000 +0700" stop="20210917053600 +0700" channel="davinci">
-    <title lang="vi">Đồng Hồ Báo Thức</title>
+  <programme start="20210919200000 +0700" stop="20210919205500 +0700" channel="history">
+    <title lang="vi">Testimonies of War: WW2 Remembered in Japan</title>
   </programme>
-  <programme start="20210917053600 +0700" stop="20210917054500 +0700" channel="davinci">
-    <title lang="vi">Đòn Bẩy</title>
+  <programme start="20210919205500 +0700" stop="20210919224500 +0700" channel="history">
+    <title lang="vi">Hiroshima and Nagasaki: 75 Years Later</title>
   </programme>
-  <programme start="20210917054500 +0700" stop="20210917060000 +0700" channel="davinci">
-    <title lang="vi">Ánh Sáng Thái Dương Hệ</title>
-  </programme>
-  <programme start="20210917060000 +0700" stop="20210917063000 +0700" channel="davinci">
-    <title lang="vi">Xác Sống Của Dunkin Và No Volt Của Von Bolt</title>
-  </programme>
-  <programme start="20210917063000 +0700" stop="20210917064500 +0700" channel="davinci">
-    <title lang="vi">Tội Ác Và Trừng Phạt</title>
-  </programme>
-  <programme start="20210917064500 +0700" stop="20210917070000 +0700" channel="davinci">
-    <title lang="vi">Don Quixote Nhà Quý Tộc Tài Ba Xứ Mancha</title>
-  </programme>
-  <programme start="20210917070000 +0700" stop="20210917071200 +0700" channel="davinci">
-    <title lang="vi">Đi Tìm Ốc Sên - Nam Châm Hút Kim Loại</title>
-  </programme>
-  <programme start="20210917071200 +0700" stop="20210917073000 +0700" channel="davinci">
-    <title lang="vi">Điệu Nhảy Của Giun - Sự Phát Triển Của Cây</title>
-  </programme>
-  <programme start="20210917073000 +0700" stop="20210917074500 +0700" channel="davinci">
-    <title lang="vi">Bom Phá Điện</title>
-  </programme>
-  <programme start="20210917074500 +0700" stop="20210917080000 +0700" channel="davinci">
-    <title lang="vi">Trong Đầu Của Gấu</title>
-  </programme>
-  <programme start="20210917080000 +0700" stop="20210917081500 +0700" channel="davinci">
-    <title lang="vi">Kẻ Trộm Bánh Quy</title>
-  </programme>
-  <programme start="20210917081500 +0700" stop="20210917082100 +0700" channel="davinci">
-    <title lang="vi">Ngoại Hành Tinh</title>
-  </programme>
-  <programme start="20210917082100 +0700" stop="20210917082400 +0700" channel="davinci">
-    <title lang="vi">Ngân Hà</title>
-  </programme>
-  <programme start="20210917082400 +0700" stop="20210917083000 +0700" channel="davinci">
-    <title lang="vi">Cái Điều Khiển</title>
-  </programme>
-  <programme start="20210917083000 +0700" stop="20210917083900 +0700" channel="davinci">
-    <title lang="vi">Khóa Số</title>
-  </programme>
-  <programme start="20210917083900 +0700" stop="20210917090000 +0700" channel="davinci">
-    <title lang="vi">Hóa Thạch Kì Bí</title>
-  </programme>
-  <programme start="20210917090000 +0700" stop="20210917093000 +0700" channel="davinci">
-    <title lang="vi">Thuyền Bẫy Chuột</title>
-  </programme>
-  <programme start="20210917093000 +0700" stop="20210917095400 +0700" channel="davinci">
-    <title lang="vi">Kiến Biết Nói Và Xe Bay Không Xác Định</title>
-  </programme>
-  <programme start="20210917095400 +0700" stop="20210917100000 +0700" channel="davinci">
-    <title lang="vi">Tên Lửa Thoát Khỏi Trọng Lực Trái Đất Bằng Cách Nào?</title>
-  </programme>
-  <programme start="20210917100000 +0700" stop="20210917102400 +0700" channel="davinci">
-    <title lang="vi">Hoa Hậu Mỹ</title>
-  </programme>
-  <programme start="20210917102400 +0700" stop="20210917102700 +0700" channel="davinci">
-    <title lang="vi">Liệu Ong Có Mù Màu?</title>
-  </programme>
-  <programme start="20210917102700 +0700" stop="20210917103000 +0700" channel="davinci">
-    <title lang="vi">Suối Nước Nóng Có Thần Kỳ Không?</title>
-  </programme>
-  <programme start="20210917103000 +0700" stop="20210917105400 +0700" channel="davinci">
-    <title lang="vi">Di Chuyển Từ Xa</title>
-  </programme>
-  <programme start="20210917105400 +0700" stop="20210917110000 +0700" channel="davinci">
-    <title lang="vi">Rau Kỳ Ảo Nhất Là Gì?</title>
-  </programme>
-  <programme start="20210917110000 +0700" stop="20210917111800 +0700" channel="davinci">
-    <title lang="vi">Ngày Thứ Năm Ở Kenya</title>
-  </programme>
-  <programme start="20210917111800 +0700" stop="20210917112400 +0700" channel="davinci">
-    <title lang="vi">Cộng Hòa Thổ Nhĩ Kỳ</title>
-  </programme>
-  <programme start="20210917112400 +0700" stop="20210917113000 +0700" channel="davinci">
-    <title lang="vi">Nấm Xác Sống Nguy Hiểm</title>
-  </programme>
-  <programme start="20210917113000 +0700" stop="20210917115700 +0700" channel="davinci">
-    <title lang="vi">Gamkaberg - Pháo Đài Núi</title>
-  </programme>
-  <programme start="20210917115700 +0700" stop="20210917120000 +0700" channel="davinci">
-    <title lang="vi">Bên Kia Cầu Vồng Là Gì?</title>
-  </programme>
-  <programme start="20210917120000 +0700" stop="20210917123000 +0700" channel="davinci">
-    <title lang="vi">Lướt Khí</title>
-  </programme>
-  <programme start="20210917123000 +0700" stop="20210917130000 +0700" channel="davinci">
-    <title lang="vi">Những Con Mắt Khổng Lồ Và Tên Lửa Lên Mặt Trăng</title>
-  </programme>
-  <programme start="20210917130000 +0700" stop="20210917132400 +0700" channel="davinci">
-    <title lang="vi">Viện Franklin 1</title>
-  </programme>
-  <programme start="20210917132400 +0700" stop="20210917132700 +0700" channel="davinci">
-    <title lang="vi">Cá Phát Sáng Trong Tối Như Thế Nào?</title>
-  </programme>
-  <programme start="20210917132700 +0700" stop="20210917133000 +0700" channel="davinci">
-    <title lang="vi">Lục Giác Khổng Lồ Trong Tự Nhiên</title>
-  </programme>
-  <programme start="20210917133000 +0700" stop="20210917140000 +0700" channel="davinci">
-    <title lang="vi">Thiên Tài Leonardo Da Vinci</title>
-  </programme>
-  <programme start="20210917140000 +0700" stop="20210917141500 +0700" channel="davinci">
-    <title lang="vi">Macbeth Của William Shakespeare</title>
-  </programme>
-  <programme start="20210917141500 +0700" stop="20210917143000 +0700" channel="davinci">
-    <title lang="vi">Gulliver Du Ký, Hành Trình Đến Xứ Sở Tí Hon Của Jonathan Swift</title>
-  </programme>
-  <programme start="20210917143000 +0700" stop="20210917144500 +0700" channel="davinci">
-    <title lang="vi">Giao Tiếp Không Dây</title>
-  </programme>
-  <programme start="20210917144500 +0700" stop="20210917145700 +0700" channel="davinci">
-    <title lang="vi">Bản Đồ Và Ống Thủy</title>
-  </programme>
-  <programme start="20210917145700 +0700" stop="20210917150000 +0700" channel="davinci">
-    <title lang="vi">Làm Kính Vạn Hoa Cho Bạn</title>
-  </programme>
-  <programme start="20210917150000 +0700" stop="20210917153000 +0700" channel="davinci">
-    <title lang="vi">Cấu Tạo Hạt Nhân</title>
-  </programme>
-  <programme start="20210917153000 +0700" stop="20210917160000 +0700" channel="davinci">
-    <title lang="vi">La Bàn Của Nicky Và Viên Ngọc Thỏa Thuận</title>
-  </programme>
-  <programme start="20210917160000 +0700" stop="20210917162400 +0700" channel="davinci">
-    <title lang="vi">Viện Franklin 2</title>
-  </programme>
-  <programme start="20210917162400 +0700" stop="20210917162700 +0700" channel="davinci">
-    <title lang="vi">Tôi Có Được Thị Lực Siêu Phàm Không?</title>
-  </programme>
-  <programme start="20210917162700 +0700" stop="20210917163000 +0700" channel="davinci">
-    <title lang="vi">Nấm Nhầy Có Thể Suy Nghĩ Không?</title>
-  </programme>
-  <programme start="20210917163000 +0700" stop="20210917170000 +0700" channel="davinci">
-    <title lang="vi">Phản Xạ Có Thể Cứu Bạn Thế Nào</title>
-  </programme>
-  <programme start="20210917170000 +0700" stop="20210917173000 +0700" channel="davinci">
-    <title lang="vi">Những Bí Mật Thú Vị Của Trượt Băng</title>
-  </programme>
-  <programme start="20210917173000 +0700" stop="20210917180000 +0700" channel="davinci">
-    <title lang="vi">Phía Sau Quần Áo, Thực Phẩm Và Thuốc</title>
-  </programme>
-  <programme start="20210917180000 +0700" stop="20210917181800 +0700" channel="davinci">
-    <title lang="vi">Ngày Thứ Năm Ở Brazil</title>
-  </programme>
-  <programme start="20210917181800 +0700" stop="20210917182400 +0700" channel="davinci">
-    <title lang="vi">Các Tiểu Vương Quốc Ả Rập Thống Nhất</title>
-  </programme>
-  <programme start="20210917182400 +0700" stop="20210917183000 +0700" channel="davinci">
-    <title lang="vi">Cư Dân Của Pho Mát</title>
-  </programme>
-  <programme start="20210917183000 +0700" stop="20210917184500 +0700" channel="davinci">
-    <title lang="vi">Bảng Tuần Hoàn Hóa Học</title>
-  </programme>
-  <programme start="20210917184500 +0700" stop="20210917185700 +0700" channel="davinci">
-    <title lang="vi">Nấm Học Vi Mô</title>
-  </programme>
-  <programme start="20210917185700 +0700" stop="20210917190000 +0700" channel="davinci">
-    <title lang="vi">Chúng Ta Có Sống Được Khi Thiếu Phiêu Sinh Vật?</title>
-  </programme>
-  <programme start="20210917190000 +0700" stop="20210917192400 +0700" channel="davinci">
-    <title lang="vi">Trạng Thái Vật Chất</title>
-  </programme>
-  <programme start="20210917192400 +0700" stop="20210917192700 +0700" channel="davinci">
-    <title lang="vi">Kiểm Tra Ảo Ảnh Mơ Hồ</title>
-  </programme>
-  <programme start="20210917192700 +0700" stop="20210917193000 +0700" channel="davinci">
-    <title lang="vi">Khám Phá Hình Nổi</title>
-  </programme>
-  <programme start="20210917193000 +0700" stop="20210917200000 +0700" channel="davinci">
-    <title lang="vi">Đánh Lừa Vị Giác Và Khứu Giác</title>
-  </programme>
-  <programme start="20210917200000 +0700" stop="20210917203000 +0700" channel="davinci">
-    <title lang="vi">Lớp Học Ngoài Trời</title>
-  </programme>
-  <programme start="20210917203000 +0700" stop="20210917210000 +0700" channel="davinci">
-    <title lang="vi">Có Thể Dự Đoán Tương Lai Không?</title>
-  </programme>
-  <programme start="20210917210000 +0700" stop="20210917213000 +0700" channel="davinci">
-    <title lang="vi">Đúng Hay Sai? Vạch Trần Sự Thật</title>
-  </programme>
-  <programme start="20210917213000 +0700" stop="20210917220000 +0700" channel="davinci">
-    <title lang="vi">Bác Sĩ Đối Đầu!</title>
-  </programme>
-  <programme start="20210917220000 +0700" stop="20210917220300 +0700" channel="davinci">
-    <title lang="vi">Não Trái Và Não Phải</title>
-  </programme>
-  <programme start="20210917220300 +0700" stop="20210917225400 +0700" channel="davinci">
-    <title lang="vi">Hearst Đối Đầu Pulitzer</title>
-  </programme>
-  <programme start="20210917225400 +0700" stop="20210917230000 +0700" channel="davinci">
-    <title lang="vi">Thế Giới Bí Ẩn Của Em Bé</title>
-  </programme>
-  <programme start="20210917230000 +0700" stop="20210917230900 +0700" channel="davinci">
-    <title lang="vi">Sử Dụng Toán Học Để Trúng Xổ Số</title>
-  </programme>
-  <programme start="20210917230900 +0700" stop="20210918000000 +0700" channel="davinci">
-    <title lang="vi">Tương Lai Của Người Hiện Đại</title>
+  <programme start="20210919224500 +0700" stop="20210919234000 +0700" channel="history">
+    <title lang="vi">The Curse Of Oak Island (S8)</title>
   </programme>
   <programme start="20210918000000 +0700" stop="20210918001500 +0700" channel="davinci">
     <title lang="vi">Khi Công Nghệ Gặp Điện Ảnh</title>
@@ -860,95 +608,290 @@
   <programme start="20210918230900 +0700" stop="20210918233300 +0700" channel="davinci">
     <title lang="vi">Happiness On The Run</title>
   </programme>
-  <programme start="20210917000000 +0700" stop="20210917003000 +0700" channel="outdoor.channel">
-    <title lang="vi">Luke Nguyen's Greater Mekong</title>
+  <programme start="20210918233300 +0700" stop="20210919000000 +0700" channel="davinci">
+    <title lang="vi">Động Vật Di Cư</title>
   </programme>
-  <programme start="20210917003000 +0700" stop="20210917010000 +0700" channel="outdoor.channel">
-    <title lang="vi">Trev Gowdy's Monster Fish</title>
+  <programme start="20210919000000 +0700" stop="20210919000900 +0700" channel="davinci">
+    <title lang="vi">Liệu Ta Có Thể Sống Thiếu Đường?</title>
   </programme>
-  <programme start="20210917010000 +0700" stop="20210917020000 +0700" channel="outdoor.channel">
-    <title lang="vi">River Hunters</title>
+  <programme start="20210919000900 +0700" stop="20210919005400 +0700" channel="davinci">
+    <title lang="vi">Cây Sồi - Phần 2</title>
   </programme>
-  <programme start="20210917020000 +0700" stop="20210917030000 +0700" channel="outdoor.channel">
-    <title lang="vi">Ice Pilots NWT</title>
+  <programme start="20210919005400 +0700" stop="20210919010000 +0700" channel="davinci">
+    <title lang="vi">Bí Ẩn Cất Giấu Của Chuyện Cổ Tích Và Truyền Thuyết</title>
   </programme>
-  <programme start="20210917030000 +0700" stop="20210917040000 +0700" channel="outdoor.channel">
-    <title lang="vi">Pyros</title>
+  <programme start="20210919010000 +0700" stop="20210919010900 +0700" channel="davinci">
+    <title lang="vi">Sự Biến Đổi Giữa Nếm Và Ngửi</title>
   </programme>
-  <programme start="20210917040000 +0700" stop="20210917050000 +0700" channel="outdoor.channel">
-    <title lang="vi">All 4 Adventure</title>
+  <programme start="20210919010900 +0700" stop="20210919020900 +0700" channel="davinci">
+    <title lang="vi">Nguyên Lý Bí Ẩn Của Cuộc Sống Hiện Đại - Thuật Toán</title>
   </programme>
-  <programme start="20210917050000 +0700" stop="20210917060000 +0700" channel="outdoor.channel">
-    <title lang="vi">All 4 Adventure</title>
+  <programme start="20210919020900 +0700" stop="20210919023600 +0700" channel="davinci">
+    <title lang="vi">Thiết Kế Vĩ Đại</title>
   </programme>
-  <programme start="20210917060000 +0700" stop="20210917063000 +0700" channel="outdoor.channel">
-    <title lang="vi">Luke Nguyen's Greater Mekong</title>
+  <programme start="20210919023600 +0700" stop="20210919023900 +0700" channel="davinci">
+    <title lang="vi">Khứu Giác Của Chúng Ta</title>
   </programme>
-  <programme start="20210917063000 +0700" stop="20210917070000 +0700" channel="outdoor.channel">
-    <title lang="vi">Trev Gowdy's Monster Fish</title>
+  <programme start="20210919023900 +0700" stop="20210919024800 +0700" channel="davinci">
+    <title lang="vi">Theo Đuổi Thức Ăn Đốt Mỡ</title>
   </programme>
-  <programme start="20210917070000 +0700" stop="20210917080000 +0700" channel="outdoor.channel">
-    <title lang="vi">River Hunters</title>
+  <programme start="20210919024800 +0700" stop="20210919030000 +0700" channel="davinci">
+    <title lang="vi">Ý Tưởng Tuyệt Vời Cho Không Gian Nhỏ Hẹp</title>
   </programme>
-  <programme start="20210917080000 +0700" stop="20210917090000 +0700" channel="outdoor.channel">
-    <title lang="vi">Ice Pilots NWT</title>
+  <programme start="20210919030000 +0700" stop="20210919032100 +0700" channel="davinci">
+    <title lang="vi">Thời Trang Nhân Bản Và Kent Điện!</title>
   </programme>
-  <programme start="20210917090000 +0700" stop="20210917100000 +0700" channel="outdoor.channel">
-    <title lang="vi">Pyros</title>
+  <programme start="20210919032100 +0700" stop="20210919032400 +0700" channel="davinci">
+    <title lang="vi">Liệu Ong Có Mù Màu?</title>
   </programme>
-  <programme start="20210917100000 +0700" stop="20210917110000 +0700" channel="outdoor.channel">
-    <title lang="vi">All 4 Adventure</title>
+  <programme start="20210919032400 +0700" stop="20210919033000 +0700" channel="davinci">
+    <title lang="vi">Suối Nước Nóng Có Thần Kỳ Không?</title>
   </programme>
-  <programme start="20210917110000 +0700" stop="20210917120000 +0700" channel="outdoor.channel">
-    <title lang="vi">All 4 Adventure</title>
+  <programme start="20210919033000 +0700" stop="20210919034200 +0700" channel="davinci">
+    <title lang="vi">Con Ma Canterville Của Oscar Wilde</title>
   </programme>
-  <programme start="20210917120000 +0700" stop="20210917123000 +0700" channel="outdoor.channel">
-    <title lang="vi">Luke Nguyen's Greater Mekong</title>
+  <programme start="20210919034200 +0700" stop="20210919040000 +0700" channel="davinci">
+    <title lang="vi">Sandokan, Con Hổ Của Malaysia Của Emilio Salgari</title>
   </programme>
-  <programme start="20210917123000 +0700" stop="20210917130000 +0700" channel="outdoor.channel">
-    <title lang="vi">Trev Gowdy's Monster Fish</title>
+  <programme start="20210919040000 +0700" stop="20210919041200 +0700" channel="davinci">
+    <title lang="vi">Bản Đồ Kho Báu - La Bàn Và Bản Đồ Chỉ Lối</title>
   </programme>
-  <programme start="20210917130000 +0700" stop="20210917140000 +0700" channel="outdoor.channel">
-    <title lang="vi">River Hunters</title>
+  <programme start="20210919041200 +0700" stop="20210919042100 +0700" channel="davinci">
+    <title lang="vi">Cuộc Thi Năm Giác Quan</title>
   </programme>
-  <programme start="20210917140000 +0700" stop="20210917150000 +0700" channel="outdoor.channel">
-    <title lang="vi">Ice Pilots NWT</title>
+  <programme start="20210919042100 +0700" stop="20210919043000 +0700" channel="davinci">
+    <title lang="vi">Chất Dẻo</title>
   </programme>
-  <programme start="20210917150000 +0700" stop="20210917160000 +0700" channel="outdoor.channel">
-    <title lang="vi">Pyros</title>
+  <programme start="20210919043000 +0700" stop="20210919044200 +0700" channel="davinci">
+    <title lang="vi">Điểm Tới Hạn</title>
   </programme>
-  <programme start="20210917160000 +0700" stop="20210917170000 +0700" channel="outdoor.channel">
-    <title lang="vi">All 4 Adventure</title>
+  <programme start="20210919044200 +0700" stop="20210919045700 +0700" channel="davinci">
+    <title lang="vi">Siêu Tính Dẫn Và Một Chút Tình Yêu</title>
   </programme>
-  <programme start="20210917170000 +0700" stop="20210917180000 +0700" channel="outdoor.channel">
-    <title lang="vi">Running Wild with Bear Grylls</title>
+  <programme start="20210919045700 +0700" stop="20210919050000 +0700" channel="davinci">
+    <title lang="vi">Giác Quan Phi Thường!</title>
   </programme>
-  <programme start="20210917180000 +0700" stop="20210917183000 +0700" channel="outdoor.channel">
-    <title lang="vi">The Ultimate Rush</title>
+  <programme start="20210919050000 +0700" stop="20210919051500 +0700" channel="davinci">
+    <title lang="vi">Truy Tìm Người Tuyết</title>
   </programme>
-  <programme start="20210917183000 +0700" stop="20210917190000 +0700" channel="outdoor.channel">
-    <title lang="vi">Demolition NZ</title>
+  <programme start="20210919051500 +0700" stop="20210919052100 +0700" channel="davinci">
+    <title lang="vi">Thiên Hà</title>
   </programme>
-  <programme start="20210917190000 +0700" stop="20210917193000 +0700" channel="outdoor.channel">
-    <title lang="vi">Close Quarter Battle</title>
+  <programme start="20210919052100 +0700" stop="20210919053000 +0700" channel="davinci">
+    <title lang="vi">Hệ Vũ Trụ</title>
   </programme>
-  <programme start="20210917193000 +0700" stop="20210917200000 +0700" channel="outdoor.channel">
-    <title lang="vi">Find Me A Beach House</title>
+  <programme start="20210919053000 +0700" stop="20210919053600 +0700" channel="davinci">
+    <title lang="vi">Tủ Lạnh</title>
   </programme>
-  <programme start="20210917200000 +0700" stop="20210917203000 +0700" channel="outdoor.channel">
-    <title lang="vi">Female Climbing Heroes</title>
+  <programme start="20210919053600 +0700" stop="20210919054500 +0700" channel="davinci">
+    <title lang="vi">Ấm Đun Siêu Tốc</title>
   </programme>
-  <programme start="20210917203000 +0700" stop="20210917210000 +0700" channel="outdoor.channel">
-    <title lang="vi">Female Climbing Heroes</title>
+  <programme start="20210919054500 +0700" stop="20210919060000 +0700" channel="davinci">
+    <title lang="vi">Nấm Học Vi Mô</title>
   </programme>
-  <programme start="20210917210000 +0700" stop="20210917220000 +0700" channel="outdoor.channel">
-    <title lang="vi">Wild Lives</title>
+  <programme start="20210919060000 +0700" stop="20210919063000 +0700" channel="davinci">
+    <title lang="vi">Thời Trang Nhân Bản Và Kent Điện!</title>
   </programme>
-  <programme start="20210917220000 +0700" stop="20210917230000 +0700" channel="outdoor.channel">
-    <title lang="vi">The Return of Shelby The Swamp Man</title>
+  <programme start="20210919063000 +0700" stop="20210919064500 +0700" channel="davinci">
+    <title lang="vi">Con Ma Canterville Của Oscar Wilde</title>
   </programme>
-  <programme start="20210917230000 +0700" stop="20210918000000 +0700" channel="outdoor.channel">
-    <title lang="vi">Running Wild with Bear Grylls</title>
+  <programme start="20210919064500 +0700" stop="20210919070000 +0700" channel="davinci">
+    <title lang="vi">Sandokan, Con Hổ Của Malaysia Của Emilio Salgari</title>
+  </programme>
+  <programme start="20210919070000 +0700" stop="20210919071200 +0700" channel="davinci">
+    <title lang="vi">Tiệc Thay Gạc Của Wapiti - Nai Thay Gạc</title>
+  </programme>
+  <programme start="20210919071200 +0700" stop="20210919073000 +0700" channel="davinci">
+    <title lang="vi">Ai Ăn Mặt Trăng Vậy? - Vì Sao Mặt Trăng Thay Hình Đổi Dạng</title>
+  </programme>
+  <programme start="20210919073000 +0700" stop="20210919074500 +0700" channel="davinci">
+    <title lang="vi">Điểm Tới Hạn</title>
+  </programme>
+  <programme start="20210919074500 +0700" stop="20210919080000 +0700" channel="davinci">
+    <title lang="vi">Siêu Tính Dẫn Và Một Chút Tình Yêu</title>
+  </programme>
+  <programme start="20210919080000 +0700" stop="20210919081500 +0700" channel="davinci">
+    <title lang="vi">Bí Ẩn Về Ký Hiệu Bí Mật</title>
+  </programme>
+  <programme start="20210919081500 +0700" stop="20210919082100 +0700" channel="davinci">
+    <title lang="vi">Du Hành Vào Vũ Trụ</title>
+  </programme>
+  <programme start="20210919082100 +0700" stop="20210919082400 +0700" channel="davinci">
+    <title lang="vi">Quỹ Đạo Trái Đất</title>
+  </programme>
+  <programme start="20210919082400 +0700" stop="20210919083000 +0700" channel="davinci">
+    <title lang="vi">Tin Nhắn</title>
+  </programme>
+  <programme start="20210919083000 +0700" stop="20210919083900 +0700" channel="davinci">
+    <title lang="vi">Khinh Khí Cầu</title>
+  </programme>
+  <programme start="20210919083900 +0700" stop="20210919090000 +0700" channel="davinci">
+    <title lang="vi">Bảng Tuần Hoàn Hóa Học</title>
+  </programme>
+  <programme start="20210919090000 +0700" stop="20210919090600 +0700" channel="davinci">
+    <title lang="vi">Trực Thăng Giấy</title>
+  </programme>
+  <programme start="20210919090600 +0700" stop="20210919091200 +0700" channel="davinci">
+    <title lang="vi">Kính Tiềm Vọng</title>
+  </programme>
+  <programme start="20210919091200 +0700" stop="20210919091800 +0700" channel="davinci">
+    <title lang="vi">Nhện Nhảy</title>
+  </programme>
+  <programme start="20210919091800 +0700" stop="20210919092400 +0700" channel="davinci">
+    <title lang="vi">Railroad</title>
+  </programme>
+  <programme start="20210919092400 +0700" stop="20210919093000 +0700" channel="davinci">
+    <title lang="vi">Bên Kia Cầu Vồng Là Gì?</title>
+  </programme>
+  <programme start="20210919093000 +0700" stop="20210919094500 +0700" channel="davinci">
+    <title lang="vi">Bi Kịch Của Hoàng Tử Hamlet Xứ Đan Mạch Của William Shakespeare</title>
+  </programme>
+  <programme start="20210919094500 +0700" stop="20210919100000 +0700" channel="davinci">
+    <title lang="vi">Tấn Bi Kịch Của Romeo Và Juliet Của William Shakespeare</title>
+  </programme>
+  <programme start="20210919100000 +0700" stop="20210919101500 +0700" channel="davinci">
+    <title lang="vi">Chụp X-Quang Và Tất</title>
+  </programme>
+  <programme start="20210919101500 +0700" stop="20210919102400 +0700" channel="davinci">
+    <title lang="vi">Các Tiểu Vương Quốc Ả Rập Thống Nhất</title>
+  </programme>
+  <programme start="20210919102400 +0700" stop="20210919103000 +0700" channel="davinci">
+    <title lang="vi">Chú Chim Chân Khổng Lồ</title>
+  </programme>
+  <programme start="20210919103000 +0700" stop="20210919110000 +0700" channel="davinci">
+    <title lang="vi">Máy Hút Chấy Tóc</title>
+  </programme>
+  <programme start="20210919110000 +0700" stop="20210919112400 +0700" channel="davinci">
+    <title lang="vi">Lướt Khí</title>
+  </programme>
+  <programme start="20210919112400 +0700" stop="20210919113000 +0700" channel="davinci">
+    <title lang="vi">Kỉ Nguyên Bơm Hơi</title>
+  </programme>
+  <programme start="20210919113000 +0700" stop="20210919115400 +0700" channel="davinci">
+    <title lang="vi">Tự Nhiên Và Cuộc Sống: Chủ Nghĩa Hiện Thực Trong Hội Hoạ Giữa Thế Kỷ 19</title>
+  </programme>
+  <programme start="20210919115400 +0700" stop="20210919120000 +0700" channel="davinci">
+    <title lang="vi">Tên Lửa Thoát Khỏi Trọng Lực Trái Đất Bằng Cách Nào?</title>
+  </programme>
+  <programme start="20210919120000 +0700" stop="20210919122400 +0700" channel="davinci">
+    <title lang="vi">Lăng Kính Thế Giới</title>
+  </programme>
+  <programme start="20210919122400 +0700" stop="20210919123000 +0700" channel="davinci">
+    <title lang="vi">Bậc Thầy Tái Tạo</title>
+  </programme>
+  <programme start="20210919123000 +0700" stop="20210919130000 +0700" channel="davinci">
+    <title lang="vi">Sự Thôi Thúc Của Rắn Khổng Lồ - Phần 3: Xuyên Qua Hẻm Sâu</title>
+  </programme>
+  <programme start="20210919130000 +0700" stop="20210919131500 +0700" channel="davinci">
+    <title lang="vi">Sự Bay</title>
+  </programme>
+  <programme start="20210919131500 +0700" stop="20210919133000 +0700" channel="davinci">
+    <title lang="vi">Muối</title>
+  </programme>
+  <programme start="20210919133000 +0700" stop="20210919134500 +0700" channel="davinci">
+    <title lang="vi">Chicken Fingers</title>
+  </programme>
+  <programme start="20210919134500 +0700" stop="20210919140000 +0700" channel="davinci">
+    <title lang="vi">Sushi</title>
+  </programme>
+  <programme start="20210919140000 +0700" stop="20210919141800 +0700" channel="davinci">
+    <title lang="vi">Kết Thúc Kỳ Nghỉ</title>
+  </programme>
+  <programme start="20210919141800 +0700" stop="20210919142400 +0700" channel="davinci">
+    <title lang="vi">Vương Quốc Na Uy</title>
+  </programme>
+  <programme start="20210919142400 +0700" stop="20210919143000 +0700" channel="davinci">
+    <title lang="vi">Tại Sao Báo Có Đốm?</title>
+  </programme>
+  <programme start="20210919143000 +0700" stop="20210919143900 +0700" channel="davinci">
+    <title lang="vi">Bát Ăn Được Của Christian</title>
+  </programme>
+  <programme start="20210919143900 +0700" stop="20210919144800 +0700" channel="davinci">
+    <title lang="vi">Thú Lông Nhím Ăn Được Của Molly</title>
+  </programme>
+  <programme start="20210919144800 +0700" stop="20210919145400 +0700" channel="davinci">
+    <title lang="vi">Ngựa Gỗ</title>
+  </programme>
+  <programme start="20210919145400 +0700" stop="20210919150000 +0700" channel="davinci">
+    <title lang="vi">Khám Phá Hình Nổi</title>
+  </programme>
+  <programme start="20210919150000 +0700" stop="20210919152400 +0700" channel="davinci">
+    <title lang="vi">Cái Chạm Đóng Băng</title>
+  </programme>
+  <programme start="20210919152400 +0700" stop="20210919153000 +0700" channel="davinci">
+    <title lang="vi">Khám Phá Não Bộ</title>
+  </programme>
+  <programme start="20210919153000 +0700" stop="20210919155100 +0700" channel="davinci">
+    <title lang="vi">Những Cô Gái Lập Trình</title>
+  </programme>
+  <programme start="20210919155100 +0700" stop="20210919160000 +0700" channel="davinci">
+    <title lang="vi">Chất Dẻo</title>
+  </programme>
+  <programme start="20210919160000 +0700" stop="20210919161500 +0700" channel="davinci">
+    <title lang="vi">Hóa Thạch Kì Bí</title>
+  </programme>
+  <programme start="20210919161500 +0700" stop="20210919162700 +0700" channel="davinci">
+    <title lang="vi">Ánh Sáng Thái Dương Hệ</title>
+  </programme>
+  <programme start="20210919162700 +0700" stop="20210919163000 +0700" channel="davinci">
+    <title lang="vi">Bọ Có Con Số May Mắn Không?</title>
+  </programme>
+  <programme start="20210919163000 +0700" stop="20210919170000 +0700" channel="davinci">
+    <title lang="vi">Christabel</title>
+  </programme>
+  <programme start="20210919170000 +0700" stop="20210919173000 +0700" channel="davinci">
+    <title lang="vi">Đánh Lừa Vị Giác Và Khứu Giác</title>
+  </programme>
+  <programme start="20210919173000 +0700" stop="20210919175400 +0700" channel="davinci">
+    <title lang="vi">Giải Cứu Trái Đất</title>
+  </programme>
+  <programme start="20210919175400 +0700" stop="20210919180000 +0700" channel="davinci">
+    <title lang="vi">Ảo Ảnh Méo Mó</title>
+  </programme>
+  <programme start="20210919180000 +0700" stop="20210919183000 +0700" channel="davinci">
+    <title lang="vi">Những Nơi Bị Đe Dọa</title>
+  </programme>
+  <programme start="20210919183000 +0700" stop="20210919184500 +0700" channel="davinci">
+    <title lang="vi">Chụp X-Quang Và Tất</title>
+  </programme>
+  <programme start="20210919184500 +0700" stop="20210919185400 +0700" channel="davinci">
+    <title lang="vi">Các Tiểu Vương Quốc Ả Rập Thống Nhất</title>
+  </programme>
+  <programme start="20210919185400 +0700" stop="20210919190000 +0700" channel="davinci">
+    <title lang="vi">Chú Chim Chân Khổng Lồ</title>
+  </programme>
+  <programme start="20210919190000 +0700" stop="20210919193000 +0700" channel="davinci">
+    <title lang="vi">Máy Hút Chấy Tóc</title>
+  </programme>
+  <programme start="20210919193000 +0700" stop="20210919200000 +0700" channel="davinci">
+    <title lang="vi">Khi Khoa Học Cách Mạng Hóa Các Chương Trình Nghệ Thuật</title>
+  </programme>
+  <programme start="20210919200000 +0700" stop="20210919201500 +0700" channel="davinci">
+    <title lang="vi">Lập Trình Và Mã Hóa</title>
+  </programme>
+  <programme start="20210919201500 +0700" stop="20210919202700 +0700" channel="davinci">
+    <title lang="vi">Chất Xúc Tác Kì Lạ</title>
+  </programme>
+  <programme start="20210919202700 +0700" stop="20210919203000 +0700" channel="davinci">
+    <title lang="vi">Chuỗi Văn Bản</title>
+  </programme>
+  <programme start="20210919203000 +0700" stop="20210919210000 +0700" channel="davinci">
+    <title lang="vi">Những Trò Chơi Ở Công Viên Giải Trí</title>
+  </programme>
+  <programme start="20210919210000 +0700" stop="20210919213000 +0700" channel="davinci">
+    <title lang="vi">Các Tài Năng Phi Thường Được Khoa Học Kiểm Nghiệm</title>
+  </programme>
+  <programme start="20210919213000 +0700" stop="20210919220000 +0700" channel="davinci">
+    <title lang="vi">To Hơn Nữa Nào!</title>
+  </programme>
+  <programme start="20210919220000 +0700" stop="20210919220300 +0700" channel="davinci">
+    <title lang="vi">Góc Nhìn Khác Nhau</title>
+  </programme>
+  <programme start="20210919220300 +0700" stop="20210919230900 +0700" channel="davinci">
+    <title lang="vi">Bí Mật Của Đồ Vật: Các Vật Liệu Của Kỷ Nguyên Hiện Đại</title>
+  </programme>
+  <programme start="20210919230900 +0700" stop="20210919233300 +0700" channel="davinci">
+    <title lang="vi">Happiness Is An Inside Job</title>
   </programme>
   <programme start="20210918000000 +0700" stop="20210918003000 +0700" channel="outdoor.channel">
     <title lang="vi">The Ultimate Rush</title>
@@ -1055,80 +998,107 @@
   <programme start="20210918230000 +0700" stop="20210918233000 +0700" channel="outdoor.channel">
     <title lang="vi">Miss Adventures - Asia</title>
   </programme>
-  <programme start="20210917010000 +0700" stop="20210917020000 +0700" channel="waku.waku.japan">
-    <title lang="vi">POLICE IN A POD SPECIAL Ep2 [End]</title>
+  <programme start="20210918233000 +0700" stop="20210919000000 +0700" channel="outdoor.channel">
+    <title lang="vi">Luke Nguyen's Greater Mekong</title>
   </programme>
-  <programme start="20210917020000 +0700" stop="20210917030000 +0700" channel="waku.waku.japan">
-    <title lang="vi">The Before and After Ep87</title>
+  <programme start="20210919000000 +0700" stop="20210919010000 +0700" channel="outdoor.channel">
+    <title lang="vi">River Hunters</title>
   </programme>
-  <programme start="20210917030000 +0700" stop="20210917050000 +0700" channel="waku.waku.japan">
-    <title lang="vi">The Before and After Special Ep68</title>
+  <programme start="20210919010000 +0700" stop="20210919020000 +0700" channel="outdoor.channel">
+    <title lang="vi">Pyros</title>
   </programme>
-  <programme start="20210917050000 +0700" stop="20210917053000 +0700" channel="waku.waku.japan">
-    <title lang="vi">Enjoy Japan! - food, travel &amp; culture - Ep218</title>
+  <programme start="20210919020000 +0700" stop="20210919023000 +0700" channel="outdoor.channel">
+    <title lang="vi">Close Quarter Battle</title>
   </programme>
-  <programme start="20210917053000 +0700" stop="20210917060000 +0700" channel="waku.waku.japan">
-    <title lang="vi">Enjoy Japan! - food, travel &amp; culture - Ep362</title>
+  <programme start="20210919023000 +0700" stop="20210919030000 +0700" channel="outdoor.channel">
+    <title lang="vi">The Loop - Hong Kong</title>
   </programme>
-  <programme start="20210917060000 +0700" stop="20210917070000 +0700" channel="waku.waku.japan">
-    <title lang="vi">The Before and After Ep4</title>
+  <programme start="20210919030000 +0700" stop="20210919040000 +0700" channel="outdoor.channel">
+    <title lang="vi">Running Wild with Bear Grylls</title>
   </programme>
-  <programme start="20210917070000 +0700" stop="20210917080000 +0700" channel="waku.waku.japan">
-    <title lang="vi">Legal V Ep7</title>
+  <programme start="20210919040000 +0700" stop="20210919050000 +0700" channel="outdoor.channel">
+    <title lang="vi">River Hunters</title>
   </programme>
-  <programme start="20210917080000 +0700" stop="20210917090000 +0700" channel="waku.waku.japan">
-    <title lang="vi">POLICE IN A POD SPECIAL Ep2 [End]</title>
+  <programme start="20210919050000 +0700" stop="20210919053000 +0700" channel="outdoor.channel">
+    <title lang="vi">Miss Adventures - Asia</title>
   </programme>
-  <programme start="20210917090000 +0700" stop="20210917100000 +0700" channel="waku.waku.japan">
-    <title lang="vi">HANATAKA!-Tips From Japan's 30% Ep65</title>
+  <programme start="20210919053000 +0700" stop="20210919060000 +0700" channel="outdoor.channel">
+    <title lang="vi">Luke Nguyen's Greater Mekong</title>
   </programme>
-  <programme start="20210917100000 +0700" stop="20210917110000 +0700" channel="waku.waku.japan">
-    <title lang="vi">The Before and After Ep4</title>
+  <programme start="20210919060000 +0700" stop="20210919070000 +0700" channel="outdoor.channel">
+    <title lang="vi">River Hunters</title>
   </programme>
-  <programme start="20210917110000 +0700" stop="20210917120000 +0700" channel="waku.waku.japan">
-    <title lang="vi">Legal V Ep7</title>
+  <programme start="20210919070000 +0700" stop="20210919080000 +0700" channel="outdoor.channel">
+    <title lang="vi">Pyros</title>
   </programme>
-  <programme start="20210917120000 +0700" stop="20210917130000 +0700" channel="waku.waku.japan">
-    <title lang="vi">POLICE IN A POD SPECIAL Ep2 [End]</title>
+  <programme start="20210919080000 +0700" stop="20210919083000 +0700" channel="outdoor.channel">
+    <title lang="vi">Close Quarter Battle</title>
   </programme>
-  <programme start="20210917130000 +0700" stop="20210917140000 +0700" channel="waku.waku.japan">
-    <title lang="vi">Let me tell your fortune Ep4</title>
+  <programme start="20210919083000 +0700" stop="20210919090000 +0700" channel="outdoor.channel">
+    <title lang="vi">The Loop - Hong Kong</title>
   </programme>
-  <programme start="20210917140000 +0700" stop="20210917143000 +0700" channel="waku.waku.japan">
-    <title lang="vi">Enjoy Japan! - food, travel &amp; culture - Ep217</title>
+  <programme start="20210919090000 +0700" stop="20210919100000 +0700" channel="outdoor.channel">
+    <title lang="vi">Running Wild with Bear Grylls</title>
   </programme>
-  <programme start="20210917143000 +0700" stop="20210917150000 +0700" channel="waku.waku.japan">
-    <title lang="vi">Enjoy Japan! - food, travel &amp; culture - Ep287</title>
+  <programme start="20210919100000 +0700" stop="20210919110000 +0700" channel="outdoor.channel">
+    <title lang="vi">River Hunters</title>
   </programme>
-  <programme start="20210917150000 +0700" stop="20210917160000 +0700" channel="waku.waku.japan">
-    <title lang="vi">The Before and After Ep4</title>
+  <programme start="20210919110000 +0700" stop="20210919113000 +0700" channel="outdoor.channel">
+    <title lang="vi">Miss Adventures - Asia</title>
   </programme>
-  <programme start="20210917160000 +0700" stop="20210917170000 +0700" channel="waku.waku.japan">
-    <title lang="vi">HANATAKA!-Tips From Japan's 30% Ep65</title>
+  <programme start="20210919113000 +0700" stop="20210919120000 +0700" channel="outdoor.channel">
+    <title lang="vi">Luke Nguyen's Greater Mekong</title>
   </programme>
-  <programme start="20210917170000 +0700" stop="20210917173000 +0700" channel="waku.waku.japan">
-    <title lang="vi">Enjoy Japan! - food, travel &amp; culture - Ep218</title>
+  <programme start="20210919120000 +0700" stop="20210919130000 +0700" channel="outdoor.channel">
+    <title lang="vi">River Hunters</title>
   </programme>
-  <programme start="20210917173000 +0700" stop="20210917180000 +0700" channel="waku.waku.japan">
-    <title lang="vi">Enjoy Japan! - food, travel &amp; culture - Ep362</title>
+  <programme start="20210919130000 +0700" stop="20210919140000 +0700" channel="outdoor.channel">
+    <title lang="vi">Pyros</title>
   </programme>
-  <programme start="20210917180000 +0700" stop="20210917183000 +0700" channel="waku.waku.japan">
-    <title lang="vi">House on Diet Ep7</title>
+  <programme start="20210919140000 +0700" stop="20210919143000 +0700" channel="outdoor.channel">
+    <title lang="vi">Close Quarter Battle</title>
   </programme>
-  <programme start="20210917183000 +0700" stop="20210917200000 +0700" channel="waku.waku.japan">
-    <title lang="vi">Hangin' Around with No Plan Ep85</title>
+  <programme start="20210919143000 +0700" stop="20210919150000 +0700" channel="outdoor.channel">
+    <title lang="vi">The Loop - Hong Kong</title>
   </programme>
-  <programme start="20210917200000 +0700" stop="20210917210000 +0700" channel="waku.waku.japan">
-    <title lang="vi">Legal V Ep7</title>
+  <programme start="20210919150000 +0700" stop="20210919160000 +0700" channel="outdoor.channel">
+    <title lang="vi">Running Wild with Bear Grylls</title>
   </programme>
-  <programme start="20210917210000 +0700" stop="20210917220000 +0700" channel="waku.waku.japan">
-    <title lang="vi">POLICE IN A POD SPECIAL Ep2 [End]</title>
+  <programme start="20210919160000 +0700" stop="20210919170000 +0700" channel="outdoor.channel">
+    <title lang="vi">River Hunters</title>
   </programme>
-  <programme start="20210917220000 +0700" stop="20210917230000 +0700" channel="waku.waku.japan">
-    <title lang="vi">The Before and After Ep87</title>
+  <programme start="20210919170000 +0700" stop="20210919173000 +0700" channel="outdoor.channel">
+    <title lang="vi">Close Quarter Battle</title>
   </programme>
-  <programme start="20210917230000 +0700" stop="20210918003000 +0700" channel="waku.waku.japan">
-    <title lang="vi">The Before and After Special Ep68</title>
+  <programme start="20210919173000 +0700" stop="20210919180000 +0700" channel="outdoor.channel">
+    <title lang="vi">Find Me A Beach House</title>
+  </programme>
+  <programme start="20210919180000 +0700" stop="20210919183000 +0700" channel="outdoor.channel">
+    <title lang="vi">Seafood Escape with Andrew Ettingshausen</title>
+  </programme>
+  <programme start="20210919183000 +0700" stop="20210919190000 +0700" channel="outdoor.channel">
+    <title lang="vi">Andy and Ben Eat the World 2015</title>
+  </programme>
+  <programme start="20210919190000 +0700" stop="20210919200000 +0700" channel="outdoor.channel">
+    <title lang="vi">All 4 Adventure</title>
+  </programme>
+  <programme start="20210919200000 +0700" stop="20210919203000 +0700" channel="outdoor.channel">
+    <title lang="vi">Luke Nguyen's Greater Mekong</title>
+  </programme>
+  <programme start="20210919203000 +0700" stop="20210919210000 +0700" channel="outdoor.channel">
+    <title lang="vi">Luke Nguyen's Vietnam</title>
+  </programme>
+  <programme start="20210919210000 +0700" stop="20210919220000 +0700" channel="outdoor.channel">
+    <title lang="vi">River Hunters</title>
+  </programme>
+  <programme start="20210919220000 +0700" stop="20210919223000 +0700" channel="outdoor.channel">
+    <title lang="vi">Trev Gowdy's Monster Fish</title>
+  </programme>
+  <programme start="20210919223000 +0700" stop="20210919230000 +0700" channel="outdoor.channel">
+    <title lang="vi">Naretoi</title>
+  </programme>
+  <programme start="20210919230000 +0700" stop="20210919233000 +0700" channel="outdoor.channel">
+    <title lang="vi">Close Quarter Battle</title>
   </programme>
   <programme start="20210918003000 +0700" stop="20210918013000 +0700" channel="waku.waku.japan">
     <title lang="vi">VS ARASHI Ep11</title>
@@ -1184,101 +1154,65 @@
   <programme start="20210918213000 +0700" stop="20210918223000 +0700" channel="waku.waku.japan">
     <title lang="vi">QUIZ GO ROUND</title>
   </programme>
-  <programme start="20210917000000 +0700" stop="20210917010000 +0700" channel="hits">
-    <title lang="vi">The Love Boat</title>
+  <programme start="20210918223000 +0700" stop="20210919010000 +0700" channel="waku.waku.japan">
+    <title lang="vi">No Trip Necessary! Regional Cuisine Marathon in Tokyo</title>
   </programme>
-  <programme start="20210917010000 +0700" stop="20210917013000 +0700" channel="hits">
-    <title lang="vi">Three's Company</title>
+  <programme start="20210919010000 +0700" stop="20210919020000 +0700" channel="waku.waku.japan">
+    <title lang="vi">DanShaRi: Deny Dispose Detach -Cleanse Your home and mind- Ep34</title>
   </programme>
-  <programme start="20210917013000 +0700" stop="20210917020000 +0700" channel="hits">
-    <title lang="vi">The Lucy Show</title>
+  <programme start="20210919020000 +0700" stop="20210919040000 +0700" channel="waku.waku.japan">
+    <title lang="vi">DanShaRi: Deny Dispose Detach -Cleanse Your home and mind- Ep23</title>
   </programme>
-  <programme start="20210917020000 +0700" stop="20210917023000 +0700" channel="hits">
-    <title lang="vi">Sabrina The Teenage Witch</title>
+  <programme start="20210919040000 +0700" stop="20210919050000 +0700" channel="waku.waku.japan">
+    <title lang="vi">POLICE IN A POD Ep5</title>
   </programme>
-  <programme start="20210917023000 +0700" stop="20210917030000 +0700" channel="hits">
-    <title lang="vi">Bewitched</title>
+  <programme start="20210919050000 +0700" stop="20210919063000 +0700" channel="waku.waku.japan">
+    <title lang="vi">The Before and After Special Ep59</title>
   </programme>
-  <programme start="20210917030000 +0700" stop="20210917033000 +0700" channel="hits">
-    <title lang="vi">M*A*S*H</title>
+  <programme start="20210919063000 +0700" stop="20210919080000 +0700" channel="waku.waku.japan">
+    <title lang="vi">Mr. Homemaker Special Ep2</title>
   </programme>
-  <programme start="20210917033000 +0700" stop="20210917040000 +0700" channel="hits">
-    <title lang="vi">The Mary Tyler Moore Show</title>
+  <programme start="20210919080000 +0700" stop="20210919083000 +0700" channel="waku.waku.japan">
+    <title lang="vi">Mr. Homemaker Ep35</title>
   </programme>
-  <programme start="20210917040000 +0700" stop="20210917053000 +0700" channel="hits">
-    <title lang="vi">Charlie's Angels</title>
+  <programme start="20210919083000 +0700" stop="20210919090000 +0700" channel="waku.waku.japan">
+    <title lang="vi">Mr. Homemaker Ep36</title>
   </programme>
-  <programme start="20210917053000 +0700" stop="20210917063000 +0700" channel="hits">
-    <title lang="vi">Charlie's Angels</title>
+  <programme start="20210919090000 +0700" stop="20210919100000 +0700" channel="waku.waku.japan">
+    <title lang="vi">VS ARASHI Ep11</title>
   </programme>
-  <programme start="20210917063000 +0700" stop="20210917070000 +0700" channel="hits">
-    <title lang="vi">Bewitched</title>
+  <programme start="20210919100000 +0700" stop="20210919110000 +0700" channel="waku.waku.japan">
+    <title lang="vi">HANATAKA!-Tips From Japan's 30% Ep99</title>
   </programme>
-  <programme start="20210917070000 +0700" stop="20210917080000 +0700" channel="hits">
-    <title lang="vi">Law &amp; Order: Special Victims Unit</title>
+  <programme start="20210919110000 +0700" stop="20210919120000 +0700" channel="waku.waku.japan">
+    <title lang="vi">QUIZ GO ROUND</title>
   </programme>
-  <programme start="20210917080000 +0700" stop="20210917090000 +0700" channel="hits">
-    <title lang="vi">Miami Vice</title>
+  <programme start="20210919120000 +0700" stop="20210919140000 +0700" channel="waku.waku.japan">
+    <title lang="vi">No Trip Necessary! Regional Cuisine Marathon in Tokyo</title>
   </programme>
-  <programme start="20210917090000 +0700" stop="20210917100000 +0700" channel="hits">
-    <title lang="vi">Little House On The Prairie</title>
+  <programme start="20210919140000 +0700" stop="20210919143000 +0700" channel="waku.waku.japan">
+    <title lang="vi">Mr. Homemaker Ep34</title>
   </programme>
-  <programme start="20210917100000 +0700" stop="20210917110000 +0700" channel="hits">
-    <title lang="vi">Little House On The Prairie</title>
+  <programme start="20210919143000 +0700" stop="20210919160000 +0700" channel="waku.waku.japan">
+    <title lang="vi">Mr. Homemaker Special Ep2</title>
   </programme>
-  <programme start="20210917110000 +0700" stop="20210917113000 +0700" channel="hits">
-    <title lang="vi">Sabrina The Teenage Witch</title>
+  <programme start="20210919160000 +0700" stop="20210919163000 +0700" channel="waku.waku.japan">
+    <title lang="vi">Mr. Homemaker Ep35</title>
   </programme>
-  <programme start="20210917113000 +0700" stop="20210917120000 +0700" channel="hits">
-    <title lang="vi">Bewitched</title>
+  <programme start="20210919163000 +0700" stop="20210919170000 +0700" channel="waku.waku.japan">
+    <title lang="vi">Mr. Homemaker Ep36</title>
   </programme>
-  <programme start="20210917120000 +0700" stop="20210917130000 +0700" channel="hits">
-    <title lang="vi">Law &amp; Order: Special Victims Unit</title>
+  <programme start="20210919170000 +0700" stop="20210919190000 +0700" channel="waku.waku.japan">
+    <title lang="vi">The Before and After Special Ep59</title>
   </programme>
-  <programme start="20210917130000 +0700" stop="20210917133000 +0700" channel="hits">
-    <title lang="vi">The Lucy Show</title>
+  <programme start="20210919190000 +0700" stop="20210919200000 +0700" channel="waku.waku.japan">
+    <title lang="vi">DanShaRi: Deny Dispose Detach -Cleanse Your home and mind- Ep34</title>
   </programme>
-  <programme start="20210917133000 +0700" stop="20210917140000 +0700" channel="hits">
-    <title lang="vi">The Mary Tyler Moore Show</title>
+  <programme start="20210919200000 +0700" stop="20210919220000 +0700" channel="waku.waku.japan">
+    <title lang="vi">DanShaRi: Deny Dispose Detach -Cleanse Your home and mind- Ep23</title>
   </programme>
-  <programme start="20210917140000 +0700" stop="20210917150000 +0700" channel="hits">
-    <title lang="vi">Little House On The Prairie</title>
-  </programme>
-  <programme start="20210917150000 +0700" stop="20210917160000 +0700" channel="hits">
-    <title lang="vi">Little House On The Prairie</title>
-  </programme>
-  <programme start="20210917160000 +0700" stop="20210917170000 +0700" channel="hits">
-    <title lang="vi">The Love Boat</title>
-  </programme>
-  <programme start="20210917170000 +0700" stop="20210917173000 +0700" channel="hits">
-    <title lang="vi">Three's Company</title>
-  </programme>
-  <programme start="20210917173000 +0700" stop="20210917180000 +0700" channel="hits">
-    <title lang="vi">M*A*S*H</title>
-  </programme>
-  <programme start="20210917180000 +0700" stop="20210917190000 +0700" channel="hits">
-    <title lang="vi">Miami Vice</title>
-  </programme>
-  <programme start="20210917190000 +0700" stop="20210917193000 +0700" channel="hits">
-    <title lang="vi">The Lucy Show</title>
-  </programme>
-  <programme start="20210917193000 +0700" stop="20210917200000 +0700" channel="hits">
-    <title lang="vi">M*A*S*H</title>
-  </programme>
-  <programme start="20210917200000 +0700" stop="20210917210000 +0700" channel="hits">
-    <title lang="vi">The Love Boat</title>
-  </programme>
-  <programme start="20210917210000 +0700" stop="20210917213000 +0700" channel="hits">
-    <title lang="vi">Three's Company</title>
-  </programme>
-  <programme start="20210917213000 +0700" stop="20210917223000 +0700" channel="hits">
-    <title lang="vi">Law &amp; Order: Special Victims Unit</title>
-  </programme>
-  <programme start="20210917223000 +0700" stop="20210917230000 +0700" channel="hits">
-    <title lang="vi">The Mary Tyler Moore Show</title>
-  </programme>
-  <programme start="20210917230000 +0700" stop="20210918000000 +0700" channel="hits">
-    <title lang="vi">Miami Vice</title>
+  <programme start="20210919220000 +0700" stop="20210919230000 +0700" channel="waku.waku.japan">
+    <title lang="vi">POLICE IN A POD Ep5</title>
   </programme>
   <programme start="20210918000000 +0700" stop="20210918010000 +0700" channel="hits">
     <title lang="vi">The Love Boat</title>
@@ -1382,122 +1316,107 @@
   <programme start="20210918230000 +0700" stop="20210918233000 +0700" channel="hits">
     <title lang="vi">The Lucy Show</title>
   </programme>
-  <programme start="20210917002000 +0700" stop="20210917011000 +0700" channel="hgtv">
-    <title lang="vi">House Hunters Renovation (S11)</title>
+  <programme start="20210918233000 +0700" stop="20210919003000 +0700" channel="hits">
+    <title lang="vi">Little House On The Prairie</title>
   </programme>
-  <programme start="20210917011000 +0700" stop="20210917020000 +0700" channel="hgtv">
-    <title lang="vi">Bargain Block (S1)</title>
+  <programme start="20210919003000 +0700" stop="20210919013000 +0700" channel="hits">
+    <title lang="vi">Little House On The Prairie</title>
   </programme>
-  <programme start="20210917020000 +0700" stop="20210917022500 +0700" channel="hgtv">
-    <title lang="vi">Beachfront Bargain Hunt (S10)</title>
+  <programme start="20210919013000 +0700" stop="20210919023000 +0700" channel="hits">
+    <title lang="vi">Little House On The Prairie</title>
   </programme>
-  <programme start="20210917022500 +0700" stop="20210917025000 +0700" channel="hgtv">
-    <title lang="vi">Beachfront Bargain Hunt (S10)</title>
+  <programme start="20210919023000 +0700" stop="20210919033000 +0700" channel="hits">
+    <title lang="vi">Little House On The Prairie</title>
   </programme>
-  <programme start="20210917025000 +0700" stop="20210917031500 +0700" channel="hgtv">
-    <title lang="vi">Beachfront Bargain Hunt (S10)</title>
+  <programme start="20210919033000 +0700" stop="20210919043000 +0700" channel="hits">
+    <title lang="vi">Little House On The Prairie</title>
   </programme>
-  <programme start="20210917031500 +0700" stop="20210917034000 +0700" channel="hgtv">
-    <title lang="vi">Beachfront Bargain Hunt (S10)</title>
+  <programme start="20210919043000 +0700" stop="20210919050000 +0700" channel="hits">
+    <title lang="vi">Sabrina The Teenage Witch</title>
   </programme>
-  <programme start="20210917034000 +0700" stop="20210917043000 +0700" channel="hgtv">
-    <title lang="vi">Good Bones (S3)</title>
+  <programme start="20210919050000 +0700" stop="20210919053000 +0700" channel="hits">
+    <title lang="vi">Sabrina The Teenage Witch</title>
   </programme>
-  <programme start="20210917043000 +0700" stop="20210917050000 +0700" channel="hgtv">
-    <title lang="vi">House Hunters (S128)</title>
+  <programme start="20210919053000 +0700" stop="20210919060000 +0700" channel="hits">
+    <title lang="vi">Sabrina The Teenage Witch</title>
   </programme>
-  <programme start="20210917050000 +0700" stop="20210917052500 +0700" channel="hgtv">
-    <title lang="vi">House Hunters International (S95)</title>
+  <programme start="20210919060000 +0700" stop="20210919063000 +0700" channel="hits">
+    <title lang="vi">Sabrina The Teenage Witch</title>
   </programme>
-  <programme start="20210917052500 +0700" stop="20210917060000 +0700" channel="hgtv">
-    <title lang="vi">House Hunters International (S95)</title>
+  <programme start="20210919063000 +0700" stop="20210919070000 +0700" channel="hits">
+    <title lang="vi">Sabrina The Teenage Witch</title>
   </programme>
-  <programme start="20210917060000 +0700" stop="20210917062500 +0700" channel="hgtv">
-    <title lang="vi">Perfect Home: Asia (S2)</title>
+  <programme start="20210919070000 +0700" stop="20210919080000 +0700" channel="hits">
+    <title lang="vi">Pride And Prejudice</title>
   </programme>
-  <programme start="20210917062500 +0700" stop="20210917065000 +0700" channel="hgtv">
-    <title lang="vi">Perfect Home: Asia (S3)</title>
+  <programme start="20210919080000 +0700" stop="20210919090000 +0700" channel="hits">
+    <title lang="vi">Pride And Prejudice</title>
   </programme>
-  <programme start="20210917065000 +0700" stop="20210917071500 +0700" channel="hgtv">
-    <title lang="vi">Perfect Home: Asia (S7)</title>
+  <programme start="20210919090000 +0700" stop="20210919093000 +0700" channel="hits">
+    <title lang="vi">Bewitched</title>
   </programme>
-  <programme start="20210917071500 +0700" stop="20210917074000 +0700" channel="hgtv">
-    <title lang="vi">House Hunters (S128)</title>
+  <programme start="20210919093000 +0700" stop="20210919100000 +0700" channel="hits">
+    <title lang="vi">Bewitched</title>
   </programme>
-  <programme start="20210917074000 +0700" stop="20210917083000 +0700" channel="hgtv">
-    <title lang="vi">Celebrity Iou (S1)</title>
+  <programme start="20210919100000 +0700" stop="20210919103000 +0700" channel="hits">
+    <title lang="vi">Bewitched</title>
   </programme>
-  <programme start="20210917083000 +0700" stop="20210917092000 +0700" channel="hgtv">
-    <title lang="vi">Property Brothers: Buying &amp; Selling (S8)</title>
+  <programme start="20210919103000 +0700" stop="20210919110000 +0700" channel="hits">
+    <title lang="vi">Bewitched</title>
   </programme>
-  <programme start="20210917092000 +0700" stop="20210917094500 +0700" channel="hgtv">
-    <title lang="vi">House Hunters International (S95)</title>
+  <programme start="20210919110000 +0700" stop="20210919113000 +0700" channel="hits">
+    <title lang="vi">Bewitched</title>
   </programme>
-  <programme start="20210917094500 +0700" stop="20210917101000 +0700" channel="hgtv">
-    <title lang="vi">House Hunters International (S95)</title>
+  <programme start="20210919113000 +0700" stop="20210919123000 +0700" channel="hits">
+    <title lang="vi">Law &amp; Order: Special Victims Unit</title>
   </programme>
-  <programme start="20210917101000 +0700" stop="20210917110000 +0700" channel="hgtv">
-    <title lang="vi">Celebrity Iou (S2)</title>
+  <programme start="20210919123000 +0700" stop="20210919133000 +0700" channel="hits">
+    <title lang="vi">Law &amp; Order: Special Victims Unit</title>
   </programme>
-  <programme start="20210917110000 +0700" stop="20210917115000 +0700" channel="hgtv">
-    <title lang="vi">Property Brothers: Buying &amp; Selling (S7)</title>
+  <programme start="20210919133000 +0700" stop="20210919143000 +0700" channel="hits">
+    <title lang="vi">Law &amp; Order: Special Victims Unit</title>
   </programme>
-  <programme start="20210917115000 +0700" stop="20210917124000 +0700" channel="hgtv">
-    <title lang="vi">Property Brothers: Buying &amp; Selling (S8)</title>
+  <programme start="20210919143000 +0700" stop="20210919153000 +0700" channel="hits">
+    <title lang="vi">Law &amp; Order: Special Victims Unit</title>
   </programme>
-  <programme start="20210917124000 +0700" stop="20210917130500 +0700" channel="hgtv">
-    <title lang="vi">Perfect Home: Asia (S7)</title>
+  <programme start="20210919153000 +0700" stop="20210919163000 +0700" channel="hits">
+    <title lang="vi">Law &amp; Order: Special Victims Unit</title>
   </programme>
-  <programme start="20210917130500 +0700" stop="20210917133000 +0700" channel="hgtv">
-    <title lang="vi">House Hunters (S128)</title>
+  <programme start="20210919163000 +0700" stop="20210919173000 +0700" channel="hits">
+    <title lang="vi">Pride And Prejudice</title>
   </programme>
-  <programme start="20210917133000 +0700" stop="20210917142000 +0700" channel="hgtv">
-    <title lang="vi">Celebrity Iou (S1)</title>
+  <programme start="20210919173000 +0700" stop="20210919183000 +0700" channel="hits">
+    <title lang="vi">Pride And Prejudice</title>
   </programme>
-  <programme start="20210917142000 +0700" stop="20210917144500 +0700" channel="hgtv">
-    <title lang="vi">Perfect Home: Asia (S2)</title>
+  <programme start="20210919183000 +0700" stop="20210919190000 +0700" channel="hits">
+    <title lang="vi">The Mary Tyler Moore Show</title>
   </programme>
-  <programme start="20210917144500 +0700" stop="20210917151000 +0700" channel="hgtv">
-    <title lang="vi">Perfect Home: Asia (S3)</title>
+  <programme start="20210919190000 +0700" stop="20210919193000 +0700" channel="hits">
+    <title lang="vi">The Mary Tyler Moore Show</title>
   </programme>
-  <programme start="20210917151000 +0700" stop="20210917160000 +0700" channel="hgtv">
-    <title lang="vi">Celebrity Iou (S2)</title>
+  <programme start="20210919193000 +0700" stop="20210919200000 +0700" channel="hits">
+    <title lang="vi">The Mary Tyler Moore Show</title>
   </programme>
-  <programme start="20210917160000 +0700" stop="20210917165000 +0700" channel="hgtv">
-    <title lang="vi">Property Brothers: Buying &amp; Selling (S7)</title>
+  <programme start="20210919200000 +0700" stop="20210919203000 +0700" channel="hits">
+    <title lang="vi">The Mary Tyler Moore Show</title>
   </programme>
-  <programme start="20210917165000 +0700" stop="20210917174000 +0700" channel="hgtv">
-    <title lang="vi">Celebrity Iou (S1)</title>
+  <programme start="20210919203000 +0700" stop="20210919210000 +0700" channel="hits">
+    <title lang="vi">The Mary Tyler Moore Show</title>
   </programme>
-  <programme start="20210917174000 +0700" stop="20210917183000 +0700" channel="hgtv">
-    <title lang="vi">Property Brothers: Buying &amp; Selling (S8)</title>
+  <programme start="20210919210000 +0700" stop="20210919213000 +0700" channel="hits">
+    <title lang="vi">M*A*S*H</title>
   </programme>
-  <programme start="20210917183000 +0700" stop="20210917185500 +0700" channel="hgtv">
-    <title lang="vi">Perfect Home: Asia (S10)</title>
+  <programme start="20210919213000 +0700" stop="20210919220000 +0700" channel="hits">
+    <title lang="vi">M*A*S*H</title>
   </programme>
-  <programme start="20210917185500 +0700" stop="20210917192000 +0700" channel="hgtv">
-    <title lang="vi">Perfect Home: Asia (S10)</title>
+  <programme start="20210919220000 +0700" stop="20210919223000 +0700" channel="hits">
+    <title lang="vi">M*A*S*H</title>
   </programme>
-  <programme start="20210917192000 +0700" stop="20210917201000 +0700" channel="hgtv">
-    <title lang="vi">Celebrity Iou (S2)</title>
+  <programme start="20210919223000 +0700" stop="20210919230000 +0700" channel="hits">
+    <title lang="vi">M*A*S*H</title>
   </programme>
-  <programme start="20210917201000 +0700" stop="20210917210000 +0700" channel="hgtv">
-    <title lang="vi">Celebrity Iou (S1)</title>
-  </programme>
-  <programme start="20210917210000 +0700" stop="20210917215000 +0700" channel="hgtv">
-    <title lang="vi">Property Brothers: Buying &amp; Selling (S7)</title>
-  </programme>
-  <programme start="20210917215000 +0700" stop="20210917221500 +0700" channel="hgtv">
-    <title lang="vi">Perfect Home: Asia (S10)</title>
-  </programme>
-  <programme start="20210917221500 +0700" stop="20210917224000 +0700" channel="hgtv">
-    <title lang="vi">Perfect Home: Asia (S10)</title>
-  </programme>
-  <programme start="20210917224000 +0700" stop="20210917233000 +0700" channel="hgtv">
-    <title lang="vi">House Hunters Renovation (S11)</title>
-  </programme>
-  <programme start="20210917233000 +0700" stop="20210918002000 +0700" channel="hgtv">
-    <title lang="vi">Celebrity Iou (S1)</title>
+  <programme start="20210919230000 +0700" stop="20210919233000 +0700" channel="hits">
+    <title lang="vi">M*A*S*H</title>
   </programme>
   <programme start="20210918002000 +0700" stop="20210918011000 +0700" channel="hgtv">
     <title lang="vi">Property Brothers: Buying &amp; Selling (S7)</title>
@@ -1622,101 +1541,125 @@
   <programme start="20210918224000 +0700" stop="20210918233000 +0700" channel="hgtv">
     <title lang="vi">Christina On The Coast (S3)</title>
   </programme>
-  <programme start="20210917010000 +0700" stop="20210917013000 +0700" channel="fox.sports">
-    <title lang="vi">Sports News</title>
+  <programme start="20210918233000 +0700" stop="20210919002000 +0700" channel="hgtv">
+    <title lang="vi">House Hunters Renovation (S11)</title>
   </programme>
-  <programme start="20210917013000 +0700" stop="20210917023000 +0700" channel="fox.sports">
-    <title lang="vi">Motor Cycle Racing</title>
+  <programme start="20210919002000 +0700" stop="20210919011000 +0700" channel="hgtv">
+    <title lang="vi">Property Brothers (S12)</title>
   </programme>
-  <programme start="20210917023000 +0700" stop="20210917030000 +0700" channel="fox.sports">
-    <title lang="vi">Auto Racing</title>
+  <programme start="20210919011000 +0700" stop="20210919020000 +0700" channel="hgtv">
+    <title lang="vi">Bargain Block (S1)</title>
   </programme>
-  <programme start="20210917030000 +0700" stop="20210917033000 +0700" channel="fox.sports">
-    <title lang="vi">Sports News</title>
+  <programme start="20210919020000 +0700" stop="20210919022500 +0700" channel="hgtv">
+    <title lang="vi">Flip Or Flop Nashville (S1)</title>
   </programme>
-  <programme start="20210917033000 +0700" stop="20210917060000 +0700" channel="fox.sports">
-    <title lang="vi">Martial Arts</title>
+  <programme start="20210919022500 +0700" stop="20210919025000 +0700" channel="hgtv">
+    <title lang="vi">Flip Or Flop Nashville (S1)</title>
   </programme>
-  <programme start="20210917060000 +0700" stop="20210917070000 +0700" channel="fox.sports">
-    <title lang="vi">Motor Cycle Racing</title>
+  <programme start="20210919025000 +0700" stop="20210919031500 +0700" channel="hgtv">
+    <title lang="vi">Island Life (S4)</title>
   </programme>
-  <programme start="20210917070000 +0700" stop="20210917080000 +0700" channel="fox.sports">
-    <title lang="vi">Tennis</title>
+  <programme start="20210919031500 +0700" stop="20210919034000 +0700" channel="hgtv">
+    <title lang="vi">Island Life (S4)</title>
   </programme>
-  <programme start="20210917080000 +0700" stop="20210917090000 +0700" channel="fox.sports">
-    <title lang="vi">Auto Racing</title>
+  <programme start="20210919034000 +0700" stop="20210919040500 +0700" channel="hgtv">
+    <title lang="vi">Flip Or Flop Vegas (S1)</title>
   </programme>
-  <programme start="20210917090000 +0700" stop="20210917093000 +0700" channel="fox.sports">
-    <title lang="vi">Boxing</title>
+  <programme start="20210919040500 +0700" stop="20210919043000 +0700" channel="hgtv">
+    <title lang="vi">Flip Or Flop Vegas (S1)</title>
   </programme>
-  <programme start="20210917093000 +0700" stop="20210917110000 +0700" channel="fox.sports">
-    <title lang="vi">Boxing</title>
+  <programme start="20210919043000 +0700" stop="20210919050000 +0700" channel="hgtv">
+    <title lang="vi">Perfect Home: Asia (S8)</title>
   </programme>
-  <programme start="20210917110000 +0700" stop="20210917113000 +0700" channel="fox.sports">
-    <title lang="vi">Sports News</title>
+  <programme start="20210919050000 +0700" stop="20210919060000 +0700" channel="hgtv">
+    <title lang="vi">Good Bones (S3)</title>
   </programme>
-  <programme start="20210917113000 +0700" stop="20210917120000 +0700" channel="fox.sports">
-    <title lang="vi">Auto Racing</title>
+  <programme start="20210919060000 +0700" stop="20210919062500 +0700" channel="hgtv">
+    <title lang="vi">Say Yes To The Nest (S1)</title>
   </programme>
-  <programme start="20210917120000 +0700" stop="20210917122500 +0700" channel="fox.sports">
-    <title lang="vi">Auto Racing</title>
+  <programme start="20210919062500 +0700" stop="20210919065000 +0700" channel="hgtv">
+    <title lang="vi">Say Yes To The Nest (S1)</title>
   </programme>
-  <programme start="20210917122500 +0700" stop="20210917132500 +0700" channel="fox.sports">
-    <title lang="vi">Motor Cycle Racing</title>
+  <programme start="20210919065000 +0700" stop="20210919074000 +0700" channel="hgtv">
+    <title lang="vi">Property Brothers: Buying &amp; Selling (S8)</title>
   </programme>
-  <programme start="20210917132500 +0700" stop="20210917134000 +0700" channel="fox.sports">
-    <title lang="vi">Sports News</title>
+  <programme start="20210919074000 +0700" stop="20210919080500 +0700" channel="hgtv">
+    <title lang="vi">My Lottery Dream Home (S2)</title>
   </programme>
-  <programme start="20210917134000 +0700" stop="20210917135000 +0700" channel="fox.sports">
-    <title lang="vi">Sports News</title>
+  <programme start="20210919080500 +0700" stop="20210919083000 +0700" channel="hgtv">
+    <title lang="vi">My Lottery Dream Home (S2)</title>
   </programme>
-  <programme start="20210917135000 +0700" stop="20210917135500 +0700" channel="fox.sports">
-    <title lang="vi">Sports News</title>
+  <programme start="20210919083000 +0700" stop="20210919085500 +0700" channel="hgtv">
+    <title lang="vi">Flip Or Flop Vegas (S3)</title>
   </programme>
-  <programme start="20210917135500 +0700" stop="20210917164000 +0700" channel="fox.sports">
-    <title lang="vi">Motor Cycle Racing</title>
+  <programme start="20210919085500 +0700" stop="20210919092000 +0700" channel="hgtv">
+    <title lang="vi">Flip Or Flop Vegas (S3)</title>
   </programme>
-  <programme start="20210917164000 +0700" stop="20210917171000 +0700" channel="fox.sports">
-    <title lang="vi">Auto Racing</title>
+  <programme start="20210919092000 +0700" stop="20210919101000 +0700" channel="hgtv">
+    <title lang="vi">Property Brothers (S12)</title>
   </programme>
-  <programme start="20210917171000 +0700" stop="20210917174000 +0700" channel="fox.sports">
-    <title lang="vi">Sports News</title>
+  <programme start="20210919101000 +0700" stop="20210919110000 +0700" channel="hgtv">
+    <title lang="vi">Celebrity Iou (S2)</title>
   </programme>
-  <programme start="20210917174000 +0700" stop="20210917175500 +0700" channel="fox.sports">
-    <title lang="vi">Sports News</title>
+  <programme start="20210919110000 +0700" stop="20210919115000 +0700" channel="hgtv">
+    <title lang="vi">Christina On The Coast (S3)</title>
   </programme>
-  <programme start="20210917175500 +0700" stop="20210917180500 +0700" channel="fox.sports">
-    <title lang="vi">Sports News</title>
+  <programme start="20210919115000 +0700" stop="20210919124000 +0700" channel="hgtv">
+    <title lang="vi">Property Brothers: Forever Home (S3)</title>
   </programme>
-  <programme start="20210917180500 +0700" stop="20210917181000 +0700" channel="fox.sports">
-    <title lang="vi">Sports News</title>
+  <programme start="20210919124000 +0700" stop="20210919133000 +0700" channel="hgtv">
+    <title lang="vi">House Hunters Renovation (S11)</title>
   </programme>
-  <programme start="20210917181000 +0700" stop="20210917205500 +0700" channel="fox.sports">
-    <title lang="vi">Motor Cycle Racing</title>
+  <programme start="20210919133000 +0700" stop="20210919135500 +0700" channel="hgtv">
+    <title lang="vi">Perfect Home: Asia (S11)</title>
   </programme>
-  <programme start="20210917205500 +0700" stop="20210917212500 +0700" channel="fox.sports">
-    <title lang="vi">Soccer</title>
+  <programme start="20210919135500 +0700" stop="20210919142000 +0700" channel="hgtv">
+    <title lang="vi">Perfect Home: Asia (S11)</title>
   </programme>
-  <programme start="20210917212500 +0700" stop="20210917214000 +0700" channel="fox.sports">
-    <title lang="vi">Sports News</title>
+  <programme start="20210919142000 +0700" stop="20210919151000 +0700" channel="hgtv">
+    <title lang="vi">Christina On The Coast (S3)</title>
   </programme>
-  <programme start="20210917214000 +0700" stop="20210917215000 +0700" channel="fox.sports">
-    <title lang="vi">Sports News</title>
+  <programme start="20210919151000 +0700" stop="20210919160000 +0700" channel="hgtv">
+    <title lang="vi">Bargain Block (S1)</title>
   </programme>
-  <programme start="20210917215000 +0700" stop="20210917220000 +0700" channel="fox.sports">
-    <title lang="vi">Sports News</title>
+  <programme start="20210919160000 +0700" stop="20210919165000 +0700" channel="hgtv">
+    <title lang="vi">Property Brothers: Buying &amp; Selling (S7)</title>
   </programme>
-  <programme start="20210917220000 +0700" stop="20210917223000 +0700" channel="fox.sports">
-    <title lang="vi">Sports News</title>
+  <programme start="20210919165000 +0700" stop="20210919174000 +0700" channel="hgtv">
+    <title lang="vi">No Demo Reno (S1)</title>
   </programme>
-  <programme start="20210917223000 +0700" stop="20210917230000 +0700" channel="fox.sports">
-    <title lang="vi">Soccer</title>
+  <programme start="20210919174000 +0700" stop="20210919180500 +0700" channel="hgtv">
+    <title lang="vi">My Lottery Dream Home International (S1)</title>
   </programme>
-  <programme start="20210917230000 +0700" stop="20210917233000 +0700" channel="fox.sports">
-    <title lang="vi">Auto Racing</title>
+  <programme start="20210919180500 +0700" stop="20210919183000 +0700" channel="hgtv">
+    <title lang="vi">My Lottery Dream Home Fab Faves (S10)</title>
   </programme>
-  <programme start="20210917233000 +0700" stop="20210918000000 +0700" channel="fox.sports">
-    <title lang="vi">Motor Cycle Racing</title>
+  <programme start="20210919183000 +0700" stop="20210919192000 +0700" channel="hgtv">
+    <title lang="vi">House Hunters Renovation (S11)</title>
+  </programme>
+  <programme start="20210919192000 +0700" stop="20210919194500 +0700" channel="hgtv">
+    <title lang="vi">Perfect Home: Asia (S11)</title>
+  </programme>
+  <programme start="20210919194500 +0700" stop="20210919201000 +0700" channel="hgtv">
+    <title lang="vi">Perfect Home: Asia (S11)</title>
+  </programme>
+  <programme start="20210919201000 +0700" stop="20210919210000 +0700" channel="hgtv">
+    <title lang="vi">Celebrity Iou (S1)</title>
+  </programme>
+  <programme start="20210919210000 +0700" stop="20210919215000 +0700" channel="hgtv">
+    <title lang="vi">Celebrity Iou (S2)</title>
+  </programme>
+  <programme start="20210919215000 +0700" stop="20210919224000 +0700" channel="hgtv">
+    <title lang="vi">Property Brothers: Buying &amp; Selling (S7)</title>
+  </programme>
+  <programme start="20210919224000 +0700" stop="20210919230500 +0700" channel="hgtv">
+    <title lang="vi">Perfect Home: Asia (S1)</title>
+  </programme>
+  <programme start="20210919230500 +0700" stop="20210919233000 +0700" channel="hgtv">
+    <title lang="vi">Perfect Home: Asia (S5)</title>
+  </programme>
+  <programme start="20210919233000 +0700" stop="20210919235500 +0700" channel="hgtv">
+    <title lang="vi">Perfect Home: Asia (S2)</title>
   </programme>
   <programme start="20210918000000 +0700" stop="20210918001500 +0700" channel="fox.sports">
     <title lang="vi">Sports News</title>
@@ -1772,86 +1715,53 @@
   <programme start="20210918223000 +0700" stop="20210918233000 +0700" channel="fox.sports">
     <title lang="vi">Auto Racing</title>
   </programme>
-  <programme start="20210917000000 +0700" stop="20210917010000 +0700" channel="cartoon.network">
-    <title lang="vi">CLARENCE</title>
+  <programme start="20210918233000 +0700" stop="20210919000000 +0700" channel="fox.sports">
+    <title lang="vi">Sports News</title>
   </programme>
-  <programme start="20210917010000 +0700" stop="20210917020000 +0700" channel="cartoon.network">
-    <title lang="vi">UNCLE GRANDPA</title>
+  <programme start="20210919000000 +0700" stop="20210919033000 +0700" channel="fox.sports">
+    <title lang="vi">Motor Cycle Racing</title>
   </programme>
-  <programme start="20210917020000 +0700" stop="20210917030000 +0700" channel="cartoon.network">
-    <title lang="vi">MIGHTY MAGISWORDS</title>
+  <programme start="20210919033000 +0700" stop="20210919040000 +0700" channel="fox.sports">
+    <title lang="vi">Sports News</title>
   </programme>
-  <programme start="20210917030000 +0700" stop="20210917040000 +0700" channel="cartoon.network">
-    <title lang="vi">CHOWDER</title>
+  <programme start="20210919040000 +0700" stop="20210919070000 +0700" channel="fox.sports">
+    <title lang="vi">Martial Arts</title>
   </programme>
-  <programme start="20210917040000 +0700" stop="20210917050000 +0700" channel="cartoon.network">
-    <title lang="vi">OK K.O.! LET'S BE HEROES</title>
+  <programme start="20210919070000 +0700" stop="20210919100000 +0700" channel="fox.sports">
+    <title lang="vi">Martial Arts</title>
   </programme>
-  <programme start="20210917050000 +0700" stop="20210917060000 +0700" channel="cartoon.network">
-    <title lang="vi">GRIZZY AND THE LEMMINGS</title>
+  <programme start="20210919100000 +0700" stop="20210919103000 +0700" channel="fox.sports">
+    <title lang="vi">Motor Cycle Racing</title>
   </programme>
-  <programme start="20210917060000 +0700" stop="20210917070000 +0700" channel="cartoon.network">
-    <title lang="vi">TALKING TOM HEROES</title>
+  <programme start="20210919103000 +0700" stop="20210919110000 +0700" channel="fox.sports">
+    <title lang="vi">Triathlon</title>
   </programme>
-  <programme start="20210917070000 +0700" stop="20210917080000 +0700" channel="cartoon.network">
-    <title lang="vi">SHAUN THE SHEEP</title>
+  <programme start="20210919110000 +0700" stop="20210919113000 +0700" channel="fox.sports">
+    <title lang="vi">Sports News</title>
   </programme>
-  <programme start="20210917080000 +0700" stop="20210917090000 +0700" channel="cartoon.network">
-    <title lang="vi">THE FUNGIES!</title>
+  <programme start="20210919113000 +0700" stop="20210919123000 +0700" channel="fox.sports">
+    <title lang="vi">Auto Racing</title>
   </programme>
-  <programme start="20210917090000 +0700" stop="20210917100000 +0700" channel="cartoon.network">
-    <title lang="vi">GRIZZY AND THE LEMMINGS</title>
+  <programme start="20210919123000 +0700" stop="20210919133000 +0700" channel="fox.sports">
+    <title lang="vi">Tennis</title>
   </programme>
-  <programme start="20210917100000 +0700" stop="20210917110000 +0700" channel="cartoon.network">
-    <title lang="vi">MR. BEAN: THE ANIMATED SERIES</title>
+  <programme start="20210919133000 +0700" stop="20210919140000 +0700" channel="fox.sports">
+    <title lang="vi">Sports News</title>
   </programme>
-  <programme start="20210917110000 +0700" stop="20210917120000 +0700" channel="cartoon.network">
-    <title lang="vi">MR. BEAN: THE ANIMATED SERIES</title>
+  <programme start="20210919140000 +0700" stop="20210919153000 +0700" channel="fox.sports">
+    <title lang="vi">Motor Cycle Racing</title>
   </programme>
-  <programme start="20210917120000 +0700" stop="20210917130000 +0700" channel="cartoon.network">
-    <title lang="vi">THE POWERPUFF GIRLS</title>
+  <programme start="20210919153000 +0700" stop="20210919203000 +0700" channel="fox.sports">
+    <title lang="vi">Motor Cycle Racing</title>
   </programme>
-  <programme start="20210917130000 +0700" stop="20210917133000 +0700" channel="cartoon.network">
-    <title lang="vi">THE POWERPUFF GIRLS</title>
+  <programme start="20210919203000 +0700" stop="20210919204000 +0700" channel="fox.sports">
+    <title lang="vi">Sports News</title>
   </programme>
-  <programme start="20210917133000 +0700" stop="20210917143000 +0700" channel="cartoon.network">
-    <title lang="vi">DC SUPER HERO GIRLS SERIES</title>
+  <programme start="20210919204000 +0700" stop="20210919205000 +0700" channel="fox.sports">
+    <title lang="vi">Sports News</title>
   </programme>
-  <programme start="20210917143000 +0700" stop="20210917150000 +0700" channel="cartoon.network">
-    <title lang="vi">NINJAGO</title>
-  </programme>
-  <programme start="20210917150000 +0700" stop="20210917160000 +0700" channel="cartoon.network">
-    <title lang="vi">TEEN TITANS GO!</title>
-  </programme>
-  <programme start="20210917160000 +0700" stop="20210917170000 +0700" channel="cartoon.network">
-    <title lang="vi">WE BARE BEARS</title>
-  </programme>
-  <programme start="20210917170000 +0700" stop="20210917173000 +0700" channel="cartoon.network">
-    <title lang="vi">THE AMAZING WORLD OF GUMBALL</title>
-  </programme>
-  <programme start="20210917173000 +0700" stop="20210917180000 +0700" channel="cartoon.network">
-    <title lang="vi">LOONEY TUNES CARTOONS</title>
-  </programme>
-  <programme start="20210917180000 +0700" stop="20210917190000 +0700" channel="cartoon.network">
-    <title lang="vi">MR. BEAN: THE ANIMATED SERIES</title>
-  </programme>
-  <programme start="20210917190000 +0700" stop="20210917200000 +0700" channel="cartoon.network">
-    <title lang="vi">TEEN TITANS GO!</title>
-  </programme>
-  <programme start="20210917200000 +0700" stop="20210917210000 +0700" channel="cartoon.network">
-    <title lang="vi">WE BARE BEARS</title>
-  </programme>
-  <programme start="20210917210000 +0700" stop="20210917213000 +0700" channel="cartoon.network">
-    <title lang="vi">MONSTER BEACH</title>
-  </programme>
-  <programme start="20210917213000 +0700" stop="20210917220000 +0700" channel="cartoon.network">
-    <title lang="vi">DC SUPER HERO GIRLS SERIES</title>
-  </programme>
-  <programme start="20210917220000 +0700" stop="20210917230000 +0700" channel="cartoon.network">
-    <title lang="vi">ADVENTURE TIME</title>
-  </programme>
-  <programme start="20210917230000 +0700" stop="20210918000000 +0700" channel="cartoon.network">
-    <title lang="vi">REGULAR SHOW</title>
+  <programme start="20210919205000 +0700" stop="20210919213500 +0700" channel="fox.sports">
+    <title lang="vi">Motor Cycle Racing</title>
   </programme>
   <programme start="20210918000000 +0700" stop="20210918010000 +0700" channel="cartoon.network">
     <title lang="vi">CLARENCE</title>
@@ -1955,83 +1865,116 @@
   <programme start="20210918223000 +0700" stop="20210918230000 +0700" channel="cartoon.network">
     <title lang="vi">BATMAN: THE BRAVE AND THE BOLD</title>
   </programme>
-  <programme start="20210917002000 +0700" stop="20210917004500 +0700" channel="fx">
-    <title lang="vi">Archer</title>
+  <programme start="20210918230000 +0700" stop="20210919000000 +0700" channel="cartoon.network">
+    <title lang="vi">JUSTICE LEAGUE ACTION</title>
   </programme>
-  <programme start="20210917004500 +0700" stop="20210917022000 +0700" channel="fx">
-    <title lang="vi">Twin Peaks</title>
+  <programme start="20210919000000 +0700" stop="20210919010000 +0700" channel="cartoon.network">
+    <title lang="vi">CLARENCE</title>
   </programme>
-  <programme start="20210917022000 +0700" stop="20210917032000 +0700" channel="fx">
-    <title lang="vi">Penny Dreadful: City of Angels</title>
+  <programme start="20210919010000 +0700" stop="20210919020000 +0700" channel="cartoon.network">
+    <title lang="vi">UNCLE GRANDPA</title>
   </programme>
-  <programme start="20210917032000 +0700" stop="20210917041500 +0700" channel="fx">
-    <title lang="vi">Penny Dreadful: City of Angels</title>
+  <programme start="20210919020000 +0700" stop="20210919030000 +0700" channel="cartoon.network">
+    <title lang="vi">MIGHTY MAGISWORDS</title>
   </programme>
-  <programme start="20210917041500 +0700" stop="20210917051000 +0700" channel="fx">
-    <title lang="vi">Ray Donovan</title>
+  <programme start="20210919030000 +0700" stop="20210919040000 +0700" channel="cartoon.network">
+    <title lang="vi">CHOWDER</title>
   </programme>
-  <programme start="20210917051000 +0700" stop="20210917061000 +0700" channel="fx">
-    <title lang="vi">Ray Donovan</title>
+  <programme start="20210919040000 +0700" stop="20210919050000 +0700" channel="cartoon.network">
+    <title lang="vi">OK K.O.! LET'S BE HEROES</title>
   </programme>
-  <programme start="20210917061000 +0700" stop="20210917071000 +0700" channel="fx">
-    <title lang="vi">The Stand</title>
+  <programme start="20210919050000 +0700" stop="20210919060000 +0700" channel="cartoon.network">
+    <title lang="vi">GRIZZY AND THE LEMMINGS</title>
   </programme>
-  <programme start="20210917071000 +0700" stop="20210917084500 +0700" channel="fx">
-    <title lang="vi">Twin Peaks</title>
+  <programme start="20210919060000 +0700" stop="20210919063000 +0700" channel="cartoon.network">
+    <title lang="vi">BABY LOONEY TUNES</title>
   </programme>
-  <programme start="20210917084500 +0700" stop="20210917095000 +0700" channel="fx">
-    <title lang="vi">Your Honor</title>
+  <programme start="20210919063000 +0700" stop="20210919070000 +0700" channel="cartoon.network">
+    <title lang="vi">MUSH MUSH AND THE MUSHABLES</title>
   </programme>
-  <programme start="20210917095000 +0700" stop="20210917105000 +0700" channel="fx">
-    <title lang="vi">Your Honor</title>
+  <programme start="20210919070000 +0700" stop="20210919073000 +0700" channel="cartoon.network">
+    <title lang="vi">ALICE &amp; LEWIS</title>
   </programme>
-  <programme start="20210917105000 +0700" stop="20210917114000 +0700" channel="fx">
-    <title lang="vi">Manhunt: Deadly Games</title>
+  <programme start="20210919073000 +0700" stop="20210919080000 +0700" channel="cartoon.network">
+    <title lang="vi">TALKING TOM HEROES</title>
   </programme>
-  <programme start="20210917114000 +0700" stop="20210917124000 +0700" channel="fx">
-    <title lang="vi">The Stand</title>
+  <programme start="20210919080000 +0700" stop="20210919083000 +0700" channel="cartoon.network">
+    <title lang="vi">TALKING TOM AND FRIENDS</title>
   </programme>
-  <programme start="20210917124000 +0700" stop="20210917133000 +0700" channel="fx">
-    <title lang="vi">Twin Peaks</title>
+  <programme start="20210919083000 +0700" stop="20210919090000 +0700" channel="cartoon.network">
+    <title lang="vi">SHAUN THE SHEEP</title>
   </programme>
-  <programme start="20210917133000 +0700" stop="20210917143000 +0700" channel="fx">
-    <title lang="vi">Ray Donovan</title>
+  <programme start="20210919090000 +0700" stop="20210919100000 +0700" channel="cartoon.network">
+    <title lang="vi">GRIZZY AND THE LEMMINGS</title>
   </programme>
-  <programme start="20210917143000 +0700" stop="20210917152000 +0700" channel="fx">
-    <title lang="vi">Ray Donovan</title>
+  <programme start="20210919100000 +0700" stop="20210919111000 +0700" channel="cartoon.network">
+    <title lang="vi">TOM AND JERRY'S GIANT ADVENTURE</title>
   </programme>
-  <programme start="20210917152000 +0700" stop="20210917161500 +0700" channel="fx">
-    <title lang="vi">Monsterland</title>
+  <programme start="20210919111000 +0700" stop="20210919113500 +0700" channel="cartoon.network">
+    <title lang="vi">MR. BEAN: THE ANIMATED SERIES</title>
   </programme>
-  <programme start="20210917161500 +0700" stop="20210917164500 +0700" channel="fx">
-    <title lang="vi">Black Monday</title>
+  <programme start="20210919113500 +0700" stop="20210919120000 +0700" channel="cartoon.network">
+    <title lang="vi">MR. BEAN: THE ANIMATED SERIES</title>
   </programme>
-  <programme start="20210917164500 +0700" stop="20210917171500 +0700" channel="fx">
-    <title lang="vi">Black Monday</title>
+  <programme start="20210919120000 +0700" stop="20210919123000 +0700" channel="cartoon.network">
+    <title lang="vi">NINJAGO: MASTERS OF SPINJITZU</title>
   </programme>
-  <programme start="20210917171500 +0700" stop="20210917181500 +0700" channel="fx">
-    <title lang="vi">Your Honor</title>
+  <programme start="20210919123000 +0700" stop="20210919130000 +0700" channel="cartoon.network">
+    <title lang="vi">POWER PLAYERS</title>
   </programme>
-  <programme start="20210917181500 +0700" stop="20210917191500 +0700" channel="fx">
-    <title lang="vi">Your Honor</title>
+  <programme start="20210919130000 +0700" stop="20210919133000 +0700" channel="cartoon.network">
+    <title lang="vi">TEEN TITANS GO!</title>
   </programme>
-  <programme start="20210917191500 +0700" stop="20210917202000 +0700" channel="fx">
-    <title lang="vi">The Stand</title>
+  <programme start="20210919133000 +0700" stop="20210919140000 +0700" channel="cartoon.network">
+    <title lang="vi">SUMMER CAMP ISLAND</title>
   </programme>
-  <programme start="20210917202000 +0700" stop="20210917211000 +0700" channel="fx">
-    <title lang="vi">Reprisal</title>
+  <programme start="20210919140000 +0700" stop="20210919143000 +0700" channel="cartoon.network">
+    <title lang="vi">MACA &amp; RONI</title>
   </programme>
-  <programme start="20210917211000 +0700" stop="20210917220500 +0700" channel="fx">
-    <title lang="vi">Reprisal</title>
+  <programme start="20210919143000 +0700" stop="20210919150000 +0700" channel="cartoon.network">
+    <title lang="vi">THE AMAZING WORLD OF GUMBALL</title>
   </programme>
-  <programme start="20210917220500 +0700" stop="20210917230000 +0700" channel="fx">
-    <title lang="vi">Ray Donovan</title>
+  <programme start="20210919150000 +0700" stop="20210919153000 +0700" channel="cartoon.network">
+    <title lang="vi">NINJA EXPRESS</title>
   </programme>
-  <programme start="20210917230000 +0700" stop="20210917235500 +0700" channel="fx">
-    <title lang="vi">Ray Donovan</title>
+  <programme start="20210919153000 +0700" stop="20210919160000 +0700" channel="cartoon.network">
+    <title lang="vi">WE BARE BEARS</title>
   </programme>
-  <programme start="20210917235500 +0700" stop="20210918000000 +0700" channel="fx">
-    <title lang="vi">Penny Dreadful: City of Angels</title>
+  <programme start="20210919160000 +0700" stop="20210919163000 +0700" channel="cartoon.network">
+    <title lang="vi">POWER PLAYERS</title>
+  </programme>
+  <programme start="20210919163000 +0700" stop="20210919170000 +0700" channel="cartoon.network">
+    <title lang="vi">SUMMER CAMP ISLAND</title>
+  </programme>
+  <programme start="20210919170000 +0700" stop="20210919173000 +0700" channel="cartoon.network">
+    <title lang="vi">BEN 10</title>
+  </programme>
+  <programme start="20210919173000 +0700" stop="20210919180000 +0700" channel="cartoon.network">
+    <title lang="vi">NINJAGO: MASTERS OF SPINJITZU</title>
+  </programme>
+  <programme start="20210919180000 +0700" stop="20210919183000 +0700" channel="cartoon.network">
+    <title lang="vi">TOTAL DRAMARAMA</title>
+  </programme>
+  <programme start="20210919183000 +0700" stop="20210919190000 +0700" channel="cartoon.network">
+    <title lang="vi">MACA &amp; RONI</title>
+  </programme>
+  <programme start="20210919190000 +0700" stop="20210919193000 +0700" channel="cartoon.network">
+    <title lang="vi">NINJA EXPRESS</title>
+  </programme>
+  <programme start="20210919193000 +0700" stop="20210919204500 +0700" channel="cartoon.network">
+    <title lang="vi">LEGO: BATMAN THE MOVIE: DC SUPER HEROES UNITE</title>
+  </programme>
+  <programme start="20210919204500 +0700" stop="20210919210000 +0700" channel="cartoon.network">
+    <title lang="vi">TEEN TITANS GO!</title>
+  </programme>
+  <programme start="20210919210000 +0700" stop="20210919220000 +0700" channel="cartoon.network">
+    <title lang="vi">TEEN TITANS GO!</title>
+  </programme>
+  <programme start="20210919220000 +0700" stop="20210919223000 +0700" channel="cartoon.network">
+    <title lang="vi">BATMAN: THE BRAVE AND THE BOLD</title>
+  </programme>
+  <programme start="20210919223000 +0700" stop="20210919230000 +0700" channel="cartoon.network">
+    <title lang="vi">BATMAN: THE BRAVE AND THE BOLD</title>
   </programme>
   <programme start="20210918000000 +0700" stop="20210918005000 +0700" channel="fx">
     <title lang="vi">Schitt's Creek</title>
@@ -2126,53 +2069,86 @@
   <programme start="20210918221000 +0700" stop="20210918230500 +0700" channel="fx">
     <title lang="vi">American Gods</title>
   </programme>
-  <programme start="20210917013000 +0700" stop="20210917031000 +0700" channel="fox.family.movies">
-    <title lang="vi">Casper</title>
+  <programme start="20210918230500 +0700" stop="20210919002000 +0700" channel="fx">
+    <title lang="vi">Monsterland</title>
   </programme>
-  <programme start="20210917031000 +0700" stop="20210917050000 +0700" channel="fox.family.movies">
-    <title lang="vi">Switched</title>
+  <programme start="20210919002000 +0700" stop="20210919004500 +0700" channel="fx">
+    <title lang="vi">Schitt's Creek</title>
   </programme>
-  <programme start="20210917050000 +0700" stop="20210917063500 +0700" channel="fox.family.movies">
-    <title lang="vi">Annabelle Hooper And The Ghosts Of Nantucket</title>
+  <programme start="20210919004500 +0700" stop="20210919014500 +0700" channel="fx">
+    <title lang="vi">American Gods</title>
   </programme>
-  <programme start="20210917063500 +0700" stop="20210917081500 +0700" channel="fox.family.movies">
-    <title lang="vi">American Girl: Saige Paints The Sky</title>
+  <programme start="20210919014500 +0700" stop="20210919024000 +0700" channel="fx">
+    <title lang="vi">American Gods</title>
   </programme>
-  <programme start="20210917081500 +0700" stop="20210917093500 +0700" channel="fox.family.movies">
-    <title lang="vi">Conni And The Cat</title>
+  <programme start="20210919024000 +0700" stop="20210919033500 +0700" channel="fx">
+    <title lang="vi">Ray Donovan</title>
   </programme>
-  <programme start="20210917093500 +0700" stop="20210917111500 +0700" channel="fox.family.movies">
-    <title lang="vi">Raising The Bar</title>
+  <programme start="20210919033500 +0700" stop="20210919043000 +0700" channel="fx">
+    <title lang="vi">Ray Donovan</title>
   </programme>
-  <programme start="20210917111500 +0700" stop="20210917125000 +0700" channel="fox.family.movies">
-    <title lang="vi">Addams Family Values</title>
+  <programme start="20210919043000 +0700" stop="20210919052500 +0700" channel="fx">
+    <title lang="vi">Twin Peaks (2017)</title>
   </programme>
-  <programme start="20210917125000 +0700" stop="20210917132500 +0700" channel="fox.family.movies">
-    <title lang="vi">Mystic S1 Ep 6</title>
+  <programme start="20210919052500 +0700" stop="20210919070000 +0700" channel="fx">
+    <title lang="vi">Twin Peaks</title>
   </programme>
-  <programme start="20210917132500 +0700" stop="20210917150000 +0700" channel="fox.family.movies">
-    <title lang="vi">The Pink Panther 2</title>
+  <programme start="20210919070000 +0700" stop="20210919075000 +0700" channel="fx">
+    <title lang="vi">Twin Peaks</title>
   </programme>
-  <programme start="20210917150000 +0700" stop="20210917163000 +0700" channel="fox.family.movies">
-    <title lang="vi">Trouble</title>
+  <programme start="20210919075000 +0700" stop="20210919083500 +0700" channel="fx">
+    <title lang="vi">Manhunt: Deadly Games</title>
   </programme>
-  <programme start="20210917163000 +0700" stop="20210917182500 +0700" channel="fox.family.movies">
-    <title lang="vi">Max</title>
+  <programme start="20210919083500 +0700" stop="20210919092000 +0700" channel="fx">
+    <title lang="vi">Manhunt: Deadly Games</title>
   </programme>
-  <programme start="20210917182500 +0700" stop="20210917190000 +0700" channel="fox.family.movies">
-    <title lang="vi">Mystic S1 Ep 7</title>
+  <programme start="20210919092000 +0700" stop="20210919102500 +0700" channel="fx">
+    <title lang="vi">Your Honor</title>
   </programme>
-  <programme start="20210917190000 +0700" stop="20210917203500 +0700" channel="fox.family.movies">
-    <title lang="vi">Puss In Boots</title>
+  <programme start="20210919102500 +0700" stop="20210919112500 +0700" channel="fx">
+    <title lang="vi">Your Honor</title>
   </programme>
-  <programme start="20210917203500 +0700" stop="20210917222000 +0700" channel="fox.family.movies">
-    <title lang="vi">Galaxy Quest</title>
+  <programme start="20210919112500 +0700" stop="20210919122000 +0700" channel="fx">
+    <title lang="vi">Reprisal</title>
   </programme>
-  <programme start="20210917222000 +0700" stop="20210917232000 +0700" channel="fox.family.movies">
-    <title lang="vi">The Incredible Adventures Of Professor Branestawm</title>
+  <programme start="20210919122000 +0700" stop="20210919131000 +0700" channel="fx">
+    <title lang="vi">Monsterland</title>
   </programme>
-  <programme start="20210917232000 +0700" stop="20210918010000 +0700" channel="fox.family.movies">
-    <title lang="vi">American Girl: Saige Paints The Sky</title>
+  <programme start="20210919131000 +0700" stop="20210919134000 +0700" channel="fx">
+    <title lang="vi">Black Monday</title>
+  </programme>
+  <programme start="20210919134000 +0700" stop="20210919143000 +0700" channel="fx">
+    <title lang="vi">Manhunt: Deadly Games</title>
+  </programme>
+  <programme start="20210919143000 +0700" stop="20210919153000 +0700" channel="fx">
+    <title lang="vi">The Stand</title>
+  </programme>
+  <programme start="20210919153000 +0700" stop="20210919163000 +0700" channel="fx">
+    <title lang="vi">Your Honor</title>
+  </programme>
+  <programme start="20210919163000 +0700" stop="20210919173000 +0700" channel="fx">
+    <title lang="vi">Your Honor</title>
+  </programme>
+  <programme start="20210919173000 +0700" stop="20210919183000 +0700" channel="fx">
+    <title lang="vi">Ray Donovan</title>
+  </programme>
+  <programme start="20210919183000 +0700" stop="20210919192000 +0700" channel="fx">
+    <title lang="vi">Ray Donovan</title>
+  </programme>
+  <programme start="20210919192000 +0700" stop="20210919201500 +0700" channel="fx">
+    <title lang="vi">Reprisal</title>
+  </programme>
+  <programme start="20210919201500 +0700" stop="20210919211000 +0700" channel="fx">
+    <title lang="vi">The Good Lord Bird</title>
+  </programme>
+  <programme start="20210919211000 +0700" stop="20210919220500 +0700" channel="fx">
+    <title lang="vi">Penny Dreadful: City of Angels</title>
+  </programme>
+  <programme start="20210919220500 +0700" stop="20210919225500 +0700" channel="fx">
+    <title lang="vi">Penny Dreadful: City of Angels</title>
+  </programme>
+  <programme start="20210919225500 +0700" stop="20210919235000 +0700" channel="fx">
+    <title lang="vi">The Good Lord Bird</title>
   </programme>
   <programme start="20210918010000 +0700" stop="20210918024500 +0700" channel="fox.family.movies">
     <title lang="vi">Albion: The Enchanted Stallion</title>
@@ -2219,62 +2195,53 @@
   <programme start="20210918222000 +0700" stop="20210918234000 +0700" channel="fox.family.movies">
     <title lang="vi">Conni And The Cat</title>
   </programme>
-  <programme start="20210917010000 +0700" stop="20210917020000 +0700" channel="fox.sports2">
-    <title lang="vi">Sailing</title>
+  <programme start="20210918234000 +0700" stop="20210919012500 +0700" channel="fox.family.movies">
+    <title lang="vi">Camp Cool Kids</title>
   </programme>
-  <programme start="20210917020000 +0700" stop="20210917040000 +0700" channel="fox.sports2">
-    <title lang="vi">Golf</title>
+  <programme start="20210919012500 +0700" stop="20210919025000 +0700" channel="fox.family.movies">
+    <title lang="vi">Senior Project</title>
   </programme>
-  <programme start="20210917040000 +0700" stop="20210917050000 +0700" channel="fox.sports2">
-    <title lang="vi">Tennis</title>
+  <programme start="20210919025000 +0700" stop="20210919042000 +0700" channel="fox.family.movies">
+    <title lang="vi">Monkey In The Middle</title>
   </programme>
-  <programme start="20210917050000 +0700" stop="20210917060000 +0700" channel="fox.sports2">
-    <title lang="vi">Tennis</title>
+  <programme start="20210919042000 +0700" stop="20210919055500 +0700" channel="fox.family.movies">
+    <title lang="vi">Adventures Of A Boy Genius</title>
   </programme>
-  <programme start="20210917060000 +0700" stop="20210917070000 +0700" channel="fox.sports2">
-    <title lang="vi">Tennis</title>
+  <programme start="20210919055500 +0700" stop="20210919072000 +0700" channel="fox.family.movies">
+    <title lang="vi">A Gift Horse</title>
   </programme>
-  <programme start="20210917070000 +0700" stop="20210917090000 +0700" channel="fox.sports2">
-    <title lang="vi">Golf</title>
+  <programme start="20210919072000 +0700" stop="20210919085500 +0700" channel="fox.family.movies">
+    <title lang="vi">Puss In Boots</title>
   </programme>
-  <programme start="20210917090000 +0700" stop="20210917100000 +0700" channel="fox.sports2">
-    <title lang="vi">Tennis</title>
+  <programme start="20210919085500 +0700" stop="20210919102500 +0700" channel="fox.family.movies">
+    <title lang="vi">Trouble</title>
   </programme>
-  <programme start="20210917100000 +0700" stop="20210917110000 +0700" channel="fox.sports2">
-    <title lang="vi">Tennis</title>
+  <programme start="20210919102500 +0700" stop="20210919120500 +0700" channel="fox.family.movies">
+    <title lang="vi">American Girl: Isabelle Dances Into The Spotlight</title>
   </programme>
-  <programme start="20210917110000 +0700" stop="20210917120000 +0700" channel="fox.sports2">
-    <title lang="vi">Sailing</title>
+  <programme start="20210919120500 +0700" stop="20210919134000 +0700" channel="fox.family.movies">
+    <title lang="vi">Woody Woodpecker</title>
   </programme>
-  <programme start="20210917120000 +0700" stop="20210917130000 +0700" channel="fox.sports2">
-    <title lang="vi">Tennis</title>
+  <programme start="20210919134000 +0700" stop="20210919151500 +0700" channel="fox.family.movies">
+    <title lang="vi">The Pink Panther</title>
   </programme>
-  <programme start="20210917130000 +0700" stop="20210917150000 +0700" channel="fox.sports2">
-    <title lang="vi">Golf</title>
+  <programme start="20210919151500 +0700" stop="20210919165000 +0700" channel="fox.family.movies">
+    <title lang="vi">Arctic Justice</title>
   </programme>
-  <programme start="20210917150000 +0700" stop="20210917170000 +0700" channel="fox.sports2">
-    <title lang="vi">Golf</title>
+  <programme start="20210919165000 +0700" stop="20210919182500 +0700" channel="fox.family.movies">
+    <title lang="vi">Shrek 2</title>
   </programme>
-  <programme start="20210917170000 +0700" stop="20210917180000 +0700" channel="fox.sports2">
-    <title lang="vi">Tennis</title>
+  <programme start="20210919182500 +0700" stop="20210919190000 +0700" channel="fox.family.movies">
+    <title lang="vi">Mystic S1 Ep 9</title>
   </programme>
-  <programme start="20210917180000 +0700" stop="20210917190000 +0700" channel="fox.sports2">
-    <title lang="vi">Magazine</title>
+  <programme start="20210919190000 +0700" stop="20210919204000 +0700" channel="fox.family.movies">
+    <title lang="vi">Nanny Mcphee</title>
   </programme>
-  <programme start="20210917190000 +0700" stop="20210917200000 +0700" channel="fox.sports2">
-    <title lang="vi">Tennis</title>
+  <programme start="20210919204000 +0700" stop="20210919221500 +0700" channel="fox.family.movies">
+    <title lang="vi">Cloudy With A Chance Of Meatballs</title>
   </programme>
-  <programme start="20210917200000 +0700" stop="20210917210000 +0700" channel="fox.sports2">
-    <title lang="vi">Tennis</title>
-  </programme>
-  <programme start="20210917210000 +0700" stop="20210917220000 +0700" channel="fox.sports2">
-    <title lang="vi">Tennis</title>
-  </programme>
-  <programme start="20210917220000 +0700" stop="20210917230000 +0700" channel="fox.sports2">
-    <title lang="vi">Tennis</title>
-  </programme>
-  <programme start="20210917230000 +0700" stop="20210918000000 +0700" channel="fox.sports2">
-    <title lang="vi">Tennis</title>
+  <programme start="20210919221500 +0700" stop="20210919234500 +0700" channel="fox.family.movies">
+    <title lang="vi">If I Had Wings</title>
   </programme>
   <programme start="20210918000000 +0700" stop="20210918020000 +0700" channel="fox.sports2">
     <title lang="vi">Billiards</title>
@@ -2348,68 +2315,89 @@
   <programme start="20210918220000 +0700" stop="20210918230000 +0700" channel="fox.sports2">
     <title lang="vi">Tennis</title>
   </programme>
-  <programme start="20210917013000 +0700" stop="20210917020000 +0700" channel="fox.sports3">
+  <programme start="20210918230000 +0700" stop="20210919010000 +0700" channel="fox.sports2">
+    <title lang="vi">Billiards</title>
+  </programme>
+  <programme start="20210919010000 +0700" stop="20210919023000 +0700" channel="fox.sports2">
+    <title lang="vi">Billiards</title>
+  </programme>
+  <programme start="20210919023000 +0700" stop="20210919030000 +0700" channel="fox.sports2">
+    <title lang="vi">Watersports</title>
+  </programme>
+  <programme start="20210919030000 +0700" stop="20210919040000 +0700" channel="fox.sports2">
     <title lang="vi">Motor Cycle Racing</title>
   </programme>
-  <programme start="20210917020000 +0700" stop="20210917030000 +0700" channel="fox.sports3">
+  <programme start="20210919040000 +0700" stop="20210919050000 +0700" channel="fox.sports2">
+    <title lang="vi">Tennis</title>
+  </programme>
+  <programme start="20210919050000 +0700" stop="20210919060000 +0700" channel="fox.sports2">
+    <title lang="vi">Tennis</title>
+  </programme>
+  <programme start="20210919060000 +0700" stop="20210919070000 +0700" channel="fox.sports2">
+    <title lang="vi">Tennis</title>
+  </programme>
+  <programme start="20210919070000 +0700" stop="20210919073000 +0700" channel="fox.sports2">
+    <title lang="vi">Magazine</title>
+  </programme>
+  <programme start="20210919073000 +0700" stop="20210919090000 +0700" channel="fox.sports2">
     <title lang="vi">Motor Cycle Racing</title>
   </programme>
-  <programme start="20210917030000 +0700" stop="20210917033000 +0700" channel="fox.sports3">
+  <programme start="20210919090000 +0700" stop="20210919100000 +0700" channel="fox.sports2">
+    <title lang="vi">Tennis</title>
+  </programme>
+  <programme start="20210919100000 +0700" stop="20210919110000 +0700" channel="fox.sports2">
+    <title lang="vi">Tennis</title>
+  </programme>
+  <programme start="20210919110000 +0700" stop="20210919123000 +0700" channel="fox.sports2">
+    <title lang="vi">Sailing</title>
+  </programme>
+  <programme start="20210919123000 +0700" stop="20210919140000 +0700" channel="fox.sports2">
+    <title lang="vi">Sailing</title>
+  </programme>
+  <programme start="20210919140000 +0700" stop="20210919150000 +0700" channel="fox.sports2">
+    <title lang="vi">Tennis</title>
+  </programme>
+  <programme start="20210919150000 +0700" stop="20210919153000 +0700" channel="fox.sports2">
+    <title lang="vi">Tennis</title>
+  </programme>
+  <programme start="20210919153000 +0700" stop="20210919153500 +0700" channel="fox.sports2">
+    <title lang="vi">Magazine</title>
+  </programme>
+  <programme start="20210919153500 +0700" stop="20210919154500 +0700" channel="fox.sports2">
+    <title lang="vi">Magazine</title>
+  </programme>
+  <programme start="20210919154500 +0700" stop="20210919164500 +0700" channel="fox.sports2">
+    <title lang="vi">Motor Cycle Racing</title>
+  </programme>
+  <programme start="20210919164500 +0700" stop="20210919171500 +0700" channel="fox.sports2">
+    <title lang="vi">Sports News</title>
+  </programme>
+  <programme start="20210919171500 +0700" stop="20210919183000 +0700" channel="fox.sports2">
+    <title lang="vi">Motor Cycle Racing</title>
+  </programme>
+  <programme start="20210919183000 +0700" stop="20210919193000 +0700" channel="fox.sports2">
+    <title lang="vi">Motor Cycle Racing</title>
+  </programme>
+  <programme start="20210919193000 +0700" stop="20210919193500 +0700" channel="fox.sports2">
+    <title lang="vi">Magazine</title>
+  </programme>
+  <programme start="20210919193500 +0700" stop="20210919194500 +0700" channel="fox.sports2">
+    <title lang="vi">Magazine</title>
+  </programme>
+  <programme start="20210919194500 +0700" stop="20210919211500 +0700" channel="fox.sports2">
+    <title lang="vi">Motor Cycle Racing</title>
+  </programme>
+  <programme start="20210919211500 +0700" stop="20210919221500 +0700" channel="fox.sports2">
+    <title lang="vi">Tennis</title>
+  </programme>
+  <programme start="20210919221500 +0700" stop="20210919224500 +0700" channel="fox.sports2">
     <title lang="vi">Triathlon</title>
   </programme>
-  <programme start="20210917033000 +0700" stop="20210917050000 +0700" channel="fox.sports3">
-    <title lang="vi">Auto Racing</title>
+  <programme start="20210919224500 +0700" stop="20210919225500 +0700" channel="fox.sports2">
+    <title lang="vi">Magazine</title>
   </programme>
-  <programme start="20210917050000 +0700" stop="20210917060000 +0700" channel="fox.sports3">
-    <title lang="vi">Motor Cycle Racing</title>
-  </programme>
-  <programme start="20210917060000 +0700" stop="20210917070000 +0700" channel="fox.sports3">
-    <title lang="vi">Motor Cycle Racing</title>
-  </programme>
-  <programme start="20210917070000 +0700" stop="20210917080000 +0700" channel="fox.sports3">
-    <title lang="vi">Motor Cycle Racing</title>
-  </programme>
-  <programme start="20210917080000 +0700" stop="20210917090000 +0700" channel="fox.sports3">
-    <title lang="vi">Auto Racing</title>
-  </programme>
-  <programme start="20210917090000 +0700" stop="20210917100000 +0700" channel="fox.sports3">
-    <title lang="vi">Auto Racing</title>
-  </programme>
-  <programme start="20210917100000 +0700" stop="20210917110000 +0700" channel="fox.sports3">
-    <title lang="vi">Esports</title>
-  </programme>
-  <programme start="20210917110000 +0700" stop="20210917113000 +0700" channel="fox.sports3">
-    <title lang="vi">Auto Racing</title>
-  </programme>
-  <programme start="20210917113000 +0700" stop="20210917130000 +0700" channel="fox.sports3">
-    <title lang="vi">Auto Racing</title>
-  </programme>
-  <programme start="20210917130000 +0700" stop="20210917140000 +0700" channel="fox.sports3">
-    <title lang="vi">Motor Cycle Racing</title>
-  </programme>
-  <programme start="20210917140000 +0700" stop="20210917150000 +0700" channel="fox.sports3">
-    <title lang="vi">Motor Cycle Racing</title>
-  </programme>
-  <programme start="20210917150000 +0700" stop="20210917160000 +0700" channel="fox.sports3">
-    <title lang="vi">Motor Cycle Racing</title>
-  </programme>
-  <programme start="20210917160000 +0700" stop="20210917170000 +0700" channel="fox.sports3">
-    <title lang="vi">Motor Cycle Racing</title>
-  </programme>
-  <programme start="20210917170000 +0700" stop="20210917180000 +0700" channel="fox.sports3">
-    <title lang="vi">Esports</title>
-  </programme>
-  <programme start="20210917180000 +0700" stop="20210917190000 +0700" channel="fox.sports3">
-    <title lang="vi">Auto Racing</title>
-  </programme>
-  <programme start="20210917190000 +0700" stop="20210917200000 +0700" channel="fox.sports3">
-    <title lang="vi">Motor Cycle Racing</title>
-  </programme>
-  <programme start="20210917200000 +0700" stop="20210917230000 +0700" channel="fox.sports3">
-    <title lang="vi">Auto Racing</title>
-  </programme>
-  <programme start="20210917230000 +0700" stop="20210918020000 +0700" channel="fox.sports3">
-    <title lang="vi">Lethwei</title>
+  <programme start="20210919225500 +0700" stop="20210919230000 +0700" channel="fox.sports2">
+    <title lang="vi">Magazine</title>
   </programme>
   <programme start="20210918020000 +0700" stop="20210918050000 +0700" channel="fox.sports3">
     <title lang="vi">Auto Racing</title>
@@ -2468,47 +2456,80 @@
   <programme start="20210918220000 +0700" stop="20210918230000 +0700" channel="fox.sports3">
     <title lang="vi">Motor Cycle Racing</title>
   </programme>
-  <programme start="20210917010500 +0700" stop="20210917025500 +0700" channel="hbo">
-    <title lang="vi">CATS</title>
+  <programme start="20210918230000 +0700" stop="20210919000000 +0700" channel="fox.sports3">
+    <title lang="vi">Auto Racing</title>
   </programme>
-  <programme start="20210917025500 +0700" stop="20210917043000 +0700" channel="hbo">
-    <title lang="vi">ENTOURAGE (2015)</title>
+  <programme start="20210919000000 +0700" stop="20210919010000 +0700" channel="fox.sports3">
+    <title lang="vi">Motor Cycle Racing</title>
   </programme>
-  <programme start="20210917043000 +0700" stop="20210917060000 +0700" channel="hbo">
-    <title lang="vi">12 ROUNDS 3: LOCKDOWN</title>
+  <programme start="20210919010000 +0700" stop="20210919020000 +0700" channel="fox.sports3">
+    <title lang="vi">Motor Cycle Racing</title>
   </programme>
-  <programme start="20210917060000 +0700" stop="20210917072000 +0700" channel="hbo">
-    <title lang="vi">LOVE UNDER THE OLIVE TREE</title>
+  <programme start="20210919020000 +0700" stop="20210919030000 +0700" channel="fox.sports3">
+    <title lang="vi">Auto Racing</title>
   </programme>
-  <programme start="20210917072000 +0700" stop="20210917084000 +0700" channel="hbo">
-    <title lang="vi">BATMAN: HUSH</title>
+  <programme start="20210919030000 +0700" stop="20210919040000 +0700" channel="fox.sports3">
+    <title lang="vi">Auto Racing</title>
   </programme>
-  <programme start="20210917084000 +0700" stop="20210917102000 +0700" channel="hbo">
-    <title lang="vi">THE KITCHEN</title>
+  <programme start="20210919040000 +0700" stop="20210919050000 +0700" channel="fox.sports3">
+    <title lang="vi">Auto Racing</title>
   </programme>
-  <programme start="20210917102000 +0700" stop="20210917115500 +0700" channel="hbo">
-    <title lang="vi">MEAN GIRLS</title>
+  <programme start="20210919050000 +0700" stop="20210919060000 +0700" channel="fox.sports3">
+    <title lang="vi">Auto Racing</title>
   </programme>
-  <programme start="20210917115500 +0700" stop="20210917135000 +0700" channel="hbo">
-    <title lang="vi">47 RONIN</title>
+  <programme start="20210919060000 +0700" stop="20210919073000 +0700" channel="fox.sports3">
+    <title lang="vi">Auto Racing</title>
   </programme>
-  <programme start="20210917135000 +0700" stop="20210917152000 +0700" channel="hbo">
-    <title lang="vi">GOOSEBUMPS 2: HAUNTED HALLOWEEN</title>
+  <programme start="20210919073000 +0700" stop="20210919080000 +0700" channel="fox.sports3">
+    <title lang="vi">Motor Cycle Racing</title>
   </programme>
-  <programme start="20210917152000 +0700" stop="20210917170500 +0700" channel="hbo">
-    <title lang="vi">ALOHA</title>
+  <programme start="20210919080000 +0700" stop="20210919090000 +0700" channel="fox.sports3">
+    <title lang="vi">Motor Cycle Racing</title>
   </programme>
-  <programme start="20210917170500 +0700" stop="20210917185000 +0700" channel="hbo">
-    <title lang="vi">A BEAUTIFUL DAY IN THE NEIGHBORHOOD</title>
+  <programme start="20210919090000 +0700" stop="20210919100000 +0700" channel="fox.sports3">
+    <title lang="vi">Motor Cycle Racing</title>
   </programme>
-  <programme start="20210917185000 +0700" stop="20210917210000 +0700" channel="hbo">
-    <title lang="vi">FAST &amp; FURIOUS 6</title>
+  <programme start="20210919100000 +0700" stop="20210919110000 +0700" channel="fox.sports3">
+    <title lang="vi">Motor Cycle Racing</title>
   </programme>
-  <programme start="20210917210000 +0700" stop="20210917233000 +0700" channel="hbo">
-    <title lang="vi">BATMAN V SUPERMAN: DAWN OF JUSTICE ULTIMATE EDITION</title>
+  <programme start="20210919110000 +0700" stop="20210919120000 +0700" channel="fox.sports3">
+    <title lang="vi">Motor Cycle Racing</title>
   </programme>
-  <programme start="20210917233000 +0700" stop="20210918011500 +0700" channel="hbo">
-    <title lang="vi">THE MARKSMAN (2020)</title>
+  <programme start="20210919120000 +0700" stop="20210919123000 +0700" channel="fox.sports3">
+    <title lang="vi">Motor Cycle Racing</title>
+  </programme>
+  <programme start="20210919123000 +0700" stop="20210919133000 +0700" channel="fox.sports3">
+    <title lang="vi">Motor Cycle Racing</title>
+  </programme>
+  <programme start="20210919133000 +0700" stop="20210919143000 +0700" channel="fox.sports3">
+    <title lang="vi">Motor Cycle Racing</title>
+  </programme>
+  <programme start="20210919143000 +0700" stop="20210919153000 +0700" channel="fox.sports3">
+    <title lang="vi">Motor Cycle Racing</title>
+  </programme>
+  <programme start="20210919153000 +0700" stop="20210919160000 +0700" channel="fox.sports3">
+    <title lang="vi">Motor Cycle Racing</title>
+  </programme>
+  <programme start="20210919160000 +0700" stop="20210919170000 +0700" channel="fox.sports3">
+    <title lang="vi">Motor Cycle Racing</title>
+  </programme>
+  <programme start="20210919170000 +0700" stop="20210919183000 +0700" channel="fox.sports3">
+    <title lang="vi">Auto Racing</title>
+  </programme>
+  <programme start="20210919183000 +0700" stop="20210919190000 +0700" channel="fox.sports3">
+    <title lang="vi">Triathlon</title>
+  </programme>
+  <programme start="20210919190000 +0700" stop="20210919200000 +0700" channel="fox.sports3">
+    <title lang="vi">Motor Cycle Racing</title>
+  </programme>
+  <programme start="20210919200000 +0700" stop="20210919210000 +0700" channel="fox.sports3">
+    <title lang="vi">Auto Racing</title>
+  </programme>
+  <programme start="20210919210000 +0700" stop="20210919213000 +0700" channel="fox.sports3">
+    <title lang="vi">Magazine</title>
+  </programme>
+  <programme start="20210919213000 +0700" stop="20210919230000 +0700" channel="fox.sports3">
+    <title lang="vi">Auto Racing</title>
   </programme>
   <programme start="20210918011500 +0700" stop="20210918025000 +0700" channel="hbo">
     <title lang="vi">BODY CAM</title>
@@ -2546,53 +2567,44 @@
   <programme start="20210918200000 +0700" stop="20210918235500 +0700" channel="hbo">
     <title lang="vi">ZACK SNYDER'S JUSTICE LEAGUE</title>
   </programme>
-  <programme start="20210917003500 +0700" stop="20210917011000 +0700" channel="cinemax">
-    <title lang="vi">THE DARK KNIGHT RISES</title>
+  <programme start="20210918235500 +0700" stop="20210919005500 +0700" channel="hbo">
+    <title lang="vi">TENET</title>
   </programme>
-  <programme start="20210917011000 +0700" stop="20210917020500 +0700" channel="cinemax">
-    <title lang="vi">DOOM PATROL S2</title>
+  <programme start="20210919005500 +0700" stop="20210919022000 +0700" channel="hbo">
+    <title lang="vi">TAKEN 2</title>
   </programme>
-  <programme start="20210917020500 +0700" stop="20210917025500 +0700" channel="cinemax">
-    <title lang="vi">DOOM PATROL S2</title>
+  <programme start="20210919022000 +0700" stop="20210919041000 +0700" channel="hbo">
+    <title lang="vi">TROUBLE WITH THE CURVE</title>
   </programme>
-  <programme start="20210917025500 +0700" stop="20210917052000 +0700" channel="cinemax">
-    <title lang="vi">TRAFFIC</title>
+  <programme start="20210919041000 +0700" stop="20210919063000 +0700" channel="hbo">
+    <title lang="vi">MOTHERLESS BROOKLYN</title>
   </programme>
-  <programme start="20210917052000 +0700" stop="20210917061500 +0700" channel="cinemax">
-    <title lang="vi">THE ROOK S1</title>
+  <programme start="20210919063000 +0700" stop="20210919075500 +0700" channel="hbo">
+    <title lang="vi">SPACE JAM</title>
   </programme>
-  <programme start="20210917061500 +0700" stop="20210917075500 +0700" channel="cinemax">
-    <title lang="vi">21 BRIDGES</title>
+  <programme start="20210919075500 +0700" stop="20210919093000 +0700" channel="hbo">
+    <title lang="vi">PETER RABBIT</title>
   </programme>
-  <programme start="20210917075500 +0700" stop="20210917092500 +0700" channel="cinemax">
-    <title lang="vi">ANACONDA</title>
+  <programme start="20210919093000 +0700" stop="20210919113500 +0700" channel="hbo">
+    <title lang="vi">SPIDER-MAN: FAR FROM HOME</title>
   </programme>
-  <programme start="20210917092500 +0700" stop="20210917111500 +0700" channel="cinemax">
-    <title lang="vi">10,000 B.C.</title>
+  <programme start="20210919113500 +0700" stop="20210919131000 +0700" channel="hbo">
+    <title lang="vi">BRIDGET JONES'S DIARY</title>
   </programme>
-  <programme start="20210917111500 +0700" stop="20210917124000 +0700" channel="cinemax">
-    <title lang="vi">BATMAN: SOUL OF THE DRAGON</title>
+  <programme start="20210919131000 +0700" stop="20210919145500 +0700" channel="hbo">
+    <title lang="vi">BRIDGET JONES: THE EDGE OF REASON</title>
   </programme>
-  <programme start="20210917124000 +0700" stop="20210917150000 +0700" channel="cinemax">
-    <title lang="vi">BATMAN BEGINS</title>
+  <programme start="20210919145500 +0700" stop="20210919165500 +0700" channel="hbo">
+    <title lang="vi">BRIDGET JONES'S BABY</title>
   </programme>
-  <programme start="20210917150000 +0700" stop="20210917163000 +0700" channel="cinemax">
-    <title lang="vi">PASSENGERS</title>
+  <programme start="20210919165500 +0700" stop="20210919183500 +0700" channel="hbo">
+    <title lang="vi">DOLITTLE</title>
   </programme>
-  <programme start="20210917163000 +0700" stop="20210917181500 +0700" channel="cinemax">
-    <title lang="vi">SUPERINTELLIGENCE</title>
+  <programme start="20210919183500 +0700" stop="20210919210000 +0700" channel="hbo">
+    <title lang="vi">TENET</title>
   </programme>
-  <programme start="20210917181500 +0700" stop="20210917200500 +0700" channel="cinemax">
-    <title lang="vi">OFFICIAL SECRETS</title>
-  </programme>
-  <programme start="20210917200500 +0700" stop="20210917220000 +0700" channel="cinemax">
-    <title lang="vi">MEN IN BLACK: INTERNATIONAL</title>
-  </programme>
-  <programme start="20210917220000 +0700" stop="20210917234000 +0700" channel="cinemax">
-    <title lang="vi">SWORDFISH</title>
-  </programme>
-  <programme start="20210917234000 +0700" stop="20210918004000 +0700" channel="cinemax">
-    <title lang="vi">THE ROOK S1</title>
+  <programme start="20210919210000 +0700" stop="20210919230000 +0700" channel="hbo">
+    <title lang="vi">JURASSIC WORLD</title>
   </programme>
   <programme start="20210918004000 +0700" stop="20210918031500 +0700" channel="cinemax">
     <title lang="vi">THE OUTPOST</title>
@@ -2630,101 +2642,47 @@
   <programme start="20210918225000 +0700" stop="20210918234500 +0700" channel="cinemax">
     <title lang="vi">DOOM PATROL S2</title>
   </programme>
-  <programme start="20210917004000 +0700" stop="20210917013000 +0700" channel="bbc.earth">
-    <title lang="vi">JOANNA LUMLEY'S SILK ROAD ADVENTURE</title>
+  <programme start="20210918234500 +0700" stop="20210919024000 +0700" channel="cinemax">
+    <title lang="vi">DOOM PATROL S2</title>
   </programme>
-  <programme start="20210917013000 +0700" stop="20210917022000 +0700" channel="bbc.earth">
-    <title lang="vi">HURRICANE MAN</title>
+  <programme start="20210919024000 +0700" stop="20210919040000 +0700" channel="cinemax">
+    <title lang="vi">JEFF, WHO LIVES AT HOME</title>
   </programme>
-  <programme start="20210917022000 +0700" stop="20210917025000 +0700" channel="bbc.earth">
-    <title lang="vi">FOOD FACTORY</title>
+  <programme start="20210919040000 +0700" stop="20210919053500 +0700" channel="cinemax">
+    <title lang="vi">ACTS OF VIOLENCE</title>
   </programme>
-  <programme start="20210917025000 +0700" stop="20210917031500 +0700" channel="bbc.earth">
-    <title lang="vi">FOOD FACTORY</title>
+  <programme start="20210919053500 +0700" stop="20210919072000 +0700" channel="cinemax">
+    <title lang="vi">THE USUAL SUSPECTS</title>
   </programme>
-  <programme start="20210917031500 +0700" stop="20210917041500 +0700" channel="bbc.earth">
-    <title lang="vi">SERENGETI</title>
+  <programme start="20210919072000 +0700" stop="20210919095000 +0700" channel="cinemax">
+    <title lang="vi">THE DARK KNIGHT</title>
   </programme>
-  <programme start="20210917041500 +0700" stop="20210917051000 +0700" channel="bbc.earth">
-    <title lang="vi">JOANNA LUMLEY'S SILK ROAD ADVENTURE</title>
+  <programme start="20210919095000 +0700" stop="20210919113000 +0700" channel="cinemax">
+    <title lang="vi">WRATH OF THE TITANS</title>
   </programme>
-  <programme start="20210917051000 +0700" stop="20210917060000 +0700" channel="bbc.earth">
-    <title lang="vi">HURRICANE MAN</title>
+  <programme start="20210919113000 +0700" stop="20210919125000 +0700" channel="cinemax">
+    <title lang="vi">JEFF, WHO LIVES AT HOME</title>
   </programme>
-  <programme start="20210917060000 +0700" stop="20210917065500 +0700" channel="bbc.earth">
-    <title lang="vi">SERENGETI</title>
+  <programme start="20210919125000 +0700" stop="20210919142500 +0700" channel="cinemax">
+    <title lang="vi">THE NUMBER 23</title>
   </programme>
-  <programme start="20210917065500 +0700" stop="20210917075000 +0700" channel="bbc.earth">
-    <title lang="vi">EIGHT GO RALLYING: THE ROAD TO SAIGON</title>
+  <programme start="20210919142500 +0700" stop="20210919160500 +0700" channel="cinemax">
+    <title lang="vi">FASTER</title>
   </programme>
-  <programme start="20210917075000 +0700" stop="20210917084000 +0700" channel="bbc.earth">
-    <title lang="vi">HURRICANE MAN</title>
+  <programme start="20210919160500 +0700" stop="20210919180500 +0700" channel="cinemax">
+    <title lang="vi">THE CLIENT</title>
   </programme>
-  <programme start="20210917084000 +0700" stop="20210917093000 +0700" channel="bbc.earth">
-    <title lang="vi">JOANNA LUMLEY'S SILK ROAD ADVENTURE</title>
+  <programme start="20210919180500 +0700" stop="20210919183500 +0700" channel="cinemax">
+    <title lang="vi">HOLLYWOOD ON SET S1</title>
   </programme>
-  <programme start="20210917093000 +0700" stop="20210917095500 +0700" channel="bbc.earth">
-    <title lang="vi">FOOD FACTORY</title>
+  <programme start="20210919183500 +0700" stop="20210919202500 +0700" channel="cinemax">
+    <title lang="vi">A MIGHTY HEART</title>
   </programme>
-  <programme start="20210917095500 +0700" stop="20210917102000 +0700" channel="bbc.earth">
-    <title lang="vi">FOOD FACTORY</title>
+  <programme start="20210919202500 +0700" stop="20210919220000 +0700" channel="cinemax">
+    <title lang="vi">FIRST BLOOD</title>
   </programme>
-  <programme start="20210917102000 +0700" stop="20210917112000 +0700" channel="bbc.earth">
-    <title lang="vi">SERENGETI</title>
-  </programme>
-  <programme start="20210917112000 +0700" stop="20210917121000 +0700" channel="bbc.earth">
-    <title lang="vi">HURRICANE MAN</title>
-  </programme>
-  <programme start="20210917121000 +0700" stop="20210917130500 +0700" channel="bbc.earth">
-    <title lang="vi">EIGHT GO RALLYING: THE ROAD TO SAIGON</title>
-  </programme>
-  <programme start="20210917130500 +0700" stop="20210917133000 +0700" channel="bbc.earth">
-    <title lang="vi">FOOD FACTORY</title>
-  </programme>
-  <programme start="20210917133000 +0700" stop="20210917135500 +0700" channel="bbc.earth">
-    <title lang="vi">FOOD FACTORY</title>
-  </programme>
-  <programme start="20210917135500 +0700" stop="20210917144500 +0700" channel="bbc.earth">
-    <title lang="vi">JOANNA LUMLEY'S SILK ROAD ADVENTURE</title>
-  </programme>
-  <programme start="20210917144500 +0700" stop="20210917154500 +0700" channel="bbc.earth">
-    <title lang="vi">SERENGETI</title>
-  </programme>
-  <programme start="20210917154500 +0700" stop="20210917163500 +0700" channel="bbc.earth">
-    <title lang="vi">HURRICANE MAN</title>
-  </programme>
-  <programme start="20210917163500 +0700" stop="20210917170000 +0700" channel="bbc.earth">
-    <title lang="vi">FOOD FACTORY</title>
-  </programme>
-  <programme start="20210917170000 +0700" stop="20210917172500 +0700" channel="bbc.earth">
-    <title lang="vi">FOOD FACTORY</title>
-  </programme>
-  <programme start="20210917172500 +0700" stop="20210917181500 +0700" channel="bbc.earth">
-    <title lang="vi">JOANNA LUMLEY'S SILK ROAD ADVENTURE</title>
-  </programme>
-  <programme start="20210917181500 +0700" stop="20210917191000 +0700" channel="bbc.earth">
-    <title lang="vi">EIGHT GO RALLYING: THE ROAD TO SAIGON</title>
-  </programme>
-  <programme start="20210917191000 +0700" stop="20210917193500 +0700" channel="bbc.earth">
-    <title lang="vi">FOOD FACTORY</title>
-  </programme>
-  <programme start="20210917193500 +0700" stop="20210917200500 +0700" channel="bbc.earth">
-    <title lang="vi">FOOD FACTORY</title>
-  </programme>
-  <programme start="20210917200500 +0700" stop="20210917210500 +0700" channel="bbc.earth">
-    <title lang="vi">EDEN: UNTAMED PLANET</title>
-  </programme>
-  <programme start="20210917210500 +0700" stop="20210917220000 +0700" channel="bbc.earth">
-    <title lang="vi">RUSSIA WITH SIMON REEVE</title>
-  </programme>
-  <programme start="20210917220000 +0700" stop="20210917225000 +0700" channel="bbc.earth">
-    <title lang="vi">THE WORLD'S DEADLIEST WEATHER</title>
-  </programme>
-  <programme start="20210917225000 +0700" stop="20210917234000 +0700" channel="bbc.earth">
-    <title lang="vi">EXTREME FISHING WITH ROBSON GREEN</title>
-  </programme>
-  <programme start="20210917234000 +0700" stop="20210918004000 +0700" channel="bbc.earth">
-    <title lang="vi">EDEN: UNTAMED PLANET</title>
+  <programme start="20210919220000 +0700" stop="20210919234000 +0700" channel="cinemax">
+    <title lang="vi">ACTS OF VIOLENCE</title>
   </programme>
   <programme start="20210918004000 +0700" stop="20210918013500 +0700" channel="bbc.earth">
     <title lang="vi">RUSSIA WITH SIMON REEVE</title>
@@ -2807,95 +2765,86 @@
   <programme start="20210918224500 +0700" stop="20210918234000 +0700" channel="bbc.earth">
     <title lang="vi">TRIBAL BOOTCAMP</title>
   </programme>
-  <programme start="20210917003000 +0700" stop="20210917012000 +0700" channel="bbc.lifestyle">
-    <title lang="vi">The Graham Norton Show</title>
+  <programme start="20210918234000 +0700" stop="20210919003500 +0700" channel="bbc.earth">
+    <title lang="vi">EIGHT GO RALLYING: THE ROAD TO SAIGON</title>
   </programme>
-  <programme start="20210917012000 +0700" stop="20210917021000 +0700" channel="bbc.lifestyle">
-    <title lang="vi">Bang On Budget</title>
+  <programme start="20210919003500 +0700" stop="20210919012500 +0700" channel="bbc.earth">
+    <title lang="vi">CHASING MONSTERS</title>
   </programme>
-  <programme start="20210917021000 +0700" stop="20210917031000 +0700" channel="bbc.lifestyle">
-    <title lang="vi">MasterChef: The Professionals</title>
+  <programme start="20210919012500 +0700" stop="20210919022000 +0700" channel="bbc.earth">
+    <title lang="vi">WILD JAPAN</title>
   </programme>
-  <programme start="20210917031000 +0700" stop="20210917041000 +0700" channel="bbc.lifestyle">
-    <title lang="vi">The Great Australian Bake Off</title>
+  <programme start="20210919022000 +0700" stop="20210919031500 +0700" channel="bbc.earth">
+    <title lang="vi">TRIBAL BOOTCAMP</title>
   </programme>
-  <programme start="20210917041000 +0700" stop="20210917050000 +0700" channel="bbc.lifestyle">
-    <title lang="vi">Bang On Budget</title>
+  <programme start="20210919031500 +0700" stop="20210919041000 +0700" channel="bbc.earth">
+    <title lang="vi">THE WORLD'S DEADLIEST WEATHER</title>
   </programme>
-  <programme start="20210917050000 +0700" stop="20210917055500 +0700" channel="bbc.lifestyle">
-    <title lang="vi">The Great British Bake Off</title>
+  <programme start="20210919041000 +0700" stop="20210919050500 +0700" channel="bbc.earth">
+    <title lang="vi">CHASING MONSTERS</title>
   </programme>
-  <programme start="20210917055500 +0700" stop="20210917065000 +0700" channel="bbc.lifestyle">
-    <title lang="vi">MasterChef: The Professionals</title>
+  <programme start="20210919050500 +0700" stop="20210919060000 +0700" channel="bbc.earth">
+    <title lang="vi">WILD JAPAN</title>
   </programme>
-  <programme start="20210917065000 +0700" stop="20210917071500 +0700" channel="bbc.lifestyle">
-    <title lang="vi">Rachel Khoo's Kitchen Notebook: Melbourne</title>
+  <programme start="20210919060000 +0700" stop="20210919065000 +0700" channel="bbc.earth">
+    <title lang="vi">THE WORLD'S DEADLIEST WEATHER</title>
   </programme>
-  <programme start="20210917071500 +0700" stop="20210917080500 +0700" channel="bbc.lifestyle">
-    <title lang="vi">Bang On Budget</title>
+  <programme start="20210919065000 +0700" stop="20210919075000 +0700" channel="bbc.earth">
+    <title lang="vi">EDEN: UNTAMED PLANET</title>
   </programme>
-  <programme start="20210917080500 +0700" stop="20210917090000 +0700" channel="bbc.lifestyle">
-    <title lang="vi">The Great Australian Bake Off</title>
+  <programme start="20210919075000 +0700" stop="20210919084500 +0700" channel="bbc.earth">
+    <title lang="vi">JOANNA LUMLEY'S SILK ROAD ADVENTURE</title>
   </programme>
-  <programme start="20210917090000 +0700" stop="20210917092500 +0700" channel="bbc.lifestyle">
-    <title lang="vi">Nadiya's Family Favourites</title>
+  <programme start="20210919084500 +0700" stop="20210919093000 +0700" channel="bbc.earth">
+    <title lang="vi">WHERE THE WILD MEN ARE WITH BEN FOGLE S6E2</title>
   </programme>
-  <programme start="20210917092500 +0700" stop="20210917095500 +0700" channel="bbc.lifestyle">
-    <title lang="vi">Rachel Khoo's Kitchen Notebook: Melbourne</title>
+  <programme start="20210919093000 +0700" stop="20210919102500 +0700" channel="bbc.earth">
+    <title lang="vi">INSIDE THE FACTORY</title>
   </programme>
-  <programme start="20210917095500 +0700" stop="20210917105000 +0700" channel="bbc.lifestyle">
-    <title lang="vi">MasterChef: The Professionals</title>
+  <programme start="20210919102500 +0700" stop="20210919112000 +0700" channel="bbc.earth">
+    <title lang="vi">TRIBAL BOOTCAMP</title>
   </programme>
-  <programme start="20210917105000 +0700" stop="20210917114500 +0700" channel="bbc.lifestyle">
-    <title lang="vi">The Graham Norton Show</title>
+  <programme start="20210919112000 +0700" stop="20210919121500 +0700" channel="bbc.earth">
+    <title lang="vi">RUSSIA WITH SIMON REEVE</title>
   </programme>
-  <programme start="20210917114500 +0700" stop="20210917124000 +0700" channel="bbc.lifestyle">
-    <title lang="vi">The Great British Bake Off</title>
+  <programme start="20210919121500 +0700" stop="20210919130500 +0700" channel="bbc.earth">
+    <title lang="vi">CHASING MONSTERS</title>
   </programme>
-  <programme start="20210917124000 +0700" stop="20210917133000 +0700" channel="bbc.lifestyle">
-    <title lang="vi">Bang On Budget</title>
+  <programme start="20210919130500 +0700" stop="20210919135500 +0700" channel="bbc.earth">
+    <title lang="vi">ROBSON GREEN'S EXTREME FISHING CHALLENGE</title>
   </programme>
-  <programme start="20210917133000 +0700" stop="20210917142500 +0700" channel="bbc.lifestyle">
-    <title lang="vi">The Great Australian Bake Off</title>
+  <programme start="20210919135500 +0700" stop="20210919145000 +0700" channel="bbc.earth">
+    <title lang="vi">INSIDE THE FACTORY</title>
   </programme>
-  <programme start="20210917142500 +0700" stop="20210917152000 +0700" channel="bbc.lifestyle">
-    <title lang="vi">MasterChef: The Professionals</title>
+  <programme start="20210919145000 +0700" stop="20210919154500 +0700" channel="bbc.earth">
+    <title lang="vi">TRIBAL BOOTCAMP</title>
   </programme>
-  <programme start="20210917152000 +0700" stop="20210917161000 +0700" channel="bbc.lifestyle">
-    <title lang="vi">Bang On Budget</title>
+  <programme start="20210919154500 +0700" stop="20210919164000 +0700" channel="bbc.earth">
+    <title lang="vi">THE WORLD'S DEADLIEST WEATHER</title>
   </programme>
-  <programme start="20210917161000 +0700" stop="20210917170500 +0700" channel="bbc.lifestyle">
-    <title lang="vi">The Great Australian Bake Off</title>
+  <programme start="20210919164000 +0700" stop="20210919173500 +0700" channel="bbc.earth">
+    <title lang="vi">INSIDE THE FACTORY</title>
   </programme>
-  <programme start="20210917170500 +0700" stop="20210917180000 +0700" channel="bbc.lifestyle">
-    <title lang="vi">The Great British Bake Off</title>
+  <programme start="20210919173500 +0700" stop="20210919182500 +0700" channel="bbc.earth">
+    <title lang="vi">JOANNA LUMLEY'S SILK ROAD ADVENTURE</title>
   </programme>
-  <programme start="20210917180000 +0700" stop="20210917182500 +0700" channel="bbc.lifestyle">
-    <title lang="vi">Rachel Allen: All Things Sweet</title>
+  <programme start="20210919182500 +0700" stop="20210919192000 +0700" channel="bbc.earth">
+    <title lang="vi">TRIBAL BOOTCAMP</title>
   </programme>
-  <programme start="20210917182500 +0700" stop="20210917192000 +0700" channel="bbc.lifestyle">
-    <title lang="vi">Hairy Bikers: Mediterranean Adventure</title>
+  <programme start="20210919192000 +0700" stop="20210919201500 +0700" channel="bbc.earth">
+    <title lang="vi">WILD JAPAN</title>
   </programme>
-  <programme start="20210917192000 +0700" stop="20210917201500 +0700" channel="bbc.lifestyle">
-    <title lang="vi">MasterChef: The Professionals</title>
+  <programme start="20210919201500 +0700" stop="20210919210000 +0700" channel="bbc.earth">
+    <title lang="vi">ANTHONY BOURDAIN: PARTS UNKNOWN S4E1</title>
   </programme>
-  <programme start="20210917201500 +0700" stop="20210917210000 +0700" channel="bbc.lifestyle">
-    <title lang="vi">Undercover Boss USA</title>
+  <programme start="20210919210000 +0700" stop="20210919215000 +0700" channel="bbc.earth">
+    <title lang="vi">CHASING MONSTERS</title>
   </programme>
-  <programme start="20210917210000 +0700" stop="20210917215500 +0700" channel="bbc.lifestyle">
-    <title lang="vi">The Graham Norton Show</title>
+  <programme start="20210919215000 +0700" stop="20210919224500 +0700" channel="bbc.earth">
+    <title lang="vi">TRIBAL BOOTCAMP</title>
   </programme>
-  <programme start="20210917215500 +0700" stop="20210917222500 +0700" channel="bbc.lifestyle">
-    <title lang="vi">Rick Stein's Cornwall</title>
-  </programme>
-  <programme start="20210917222500 +0700" stop="20210917225500 +0700" channel="bbc.lifestyle">
-    <title lang="vi">Rick Stein's Cornwall</title>
-  </programme>
-  <programme start="20210917225500 +0700" stop="20210917232000 +0700" channel="bbc.lifestyle">
-    <title lang="vi">Rachel Allen: All Things Sweet</title>
-  </programme>
-  <programme start="20210917232000 +0700" stop="20210918001500 +0700" channel="bbc.lifestyle">
-    <title lang="vi">MasterChef: The Professionals</title>
+  <programme start="20210919224500 +0700" stop="20210919233500 +0700" channel="bbc.earth">
+    <title lang="vi">WHERE THE WILD MEN ARE WITH BEN FOGLE</title>
   </programme>
   <programme start="20210918001500 +0700" stop="20210918011000 +0700" channel="bbc.lifestyle">
     <title lang="vi">The Graham Norton Show</title>
@@ -2987,104 +2936,98 @@
   <programme start="20210918221500 +0700" stop="20210918231000 +0700" channel="bbc.lifestyle">
     <title lang="vi">The Great British Sewing Bee</title>
   </programme>
-  <programme start="20210917003000 +0700" stop="20210917012500 +0700" channel="abc.australia">
-    <title lang="vi">The World - Episode 185</title>
+  <programme start="20210918231000 +0700" stop="20210919000000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Bang On Budget</title>
   </programme>
-  <programme start="20210917012500 +0700" stop="20210917014500 +0700" channel="abc.australia">
-    <title lang="vi">Abc News Overnight - Episode 185</title>
+  <programme start="20210919000000 +0700" stop="20210919005500 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Rick Stein: From Venice to Istanbul</title>
   </programme>
-  <programme start="20210917014500 +0700" stop="20210917020000 +0700" channel="abc.australia">
-    <title lang="vi">The Business - Episode 132</title>
+  <programme start="20210919005500 +0700" stop="20210919015000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">The Great Australian Bake Off</title>
   </programme>
-  <programme start="20210917020000 +0700" stop="20210917023500 +0700" channel="abc.australia">
-    <title lang="vi">7.30 - Episode 148</title>
+  <programme start="20210919015000 +0700" stop="20210919024500 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Your Home, Made Perfect</title>
   </programme>
-  <programme start="20210917023500 +0700" stop="20210917025500 +0700" channel="abc.australia">
-    <title lang="vi">Home And Away - Episode 168</title>
+  <programme start="20210919024500 +0700" stop="20210919031500 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Rachel Khoo's Kitchen Notebook: Melbourne</title>
   </programme>
-  <programme start="20210917025500 +0700" stop="20210917033000 +0700" channel="abc.australia">
-    <title lang="vi">Imagination Train - Episode 2</title>
+  <programme start="20210919031500 +0700" stop="20210919040500 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Gordon, Gino and Fred's Road Trip</title>
   </programme>
-  <programme start="20210917033000 +0700" stop="20210917063000 +0700" channel="abc.australia">
-    <title lang="vi">News Breakfast: Early - Episode 186</title>
+  <programme start="20210919040500 +0700" stop="20210919050000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Your Home, Made Perfect</title>
   </programme>
-  <programme start="20210917063000 +0700" stop="20210917093000 +0700" channel="abc.australia">
-    <title lang="vi">Abc News Mornings - Episode 186</title>
+  <programme start="20210919050000 +0700" stop="20210919054500 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Undercover Boss USA</title>
   </programme>
-  <programme start="20210917093000 +0700" stop="20210917103000 +0700" channel="abc.australia">
-    <title lang="vi">Abc News At Noon - Episode 186</title>
+  <programme start="20210919054500 +0700" stop="20210919061000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Rick Stein's Cornwall</title>
   </programme>
-  <programme start="20210917103000 +0700" stop="20210917105500 +0700" channel="abc.australia">
-    <title lang="vi">Play School - Imagine: 5</title>
+  <programme start="20210919061000 +0700" stop="20210919064000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Rick Stein's Cornwall</title>
   </programme>
-  <programme start="20210917105500 +0700" stop="20210917113000 +0700" channel="abc.australia">
-    <title lang="vi">Imagination Train - Episode 2</title>
+  <programme start="20210919064000 +0700" stop="20210919073500 +0700" channel="bbc.lifestyle">
+    <title lang="vi">The Great British Sewing Bee</title>
   </programme>
-  <programme start="20210917113000 +0700" stop="20210917114500 +0700" channel="abc.australia">
-    <title lang="vi">Living English - You Walk Sadly</title>
+  <programme start="20210919073500 +0700" stop="20210919083000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Your Home, Made Perfect</title>
   </programme>
-  <programme start="20210917114500 +0700" stop="20210917121500 +0700" channel="abc.australia">
-    <title lang="vi">Landline - Episode 30</title>
+  <programme start="20210919083000 +0700" stop="20210919085500 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Rachel Allen: All Things Sweet</title>
   </programme>
-  <programme start="20210917121500 +0700" stop="20210917130000 +0700" channel="abc.australia">
-    <title lang="vi">Outback Opal Hunters - Episode 1</title>
+  <programme start="20210919085500 +0700" stop="20210919095000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Rick Stein: From Venice to Istanbul</title>
   </programme>
-  <programme start="20210917130000 +0700" stop="20210917133000 +0700" channel="abc.australia">
-    <title lang="vi">Food Safari Earth - Episode 4</title>
+  <programme start="20210919095000 +0700" stop="20210919102000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Nigella's Cook, Eat, Repeat</title>
   </programme>
-  <programme start="20210917133000 +0700" stop="20210917140000 +0700" channel="abc.australia">
-    <title lang="vi">Afternoon Briefing - Episode 165</title>
+  <programme start="20210919102000 +0700" stop="20210919111500 +0700" channel="bbc.lifestyle">
+    <title lang="vi">The Great Australian Bake Off</title>
   </programme>
-  <programme start="20210917140000 +0700" stop="20210917143000 +0700" channel="abc.australia">
-    <title lang="vi">Friday Briefing - Episode 33</title>
+  <programme start="20210919111500 +0700" stop="20210919121000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Your Home, Made Perfect</title>
   </programme>
-  <programme start="20210917143000 +0700" stop="20210917153000 +0700" channel="abc.australia">
-    <title lang="vi">Abc News Hour - Episode 186</title>
+  <programme start="20210919121000 +0700" stop="20210919125500 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Undercover Boss USA</title>
   </programme>
-  <programme start="20210917153000 +0700" stop="20210917163000 +0700" channel="abc.australia">
-    <title lang="vi">The Drum - Episode 165</title>
+  <programme start="20210919125500 +0700" stop="20210919134500 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Bang On Budget</title>
   </programme>
-  <programme start="20210917163000 +0700" stop="20210917171500 +0700" channel="abc.australia">
-    <title lang="vi">Abc National News - Episode 186</title>
+  <programme start="20210919134500 +0700" stop="20210919141500 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Nigella's Cook, Eat, Repeat</title>
   </programme>
-  <programme start="20210917171500 +0700" stop="20210917173000 +0700" channel="abc.australia">
-    <title lang="vi">The Vaccine - Episode 31</title>
+  <programme start="20210919141500 +0700" stop="20210919151000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Rick Stein: From Venice to Istanbul</title>
   </programme>
-  <programme start="20210917173000 +0700" stop="20210917183000 +0700" channel="abc.australia">
-    <title lang="vi">Planet America - Episode 32</title>
+  <programme start="20210919151000 +0700" stop="20210919153500 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Donal's Super Food in Minutes</title>
   </programme>
-  <programme start="20210917183000 +0700" stop="20210917190000 +0700" channel="abc.australia">
-    <title lang="vi">Abc Nightly News - Episode 186</title>
+  <programme start="20210919153500 +0700" stop="20210919163000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">The Great Australian Bake Off</title>
   </programme>
-  <programme start="20210917190000 +0700" stop="20210917193000 +0700" channel="abc.australia">
-    <title lang="vi">Close Of Business - Episode 32</title>
+  <programme start="20210919163000 +0700" stop="20210919172500 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Your Home, Made Perfect</title>
   </programme>
-  <programme start="20210917193000 +0700" stop="20210917202500 +0700" channel="abc.australia">
-    <title lang="vi">The World - Episode 186</title>
+  <programme start="20210919172500 +0700" stop="20210919182000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">The Great British Sewing Bee</title>
   </programme>
-  <programme start="20210917202500 +0700" stop="20210917211000 +0700" channel="abc.australia">
-    <title lang="vi">Paramedics - Episode 3</title>
+  <programme start="20210919182000 +0700" stop="20210919191500 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Rick Stein: From Venice to Istanbul</title>
   </programme>
-  <programme start="20210917211000 +0700" stop="20210917213000 +0700" channel="abc.australia">
-    <title lang="vi">The Vaccine - Episode 31</title>
+  <programme start="20210919191500 +0700" stop="20210919194000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Donal's Super Food in Minutes</title>
   </programme>
-  <programme start="20210917213000 +0700" stop="20210917214500 +0700" channel="abc.australia">
-    <title lang="vi">Abc Late News - Episode 186</title>
+  <programme start="20210919194000 +0700" stop="20210919203000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Bang On Budget</title>
   </programme>
-  <programme start="20210917214500 +0700" stop="20210917224000 +0700" channel="abc.australia">
-    <title lang="vi">Planet America - Episode 32</title>
+  <programme start="20210919203000 +0700" stop="20210919212000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Undercover Boss USA</title>
   </programme>
-  <programme start="20210917224000 +0700" stop="20210917230000 +0700" channel="abc.australia">
-    <title lang="vi">Abc Late News - Episode 186</title>
+  <programme start="20210919212000 +0700" stop="20210919221500 +0700" channel="bbc.lifestyle">
+    <title lang="vi">Your Home, Made Perfect</title>
   </programme>
-  <programme start="20210917230000 +0700" stop="20210917232500 +0700" channel="abc.australia">
-    <title lang="vi">Friday Briefing - Episode 33</title>
-  </programme>
-  <programme start="20210917232500 +0700" stop="20210917234500 +0700" channel="abc.australia">
-    <title lang="vi">Abc Late News - Episode 186</title>
-  </programme>
-  <programme start="20210917234500 +0700" stop="20210918004500 +0700" channel="abc.australia">
-    <title lang="vi">The Drum - Episode 165</title>
+  <programme start="20210919221500 +0700" stop="20210919231000 +0700" channel="bbc.lifestyle">
+    <title lang="vi">The Graham Norton Show</title>
   </programme>
   <programme start="20210918004500 +0700" stop="20210918014500 +0700" channel="abc.australia">
     <title lang="vi">The World - Episode 186</title>
@@ -3194,83 +3137,119 @@
   <programme start="20210918230500 +0700" stop="20210918235500 +0700" channel="abc.australia">
     <title lang="vi">Four Corners - Episode 31</title>
   </programme>
-  <programme start="20210917000000 +0700" stop="20210917010000 +0700" channel="animal.planet">
-    <title lang="vi">Crocodile Hunter (S6)</title>
+  <programme start="20210918235500 +0700" stop="20210919002500 +0700" channel="abc.australia">
+    <title lang="vi">Q+A Highlights - Episode 32</title>
   </programme>
-  <programme start="20210917010000 +0700" stop="20210917020000 +0700" channel="animal.planet">
-    <title lang="vi">Mysterious Wilds Of India</title>
+  <programme start="20210919002500 +0700" stop="20210919004500 +0700" channel="abc.australia">
+    <title lang="vi">Home And Away - Episode 165</title>
   </programme>
-  <programme start="20210917020000 +0700" stop="20210917030000 +0700" channel="animal.planet">
-    <title lang="vi">Dodo Heroes (S2)</title>
+  <programme start="20210919004500 +0700" stop="20210919011000 +0700" channel="abc.australia">
+    <title lang="vi">Home And Away - Episode 166</title>
   </programme>
-  <programme start="20210917030000 +0700" stop="20210917040000 +0700" channel="animal.planet">
-    <title lang="vi">Wild Tanzania: River Battlefront</title>
+  <programme start="20210919011000 +0700" stop="20210919013000 +0700" channel="abc.australia">
+    <title lang="vi">Home And Away - Episode 167</title>
   </programme>
-  <programme start="20210917040000 +0700" stop="20210917050000 +0700" channel="animal.planet">
-    <title lang="vi">Dr. Jeff: Rocky Mountain Vet (S5)</title>
+  <programme start="20210919013000 +0700" stop="20210919015500 +0700" channel="abc.australia">
+    <title lang="vi">Home And Away - Episode 168</title>
   </programme>
-  <programme start="20210917050000 +0700" stop="20210917060000 +0700" channel="animal.planet">
-    <title lang="vi">Dr. Jeff: Rocky Mountain Vet (S5)</title>
+  <programme start="20210919015500 +0700" stop="20210919022500 +0700" channel="abc.australia">
+    <title lang="vi">The World This Week - Episode 35</title>
   </programme>
-  <programme start="20210917060000 +0700" stop="20210917070000 +0700" channel="animal.planet">
-    <title lang="vi">Dodo Heroes (S2)</title>
+  <programme start="20210919022500 +0700" stop="20210919033000 +0700" channel="abc.australia">
+    <title lang="vi">National Press Club Address - Episode 33</title>
   </programme>
-  <programme start="20210917070000 +0700" stop="20210917080000 +0700" channel="animal.planet">
-    <title lang="vi">The Crocodile Hunter (S5)</title>
+  <programme start="20210919033000 +0700" stop="20210919033100 +0700" channel="abc.australia">
+    <title lang="vi">Abc News Update - Episode 76</title>
   </programme>
-  <programme start="20210917080000 +0700" stop="20210917090000 +0700" channel="animal.planet">
-    <title lang="vi">Monsters Inside Me (S6)</title>
+  <programme start="20210919033100 +0700" stop="20210919040000 +0700" channel="abc.australia">
+    <title lang="vi">Landline - Episode 31</title>
   </programme>
-  <programme start="20210917090000 +0700" stop="20210917100000 +0700" channel="animal.planet">
-    <title lang="vi">Monsters Inside Me (S8)</title>
+  <programme start="20210919040000 +0700" stop="20210919043000 +0700" channel="abc.australia">
+    <title lang="vi">Abc News Regional - Episode 34</title>
   </programme>
-  <programme start="20210917100000 +0700" stop="20210917110000 +0700" channel="animal.planet">
-    <title lang="vi">Mysterious Wilds Of India</title>
+  <programme start="20210919043000 +0700" stop="20210919053000 +0700" channel="abc.australia">
+    <title lang="vi">Weekend Breakfast: Early - Episode 38</title>
   </programme>
-  <programme start="20210917110000 +0700" stop="20210917113000 +0700" channel="animal.planet">
-    <title lang="vi">How Do Animals Do That?</title>
+  <programme start="20210919053000 +0700" stop="20210919063000 +0700" channel="abc.australia">
+    <title lang="vi">Weekend Breakfast - Episode 38</title>
   </programme>
-  <programme start="20210917113000 +0700" stop="20210917120000 +0700" channel="animal.planet">
-    <title lang="vi">Little Giants</title>
+  <programme start="20210919063000 +0700" stop="20210919073000 +0700" channel="abc.australia">
+    <title lang="vi">Insiders - Episode 33</title>
   </programme>
-  <programme start="20210917120000 +0700" stop="20210917130000 +0700" channel="animal.planet">
-    <title lang="vi">Wild Tanzania: River Battlefront</title>
+  <programme start="20210919073000 +0700" stop="20210919083000 +0700" channel="abc.australia">
+    <title lang="vi">Weekend Breakfast: 10Am - Episode 38</title>
   </programme>
-  <programme start="20210917130000 +0700" stop="20210917140000 +0700" channel="animal.planet">
-    <title lang="vi">Wild Costa Rica</title>
+  <programme start="20210919083000 +0700" stop="20210919090000 +0700" channel="abc.australia">
+    <title lang="vi">Abc News - Episode 76</title>
   </programme>
-  <programme start="20210917140000 +0700" stop="20210917150000 +0700" channel="animal.planet">
-    <title lang="vi">Jeremy Wade'S Dark Waters</title>
+  <programme start="20210919090000 +0700" stop="20210919093000 +0700" channel="abc.australia">
+    <title lang="vi">Offsiders - Episode 36</title>
   </programme>
-  <programme start="20210917150000 +0700" stop="20210917160000 +0700" channel="animal.planet">
-    <title lang="vi">Sisters Of The Savannah</title>
+  <programme start="20210919093000 +0700" stop="20210919100000 +0700" channel="abc.australia">
+    <title lang="vi">Abc News - Episode 76</title>
   </programme>
-  <programme start="20210917160000 +0700" stop="20210917170000 +0700" channel="animal.planet">
-    <title lang="vi">Monsters Inside Me (S8)</title>
+  <programme start="20210919100000 +0700" stop="20210919103000 +0700" channel="abc.australia">
+    <title lang="vi">Close Of Business - Episode 33</title>
   </programme>
-  <programme start="20210917170000 +0700" stop="20210917180000 +0700" channel="animal.planet">
-    <title lang="vi">In Search Of Monsters</title>
+  <programme start="20210919103000 +0700" stop="20210919110000 +0700" channel="abc.australia">
+    <title lang="vi">Abc News - Episode 76</title>
   </programme>
-  <programme start="20210917180000 +0700" stop="20210917190000 +0700" channel="animal.planet">
-    <title lang="vi">Dodo Heroes (S2)</title>
+  <programme start="20210919110000 +0700" stop="20210919113000 +0700" channel="abc.australia">
+    <title lang="vi">Q+A Highlights - Episode 32</title>
   </programme>
-  <programme start="20210917190000 +0700" stop="20210917200000 +0700" channel="animal.planet">
-    <title lang="vi">Deadliest Place On Earth</title>
+  <programme start="20210919113000 +0700" stop="20210919120000 +0700" channel="abc.australia">
+    <title lang="vi">Abc News - Episode 76</title>
   </programme>
-  <programme start="20210917200000 +0700" stop="20210917210000 +0700" channel="animal.planet">
-    <title lang="vi">Lost Kings Of Bioko</title>
+  <programme start="20210919120000 +0700" stop="20210919123000 +0700" channel="abc.australia">
+    <title lang="vi">Australian Story - Episode 25</title>
   </programme>
-  <programme start="20210917210000 +0700" stop="20210917220000 +0700" channel="animal.planet">
-    <title lang="vi">Africa'S Hunters Of The Night</title>
+  <programme start="20210919123000 +0700" stop="20210919130000 +0700" channel="abc.australia">
+    <title lang="vi">Abc News - Episode 76</title>
   </programme>
-  <programme start="20210917220000 +0700" stop="20210917223000 +0700" channel="animal.planet">
-    <title lang="vi">How Do Animals Do That?</title>
+  <programme start="20210919130000 +0700" stop="20210919133000 +0700" channel="abc.australia">
+    <title lang="vi">Offsiders - Episode 36</title>
   </programme>
-  <programme start="20210917223000 +0700" stop="20210917230000 +0700" channel="animal.planet">
-    <title lang="vi">Little Giants</title>
+  <programme start="20210919133000 +0700" stop="20210919133100 +0700" channel="abc.australia">
+    <title lang="vi">Abc News Update - Episode 76</title>
   </programme>
-  <programme start="20210917230000 +0700" stop="20210918000000 +0700" channel="animal.planet">
-    <title lang="vi">Monsters Inside Me (S8)</title>
+  <programme start="20210919133100 +0700" stop="20210919143000 +0700" channel="abc.australia">
+    <title lang="vi">Landline - Episode 32</title>
+  </programme>
+  <programme start="20210919143000 +0700" stop="20210919150000 +0700" channel="abc.australia">
+    <title lang="vi">Abc News - Auslan Bulletin</title>
+  </programme>
+  <programme start="20210919150000 +0700" stop="20210919153000 +0700" channel="abc.australia">
+    <title lang="vi">Foreign Correspondent - Episode 23</title>
+  </programme>
+  <programme start="20210919153000 +0700" stop="20210919163000 +0700" channel="abc.australia">
+    <title lang="vi">Escape From The City - Adelaide Hills Sa: The Steeles</title>
+  </programme>
+  <programme start="20210919163000 +0700" stop="20210919171000 +0700" channel="abc.australia">
+    <title lang="vi">Abc News Sunday - Episode 38</title>
+  </programme>
+  <programme start="20210919171000 +0700" stop="20210919180500 +0700" channel="abc.australia">
+    <title lang="vi">Going Places With Ernie Dingo - Mount Kosciuszko</title>
+  </programme>
+  <programme start="20210919180500 +0700" stop="20210919183000 +0700" channel="abc.australia">
+    <title lang="vi">Food Safari Earth - Episode 5</title>
+  </programme>
+  <programme start="20210919183000 +0700" stop="20210919193000 +0700" channel="abc.australia">
+    <title lang="vi">Paramedics - Episode 3</title>
+  </programme>
+  <programme start="20210919193000 +0700" stop="20210919203000 +0700" channel="abc.australia">
+    <title lang="vi">Catalyst - How Food Works (Part 1)</title>
+  </programme>
+  <programme start="20210919203000 +0700" stop="20210919213000 +0700" channel="abc.australia">
+    <title lang="vi">Escape From The City - Adelaide Hills Sa: The Steeles</title>
+  </programme>
+  <programme start="20210919213000 +0700" stop="20210919223000 +0700" channel="abc.australia">
+    <title lang="vi">Gardening Australia - Episode 26</title>
+  </programme>
+  <programme start="20210919223000 +0700" stop="20210919224500 +0700" channel="abc.australia">
+    <title lang="vi">Abc Late News - Episode 76</title>
+  </programme>
+  <programme start="20210919224500 +0700" stop="20210919231500 +0700" channel="abc.australia">
+    <title lang="vi">Foreign Correspondent - Episode 23</title>
   </programme>
   <programme start="20210918000000 +0700" stop="20210918010000 +0700" channel="animal.planet">
     <title lang="vi">The Crocodile Hunter (S5)</title>
@@ -3342,6 +3321,90 @@
     <title lang="vi">Wild Latam</title>
   </programme>
   <programme start="20210918230000 +0700" stop="20210918233000 +0700" channel="animal.planet">
+    <title lang="vi">How Do Animals Do That?</title>
+  </programme>
+  <programme start="20210918233000 +0700" stop="20210919000000 +0700" channel="animal.planet">
+    <title lang="vi">Nature'S Strangest Mysteries: Solved</title>
+  </programme>
+  <programme start="20210919000000 +0700" stop="20210919010000 +0700" channel="animal.planet">
+    <title lang="vi">Wild Latam</title>
+  </programme>
+  <programme start="20210919010000 +0700" stop="20210919020000 +0700" channel="animal.planet">
+    <title lang="vi">Saving Britain’S Wildlife</title>
+  </programme>
+  <programme start="20210919020000 +0700" stop="20210919023000 +0700" channel="animal.planet">
+    <title lang="vi">Brave Wilderness</title>
+  </programme>
+  <programme start="20210919023000 +0700" stop="20210919030000 +0700" channel="animal.planet">
+    <title lang="vi">Killer Instincts</title>
+  </programme>
+  <programme start="20210919030000 +0700" stop="20210919040000 +0700" channel="animal.planet">
+    <title lang="vi">The Zoo: San Diego (S2)</title>
+  </programme>
+  <programme start="20210919040000 +0700" stop="20210919050000 +0700" channel="animal.planet">
+    <title lang="vi">The Zoo: San Diego (S2)</title>
+  </programme>
+  <programme start="20210919050000 +0700" stop="20210919060000 +0700" channel="animal.planet">
+    <title lang="vi">The Zoo: San Diego (S2)</title>
+  </programme>
+  <programme start="20210919060000 +0700" stop="20210919070000 +0700" channel="animal.planet">
+    <title lang="vi">Incredible Animal Moments</title>
+  </programme>
+  <programme start="20210919070000 +0700" stop="20210919080000 +0700" channel="animal.planet">
+    <title lang="vi">Wild Frank In California</title>
+  </programme>
+  <programme start="20210919080000 +0700" stop="20210919090000 +0700" channel="animal.planet">
+    <title lang="vi">Monsters Inside Me (S8)</title>
+  </programme>
+  <programme start="20210919090000 +0700" stop="20210919100000 +0700" channel="animal.planet">
+    <title lang="vi">Wild Latam</title>
+  </programme>
+  <programme start="20210919100000 +0700" stop="20210919103000 +0700" channel="animal.planet">
+    <title lang="vi">Brave Wilderness</title>
+  </programme>
+  <programme start="20210919103000 +0700" stop="20210919110000 +0700" channel="animal.planet">
+    <title lang="vi">Epic Earth</title>
+  </programme>
+  <programme start="20210919110000 +0700" stop="20210919120000 +0700" channel="animal.planet">
+    <title lang="vi">The Wild Canadian Year</title>
+  </programme>
+  <programme start="20210919120000 +0700" stop="20210919130000 +0700" channel="animal.planet">
+    <title lang="vi">Dr. Jeff: Rocky Mountain Vet (S6)</title>
+  </programme>
+  <programme start="20210919130000 +0700" stop="20210919140000 +0700" channel="animal.planet">
+    <title lang="vi">Lone Star Law (S6)</title>
+  </programme>
+  <programme start="20210919140000 +0700" stop="20210919150000 +0700" channel="animal.planet">
+    <title lang="vi">Africa'S Hunters Of The Night</title>
+  </programme>
+  <programme start="20210919150000 +0700" stop="20210919160000 +0700" channel="animal.planet">
+    <title lang="vi">World'S Cutest (S4)</title>
+  </programme>
+  <programme start="20210919160000 +0700" stop="20210919170000 +0700" channel="animal.planet">
+    <title lang="vi">Big Cats Of The Serengeti</title>
+  </programme>
+  <programme start="20210919170000 +0700" stop="20210919180000 +0700" channel="animal.planet">
+    <title lang="vi">Massive Africa</title>
+  </programme>
+  <programme start="20210919180000 +0700" stop="20210919190000 +0700" channel="animal.planet">
+    <title lang="vi">Madagascar Africas Galapagos</title>
+  </programme>
+  <programme start="20210919190000 +0700" stop="20210919200000 +0700" channel="animal.planet">
+    <title lang="vi">Jeremy Wade'S Dark Waters</title>
+  </programme>
+  <programme start="20210919200000 +0700" stop="20210919203000 +0700" channel="animal.planet">
+    <title lang="vi">Brave Wilderness</title>
+  </programme>
+  <programme start="20210919203000 +0700" stop="20210919210000 +0700" channel="animal.planet">
+    <title lang="vi">Epic Earth (S2)</title>
+  </programme>
+  <programme start="20210919210000 +0700" stop="20210919220000 +0700" channel="animal.planet">
+    <title lang="vi">Animal Social Networks</title>
+  </programme>
+  <programme start="20210919220000 +0700" stop="20210919230000 +0700" channel="animal.planet">
+    <title lang="vi">Icons Of The Wild</title>
+  </programme>
+  <programme start="20210919230000 +0700" stop="20210919233000 +0700" channel="animal.planet">
     <title lang="vi">How Do Animals Do That?</title>
   </programme>
 </tv>
