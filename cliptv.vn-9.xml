@@ -4,291 +4,276 @@
     <display-name lang="vi">Cà Mau</display-name>
     <url>http://www.cliptv.vn</url>
   </channel>
-  <programme start="20210919090000 +0700" stop="20210919093000 +0700" channel="ca.mau">
+  <programme start="20210921090000 +0700" stop="20210921093000 +0700" channel="ca.mau">
+    <title lang="vi">akl show</title>
+    <desc lang="vi">Alo Bác sĩ nghe (số 38).(n)</desc>
+  </programme>
+  <programme start="20210921093000 +0700" stop="20210921100500 +0700" channel="ca.mau">
     <title lang="vi">ame show</title>
-    <desc lang="vi">Sao nhập ngũ (phát lại, Mùa 6, tập 6).(n)</desc>
+    <desc lang="vi">Biệt đội X6 (phát lại tập 38).(n)</desc>
   </programme>
-  <programme start="20210919093000 +0700" stop="20210919100500 +0700" channel="ca.mau">
-    <title lang="vi">anh nhân đất Việt</title>
-    <desc lang="vi">Tướng quân Nguyễn Chế Nghĩa (phát lại).(n)</desc>
-  </programme>
-  <programme start="20210919100500 +0700" stop="20210919110000 +0700" channel="ca.mau">
-    <title lang="vi">ài tử cải lương</title>
-  </programme>
-  <programme start="20210919110000 +0700" stop="20210919113000 +0700" channel="ca.mau">
-    <title lang="vi">him Hoạt hình</title>
-    <desc lang="vi">Beyblade - Con quay bùng nổ siêu tốc.(n)</desc>
-  </programme>
-  <programme start="20210919113000 +0700" stop="20210919115000 +0700" channel="ca.mau">
-    <title lang="vi">ản tin</title>
-  </programme>
-  <programme start="20210919115000 +0700" stop="20210919115500 +0700" channel="ca.mau">
-    <title lang="vi">ự báo thời tiết</title>
-  </programme>
-  <programme start="20210919115500 +0700" stop="20210919120500 +0700" channel="ca.mau">
-    <title lang="vi">hông tin cần biết - (Quảng cáo)</title>
-  </programme>
-  <programme start="20210919120500 +0700" stop="20210919125500 +0700" channel="ca.mau">
-    <title lang="vi">him truyện Hàn Quốc</title>
-    <desc lang="vi">Hành vi phạm tội (tập 22)\/28.(n)</desc>
-  </programme>
-  <programme start="20210919125500 +0700" stop="20210919131000 +0700" channel="ca.mau">
-    <title lang="vi">ản tin Thị trường</title>
-  </programme>
-  <programme start="20210919131000 +0700" stop="20210919140000 +0700" channel="ca.mau">
-    <title lang="vi">him truyện Columbia</title>
-    <desc lang="vi">Escobar, kẻ sống sót (tập 32)\/60 , (pl.(n)</desc>
-  </programme>
-  <programme start="20210919140000 +0700" stop="20210919141500 +0700" channel="ca.mau">
-    <title lang="vi">huyên đề - Giáo dục</title>
-    <desc lang="vi">Ngành Giáo dục Cà Mau triển khai nhiệm vụ năm học mới 2021-2022.(n)</desc>
-  </programme>
-  <programme start="20210919141500 +0700" stop="20210919144000 +0700" channel="ca.mau">
-    <title lang="vi">him ngắn</title>
-    <desc lang="vi">Chuyện 3 chàng lính trẻ (tập 75&amp;76).(n)</desc>
-  </programme>
-  <programme start="20210919144000 +0700" stop="20210919145500 +0700" channel="ca.mau">
-    <title lang="vi">rang địa phương huyện (pl Thứ 6)</title>
-  </programme>
-  <programme start="20210919145500 +0700" stop="20210919152500 +0700" channel="ca.mau">
-    <title lang="vi">alkshow</title>
-    <desc lang="vi">8 lạng nửa cân (mùa 2, số 8)\/13 (phát lại).(n)</desc>
-  </programme>
-  <programme start="20210919152500 +0700" stop="20210919154000 +0700" channel="ca.mau">
-    <title lang="vi">ẻo về nguồn cội</title>
-    <desc lang="vi">Dấu ấn văn hóa miền Sapa.(n)</desc>
-  </programme>
-  <programme start="20210919154000 +0700" stop="20210919161000 +0700" channel="ca.mau">
-    <title lang="vi">rích đoạn cải lương</title>
-  </programme>
-  <programme start="20210919161000 +0700" stop="20210919164500 +0700" channel="ca.mau">
-    <title lang="vi">ame show</title>
-    <desc lang="vi">Biệt đội X6 (tập 38).(n)</desc>
-  </programme>
-  <programme start="20210919164500 +0700" stop="20210919170000 +0700" channel="ca.mau">
-    <title lang="vi">m thực</title>
-    <desc lang="vi">Món ăn hạnh phúc (phát lại số 38).(n)</desc>
-  </programme>
-  <programme start="20210919170000 +0700" stop="20210919175000 +0700" channel="ca.mau">
+  <programme start="20210921100500 +0700" stop="20210921110000 +0700" channel="ca.mau">
     <title lang="vi">him truyện Trung Quốc</title>
-    <desc lang="vi">Kiếm vương triều (tập 16)\/34.(n)</desc>
+    <desc lang="vi">Vương quốc thần bí (tập 56)\/62.(n)</desc>
   </programme>
-  <programme start="20210919175000 +0700" stop="20210919180500 +0700" channel="ca.mau">
-    <title lang="vi">him Hoạt hình</title>
-    <desc lang="vi">Thợ săn tiến thưởng.(n)</desc>
-  </programme>
-  <programme start="20210919180500 +0700" stop="20210919181500 +0700" channel="ca.mau">
-    <title lang="vi">in đó đây</title>
-  </programme>
-  <programme start="20210919181500 +0700" stop="20210919183000 +0700" channel="ca.mau">
-    <title lang="vi">hông tin cần biết</title>
-  </programme>
-  <programme start="20210919183000 +0700" stop="20210919190000 +0700" channel="ca.mau">
-    <title lang="vi">hời sự Đài PT-TH Cà Mau (CTV) - Dự báo thời tiết</title>
-  </programme>
-  <programme start="20210919190000 +0700" stop="20210919194500 +0700" channel="ca.mau">
-    <title lang="vi">iếp sóng Thời sự Đài THVN (VTV)</title>
-  </programme>
-  <programme start="20210919194500 +0700" stop="20210919195000 +0700" channel="ca.mau">
-    <title lang="vi">ản tin Covid - 19</title>
-  </programme>
-  <programme start="20210919195000 +0700" stop="20210919201500 +0700" channel="ca.mau">
-    <title lang="vi">ame show</title>
-    <desc lang="vi">Khẩu vị ngôi sao (số 37).(n)</desc>
-  </programme>
-  <programme start="20210919201500 +0700" stop="20210919203500 +0700" channel="ca.mau">
-    <title lang="vi">him ngắn</title>
-    <desc lang="vi">Chuyện 3 chàng lính trẻ (phát lại tập 75 &amp;76).(n)</desc>
-  </programme>
-  <programme start="20210919203500 +0700" stop="20210919204000 +0700" channel="ca.mau">
-    <title lang="vi">ản tin Thị trường</title>
-  </programme>
-  <programme start="20210919204000 +0700" stop="20210919220000 +0700" channel="ca.mau">
-    <title lang="vi">ải lương</title>
-    <desc lang="vi">Kiếp nào có yêu nhau (phần 1).(n)</desc>
-  </programme>
-  <programme start="20210919220000 +0700" stop="20210919221500 +0700" channel="ca.mau">
-    <title lang="vi">hám phá Việt Nam</title>
-    <desc lang="vi">Ngôi làng thủy tinh (phát lại).(n)</desc>
-  </programme>
-  <programme start="20210919221500 +0700" stop="20210919222500 +0700" channel="ca.mau">
-    <title lang="vi">huyên đề (phát lại)</title>
-  </programme>
-  <programme start="20210919222500 +0700" stop="20210919230500 +0700" channel="ca.mau">
-    <title lang="vi">ành trình di sản</title>
-    <desc lang="vi">Chi Lăng - Bên dòng lịch sử (phát lại).(n)</desc>
-  </programme>
-  <programme start="20210919230500 +0700" stop="20210919231500 +0700" channel="ca.mau">
-    <title lang="vi">in đó đây (phát lại)</title>
-  </programme>
-  <programme start="20210919231500 +0700" stop="20210919233500 +0700" channel="ca.mau">
-    <title lang="vi">him tài liệu</title>
-    <desc lang="vi">Thương con nước lớn ròng (phát lại).(n)</desc>
-  </programme>
-  <programme start="20210919233500 +0700" stop="20210919235900 +0700" channel="ca.mau">
-    <title lang="vi">hám phá</title>
-    <desc lang="vi">Thế giới tự nhiên (phần 8).(n)</desc>
-  </programme>
-  <programme start="20210919235900 +0700" stop="20210920045500 +0700" channel="ca.mau">
-    <title lang="vi">iới thiệu chương trình ngày 20 9</title>
-  </programme>
-  <programme start="20210920045500 +0700" stop="20210920050000 +0700" channel="ca.mau">
-    <title lang="vi">hạc hiệu - Chào cờ - Giới thiệu chương trình trong ngày</title>
-  </programme>
-  <programme start="20210920050000 +0700" stop="20210920054500 +0700" channel="ca.mau">
-    <title lang="vi">him truyện Trung Quốc</title>
-    <desc lang="vi">Kiếm vương triều (tập 16)\/34 (pl 17h).(n)</desc>
-  </programme>
-  <programme start="20210920054500 +0700" stop="20210920060000 +0700" channel="ca.mau">
-    <title lang="vi">a nhạc</title>
-  </programme>
-  <programme start="20210920060000 +0700" stop="20210920062500 +0700" channel="ca.mau">
-    <title lang="vi">huyển động Ngày mới</title>
-  </programme>
-  <programme start="20210920062500 +0700" stop="20210920063500 +0700" channel="ca.mau">
-    <title lang="vi">ừ những miền quê</title>
-    <desc lang="vi">Vùng đất chim trời.(n)</desc>
-  </programme>
-  <programme start="20210920063500 +0700" stop="20210920065000 +0700" channel="ca.mau">
-    <title lang="vi">Đ - Cải cách hành chính</title>
-    <desc lang="vi">Đẩy mạnh Chuyển đổi số trong phòng chống dịch.(n)</desc>
-  </programme>
-  <programme start="20210920065000 +0700" stop="20210920071000 +0700" channel="ca.mau">
-    <title lang="vi">him Hoạt hình</title>
-    <desc lang="vi">Giờ phiêu lưu.(n)</desc>
-  </programme>
-  <programme start="20210920071000 +0700" stop="20210920072500 +0700" channel="ca.mau">
-    <title lang="vi">hông tin cần biết</title>
-  </programme>
-  <programme start="20210920072500 +0700" stop="20210920075000 +0700" channel="ca.mau">
-    <title lang="vi">ame show</title>
-    <desc lang="vi">Khẩu vị ngôi sao (số 37) (pl).(n)</desc>
-  </programme>
-  <programme start="20210920075000 +0700" stop="20210920081500 +0700" channel="ca.mau">
-    <title lang="vi">âu chuyện giao thông</title>
-  </programme>
-  <programme start="20210920081500 +0700" stop="20210920083000 +0700" channel="ca.mau">
-    <title lang="vi">Đ – Xây dựng Đảng</title>
-    <desc lang="vi">Thực hiện tiêu chí nêu gương trong cán bộ, đảng viên.(n)</desc>
-  </programme>
-  <programme start="20210920083000 +0700" stop="20210920090000 +0700" channel="ca.mau">
-    <title lang="vi">eries phim</title>
-    <desc lang="vi">Oh my ghost (tập 14)\/20.(n)</desc>
-  </programme>
-  <programme start="20210920090000 +0700" stop="20210920094500 +0700" channel="ca.mau">
-    <title lang="vi">hạc Bolero (pl ngày 17 9)</title>
-  </programme>
-  <programme start="20210920094500 +0700" stop="20210920100500 +0700" channel="ca.mau">
-    <title lang="vi">inh hoa nghề Việt</title>
-    <desc lang="vi">Bánh Gai đặc sản gia truyền Bắc Giang.(n)</desc>
-  </programme>
-  <programme start="20210920100500 +0700" stop="20210920110000 +0700" channel="ca.mau">
-    <title lang="vi">him truyện Trung Quốc</title>
-    <desc lang="vi">Vương quốc thần bí (tập 55)\/62.(n)</desc>
-  </programme>
-  <programme start="20210920110000 +0700" stop="20210920113000 +0700" channel="ca.mau">
+  <programme start="20210921110000 +0700" stop="20210921113000 +0700" channel="ca.mau">
     <title lang="vi">him Hoạt hình</title>
     <desc lang="vi">Viên ngọc thần.(n)</desc>
   </programme>
-  <programme start="20210920113000 +0700" stop="20210920115000 +0700" channel="ca.mau">
+  <programme start="20210921113000 +0700" stop="20210921115000 +0700" channel="ca.mau">
     <title lang="vi">ản tin</title>
   </programme>
-  <programme start="20210920115000 +0700" stop="20210920115500 +0700" channel="ca.mau">
+  <programme start="20210921115000 +0700" stop="20210921115500 +0700" channel="ca.mau">
     <title lang="vi">ự báo thời tiết</title>
   </programme>
-  <programme start="20210920115500 +0700" stop="20210920120500 +0700" channel="ca.mau">
+  <programme start="20210921115500 +0700" stop="20210921120500 +0700" channel="ca.mau">
     <title lang="vi">hông tin cần biết - (Quảng cáo)</title>
   </programme>
-  <programme start="20210920120500 +0700" stop="20210920125500 +0700" channel="ca.mau">
+  <programme start="20210921120500 +0700" stop="20210921125500 +0700" channel="ca.mau">
     <title lang="vi">him truyện Hàn Quốc</title>
-    <desc lang="vi">Hành vi phạm tội (tập 23)\/28.(n)</desc>
+    <desc lang="vi">Hành vi phạm tội (tập 24)\/28.(n)</desc>
   </programme>
-  <programme start="20210920125500 +0700" stop="20210920130000 +0700" channel="ca.mau">
+  <programme start="20210921125500 +0700" stop="20210921131000 +0700" channel="ca.mau">
     <title lang="vi">ản tin Thị trường</title>
   </programme>
-  <programme start="20210920130000 +0700" stop="20210920134000 +0700" channel="ca.mau">
-    <title lang="vi">him tài liệu</title>
-    <desc lang="vi">Huyền thoại về tướng tình báo Phạm Xuân Ẩn (tập 11-12 ) \/12.(n)</desc>
+  <programme start="20210921131000 +0700" stop="20210921140000 +0700" channel="ca.mau">
+    <title lang="vi">him truyện Columbia</title>
+    <desc lang="vi">Escobar, kẻ sống sót (tập 33)\/60, (pl.(n)</desc>
   </programme>
-  <programme start="20210920134000 +0700" stop="20210920140000 +0700" channel="ca.mau">
-    <title lang="vi">iai điệu Phương Nam (số 13)</title>
+  <programme start="20210921140000 +0700" stop="20210921143000 +0700" channel="ca.mau">
+    <title lang="vi">hương trình Khmer (pl)</title>
   </programme>
-  <programme start="20210920140000 +0700" stop="20210920141500 +0700" channel="ca.mau">
-    <title lang="vi">Đ - Cải cách hành chính (pl)</title>
-    <desc lang="vi">Đẩy mạnh Chuyển đổi số trong phòng chống dịch.(n)</desc>
-  </programme>
-  <programme start="20210920141500 +0700" stop="20210920144000 +0700" channel="ca.mau">
+  <programme start="20210921143000 +0700" stop="20210921145000 +0700" channel="ca.mau">
     <title lang="vi">alk show</title>
-    <desc lang="vi">8 phim (phát lại số 38).(n)</desc>
+    <desc lang="vi">Bước ra ánh sáng (phát lại số 37).(n)</desc>
   </programme>
-  <programme start="20210920144000 +0700" stop="20210920151000 +0700" channel="ca.mau">
-    <title lang="vi">ăn học nghệ thuật</title>
-    <desc lang="vi">Tìm về những người lính xưa.(n)</desc>
+  <programme start="20210921145000 +0700" stop="20210921151000 +0700" channel="ca.mau">
+    <title lang="vi">ắc màu các dân tộc</title>
+    <desc lang="vi">Trung thu từ khuôn gỗ.(n)</desc>
   </programme>
-  <programme start="20210920151000 +0700" stop="20210920160000 +0700" channel="ca.mau">
+  <programme start="20210921151000 +0700" stop="20210921160500 +0700" channel="ca.mau">
     <title lang="vi">him truyện Việt Nam</title>
-    <desc lang="vi">Mẹ hổ dạy con dâu (tập 24)\/40.(n)</desc>
+    <desc lang="vi">Mẹ hổ dạy con dâu (tập 25)\/40.(n)</desc>
   </programme>
-  <programme start="20210920160000 +0700" stop="20210920161500 +0700" channel="ca.mau">
-    <title lang="vi">a nhạc</title>
+  <programme start="20210921160500 +0700" stop="20210921161500 +0700" channel="ca.mau">
+    <title lang="vi">hám phá Việt Nam</title>
+    <desc lang="vi">Lễ cúng thần đồng bản Cang Nà.(n)</desc>
   </programme>
-  <programme start="20210920161500 +0700" stop="20210920170000 +0700" channel="ca.mau">
-    <title lang="vi">iển đảo quê hương</title>
-    <desc lang="vi">Những người đàn bà cõi sóng biển.(n)</desc>
+  <programme start="20210921161500 +0700" stop="20210921164500 +0700" channel="ca.mau">
+    <title lang="vi">a nhạc theo yêu cầu</title>
   </programme>
-  <programme start="20210920170000 +0700" stop="20210920175000 +0700" channel="ca.mau">
+  <programme start="20210921164500 +0700" stop="20210921170000 +0700" channel="ca.mau">
+    <title lang="vi">inh hoa nghề Việt</title>
+    <desc lang="vi">Bánh Gai đặc sản gia truyền Bắc Giang (phát lại).(n)</desc>
+  </programme>
+  <programme start="20210921170000 +0700" stop="20210921175000 +0700" channel="ca.mau">
     <title lang="vi">him truyện Trung Quốc</title>
-    <desc lang="vi">Kiếm vương triều (tập 17)\/34.(n)</desc>
+    <desc lang="vi">Kiếm vương triều (tập 18)\/34.(n)</desc>
   </programme>
-  <programme start="20210920175000 +0700" stop="20210920180500 +0700" channel="ca.mau">
+  <programme start="20210921175000 +0700" stop="20210921180500 +0700" channel="ca.mau">
     <title lang="vi">him Hoạt hình</title>
     <desc lang="vi">Thợ săn tiến thưởng.(n)</desc>
   </programme>
-  <programme start="20210920180500 +0700" stop="20210920181500 +0700" channel="ca.mau">
+  <programme start="20210921180500 +0700" stop="20210921181500 +0700" channel="ca.mau">
     <title lang="vi">in đó đây</title>
   </programme>
-  <programme start="20210920181500 +0700" stop="20210920183000 +0700" channel="ca.mau">
+  <programme start="20210921181500 +0700" stop="20210921183000 +0700" channel="ca.mau">
     <title lang="vi">hông tin cần biết</title>
   </programme>
-  <programme start="20210920183000 +0700" stop="20210920190000 +0700" channel="ca.mau">
+  <programme start="20210921183000 +0700" stop="20210921190000 +0700" channel="ca.mau">
     <title lang="vi">hời sự Đài PT-TH Cà Mau (CTV) - Dự báo thời tiết</title>
   </programme>
-  <programme start="20210920190000 +0700" stop="20210920194500 +0700" channel="ca.mau">
+  <programme start="20210921190000 +0700" stop="20210921194500 +0700" channel="ca.mau">
     <title lang="vi">iếp sóng Thời sự Đài THVN (VTV)</title>
   </programme>
-  <programme start="20210920194500 +0700" stop="20210920195000 +0700" channel="ca.mau">
+  <programme start="20210921194500 +0700" stop="20210921195000 +0700" channel="ca.mau">
     <title lang="vi">ản tin Covid - 19</title>
   </programme>
-  <programme start="20210920195000 +0700" stop="20210920203500 +0700" channel="ca.mau">
+  <programme start="20210921195000 +0700" stop="20210921203500 +0700" channel="ca.mau">
     <title lang="vi">him truyện Việt Nam</title>
-    <desc lang="vi">Giọt nước mắt hận thù (tập 30)\/33.(n)</desc>
+    <desc lang="vi">Giọt nước mắt hận thù (tập 31)\/33.(n)</desc>
   </programme>
-  <programme start="20210920203500 +0700" stop="20210920204500 +0700" channel="ca.mau">
+  <programme start="20210921203500 +0700" stop="20210921204500 +0700" channel="ca.mau">
     <title lang="vi">ản tin Thị trường (pl)</title>
   </programme>
-  <programme start="20210920204500 +0700" stop="20210920213000 +0700" channel="ca.mau">
-    <title lang="vi">him truyện Columbia</title>
-    <desc lang="vi">Escobar, kẻ sống sót (tập 33)\/60.(n)</desc>
+  <programme start="20210921204500 +0700" stop="20210921213000 +0700" channel="ca.mau">
+    <title lang="vi">Đang cập nhật</title>
   </programme>
-  <programme start="20210920213000 +0700" stop="20210920215000 +0700" channel="ca.mau">
-    <title lang="vi">Đ – Xây dựng Đảng</title>
-    <desc lang="vi">Thực hiện tiêu chí nêu gương trong cán bộ, đảng viên.(n)</desc>
+  <programme start="20210921213000 +0700" stop="20210921215000 +0700" channel="ca.mau">
+    <title lang="vi">Đ – Chính sách xã hội</title>
+    <desc lang="vi">Chính sách hỗ trợ người lao động bị ảnh hưởng dịch Covid-19.(n)</desc>
   </programme>
-  <programme start="20210920215000 +0700" stop="20210920220500 +0700" channel="ca.mau">
+  <programme start="20210921215000 +0700" stop="20210921220500 +0700" channel="ca.mau">
     <title lang="vi">him Sitcom</title>
-    <desc lang="vi">Hẻm không sợ vợ (tập 23)\/60.(n)</desc>
+    <desc lang="vi">Hẻm không sợ vợ (tập 24)\/60.(n)</desc>
   </programme>
-  <programme start="20210920220500 +0700" stop="20210920224000 +0700" channel="ca.mau">
-    <title lang="vi">a nhạc quốc tế (pl)</title>
+  <programme start="20210921220500 +0700" stop="20210921224000 +0700" channel="ca.mau">
+    <title lang="vi">ài tử cải lương (pl)</title>
   </programme>
-  <programme start="20210920224000 +0700" stop="20210920230500 +0700" channel="ca.mau">
+  <programme start="20210921224000 +0700" stop="20210921230500 +0700" channel="ca.mau">
     <title lang="vi">eries phim</title>
-    <desc lang="vi">Oh my ghost (tập 14)\/20.(n)</desc>
+    <desc lang="vi">Oh my ghost (tập 15)\/20, pl.(n)</desc>
   </programme>
-  <programme start="20210920230500 +0700" stop="20210920231500 +0700" channel="ca.mau">
+  <programme start="20210921230500 +0700" stop="20210921231500 +0700" channel="ca.mau">
     <title lang="vi">in đó đây (phát lại)</title>
   </programme>
-  <programme start="20210920231500 +0700" stop="20210920235900 +0700" channel="ca.mau">
+  <programme start="20210921231500 +0700" stop="20210921235900 +0700" channel="ca.mau">
+    <title lang="vi">him truyện Trung Quốc</title>
+    <desc lang="vi">Vương quốc thần bí (tập )\/62, (phát lại.(n)</desc>
+  </programme>
+  <programme start="20210921235900 +0700" stop="20210922045500 +0700" channel="ca.mau">
+    <title lang="vi">iới thiệu chương trình ngày 22 9</title>
+  </programme>
+  <programme start="20210922045500 +0700" stop="20210922050000 +0700" channel="ca.mau">
+    <title lang="vi">hạc hiệu - Giới thiệu chương trình trong ngày</title>
+  </programme>
+  <programme start="20210922050000 +0700" stop="20210922054500 +0700" channel="ca.mau">
+    <title lang="vi">him truyện Trung Quốc</title>
+    <desc lang="vi">Kiếm vương triều (tập 18)\/34, (pl 17h).(n)</desc>
+  </programme>
+  <programme start="20210922054500 +0700" stop="20210922060000 +0700" channel="ca.mau">
+    <title lang="vi">a nhạc</title>
+  </programme>
+  <programme start="20210922060000 +0700" stop="20210922062500 +0700" channel="ca.mau">
+    <title lang="vi">huyển động Ngày mới</title>
+  </programme>
+  <programme start="20210922062500 +0700" stop="20210922063500 +0700" channel="ca.mau">
+    <title lang="vi">ừ những miền quê</title>
+    <desc lang="vi">Làng Tày Đống Đa.(n)</desc>
+  </programme>
+  <programme start="20210922063500 +0700" stop="20210922065000 +0700" channel="ca.mau">
+    <title lang="vi">Đ – Khoa học và công nghệ</title>
+    <desc lang="vi">Ứng dụng công nghệ sinh học trong lưu trữ, bảo tồn giống vật nuôi, cây trồng có hiệu quả kinh tế cao trong tỉnh Cà Mau.(n)</desc>
+  </programme>
+  <programme start="20210922065000 +0700" stop="20210922071000 +0700" channel="ca.mau">
+    <title lang="vi">him Hoạt hình</title>
+    <desc lang="vi">Giờ phiêu lưu.(n)</desc>
+  </programme>
+  <programme start="20210922071000 +0700" stop="20210922072500 +0700" channel="ca.mau">
+    <title lang="vi">hông tin cần biết</title>
+  </programme>
+  <programme start="20210922072500 +0700" stop="20210922074500 +0700" channel="ca.mau">
+    <title lang="vi">him Sitcom</title>
+    <desc lang="vi">Hẻm không sợ vợ (tập 24)\/60 (pl).(n)</desc>
+  </programme>
+  <programme start="20210922074500 +0700" stop="20210922080000 +0700" channel="ca.mau">
+    <title lang="vi">ý sự</title>
+    <desc lang="vi">Đảo ngọc Việt Nam (tập 6)\/10.(n)</desc>
+  </programme>
+  <programme start="20210922080000 +0700" stop="20210922083000 +0700" channel="ca.mau">
+    <title lang="vi">him tài liệu</title>
+    <desc lang="vi">Hoàng Văn Thụ - Người cộng sản kiên trung bất khuất.(n)</desc>
+  </programme>
+  <programme start="20210922083000 +0700" stop="20210922090000 +0700" channel="ca.mau">
+    <title lang="vi">eries phim</title>
+    <desc lang="vi">Oh my ghost (tập 16)\/20.(n)</desc>
+  </programme>
+  <programme start="20210922090000 +0700" stop="20210922093000 +0700" channel="ca.mau">
+    <title lang="vi">alkshow</title>
+    <desc lang="vi">Con đường võ học (tập 12)\/26.(n)</desc>
+  </programme>
+  <programme start="20210922093000 +0700" stop="20210922100500 +0700" channel="ca.mau">
+    <title lang="vi">ăn học nghệ thuật</title>
+    <desc lang="vi">Người neo bóng sông quê.(n)</desc>
+  </programme>
+  <programme start="20210922100500 +0700" stop="20210922110000 +0700" channel="ca.mau">
+    <title lang="vi">him truyện Trung Quốc</title>
+    <desc lang="vi">Vương quốc thần bí (tập 57)\/62.(n)</desc>
+  </programme>
+  <programme start="20210922110000 +0700" stop="20210922113000 +0700" channel="ca.mau">
+    <title lang="vi">him Hoạt hình</title>
+    <desc lang="vi">Viên ngọc thần.(n)</desc>
+  </programme>
+  <programme start="20210922113000 +0700" stop="20210922115000 +0700" channel="ca.mau">
+    <title lang="vi">ản tin</title>
+  </programme>
+  <programme start="20210922115000 +0700" stop="20210922115500 +0700" channel="ca.mau">
+    <title lang="vi">ự báo thời tiết</title>
+  </programme>
+  <programme start="20210922115500 +0700" stop="20210922120500 +0700" channel="ca.mau">
+    <title lang="vi">hông tin cần biết - (Quảng cáo)</title>
+  </programme>
+  <programme start="20210922120500 +0700" stop="20210922125500 +0700" channel="ca.mau">
+    <title lang="vi">him truyện Hàn Quốc</title>
+    <desc lang="vi">Hành vi phạm tội (tập 25)\/28.(n)</desc>
+  </programme>
+  <programme start="20210922125500 +0700" stop="20210922131000 +0700" channel="ca.mau">
+    <title lang="vi">ản tin Thị trường</title>
+  </programme>
+  <programme start="20210922131000 +0700" stop="20210922140000 +0700" channel="ca.mau">
+    <title lang="vi">him truyện Columbia</title>
+    <desc lang="vi">Escobar, kẻ sống sót (tập 34)\/60 (pl.(n)</desc>
+  </programme>
+  <programme start="20210922140000 +0700" stop="20210922143000 +0700" channel="ca.mau">
+    <title lang="vi">âu chuyện giao thông (pl)</title>
+  </programme>
+  <programme start="20210922143000 +0700" stop="20210922151000 +0700" channel="ca.mau">
+    <title lang="vi">alkshow</title>
+    <desc lang="vi">Alo Bác sĩ nghe (phát lại số 38).(n)</desc>
+  </programme>
+  <programme start="20210922151000 +0700" stop="20210922160500 +0700" channel="ca.mau">
+    <title lang="vi">him truyện Việt Nam</title>
+    <desc lang="vi">Mẹ hổ dạy con dâu (tập 26)\/40.(n)</desc>
+  </programme>
+  <programme start="20210922160500 +0700" stop="20210922161500 +0700" channel="ca.mau">
+    <title lang="vi">hám phá Việt Nam</title>
+    <desc lang="vi">Sách lụa triều Nguyễn.(n)</desc>
+  </programme>
+  <programme start="20210922161500 +0700" stop="20210922170000 +0700" channel="ca.mau">
+    <title lang="vi">hương trình nhạc trẻ (số 38)</title>
+  </programme>
+  <programme start="20210922170000 +0700" stop="20210922175000 +0700" channel="ca.mau">
+    <title lang="vi">him truyện Trung Quốc</title>
+    <desc lang="vi">Kiếm vương triều (tập 19)\/34.(n)</desc>
+  </programme>
+  <programme start="20210922175000 +0700" stop="20210922180500 +0700" channel="ca.mau">
+    <title lang="vi">him Hoạt hình</title>
+    <desc lang="vi">Thợ săn tiến thưởng.(n)</desc>
+  </programme>
+  <programme start="20210922180500 +0700" stop="20210922181500 +0700" channel="ca.mau">
+    <title lang="vi">in đó đây</title>
+  </programme>
+  <programme start="20210922181500 +0700" stop="20210922183000 +0700" channel="ca.mau">
+    <title lang="vi">hông tin cần biết</title>
+  </programme>
+  <programme start="20210922183000 +0700" stop="20210922190000 +0700" channel="ca.mau">
+    <title lang="vi">hời sự Đài PT-TH Cà Mau (CTV) - Dự báo thời tiết</title>
+  </programme>
+  <programme start="20210922190000 +0700" stop="20210922194500 +0700" channel="ca.mau">
+    <title lang="vi">iếp sóng Thời sự Đài THVN (VTV)</title>
+  </programme>
+  <programme start="20210922194500 +0700" stop="20210922195000 +0700" channel="ca.mau">
+    <title lang="vi">ản tin Covid - 19</title>
+  </programme>
+  <programme start="20210922195000 +0700" stop="20210922203500 +0700" channel="ca.mau">
+    <title lang="vi">him truyện Việt Nam</title>
+    <desc lang="vi">Giọt nước mắt hận thù (tập 32)\/33.(n)</desc>
+  </programme>
+  <programme start="20210922203500 +0700" stop="20210922204500 +0700" channel="ca.mau">
+    <title lang="vi">ản tin Thị trường (pl)</title>
+  </programme>
+  <programme start="20210922204500 +0700" stop="20210922213000 +0700" channel="ca.mau">
+    <title lang="vi">Đang cập nhật</title>
+  </programme>
+  <programme start="20210922213000 +0700" stop="20210922215000 +0700" channel="ca.mau">
+    <title lang="vi">Đ – Khoa học và công nghệ</title>
+    <desc lang="vi">Ứng dụng công nghệ sinh học trong lưu trữ, bảo tồn giống vật nuôi, cây trồng có hiệu quả kinh tế cao trong tỉnh Cà Mau.(n)</desc>
+  </programme>
+  <programme start="20210922215000 +0700" stop="20210922220500 +0700" channel="ca.mau">
+    <title lang="vi">him Sitcom</title>
+    <desc lang="vi">Hẻm không sợ vợ (tập 25)\/60.(n)</desc>
+  </programme>
+  <programme start="20210922220500 +0700" stop="20210922224000 +0700" channel="ca.mau">
+    <title lang="vi">a nhạc theo yêu cầu (pl thứ 3)</title>
+  </programme>
+  <programme start="20210922224000 +0700" stop="20210922230500 +0700" channel="ca.mau">
+    <title lang="vi">eries phim</title>
+    <desc lang="vi">Oh my ghost (tập 16)\/20, pl.(n)</desc>
+  </programme>
+  <programme start="20210922230500 +0700" stop="20210922231500 +0700" channel="ca.mau">
+    <title lang="vi">in đó đây (phát lại)</title>
+  </programme>
+  <programme start="20210922231500 +0700" stop="20210922235900 +0700" channel="ca.mau">
     <title lang="vi">him truyện Trung Quốc</title>
     <desc lang="vi">Vương quốc thần bí (tập )\/62, (phát lại.(n)</desc>
   </programme>

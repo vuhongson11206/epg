@@ -44,1246 +44,1826 @@
     <display-name lang="vi">HTV Thể Thao HD</display-name>
     <url>http://www.cliptv.vn</url>
   </channel>
-  <programme start="20210919090000 +0700" stop="20210919094500 +0700" channel="vinh.long1">
-    <title lang="vi">Giải trí truyền hình: Cười Xuyên Việt</title>
-  </programme>
-  <programme start="20210919094500 +0700" stop="20210919101000 +0700" channel="vinh.long1">
-    <title lang="vi">Nhịp sống đồng bằng</title>
-  </programme>
-  <programme start="20210919101000 +0700" stop="20210919103000 +0700" channel="vinh.long1">
-    <title lang="vi">Chuyện hậu trường</title>
-  </programme>
-  <programme start="20210919103000 +0700" stop="20210919110000 +0700" channel="vinh.long1">
-    <title lang="vi">Giải mã sức khỏe</title>
-  </programme>
-  <programme start="20210919110000 +0700" stop="20210919111000 +0700" channel="vinh.long1">
-    <title lang="vi">Bản tin trưa</title>
-  </programme>
-  <programme start="20210919111000 +0700" stop="20210919115000 +0700" channel="vinh.long1">
-    <title lang="vi">Người đưa tin 24H</title>
-  </programme>
-  <programme start="20210919115000 +0700" stop="20210919120000 +0700" channel="vinh.long1">
-    <title lang="vi">Phút thư giãn</title>
-  </programme>
-  <programme start="20210919120000 +0700" stop="20210919125000 +0700" channel="vinh.long1">
-    <title lang="vi">Phim Ấn Độ: Aladdin và cây đèn thần</title>
-    <desc lang="vi">P1-T.43.(n)</desc>
-  </programme>
-  <programme start="20210919125000 +0700" stop="20210919130000 +0700" channel="vinh.long1">
-    <title lang="vi">Bác sĩ gia đình</title>
-  </programme>
-  <programme start="20210919130000 +0700" stop="20210919140000 +0700" channel="vinh.long1">
-    <title lang="vi">Phim Croatia: Vì yêu</title>
-    <desc lang="vi">Tập 65.(n)</desc>
-  </programme>
-  <programme start="20210919140000 +0700" stop="20210919145000 +0700" channel="vinh.long1">
-    <title lang="vi">Phim Việt Nam: Hai người vợ</title>
-    <desc lang="vi">T.15.(n)</desc>
-  </programme>
-  <programme start="20210919145000 +0700" stop="20210919150000 +0700" channel="vinh.long1">
-    <title lang="vi">Thế giới quanh ta</title>
-  </programme>
-  <programme start="20210919150000 +0700" stop="20210919154500 +0700" channel="vinh.long1">
-    <title lang="vi">Chất lượng cuộc sống</title>
-  </programme>
-  <programme start="20210919154500 +0700" stop="20210919160000 +0700" channel="vinh.long1">
-    <title lang="vi">Bí quyết sống khỏe</title>
-  </programme>
-  <programme start="20210919160000 +0700" stop="20210919162000 +0700" channel="vinh.long1">
-    <title lang="vi">Niềm tin Blouse trắng</title>
-  </programme>
-  <programme start="20210919162000 +0700" stop="20210919164000 +0700" channel="vinh.long1">
-    <title lang="vi">Ký sự truyền hình: Tác nghiệp ngày giãn cách</title>
-  </programme>
-  <programme start="20210919164000 +0700" stop="20210919170000 +0700" channel="vinh.long1">
-    <title lang="vi">Chuyện cảnh giác</title>
-  </programme>
-  <programme start="20210919170000 +0700" stop="20210919173000 +0700" channel="vinh.long1">
-    <title lang="vi">Phụ nữ ngày nay</title>
-  </programme>
-  <programme start="20210919173000 +0700" stop="20210919183000 +0700" channel="vinh.long1">
-    <title lang="vi">Phim Đài Loan: Đại thời đại</title>
-    <desc lang="vi">T.864 (HẾT).(n)</desc>
-  </programme>
-  <programme start="20210919183000 +0700" stop="20210919190000 +0700" channel="vinh.long1">
-    <title lang="vi">Thời sự Vĩnh Long</title>
-  </programme>
-  <programme start="20210919190000 +0700" stop="20210919191000 +0700" channel="vinh.long1">
-    <title lang="vi">Thời tiết nông vụ</title>
-  </programme>
-  <programme start="20210919191000 +0700" stop="20210919194000 +0700" channel="vinh.long1">
-    <title lang="vi">Thần tài gõ cửa</title>
-  </programme>
-  <programme start="20210919194000 +0700" stop="20210919195000 +0700" channel="vinh.long1">
-    <title lang="vi">Hành trình hương vị</title>
-  </programme>
-  <programme start="20210919195000 +0700" stop="20210919200500 +0700" channel="vinh.long1">
-    <title lang="vi">Phim ngắn cuối tuần: Tôi và nó</title>
-  </programme>
-  <programme start="20210919200500 +0700" stop="20210919203000 +0700" channel="vinh.long1">
-    <title lang="vi">Cổ tích Việt Nam: Gái khôn được chồng</title>
-    <desc lang="vi">T.29.(n)</desc>
-  </programme>
-  <programme start="20210919203000 +0700" stop="20210919210000 +0700" channel="vinh.long1">
-    <title lang="vi">Vợ tôi là số 1</title>
-  </programme>
-  <programme start="20210919210000 +0700" stop="20210919220000 +0700" channel="vinh.long1">
-    <title lang="vi">Giải trí truyền hình: Người hát tình ca</title>
-  </programme>
-  <programme start="20210919220000 +0700" stop="20210919223000 +0700" channel="vinh.long1">
-    <title lang="vi">Phim Đài Loan: Nhân gian huyền ảo tân truyện</title>
-    <desc lang="vi">T267.(n)</desc>
-  </programme>
-  <programme start="20210919223000 +0700" stop="20210919230000 +0700" channel="vinh.long1">
-    <title lang="vi">Phim Trung Quốc: Quỷ Cốc Tử</title>
-    <desc lang="vi">T.12.(n)</desc>
-  </programme>
-  <programme start="20210919230000 +0700" stop="20210919232000 +0700" channel="vinh.long1">
-    <title lang="vi">Thế giới trước 0H</title>
-  </programme>
-  <programme start="20210919232000 +0700" stop="20210919234000 +0700" channel="vinh.long1">
-    <title lang="vi">Thế giới giải trí</title>
-  </programme>
-  <programme start="20210919234000 +0700" stop="20210920000000 +0700" channel="vinh.long1">
-    <title lang="vi">Tạp chí khoa học</title>
-  </programme>
-  <programme start="20210920000000 +0700" stop="20210920004500 +0700" channel="vinh.long1">
-    <title lang="vi">Phim Ấn Độ: Aladdin và cây đèn thần</title>
-    <desc lang="vi">P1-T.43.(n)</desc>
-  </programme>
-  <programme start="20210920004500 +0700" stop="20210920013000 +0700" channel="vinh.long1">
-    <title lang="vi">Phim Croatia: Vì yêu</title>
-    <desc lang="vi">Tập 65.(n)</desc>
-  </programme>
-  <programme start="20210920013000 +0700" stop="20210920014500 +0700" channel="vinh.long1">
-    <title lang="vi">Ký sự truyền hình: Kể chuyện tác nghiệp</title>
-  </programme>
-  <programme start="20210920014500 +0700" stop="20210920020000 +0700" channel="vinh.long1">
-    <title lang="vi">Nhịp sống đồng bằng</title>
-  </programme>
-  <programme start="20210920020000 +0700" stop="20210920022000 +0700" channel="vinh.long1">
-    <title lang="vi">Nhìn ra thế giới</title>
-  </programme>
-  <programme start="20210920022000 +0700" stop="20210920025000 +0700" channel="vinh.long1">
-    <title lang="vi">Thần tài gõ cửa</title>
-  </programme>
-  <programme start="20210920025000 +0700" stop="20210920032500 +0700" channel="vinh.long1">
-    <title lang="vi">Vợ tôi là số 1</title>
-  </programme>
-  <programme start="20210920032500 +0700" stop="20210920035000 +0700" channel="vinh.long1">
-    <title lang="vi">Quyền năng phái đẹp</title>
-  </programme>
-  <programme start="20210920035000 +0700" stop="20210920041500 +0700" channel="vinh.long1">
-    <title lang="vi">Phim Trung Quốc: Quỷ Cốc Tử – T.12</title>
-  </programme>
-  <programme start="20210920041500 +0700" stop="20210920050000 +0700" channel="vinh.long1">
-    <title lang="vi">Giải trí truyền hình: Người hát tình ca</title>
-  </programme>
-  <programme start="20210920050000 +0700" stop="20210920054500 +0700" channel="vinh.long1">
-    <title lang="vi">Ca nhạc</title>
-  </programme>
-  <programme start="20210920054500 +0700" stop="20210920060000 +0700" channel="vinh.long1">
-    <title lang="vi">Xây dựng Đảng</title>
-  </programme>
-  <programme start="20210920060000 +0700" stop="20210920063000 +0700" channel="vinh.long1">
-    <title lang="vi">Chào buổi sáng</title>
-  </programme>
-  <programme start="20210920063000 +0700" stop="20210920071500 +0700" channel="vinh.long1">
-    <title lang="vi">Người đưa tin 24H</title>
-  </programme>
-  <programme start="20210920071500 +0700" stop="20210920073500 +0700" channel="vinh.long1">
-    <title lang="vi">Ký sự truyền hình: Tác nghiệp ngày giãn cách</title>
-  </programme>
-  <programme start="20210920073500 +0700" stop="20210920075000 +0700" channel="vinh.long1">
-    <title lang="vi">Phim hoạt hình: Truyền thuyết các chiến binh</title>
-    <desc lang="vi">T.31.(n)</desc>
-  </programme>
-  <programme start="20210920075000 +0700" stop="20210920083500 +0700" channel="vinh.long1">
-    <title lang="vi">Phim Việt Nam: Song sinh bí ẩn</title>
-    <desc lang="vi">Tập 10.(n)</desc>
-  </programme>
-  <programme start="20210920083500 +0700" stop="20210920090000 +0700" channel="vinh.long1">
-    <title lang="vi">Cả nhà cùng vui</title>
-  </programme>
-  <programme start="20210920090000 +0700" stop="20210920094500 +0700" channel="vinh.long1">
-    <title lang="vi">Cười Xuyên Việt</title>
-  </programme>
-  <programme start="20210920094500 +0700" stop="20210920100000 +0700" channel="vinh.long1">
-    <title lang="vi">Nông nghiệp bền vững</title>
-  </programme>
-  <programme start="20210920100000 +0700" stop="20210920103000 +0700" channel="vinh.long1">
-    <title lang="vi">Sức khỏe trong tầm tay</title>
-  </programme>
-  <programme start="20210920103000 +0700" stop="20210920110000 +0700" channel="vinh.long1">
-    <title lang="vi">Phụ nữ ngày nay</title>
-  </programme>
-  <programme start="20210920110000 +0700" stop="20210920111000 +0700" channel="vinh.long1">
-    <title lang="vi">Bản tin trưa</title>
-  </programme>
-  <programme start="20210920111000 +0700" stop="20210920115000 +0700" channel="vinh.long1">
-    <title lang="vi">Người đưa tin 24H</title>
-  </programme>
-  <programme start="20210920115000 +0700" stop="20210920120000 +0700" channel="vinh.long1">
-    <title lang="vi">Phút thư giãn</title>
-  </programme>
-  <programme start="20210920120000 +0700" stop="20210920125500 +0700" channel="vinh.long1">
-    <title lang="vi">Phim Ấn Độ: Aladdin và cây đèn thần</title>
-    <desc lang="vi">P1-T.44.(n)</desc>
-  </programme>
-  <programme start="20210920125500 +0700" stop="20210920130000 +0700" channel="vinh.long1">
-    <title lang="vi">Sống khỏe mỗi ngày</title>
-  </programme>
-  <programme start="20210920130000 +0700" stop="20210920140000 +0700" channel="vinh.long1">
-    <title lang="vi">Phim Croatia: Vì yêu</title>
-    <desc lang="vi">Tập 66.(n)</desc>
-  </programme>
-  <programme start="20210920140000 +0700" stop="20210920145000 +0700" channel="vinh.long1">
-    <title lang="vi">Phim Việt Nam: Hai người vợ</title>
-    <desc lang="vi">T.16.(n)</desc>
-  </programme>
-  <programme start="20210920145000 +0700" stop="20210920150000 +0700" channel="vinh.long1">
-    <title lang="vi">Thế giới quanh ta</title>
-  </programme>
-  <programme start="20210920150000 +0700" stop="20210920160000 +0700" channel="vinh.long1">
-    <title lang="vi">Phim Việt Nam: Vua bánh mì</title>
-    <desc lang="vi">T.51.(n)</desc>
-  </programme>
-  <programme start="20210920160000 +0700" stop="20210920162000 +0700" channel="vinh.long1">
-    <title lang="vi">Niềm tin hàng Việt</title>
-  </programme>
-  <programme start="20210920162000 +0700" stop="20210920164000 +0700" channel="vinh.long1">
-    <title lang="vi">Ký sự truyền hình: Vĩnh Long</title>
-    <desc lang="vi">Đất sử tình người-T.11.(n)</desc>
-  </programme>
-  <programme start="20210920164000 +0700" stop="20210920170000 +0700" channel="vinh.long1">
-    <title lang="vi">Phim trên THVL</title>
-  </programme>
-  <programme start="20210920170000 +0700" stop="20210920173000 +0700" channel="vinh.long1">
+  <programme start="20210921083500 +0700" stop="20210921090000 +0700" channel="vinh.long1">
     <title lang="vi">Phim Việt Nam: Tiếng sét trong mưa</title>
     <desc lang="vi">T.16.(n)</desc>
   </programme>
-  <programme start="20210920173000 +0700" stop="20210920183000 +0700" channel="vinh.long1">
-    <title lang="vi">Phim Thái Lan: Chiêu trò lừa gạt</title>
-    <desc lang="vi">Tập 1.(n)</desc>
+  <programme start="20210921090000 +0700" stop="20210921094500 +0700" channel="vinh.long1">
+    <title lang="vi">Giải trí truyền hình: Cười Xuyên Việt</title>
   </programme>
-  <programme start="20210920183000 +0700" stop="20210920190000 +0700" channel="vinh.long1">
-    <title lang="vi">Thời sự Vĩnh Long</title>
+  <programme start="20210921094500 +0700" stop="20210921100000 +0700" channel="vinh.long1">
+    <title lang="vi">Đời sống pháp luật</title>
   </programme>
-  <programme start="20210920190000 +0700" stop="20210920191000 +0700" channel="vinh.long1">
-    <title lang="vi">Thời tiết nông vụ</title>
+  <programme start="20210921100000 +0700" stop="20210921103000 +0700" channel="vinh.long1">
+    <title lang="vi">Sức khỏe trong tầm tay</title>
   </programme>
-  <programme start="20210920191000 +0700" stop="20210920191500 +0700" channel="vinh.long1">
-    <title lang="vi">Dự báo sâu bệnh hại cây trồng</title>
-  </programme>
-  <programme start="20210920191500 +0700" stop="20210920194500 +0700" channel="vinh.long1">
+  <programme start="20210921103000 +0700" stop="20210921110000 +0700" channel="vinh.long1">
     <title lang="vi">Bản lĩnh ngôi sao</title>
   </programme>
-  <programme start="20210920194500 +0700" stop="20210920195000 +0700" channel="vinh.long1">
+  <programme start="20210921110000 +0700" stop="20210921111000 +0700" channel="vinh.long1">
+    <title lang="vi">Bản tin trưa</title>
+  </programme>
+  <programme start="20210921111000 +0700" stop="20210921115500 +0700" channel="vinh.long1">
+    <title lang="vi">Người đưa tin 24H</title>
+  </programme>
+  <programme start="20210921115500 +0700" stop="20210921120000 +0700" channel="vinh.long1">
+    <title lang="vi">Phút thư giãn</title>
+  </programme>
+  <programme start="20210921120000 +0700" stop="20210921125500 +0700" channel="vinh.long1">
+    <title lang="vi">Phim Ấn Độ: Aladdin và cây đèn thần</title>
+    <desc lang="vi">P1-T.45.(n)</desc>
+  </programme>
+  <programme start="20210921125500 +0700" stop="20210921130000 +0700" channel="vinh.long1">
+    <title lang="vi">Sống khỏe mỗi ngày</title>
+  </programme>
+  <programme start="20210921130000 +0700" stop="20210921140000 +0700" channel="vinh.long1">
+    <title lang="vi">Phim Croatia: Vì yêu</title>
+    <desc lang="vi">Tập 67.(n)</desc>
+  </programme>
+  <programme start="20210921140000 +0700" stop="20210921145000 +0700" channel="vinh.long1">
+    <title lang="vi">Phim Việt Nam: Hai người vợ</title>
+    <desc lang="vi">T.17.(n)</desc>
+  </programme>
+  <programme start="20210921145000 +0700" stop="20210921150000 +0700" channel="vinh.long1">
+    <title lang="vi">Thế giới quanh ta</title>
+  </programme>
+  <programme start="20210921150000 +0700" stop="20210921160000 +0700" channel="vinh.long1">
+    <title lang="vi">Phim Việt Nam: Vua bánh mì</title>
+    <desc lang="vi">T.52.(n)</desc>
+  </programme>
+  <programme start="20210921160000 +0700" stop="20210921162000 +0700" channel="vinh.long1">
+    <title lang="vi">Cẩm nang Bác sĩ gia đình</title>
+  </programme>
+  <programme start="20210921162000 +0700" stop="20210921164000 +0700" channel="vinh.long1">
+    <title lang="vi">Ký sự truyền hình: Vĩnh Long</title>
+    <desc lang="vi">Đất sử tình người-T. 12.(n)</desc>
+  </programme>
+  <programme start="20210921164000 +0700" stop="20210921170000 +0700" channel="vinh.long1">
+    <title lang="vi">Phim ngắn cuối tuần: Nó và tôi</title>
+  </programme>
+  <programme start="20210921170000 +0700" stop="20210921173000 +0700" channel="vinh.long1">
+    <title lang="vi">Phim Việt Nam: Tiếng sét trong mưa</title>
+    <desc lang="vi">T.17.(n)</desc>
+  </programme>
+  <programme start="20210921173000 +0700" stop="20210921183000 +0700" channel="vinh.long1">
+    <title lang="vi">Phim Thái Lan: Chiêu trò lừa gạt</title>
+    <desc lang="vi">Tập 2.(n)</desc>
+  </programme>
+  <programme start="20210921183000 +0700" stop="20210921190000 +0700" channel="vinh.long1">
+    <title lang="vi">Thời sự Vĩnh Long</title>
+  </programme>
+  <programme start="20210921190000 +0700" stop="20210921191000 +0700" channel="vinh.long1">
+    <title lang="vi">Thời tiết nông vụ</title>
+  </programme>
+  <programme start="20210921191000 +0700" stop="20210921191500 +0700" channel="vinh.long1">
+    <title lang="vi">Nhà nông hội nhập</title>
+  </programme>
+  <programme start="20210921191500 +0700" stop="20210921194500 +0700" channel="vinh.long1">
+    <title lang="vi">Giải mã tri kỷ</title>
+  </programme>
+  <programme start="20210921194500 +0700" stop="20210921195000 +0700" channel="vinh.long1">
     <title lang="vi">Dr. Khỏe</title>
   </programme>
-  <programme start="20210920195000 +0700" stop="20210920200000 +0700" channel="vinh.long1">
-    <title lang="vi">Lời cảnh báo</title>
+  <programme start="20210921195000 +0700" stop="20210921200000 +0700" channel="vinh.long1">
+    <title lang="vi">Câu chuyện cuộc sống</title>
   </programme>
-  <programme start="20210920200000 +0700" stop="20210920205000 +0700" channel="vinh.long1">
+  <programme start="20210921200000 +0700" stop="20210921205000 +0700" channel="vinh.long1">
     <title lang="vi">Phim Việt Nam: Canh bạc tình yêu</title>
-    <desc lang="vi">Tập 74.(n)</desc>
+    <desc lang="vi">Tập 75.(n)</desc>
   </programme>
-  <programme start="20210920205000 +0700" stop="20210920210000 +0700" channel="vinh.long1">
+  <programme start="20210921205000 +0700" stop="20210921210000 +0700" channel="vinh.long1">
     <title lang="vi">Phim hoạt hình: Chú Cuội cung trăng</title>
-    <desc lang="vi">Tập 4.(n)</desc>
+    <desc lang="vi">Tập 5.(n)</desc>
   </programme>
-  <programme start="20210920210000 +0700" stop="20210920220000 +0700" channel="vinh.long1">
+  <programme start="20210921210000 +0700" stop="20210921220000 +0700" channel="vinh.long1">
     <title lang="vi">Phim Thái Lan: Vùng đất huyền bí</title>
-    <desc lang="vi">Tập 16.(n)</desc>
+    <desc lang="vi">Tập 17.(n)</desc>
   </programme>
-  <programme start="20210920220000 +0700" stop="20210920223000 +0700" channel="vinh.long1">
-    <title lang="vi">Phim Đài Loan: Nhân gian huyền ảo tân truyện–T268</title>
+  <programme start="20210921220000 +0700" stop="20210921223000 +0700" channel="vinh.long1">
+    <title lang="vi">Phim Đài Loan: Nhân gian huyền ảo tân truyện</title>
+    <desc lang="vi">T269.(n)</desc>
   </programme>
-  <programme start="20210920223000 +0700" stop="20210920230000 +0700" channel="vinh.long1">
+  <programme start="20210921223000 +0700" stop="20210921230000 +0700" channel="vinh.long1">
     <title lang="vi">Phim Trung Quốc: Quỷ Cốc Tử</title>
-    <desc lang="vi">T.13.(n)</desc>
+    <desc lang="vi">T.14.(n)</desc>
   </programme>
-  <programme start="20210920230000 +0700" stop="20210920232000 +0700" channel="vinh.long1">
+  <programme start="20210921230000 +0700" stop="20210921232000 +0700" channel="vinh.long1">
     <title lang="vi">Thế giới trước 0H</title>
   </programme>
-  <programme start="20210920232000 +0700" stop="20210920234000 +0700" channel="vinh.long1">
+  <programme start="20210921232000 +0700" stop="20210921234000 +0700" channel="vinh.long1">
+    <title lang="vi">Không gian xanh</title>
+  </programme>
+  <programme start="20210921234000 +0700" stop="20210922000000 +0700" channel="vinh.long1">
+    <title lang="vi">Nhìn ra thế giới</title>
+  </programme>
+  <programme start="20210922000000 +0700" stop="20210922004500 +0700" channel="vinh.long1">
+    <title lang="vi">Phim Ấn Độ: Aladdin và cây đèn thần</title>
+    <desc lang="vi">P1-T.45.(n)</desc>
+  </programme>
+  <programme start="20210922004500 +0700" stop="20210922013000 +0700" channel="vinh.long1">
+    <title lang="vi">Phim Croatia: Vì yêu</title>
+    <desc lang="vi">Tập 67.(n)</desc>
+  </programme>
+  <programme start="20210922013000 +0700" stop="20210922014500 +0700" channel="vinh.long1">
+    <title lang="vi">Ký sự truyền hình: Đường về bình an</title>
+  </programme>
+  <programme start="20210922014500 +0700" stop="20210922020000 +0700" channel="vinh.long1">
+    <title lang="vi">Văn minh đô thị</title>
+  </programme>
+  <programme start="20210922020000 +0700" stop="20210922022000 +0700" channel="vinh.long1">
     <title lang="vi">Ẩm thực nước ngoài</title>
   </programme>
-  <programme start="20210919090000 +0700" stop="20210919100000 +0700" channel="vtc7">
-    <title lang="vi">Vú em bất đắc dĩ</title>
-    <desc lang="vi">Tập 13.(n)</desc>
+  <programme start="20210922022000 +0700" stop="20210922024000 +0700" channel="vinh.long1">
+    <title lang="vi">Thế giới động vật</title>
   </programme>
-  <programme start="20210919100000 +0700" stop="20210919103000 +0700" channel="vtc7">
-    <title lang="vi">Just for laugh 2021</title>
-    <desc lang="vi">Số 2.(n)</desc>
+  <programme start="20210922024000 +0700" stop="20210922032500 +0700" channel="vinh.long1">
+    <title lang="vi">Phim Việt Nam: Canh bạc tình yêu</title>
+    <desc lang="vi">Tập 75.(n)</desc>
   </programme>
-  <programme start="20210919103000 +0700" stop="20210919110000 +0700" channel="vtc7">
-    <title lang="vi">Tiếp sức hồi sinh</title>
-    <desc lang="vi">Số 422.(n)</desc>
+  <programme start="20210922032500 +0700" stop="20210922035000 +0700" channel="vinh.long1">
+    <title lang="vi">Cả nhà cùng vui</title>
   </programme>
-  <programme start="20210919110000 +0700" stop="20210919120000 +0700" channel="vtc7">
-    <title lang="vi">WORLD STAGE</title>
-    <desc lang="vi">NHẠC HỘI TOÀN CẦU.(n)</desc>
+  <programme start="20210922035000 +0700" stop="20210922041500 +0700" channel="vinh.long1">
+    <title lang="vi">Phim Trung Quốc: Quỷ Cốc Tử</title>
+    <desc lang="vi">T.14.(n)</desc>
   </programme>
-  <programme start="20210919120000 +0700" stop="20210919130000 +0700" channel="vtc7">
-    <title lang="vi">Trở về hư không</title>
-    <desc lang="vi">Tập 11.(n)</desc>
+  <programme start="20210922041500 +0700" stop="20210922050000 +0700" channel="vinh.long1">
+    <title lang="vi">Giải trí truyền hình: Lò võ tiếu lâm</title>
   </programme>
-  <programme start="20210919130000 +0700" stop="20210919140000 +0700" channel="vtc7">
-    <title lang="vi">Lời nguyền gia tộc</title>
+  <programme start="20210922050000 +0700" stop="20210922054000 +0700" channel="vinh.long1">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20210922054000 +0700" stop="20210922055500 +0700" channel="vinh.long1">
+    <title lang="vi">Văn minh đô thị</title>
+  </programme>
+  <programme start="20210922055500 +0700" stop="20210922060000 +0700" channel="vinh.long1">
+    <title lang="vi">Nhà nông hội nhập</title>
+  </programme>
+  <programme start="20210922060000 +0700" stop="20210922063000 +0700" channel="vinh.long1">
+    <title lang="vi">Chào buổi sáng</title>
+  </programme>
+  <programme start="20210922063000 +0700" stop="20210922071500 +0700" channel="vinh.long1">
+    <title lang="vi">Người đưa tin 24H</title>
+  </programme>
+  <programme start="20210922071500 +0700" stop="20210922073500 +0700" channel="vinh.long1">
+    <title lang="vi">Phim tài liệu: Bí thư Tỉnh Ủy Vĩnh Long qua các thời kỳ</title>
+    <desc lang="vi">Tập 1.(n)</desc>
+  </programme>
+  <programme start="20210922073500 +0700" stop="20210922075000 +0700" channel="vinh.long1">
+    <title lang="vi">Phim hoạt hình: Truyền thuyết các chiến binh</title>
+    <desc lang="vi">T.33.(n)</desc>
+  </programme>
+  <programme start="20210922075000 +0700" stop="20210922083500 +0700" channel="vinh.long1">
+    <title lang="vi">Phim Việt Nam: Song sinh bí ẩn</title>
+    <desc lang="vi">Tập 12.(n)</desc>
+  </programme>
+  <programme start="20210922083500 +0700" stop="20210922090000 +0700" channel="vinh.long1">
+    <title lang="vi">Phim Việt Nam: Tiếng sét trong mưa</title>
+    <desc lang="vi">T.17.(n)</desc>
+  </programme>
+  <programme start="20210922090000 +0700" stop="20210922094500 +0700" channel="vinh.long1">
+    <title lang="vi">Giải trí truyền hình: Cười Xuyên Việt</title>
+  </programme>
+  <programme start="20210922094500 +0700" stop="20210922100000 +0700" channel="vinh.long1">
+    <title lang="vi">Sức khỏe của bạn</title>
+  </programme>
+  <programme start="20210922100000 +0700" stop="20210922103000 +0700" channel="vinh.long1">
+    <title lang="vi">Gặp Thầy giỏi, được thuốc hay</title>
+  </programme>
+  <programme start="20210922103000 +0700" stop="20210922110000 +0700" channel="vinh.long1">
+    <title lang="vi">Giải mã tri kỷ</title>
+  </programme>
+  <programme start="20210922110000 +0700" stop="20210922111000 +0700" channel="vinh.long1">
+    <title lang="vi">Bản tin trưa</title>
+  </programme>
+  <programme start="20210922111000 +0700" stop="20210922115500 +0700" channel="vinh.long1">
+    <title lang="vi">Người đưa tin 24H</title>
+  </programme>
+  <programme start="20210922115500 +0700" stop="20210922120000 +0700" channel="vinh.long1">
+    <title lang="vi">Phút thư giãn</title>
+  </programme>
+  <programme start="20210922120000 +0700" stop="20210922125500 +0700" channel="vinh.long1">
+    <title lang="vi">Phim Ấn Độ: Aladdin và cây đèn thần</title>
+    <desc lang="vi">P1-T.46.(n)</desc>
+  </programme>
+  <programme start="20210922125500 +0700" stop="20210922130000 +0700" channel="vinh.long1">
+    <title lang="vi">Sống khỏe mỗi ngày</title>
+  </programme>
+  <programme start="20210922130000 +0700" stop="20210922140000 +0700" channel="vinh.long1">
+    <title lang="vi">Phim Croatia: Vì yêu</title>
+    <desc lang="vi">Tập 68.(n)</desc>
+  </programme>
+  <programme start="20210922140000 +0700" stop="20210922145000 +0700" channel="vinh.long1">
+    <title lang="vi">Phim Việt Nam: Hai người vợ</title>
+    <desc lang="vi">T.18.(n)</desc>
+  </programme>
+  <programme start="20210922145000 +0700" stop="20210922150000 +0700" channel="vinh.long1">
+    <title lang="vi">Thế giới quanh ta</title>
+  </programme>
+  <programme start="20210922150000 +0700" stop="20210922160000 +0700" channel="vinh.long1">
+    <title lang="vi">Phim Việt Nam: Vua bánh mì</title>
+    <desc lang="vi">T.53.(n)</desc>
+  </programme>
+  <programme start="20210922160000 +0700" stop="20210922162000 +0700" channel="vinh.long1">
+    <title lang="vi">Bí quyết sống khỏe</title>
+  </programme>
+  <programme start="20210922162000 +0700" stop="20210922164000 +0700" channel="vinh.long1">
+    <title lang="vi">Ký sự truyền hình: Vĩnh Long</title>
+    <desc lang="vi">Đất sử tình người-T 13.(n)</desc>
+  </programme>
+  <programme start="20210922164000 +0700" stop="20210922170000 +0700" channel="vinh.long1">
+    <title lang="vi">Chuyện hậu trường</title>
+  </programme>
+  <programme start="20210922170000 +0700" stop="20210922173000 +0700" channel="vinh.long1">
+    <title lang="vi">Phim Việt Nam: Tiếng sét trong mưa</title>
+    <desc lang="vi">T.18.(n)</desc>
+  </programme>
+  <programme start="20210922173000 +0700" stop="20210922183000 +0700" channel="vinh.long1">
+    <title lang="vi">Phim Thái Lan: Chiêu trò lừa gạt</title>
+    <desc lang="vi">Tập 3.(n)</desc>
+  </programme>
+  <programme start="20210922183000 +0700" stop="20210922190000 +0700" channel="vinh.long1">
+    <title lang="vi">Thời sự Vĩnh Long</title>
+  </programme>
+  <programme start="20210922190000 +0700" stop="20210922191000 +0700" channel="vinh.long1">
+    <title lang="vi">Thời tiết nông vụ</title>
+  </programme>
+  <programme start="20210922191000 +0700" stop="20210922191500 +0700" channel="vinh.long1">
+    <title lang="vi">Nhà nông hội nhập</title>
+  </programme>
+  <programme start="20210922191500 +0700" stop="20210922194500 +0700" channel="vinh.long1">
+    <title lang="vi">Truy tìm cao thủ</title>
+  </programme>
+  <programme start="20210922194500 +0700" stop="20210922195000 +0700" channel="vinh.long1">
+    <title lang="vi">Dr. Khỏe</title>
+  </programme>
+  <programme start="20210922195000 +0700" stop="20210922200000 +0700" channel="vinh.long1">
+    <title lang="vi">Lời cảnh báo</title>
+  </programme>
+  <programme start="20210922200000 +0700" stop="20210922205000 +0700" channel="vinh.long1">
+    <title lang="vi">Phim Việt Nam: Canh bạc tình yêu</title>
+    <desc lang="vi">Tập 76.(n)</desc>
+  </programme>
+  <programme start="20210922205000 +0700" stop="20210922210000 +0700" channel="vinh.long1">
+    <title lang="vi">Phim hoạt hình: Chú Cuội cung trăng</title>
     <desc lang="vi">Tập 6.(n)</desc>
   </programme>
-  <programme start="20210919140000 +0700" stop="20210919150000 +0700" channel="vtc7">
-    <title lang="vi">Những khúc vọng xưa Ver 2019</title>
-    <desc lang="vi">Số 116.(n)</desc>
+  <programme start="20210922210000 +0700" stop="20210922215000 +0700" channel="vinh.long1">
+    <title lang="vi">Giải trí truyền hình: Chân dung cuộc tình</title>
   </programme>
-  <programme start="20210919150000 +0700" stop="20210919164000 +0700" channel="vtc7">
-    <title lang="vi">Hạc lệ hoa đình</title>
-    <desc lang="vi">Tập 57.(n)</desc>
+  <programme start="20210922215000 +0700" stop="20210922221000 +0700" channel="vinh.long1">
+    <title lang="vi">Cười cùng Bác Ba Phi</title>
   </programme>
-  <programme start="20210919164000 +0700" stop="20210919170000 +0700" channel="vtc7">
-    <title lang="vi">Mẹ yêu bé</title>
-    <desc lang="vi">Số 99.(n)</desc>
+  <programme start="20210922221000 +0700" stop="20210922223000 +0700" channel="vinh.long1">
+    <title lang="vi">Phim Đài Loan: Nhân gian huyền ảo tân truyện–T270</title>
   </programme>
-  <programme start="20210919170000 +0700" stop="20210919173000 +0700" channel="vtc7">
+  <programme start="20210922223000 +0700" stop="20210922230000 +0700" channel="vinh.long1">
+    <title lang="vi">Phim Trung Quốc: Quỷ Cốc Tử</title>
+    <desc lang="vi">T.15.(n)</desc>
+  </programme>
+  <programme start="20210922230000 +0700" stop="20210922232000 +0700" channel="vinh.long1">
+    <title lang="vi">Thế giới trước 0H</title>
+  </programme>
+  <programme start="20210922232000 +0700" stop="20210922234000 +0700" channel="vinh.long1">
+    <title lang="vi">Nhìn ra thế giới</title>
+  </programme>
+  <programme start="20210921090000 +0700" stop="20210921100000 +0700" channel="vtc7">
+    <title lang="vi">Vú em bất đắc dĩ</title>
+    <desc lang="vi">Tập 14.(n)</desc>
+  </programme>
+  <programme start="20210921100000 +0700" stop="20210921103000 +0700" channel="vtc7">
     <title lang="vi">Thế giới điện ảnh</title>
     <desc lang="vi">Số 489.(n)</desc>
   </programme>
-  <programme start="20210919173000 +0700" stop="20210919180000 +0700" channel="vtc7">
-    <title lang="vi">Just for laugh Ver 2021</title>
-    <desc lang="vi">Số 8.(n)</desc>
+  <programme start="20210921103000 +0700" stop="20210921110000 +0700" channel="vtc7">
+    <title lang="vi">Nhất gia bách truyện</title>
+    <desc lang="vi">Tập 199.(n)</desc>
   </programme>
-  <programme start="20210919180000 +0700" stop="20210919183000 +0700" channel="vtc7">
-    <title lang="vi">Tiếp sức hồi sinh</title>
-    <desc lang="vi">Số 417.(n)</desc>
+  <programme start="20210921110000 +0700" stop="20210921120000 +0700" channel="vtc7">
+    <title lang="vi">RIDICULOUSNESS</title>
+    <desc lang="vi">CƯỜI CHÚT CHƠI.(n)</desc>
   </programme>
-  <programme start="20210919183000 +0700" stop="20210919190000 +0700" channel="vtc7">
-    <title lang="vi">Đẹp không giới hạn</title>
-    <desc lang="vi">Số 84.(n)</desc>
+  <programme start="20210921120000 +0700" stop="20210921130000 +0700" channel="vtc7">
+    <title lang="vi">Trở về hư không</title>
+    <desc lang="vi">Tập 12.(n)</desc>
   </programme>
-  <programme start="20210919190000 +0700" stop="20210919200000 +0700" channel="vtc7">
-    <title lang="vi">Những khúc vọng xưa Ver 2019</title>
-    <desc lang="vi">Số 127.(n)</desc>
+  <programme start="20210921130000 +0700" stop="20210921140000 +0700" channel="vtc7">
+    <title lang="vi">Lời nguyền gia tộc</title>
+    <desc lang="vi">Tập 7.(n)</desc>
   </programme>
-  <programme start="20210919200000 +0700" stop="20210919220000 +0700" channel="vtc7">
-    <title lang="vi">Phong Thủy</title>
+  <programme start="20210921140000 +0700" stop="20210921150000 +0700" channel="vtc7">
+    <title lang="vi">Hành trình Bolero</title>
+    <desc lang="vi">Số 4.(n)</desc>
   </programme>
-  <programme start="20210919220000 +0700" stop="20210919230000 +0700" channel="vtc7">
-    <title lang="vi">Trò Chơi Tình Ái (Tập 27)</title>
+  <programme start="20210921150000 +0700" stop="20210921164000 +0700" channel="vtc7">
+    <title lang="vi">Hạc lệ hoa đình</title>
+    <desc lang="vi">Tập 58.(n)</desc>
   </programme>
-  <programme start="20210919230000 +0700" stop="20210920000000 +0700" channel="vtc7">
-    <title lang="vi">Tổng hợp Đại nhạc hội IMC</title>
-    <desc lang="vi">Số 3.(n)</desc>
+  <programme start="20210921164000 +0700" stop="20210921170000 +0700" channel="vtc7">
+    <title lang="vi">Chuyện nhà mình</title>
+    <desc lang="vi">Số 80.(n)</desc>
   </programme>
-  <programme start="20210920000000 +0700" stop="20210920010000 +0700" channel="vtc7">
+  <programme start="20210921170000 +0700" stop="20210921180000 +0700" channel="vtc7">
+    <title lang="vi">Vú em bất đắc dĩ</title>
+    <desc lang="vi">Tập 15.(n)</desc>
+  </programme>
+  <programme start="20210921180000 +0700" stop="20210921183000 +0700" channel="vtc7">
+    <title lang="vi">Today 18h</title>
+  </programme>
+  <programme start="20210921183000 +0700" stop="20210921190000 +0700" channel="vtc7">
+    <title lang="vi">Nhất gia bách truyện</title>
+    <desc lang="vi">Tập 200.(n)</desc>
+  </programme>
+  <programme start="20210921190000 +0700" stop="20210921200000 +0700" channel="vtc7">
+    <title lang="vi">Hạc lệ hoa đình</title>
+    <desc lang="vi">Tập 59.(n)</desc>
+  </programme>
+  <programme start="20210921200000 +0700" stop="20210921210000 +0700" channel="vtc7">
+    <title lang="vi">Trở về hư không</title>
+    <desc lang="vi">Tập 13.(n)</desc>
+  </programme>
+  <programme start="20210921210000 +0700" stop="20210921220000 +0700" channel="vtc7">
+    <title lang="vi">Lời nguyền gia tộc</title>
+    <desc lang="vi">Tập 8.(n)</desc>
+  </programme>
+  <programme start="20210921220000 +0700" stop="20210921230000 +0700" channel="vtc7">
+    <title lang="vi">Trò chơi tình ái</title>
+    <desc lang="vi">Tập 29.(n)</desc>
+  </programme>
+  <programme start="20210921230000 +0700" stop="20210921231500 +0700" channel="vtc7">
+    <title lang="vi">Today 18h</title>
+  </programme>
+  <programme start="20210921231500 +0700" stop="20210922000000 +0700" channel="vtc7">
+    <title lang="vi">Thế giới điện ảnh</title>
+    <desc lang="vi">Số 489.(n)</desc>
+  </programme>
+  <programme start="20210922000000 +0700" stop="20210922010000 +0700" channel="vtc7">
     <title lang="vi">Những khúc vọng xưa ver 2017</title>
-    <desc lang="vi">Số 65.(n)</desc>
+    <desc lang="vi">Số 67.(n)</desc>
   </programme>
-  <programme start="20210920010000 +0700" stop="20210920020000 +0700" channel="vtc7">
+  <programme start="20210922010000 +0700" stop="20210922020000 +0700" channel="vtc7">
     <title lang="vi">Thế giới âm nhạc</title>
-    <desc lang="vi">Số 242.(n)</desc>
+    <desc lang="vi">Số 243.(n)</desc>
   </programme>
-  <programme start="20210920020000 +0700" stop="20210920030000 +0700" channel="vtc7">
-    <title lang="vi">Những khúc vọng xưa Ver 2017</title>
-    <desc lang="vi">Số 54.(n)</desc>
+  <programme start="20210922020000 +0700" stop="20210922023000 +0700" channel="vtc7">
+    <title lang="vi">Today 18h</title>
   </programme>
-  <programme start="20210920030000 +0700" stop="20210920034500 +0700" channel="vtc7">
-    <title lang="vi">Thế giới âm nhạc</title>
-    <desc lang="vi">Số 245.(n)</desc>
+  <programme start="20210922023000 +0700" stop="20210922030000 +0700" channel="vtc7">
+    <title lang="vi">Chuyện nhà mình</title>
+    <desc lang="vi">Số 75.(n)</desc>
   </programme>
-  <programme start="20210920034500 +0700" stop="20210920044500 +0700" channel="vtc7">
-    <title lang="vi">Những khúc vọng xưa ver 2019</title>
-    <desc lang="vi">Số 17.(n)</desc>
-  </programme>
-  <programme start="20210920044500 +0700" stop="20210920053000 +0700" channel="vtc7">
+  <programme start="20210922030000 +0700" stop="20210922034500 +0700" channel="vtc7">
     <title lang="vi">Thế giới âm nhạc</title>
     <desc lang="vi">Số 246.(n)</desc>
   </programme>
-  <programme start="20210920190000 +0700" stop="20210920200000 +0700" channel="vtc7">
-    <title lang="vi">Hạc Lệ Hoa Đình (Tập 58)</title>
+  <programme start="20210922034500 +0700" stop="20210922043000 +0700" channel="vtc7">
+    <title lang="vi">Những khúc vọng xưa ver 2019</title>
+    <desc lang="vi">Số 19.(n)</desc>
   </programme>
-  <programme start="20210920200000 +0700" stop="20210920210000 +0700" channel="vtc7">
-    <title lang="vi">Trở Về Hư Không (Tập 12)</title>
+  <programme start="20210922043000 +0700" stop="20210922044500 +0700" channel="vtc7">
+    <title lang="vi">Today 18h</title>
   </programme>
-  <programme start="20210920210000 +0700" stop="20210920220000 +0700" channel="vtc7">
-    <title lang="vi">Lời Nguyền Gia Tộc (Tập 7)</title>
+  <programme start="20210922044500 +0700" stop="20210922053000 +0700" channel="vtc7">
+    <title lang="vi">Thế giới âm nhạc</title>
+    <desc lang="vi">Số 247.(n)</desc>
   </programme>
-  <programme start="20210919090000 +0700" stop="20210919100000 +0700" channel="htv2">
-    <title lang="vi">Phim truyện HQ (24T)</title>
-    <desc lang="vi">Thời gian còn mãi 3.(n)</desc>
+  <programme start="20210922053000 +0700" stop="20210922060000 +0700" channel="vtc7">
+    <title lang="vi">Chuyện nhà mình</title>
+    <desc lang="vi">Số 76.(n)</desc>
   </programme>
-  <programme start="20210919100000 +0700" stop="20210919110000 +0700" channel="htv2">
-    <title lang="vi">Phim truyện TQ (70T)</title>
-    <desc lang="vi">Diên Hy công lược 5.(n)</desc>
+  <programme start="20210922060000 +0700" stop="20210922063000 +0700" channel="vtc7">
+    <title lang="vi">Vũ điệu cuộc sống</title>
+    <desc lang="vi">Số 1.(n)</desc>
   </programme>
-  <programme start="20210919110000 +0700" stop="20210919114500 +0700" channel="htv2">
-    <title lang="vi">Giải trí</title>
-    <desc lang="vi">Tài tiếu tuyệt - Mùa 6 41.(n)</desc>
+  <programme start="20210922063000 +0700" stop="20210922070000 +0700" channel="vtc7">
+    <title lang="vi">Nhỏ to cùng mẹ</title>
+    <desc lang="vi">Số 12.(n)</desc>
   </programme>
-  <programme start="20210919114500 +0700" stop="20210919124500 +0700" channel="htv2">
-    <title lang="vi">Phim truyện HQ (52T)</title>
-    <desc lang="vi">Cơn gió tình yêu 28.(n)</desc>
+  <programme start="20210922070000 +0700" stop="20210922080000 +0700" channel="vtc7">
+    <title lang="vi">Những khúc vọng xưa Ver 2019</title>
+    <desc lang="vi">Số 21.(n)</desc>
   </programme>
-  <programme start="20210919124500 +0700" stop="20210919134500 +0700" channel="htv2">
-    <title lang="vi">Phim truyện HQ (76T)</title>
-    <desc lang="vi">Hoàng hậu Ki 39.(n)</desc>
+  <programme start="20210922080000 +0700" stop="20210922090000 +0700" channel="vtc7">
+    <title lang="vi">Trò chơi tình ái</title>
+    <desc lang="vi">Tập 29.(n)</desc>
   </programme>
-  <programme start="20210919134500 +0700" stop="20210919144500 +0700" channel="htv2">
-    <title lang="vi">Giải trí</title>
-    <desc lang="vi">Kỳ Án Đông Tây Kim Cổ 68.(n)</desc>
+  <programme start="20210922090000 +0700" stop="20210922100000 +0700" channel="vtc7">
+    <title lang="vi">Vú em bất đắc dĩ</title>
+    <desc lang="vi">Tập 15.(n)</desc>
   </programme>
-  <programme start="20210919144500 +0700" stop="20210919151500 +0700" channel="htv2">
-    <title lang="vi">Phim tài liệu HQ</title>
-    <desc lang="vi">Kỳ tích kiến trúc của loài vật 5.(n)</desc>
+  <programme start="20210922100000 +0700" stop="20210922103000 +0700" channel="vtc7">
+    <title lang="vi">Just for laugh 2021</title>
+    <desc lang="vi">Số 20.(n)</desc>
   </programme>
-  <programme start="20210919151500 +0700" stop="20210919162500 +0700" channel="htv2">
-    <title lang="vi">Giải trí</title>
-    <desc lang="vi">Tìm kiếm tài năng Anh quốc 2019 22.(n)</desc>
+  <programme start="20210922103000 +0700" stop="20210922110000 +0700" channel="vtc7">
+    <title lang="vi">Nhất gia bách truyện</title>
+    <desc lang="vi">Tập 200.(n)</desc>
   </programme>
-  <programme start="20210919162500 +0700" stop="20210919170000 +0700" channel="htv2">
+  <programme start="20210922110000 +0700" stop="20210922120000 +0700" channel="vtc7">
+    <title lang="vi">MTV Flashback</title>
+    <desc lang="vi">Số 2.(n)</desc>
+  </programme>
+  <programme start="20210922120000 +0700" stop="20210922130000 +0700" channel="vtc7">
+    <title lang="vi">Trở về hư không</title>
+    <desc lang="vi">Tập 13.(n)</desc>
+  </programme>
+  <programme start="20210922130000 +0700" stop="20210922140000 +0700" channel="vtc7">
+    <title lang="vi">Lời nguyền gia tộc</title>
+    <desc lang="vi">Tập 8.(n)</desc>
+  </programme>
+  <programme start="20210922140000 +0700" stop="20210922143000 +0700" channel="vtc7">
+    <title lang="vi">Thế giới điện ảnh</title>
+    <desc lang="vi">Số 489.(n)</desc>
+  </programme>
+  <programme start="20210922143000 +0700" stop="20210922150000 +0700" channel="vtc7">
+    <title lang="vi">Tiếp sức hồi sinh</title>
+    <desc lang="vi">Số 417.(n)</desc>
+  </programme>
+  <programme start="20210922150000 +0700" stop="20210922164000 +0700" channel="vtc7">
+    <title lang="vi">Hạc lệ hoa đình</title>
+    <desc lang="vi">Tập 59.(n)</desc>
+  </programme>
+  <programme start="20210922164000 +0700" stop="20210922170000 +0700" channel="vtc7">
+    <title lang="vi">Chuyện nhà mình</title>
+    <desc lang="vi">Số 81.(n)</desc>
+  </programme>
+  <programme start="20210922170000 +0700" stop="20210922180000 +0700" channel="vtc7">
+    <title lang="vi">Vú em bất đắc dĩ</title>
+    <desc lang="vi">Tập 16.(n)</desc>
+  </programme>
+  <programme start="20210922180000 +0700" stop="20210922181500 +0700" channel="vtc7">
+    <title lang="vi">Today 18h</title>
+  </programme>
+  <programme start="20210922181500 +0700" stop="20210922183000 +0700" channel="vtc7">
+    <title lang="vi">Just for laugh Ver 2021</title>
+    <desc lang="vi">Số 9.(n)</desc>
+  </programme>
+  <programme start="20210922183000 +0700" stop="20210922190000 +0700" channel="vtc7">
+    <title lang="vi">Nhất gia bách truyện</title>
+    <desc lang="vi">Tập 201.(n)</desc>
+  </programme>
+  <programme start="20210922190000 +0700" stop="20210922200000 +0700" channel="vtc7">
+    <title lang="vi">Hạc lệ hoa đình</title>
+    <desc lang="vi">Tập 60.(n)</desc>
+  </programme>
+  <programme start="20210922200000 +0700" stop="20210922210000 +0700" channel="vtc7">
+    <title lang="vi">Trở về hư không</title>
+    <desc lang="vi">Tập 14.(n)</desc>
+  </programme>
+  <programme start="20210922210000 +0700" stop="20210922220000 +0700" channel="vtc7">
+    <title lang="vi">Lời nguyền gia tộc</title>
+    <desc lang="vi">Tập 9.(n)</desc>
+  </programme>
+  <programme start="20210922220000 +0700" stop="20210922230000 +0700" channel="vtc7">
+    <title lang="vi">Trò chơi tình ái</title>
+    <desc lang="vi">Tập 30.(n)</desc>
+  </programme>
+  <programme start="20210922230000 +0700" stop="20210922231500 +0700" channel="vtc7">
+    <title lang="vi">Today 18h</title>
+  </programme>
+  <programme start="20210921083000 +0700" stop="20210921090000 +0700" channel="htv2">
     <title lang="vi">CT cộng đồng</title>
     <desc lang="vi">Kiến tạo nhịp cầu - Mùa 7 5.(n)</desc>
   </programme>
-  <programme start="20210919170000 +0700" stop="20210919180000 +0700" channel="htv2">
-    <title lang="vi">Giải trí</title>
-    <desc lang="vi">Phiên Toà tình yêu 6.(n)</desc>
+  <programme start="20210921090000 +0700" stop="20210921100000 +0700" channel="htv2">
+    <title lang="vi">Phim truyện HQ (24T)</title>
+    <desc lang="vi">Thời gian còn mãi 5.(n)</desc>
   </programme>
-  <programme start="20210919180000 +0700" stop="20210919190000 +0700" channel="htv2">
-    <title lang="vi">Giải trí VN</title>
-    <desc lang="vi">Siêu trí tuệ Việt Nam - Mùa 2 2 – P1.(n)</desc>
+  <programme start="20210921100000 +0700" stop="20210921110000 +0700" channel="htv2">
+    <title lang="vi">Phim truyện TQ (70T)</title>
+    <desc lang="vi">Diên Hy công lược 7.(n)</desc>
   </programme>
-  <programme start="20210919190000 +0700" stop="20210919200000 +0700" channel="htv2">
+  <programme start="20210921110000 +0700" stop="20210921114500 +0700" channel="htv2">
+    <title lang="vi">Phim truyện HQ (78T)</title>
+    <desc lang="vi">Yêu đến tận cùng 51.(n)</desc>
+  </programme>
+  <programme start="20210921114500 +0700" stop="20210921124500 +0700" channel="htv2">
+    <title lang="vi">Phim truyện VN (8T)</title>
+    <desc lang="vi">Cây táo nở hoa - Tập đặc biệt 2.(n)</desc>
+  </programme>
+  <programme start="20210921124500 +0700" stop="20210921134500 +0700" channel="htv2">
+    <title lang="vi">Phim truyện HQ (76T)</title>
+    <desc lang="vi">Hoàng hậu Ki 41.(n)</desc>
+  </programme>
+  <programme start="20210921134500 +0700" stop="20210921144500 +0700" channel="htv2">
+    <title lang="vi">Phim truyện TQ (40T)</title>
+    <desc lang="vi">Lục phiến môn 20.(n)</desc>
+  </programme>
+  <programme start="20210921144500 +0700" stop="20210921151500 +0700" channel="htv2">
+    <title lang="vi">CT cộng đồng</title>
+    <desc lang="vi">Kiến tạo nhịp cầu - Mùa 7 5.(n)</desc>
+  </programme>
+  <programme start="20210921151500 +0700" stop="20210921162500 +0700" channel="htv2">
     <title lang="vi">Giải trí Mỹ</title>
     <desc lang="vi">Tìm kiếm tài năng Mỹ - Mùa 15 18.(n)</desc>
   </programme>
-  <programme start="20210919200000 +0700" stop="20210919213000 +0700" channel="htv2">
-    <title lang="vi">Giải trí</title>
-    <desc lang="vi">Bếp vui bùng vị 8.(n)</desc>
-  </programme>
-  <programme start="20210919213000 +0700" stop="20210919223000 +0700" channel="htv2">
-    <title lang="vi">Giải trí</title>
-    <desc lang="vi">Muốn ăn phải lăn vào bếp 2020 18.(n)</desc>
-  </programme>
-  <programme start="20210919223000 +0700" stop="20210919230000 +0700" channel="htv2">
+  <programme start="20210921162500 +0700" stop="20210921170000 +0700" channel="htv2">
     <title lang="vi">Phim tài liệu HQ</title>
-    <desc lang="vi">Kỳ tích kiến trúc của loài vật 5.(n)</desc>
+    <desc lang="vi">Amur kỳ bí 7.(n)</desc>
   </programme>
-  <programme start="20210919230000 +0700" stop="20210919233000 +0700" channel="htv2">
+  <programme start="20210921170000 +0700" stop="20210921180000 +0700" channel="htv2">
+    <title lang="vi">Phim truyện TL (43T)</title>
+    <desc lang="vi">Ngọn lửa đức hạnh 24.(n)</desc>
+  </programme>
+  <programme start="20210921180000 +0700" stop="20210921190000 +0700" channel="htv2">
+    <title lang="vi">Phim truyện HQ (78T)</title>
+    <desc lang="vi">Anh thìa vàng, em đũa mốc 68.(n)</desc>
+  </programme>
+  <programme start="20210921190000 +0700" stop="20210921200000 +0700" channel="htv2">
+    <title lang="vi">Phim truyện TL (39T)</title>
+    <desc lang="vi">Con tim sắt đá 24.(n)</desc>
+  </programme>
+  <programme start="20210921200000 +0700" stop="20210921210000 +0700" channel="htv2">
+    <title lang="vi">Phim truyện VN (8T)</title>
+    <desc lang="vi">Cây táo nở hoa - Tập đặc biệt 3.(n)</desc>
+  </programme>
+  <programme start="20210921210000 +0700" stop="20210921220000 +0700" channel="htv2">
+    <title lang="vi">Phim truyện HQ (79T)</title>
+    <desc lang="vi">Vì con mà sống 73.(n)</desc>
+  </programme>
+  <programme start="20210921220000 +0700" stop="20210921230000 +0700" channel="htv2">
+    <title lang="vi">Phim truyện HQ (24T)</title>
+    <desc lang="vi">Người vợ thân quen 20.(n)</desc>
+  </programme>
+  <programme start="20210921230000 +0700" stop="20210921233000 +0700" channel="htv2">
     <title lang="vi">Thời sự VN</title>
     <desc lang="vi">Bản tin buổi tối.(n)</desc>
   </programme>
-  <programme start="20210919093000 +0700" stop="20210919100000 +0700" channel="htv7">
-    <title lang="vi">Phim truyện Việt Nam</title>
-    <desc lang="vi">Nợ đời.(n)</desc>
+  <programme start="20210921233000 +0700" stop="20210922003000 +0700" channel="htv2">
+    <title lang="vi">CT cộng đồng</title>
+    <desc lang="vi">Kiến tạo nhịp cầu - Mùa 7 5.(n)</desc>
   </programme>
-  <programme start="20210919100000 +0700" stop="20210919104500 +0700" channel="htv7">
-    <title lang="vi">Ký ức Sài Gòn - TP.HCM</title>
+  <programme start="20210922003000 +0700" stop="20210922010000 +0700" channel="htv2">
+    <title lang="vi">CT cộng đồng</title>
+    <desc lang="vi">Kiến tạo nhịp cầu - Mùa 7 5.(n)</desc>
   </programme>
-  <programme start="20210919104500 +0700" stop="20210919110000 +0700" channel="htv7">
-    <title lang="vi">Gia đình siêu khỏe</title>
+  <programme start="20210922010000 +0700" stop="20210922014500 +0700" channel="htv2">
+    <title lang="vi">Phim truyện HQ (76T)</title>
+    <desc lang="vi">Hoàng hậu Ki 42.(n)</desc>
   </programme>
-  <programme start="20210919110000 +0700" stop="20210919114500 +0700" channel="htv7">
-    <title lang="vi">Thấu tình đạt lý</title>
+  <programme start="20210922014500 +0700" stop="20210922023000 +0700" channel="htv2">
+    <title lang="vi">Phim truyện TQ (40T)</title>
+    <desc lang="vi">Lục phiến môn 21.(n)</desc>
   </programme>
-  <programme start="20210919114500 +0700" stop="20210919115000 +0700" channel="htv7">
+  <programme start="20210922023000 +0700" stop="20210922031500 +0700" channel="htv2">
+    <title lang="vi">Giải trí VN</title>
+    <desc lang="vi">Tài tiếu tuyệt - Mùa 6 41.(n)</desc>
+  </programme>
+  <programme start="20210922031500 +0700" stop="20210922040000 +0700" channel="htv2">
+    <title lang="vi">Phim truyện HQ (78T)</title>
+    <desc lang="vi">Yêu đến tận cùng 52.(n)</desc>
+  </programme>
+  <programme start="20210922040000 +0700" stop="20210922044500 +0700" channel="htv2">
+    <title lang="vi">Giải trí VN</title>
+    <desc lang="vi">Kỳ án Đông Tây kim cổ 68.(n)</desc>
+  </programme>
+  <programme start="20210922044500 +0700" stop="20210922054500 +0700" channel="htv2">
+    <title lang="vi">Giải trí</title>
+    <desc lang="vi">Vitamin cười 2017 12.(n)</desc>
+  </programme>
+  <programme start="20210922054500 +0700" stop="20210922062500 +0700" channel="htv2">
+    <title lang="vi">Thời sự VN</title>
+    <desc lang="vi">Tiếp sóng Bản tin buổi sáng.(n)</desc>
+  </programme>
+  <programme start="20210922062500 +0700" stop="20210922071500 +0700" channel="htv2">
+    <title lang="vi">Giải trí</title>
+    <desc lang="vi">Vitamin cười 2017 11.(n)</desc>
+  </programme>
+  <programme start="20210922071500 +0700" stop="20210922080000 +0700" channel="htv2">
+    <title lang="vi">Phim truyện TL (30T)</title>
+    <desc lang="vi">Níu em trong tay 8.(n)</desc>
+  </programme>
+  <programme start="20210922080000 +0700" stop="20210922090000 +0700" channel="htv2">
+    <title lang="vi">Giải trí Mỹ</title>
+    <desc lang="vi">Tìm kiếm tài năng Mỹ - Mùa 15 18.(n)</desc>
+  </programme>
+  <programme start="20210922090000 +0700" stop="20210922100000 +0700" channel="htv2">
+    <title lang="vi">Phim truyện HQ (24T)</title>
+    <desc lang="vi">Thời gian còn mãi 6.(n)</desc>
+  </programme>
+  <programme start="20210922100000 +0700" stop="20210922110000 +0700" channel="htv2">
+    <title lang="vi">Phim truyện TQ (70T)</title>
+    <desc lang="vi">Diên Hy công lược 8.(n)</desc>
+  </programme>
+  <programme start="20210922110000 +0700" stop="20210922114500 +0700" channel="htv2">
+    <title lang="vi">Phim truyện HQ (78T)</title>
+    <desc lang="vi">Yêu đến tận cùng 52.(n)</desc>
+  </programme>
+  <programme start="20210922114500 +0700" stop="20210922124500 +0700" channel="htv2">
+    <title lang="vi">Phim truyện VN (8T)</title>
+    <desc lang="vi">Cây táo nở hoa - Tập đặc biệt 3.(n)</desc>
+  </programme>
+  <programme start="20210922124500 +0700" stop="20210922134500 +0700" channel="htv2">
+    <title lang="vi">Phim truyện HQ (76T)</title>
+    <desc lang="vi">Hoàng hậu Ki 42.(n)</desc>
+  </programme>
+  <programme start="20210922134500 +0700" stop="20210922144500 +0700" channel="htv2">
+    <title lang="vi">Phim truyện TQ (40T)</title>
+    <desc lang="vi">Lục phiến môn 21.(n)</desc>
+  </programme>
+  <programme start="20210922144500 +0700" stop="20210922151500 +0700" channel="htv2">
+    <title lang="vi">Phim tài liệu HQ</title>
+    <desc lang="vi">Kỳ tích kiến trúc của loài vật 5.(n)</desc>
+  </programme>
+  <programme start="20210922151500 +0700" stop="20210922162500 +0700" channel="htv2">
+    <title lang="vi">Giải trí</title>
+    <desc lang="vi">Siêu trí tuệ Việt Nam - Mùa 2 2 - P1.(n)</desc>
+  </programme>
+  <programme start="20210922162500 +0700" stop="20210922170000 +0700" channel="htv2">
+    <title lang="vi">CT cộng đồng</title>
+    <desc lang="vi">Kiến tạo nhịp cầu - Mùa 7 5.(n)</desc>
+  </programme>
+  <programme start="20210922170000 +0700" stop="20210922180000 +0700" channel="htv2">
+    <title lang="vi">Phim truyện TL (43T)</title>
+    <desc lang="vi">Ngọn lửa đức hạnh 25.(n)</desc>
+  </programme>
+  <programme start="20210922180000 +0700" stop="20210922190000 +0700" channel="htv2">
+    <title lang="vi">Phim truyện HQ (78T)</title>
+    <desc lang="vi">Anh thìa vàng, em đũa mốc 69.(n)</desc>
+  </programme>
+  <programme start="20210922190000 +0700" stop="20210922200000 +0700" channel="htv2">
+    <title lang="vi">Phim truyện TL (39T)</title>
+    <desc lang="vi">Con tim sắt đá 25.(n)</desc>
+  </programme>
+  <programme start="20210922200000 +0700" stop="20210922210000 +0700" channel="htv2">
+    <title lang="vi">Phim truyện VN (8T)</title>
+    <desc lang="vi">Cây táo nở hoa - Tập đặc biệt 4.(n)</desc>
+  </programme>
+  <programme start="20210922210000 +0700" stop="20210922220000 +0700" channel="htv2">
+    <title lang="vi">Phim truyện HQ (79T)</title>
+    <desc lang="vi">Vì con mà sống 74.(n)</desc>
+  </programme>
+  <programme start="20210922220000 +0700" stop="20210922230000 +0700" channel="htv2">
+    <title lang="vi">Phim truyện HQ (24T)</title>
+    <desc lang="vi">Người vợ thân quen 21.(n)</desc>
+  </programme>
+  <programme start="20210922230000 +0700" stop="20210922233000 +0700" channel="htv2">
+    <title lang="vi">Thời sự VN</title>
+    <desc lang="vi">Bản tin buổi tối.(n)</desc>
+  </programme>
+  <programme start="20210921083000 +0700" stop="20210921090000 +0700" channel="htv7">
+    <title lang="vi">Tạp chí bóng rổ FIBA</title>
+  </programme>
+  <programme start="20210921090000 +0700" stop="20210921094500 +0700" channel="htv7">
+    <title lang="vi">Phim truyện Ấn Độ</title>
+    <desc lang="vi">Tình yêu điên dại.(n)</desc>
+  </programme>
+  <programme start="20210921094500 +0700" stop="20210921100000 +0700" channel="htv7">
+    <title lang="vi">Phim sitcom</title>
+    <desc lang="vi">Nailbiz đại chiến.(n)</desc>
+  </programme>
+  <programme start="20210921100000 +0700" stop="20210921101500 +0700" channel="htv7">
+    <title lang="vi">Tạp chí sức khỏe</title>
+    <desc lang="vi">Viêm da tiếp xúc - Hiểu đúng để phòng ngừa.(n)</desc>
+  </programme>
+  <programme start="20210921101500 +0700" stop="20210921105500 +0700" channel="htv7">
+    <title lang="vi">Bếp ngọt</title>
+  </programme>
+  <programme start="20210921105500 +0700" stop="20210921110000 +0700" channel="htv7">
     <title lang="vi">Vitamin xanh</title>
   </programme>
-  <programme start="20210919115000 +0700" stop="20210919120000 +0700" channel="htv7">
+  <programme start="20210921110000 +0700" stop="20210921115000 +0700" channel="htv7">
+    <title lang="vi">Phim truyện Trung Quốc</title>
+    <desc lang="vi">Yêu em giữa trời xanh.(n)</desc>
+  </programme>
+  <programme start="20210921115000 +0700" stop="20210921120000 +0700" channel="htv7">
     <title lang="vi">Món ngon mỗi ngày</title>
   </programme>
-  <programme start="20210919120000 +0700" stop="20210919123000 +0700" channel="htv7">
+  <programme start="20210921120000 +0700" stop="20210921123000 +0700" channel="htv7">
     <title lang="vi">Chuyện trưa 12 giờ</title>
   </programme>
-  <programme start="20210919123000 +0700" stop="20210919134500 +0700" channel="htv7">
-    <title lang="vi">Sitcom</title>
-    <desc lang="vi">Xóm đụng chuyện.(n)</desc>
+  <programme start="20210921123000 +0700" stop="20210921130000 +0700" channel="htv7">
+    <title lang="vi">Phim truyện Trung Quốc</title>
+    <desc lang="vi">Thiên kim háo sắc.(n)</desc>
   </programme>
-  <programme start="20210919134500 +0700" stop="20210919142000 +0700" channel="htv7">
-    <title lang="vi">Trong thế giới xe</title>
+  <programme start="20210921130000 +0700" stop="20210921135000 +0700" channel="htv7">
+    <title lang="vi">Phim truyện Trung Quốc</title>
+    <desc lang="vi">Sứ mệnh trái tim.(n)</desc>
   </programme>
-  <programme start="20210919142000 +0700" stop="20210919155000 +0700" channel="htv7">
-    <title lang="vi">Nhóc cưng siêu đẳng</title>
+  <programme start="20210921135000 +0700" stop="20210921140000 +0700" channel="htv7">
+    <title lang="vi">Thị trường 365</title>
   </programme>
-  <programme start="20210919155000 +0700" stop="20210919162000 +0700" channel="htv7">
-    <title lang="vi">Hành trang cuộc sống</title>
+  <programme start="20210921140000 +0700" stop="20210921142000 +0700" channel="htv7">
+    <title lang="vi">Du hành khám phá</title>
   </programme>
-  <programme start="20210919162000 +0700" stop="20210919164500 +0700" channel="htv7">
-    <title lang="vi">Ký sự tài liệu</title>
-    <desc lang="vi">Hòa bình gọi.(n)</desc>
+  <programme start="20210921142000 +0700" stop="20210921155000 +0700" channel="htv7">
+    <title lang="vi">Running Man Việt Nam - Chơi là chạy</title>
   </programme>
-  <programme start="20210919164500 +0700" stop="20210919165500 +0700" channel="htv7">
+  <programme start="20210921155000 +0700" stop="20210921162500 +0700" channel="htv7">
+    <title lang="vi">Góc nhỏ kỳ diệu</title>
+    <desc lang="vi">Hoa hướng dương.(n)</desc>
+  </programme>
+  <programme start="20210921162500 +0700" stop="20210921165000 +0700" channel="htv7">
+    <title lang="vi">Sức sống thanh xuân</title>
+  </programme>
+  <programme start="20210921165000 +0700" stop="20210921170000 +0700" channel="htv7">
     <title lang="vi">Bữa cơm gia đình</title>
   </programme>
-  <programme start="20210919165500 +0700" stop="20210919170000 +0700" channel="htv7">
-    <title lang="vi">Nét xinh</title>
+  <programme start="20210921170000 +0700" stop="20210921174500 +0700" channel="htv7">
+    <title lang="vi">Phim truyện Trung Quốc</title>
+    <desc lang="vi">Minh Lan truyện.(n)</desc>
   </programme>
-  <programme start="20210919170000 +0700" stop="20210919173000 +0700" channel="htv7">
-    <title lang="vi">Sao - Phải làm sao</title>
+  <programme start="20210921174500 +0700" stop="20210921183000 +0700" channel="htv7">
+    <title lang="vi">Phim truyện Trung Quốc</title>
+    <desc lang="vi">Võ Đang nhất kiếm.(n)</desc>
   </programme>
-  <programme start="20210919173000 +0700" stop="20210919180000 +0700" channel="htv7">
-    <title lang="vi">Sống khỏe đời vui</title>
-  </programme>
-  <programme start="20210919180000 +0700" stop="20210919183000 +0700" channel="htv7">
-    <title lang="vi">Khẩu vị ngôi sao</title>
-  </programme>
-  <programme start="20210919183000 +0700" stop="20210919190000 +0700" channel="htv7">
+  <programme start="20210921183000 +0700" stop="20210921190000 +0700" channel="htv7">
     <title lang="vi">Chương trình 60 giây</title>
   </programme>
-  <programme start="20210919190000 +0700" stop="20210919193000 +0700" channel="htv7">
-    <title lang="vi">Gõ cửa nhà sao</title>
+  <programme start="20210921190000 +0700" stop="20210921193300 +0700" channel="htv7">
+    <title lang="vi">Cả nhà thương nhau - Điều con chưa nói</title>
   </programme>
-  <programme start="20210919193000 +0700" stop="20210919220000 +0700" channel="htv7">
-    <title lang="vi">Bộ cánh tình yêu</title>
+  <programme start="20210921193300 +0700" stop="20210921195500 +0700" channel="htv7">
+    <title lang="vi">Phim sitcom</title>
+    <desc lang="vi">Mẹ trùm.(n)</desc>
   </programme>
-  <programme start="20210919220000 +0700" stop="20210919223000 +0700" channel="htv7">
-    <title lang="vi">Vợ chồng son</title>
+  <programme start="20210921195500 +0700" stop="20210921203500 +0700" channel="htv7">
+    <title lang="vi">Phim sitcom</title>
+    <desc lang="vi">Đại Kê chạy đi.(n)</desc>
   </programme>
-  <programme start="20210919223000 +0700" stop="20210919230000 +0700" channel="htv7">
-    <title lang="vi">Ghép đôi thần tốc - Phiên bản "Ghép đôi như ý</title>
+  <programme start="20210921203500 +0700" stop="20210921213500 +0700" channel="htv7">
+    <title lang="vi">Đại chiến âm nhạc</title>
   </programme>
-  <programme start="20210919230000 +0700" stop="20210919233000 +0700" channel="htv7">
-    <title lang="vi">Chuyên đề âm nhạc</title>
-    <desc lang="vi">Studio H9 - Hẹn cuối tuần.(n)</desc>
+  <programme start="20210921213500 +0700" stop="20210921223000 +0700" channel="htv7">
+    <title lang="vi">Tâm đầu ý hợp - Chuyện chưa kể</title>
   </programme>
-  <programme start="20210919084500 +0700" stop="20210919090000 +0700" channel="htv9">
-    <title lang="vi">Góc phố</title>
+  <programme start="20210921223000 +0700" stop="20210921231000 +0700" channel="htv7">
+    <title lang="vi">Nhà chung</title>
   </programme>
-  <programme start="20210919090000 +0700" stop="20210919100000 +0700" channel="htv9">
-    <title lang="vi">Ca nhạc</title>
-    <desc lang="vi">Những trang sách diệu kỳ.(n)</desc>
+  <programme start="20210921231000 +0700" stop="20210921231500 +0700" channel="htv7">
+    <title lang="vi">Xanh tươi mối ngày</title>
   </programme>
-  <programme start="20210919100000 +0700" stop="20210919103000 +0700" channel="htv9">
-    <title lang="vi">Alo, phim nghe</title>
+  <programme start="20210921231500 +0700" stop="20210922001500 +0700" channel="htv7">
+    <title lang="vi">Hai mùa mưa nắng</title>
+    <desc lang="vi">Dáng chợ nếp quê.(n)</desc>
   </programme>
-  <programme start="20210919103000 +0700" stop="20210919105000 +0700" channel="htv9">
-    <title lang="vi">Tạp chí VHNT thế giới</title>
+  <programme start="20210922001500 +0700" stop="20210922004500 +0700" channel="htv7">
+    <title lang="vi">Muôn màu thể thao</title>
   </programme>
-  <programme start="20210919105000 +0700" stop="20210919113000 +0700" channel="htv9">
-    <title lang="vi">Thế giới xanh</title>
+  <programme start="20210922004500 +0700" stop="20210922014000 +0700" channel="htv7">
+    <title lang="vi">Phim truyện Việt Nam</title>
+    <desc lang="vi">Rau muống tháng 9.(n)</desc>
   </programme>
-  <programme start="20210919113000 +0700" stop="20210919120000 +0700" channel="htv9">
-    <title lang="vi">Bản tin trưa</title>
+  <programme start="20210922014000 +0700" stop="20210922034000 +0700" channel="htv7">
+    <title lang="vi">THTT</title>
+    <desc lang="vi">Bóng đá giải Vô địch quốc gia Italia - Vòng 5: Trận: Atalanta - Sassuolo.(n)</desc>
   </programme>
-  <programme start="20210919120000 +0700" stop="20210919123000 +0700" channel="htv9">
+  <programme start="20210922034000 +0700" stop="20210922042500 +0700" channel="htv7">
+    <title lang="vi">Phim truyện Việt Nam</title>
+    <desc lang="vi">Mặn hơn muối.(n)</desc>
+  </programme>
+  <programme start="20210922042500 +0700" stop="20210922050500 +0700" channel="htv7">
+    <title lang="vi">Tạp chí sức khỏe</title>
+    <desc lang="vi">Viêm da tiếp xúc - Hiểu đúng để phòng ngừa.(n)</desc>
+  </programme>
+  <programme start="20210922050500 +0700" stop="20210922053000 +0700" channel="htv7">
+    <title lang="vi">Thể dục Aerobic</title>
+  </programme>
+  <programme start="20210922053000 +0700" stop="20210922060000 +0700" channel="htv7">
+    <title lang="vi">Tạp chí bóng rổ FIBA</title>
+  </programme>
+  <programme start="20210922060000 +0700" stop="20210922061500 +0700" channel="htv7">
+    <title lang="vi">Mua gì? Ở đâu</title>
+  </programme>
+  <programme start="20210922061500 +0700" stop="20210922063000 +0700" channel="htv7">
+    <title lang="vi">Thảnh thơi vui sống</title>
+  </programme>
+  <programme start="20210922063000 +0700" stop="20210922070000 +0700" channel="htv7">
+    <title lang="vi">Chương trình 60 giây</title>
+  </programme>
+  <programme start="20210922070000 +0700" stop="20210922073000 +0700" channel="htv7">
+    <title lang="vi">Cẩm nang sống khỏe</title>
+  </programme>
+  <programme start="20210922073000 +0700" stop="20210922080000 +0700" channel="htv7">
+    <title lang="vi">Nụ cười ngày mới</title>
+  </programme>
+  <programme start="20210922080000 +0700" stop="20210922083000 +0700" channel="htv7">
+    <title lang="vi">Nhà chung</title>
+  </programme>
+  <programme start="20210922083000 +0700" stop="20210922090000 +0700" channel="htv7">
+    <title lang="vi">Tạp chí quyền Anh</title>
+  </programme>
+  <programme start="20210922090000 +0700" stop="20210922094500 +0700" channel="htv7">
+    <title lang="vi">Phim truyện Ấn Độ</title>
+    <desc lang="vi">Tình yêu điên dại.(n)</desc>
+  </programme>
+  <programme start="20210922094500 +0700" stop="20210922100000 +0700" channel="htv7">
+    <title lang="vi">Phim sitcom</title>
+    <desc lang="vi">Nailbiz đại chiến.(n)</desc>
+  </programme>
+  <programme start="20210922100000 +0700" stop="20210922101500 +0700" channel="htv7">
+    <title lang="vi">Sức khỏe cho mọi người</title>
+    <desc lang="vi">Xử lý nhanh dị vật đường thở cho trẻ.(n)</desc>
+  </programme>
+  <programme start="20210922101500 +0700" stop="20210922105500 +0700" channel="htv7">
+    <title lang="vi">Kết nối không giới hạn</title>
+    <desc lang="vi">Mô hình đào tạo kép.(n)</desc>
+  </programme>
+  <programme start="20210922105500 +0700" stop="20210922110000 +0700" channel="htv7">
+    <title lang="vi">Vitamin xanh</title>
+  </programme>
+  <programme start="20210922110000 +0700" stop="20210922115000 +0700" channel="htv7">
+    <title lang="vi">Phim truyện Trung Quốc</title>
+    <desc lang="vi">Yêu em giữa trời xanh.(n)</desc>
+  </programme>
+  <programme start="20210922115000 +0700" stop="20210922120000 +0700" channel="htv7">
+    <title lang="vi">Món ngon mỗi ngày</title>
+  </programme>
+  <programme start="20210922120000 +0700" stop="20210922123000 +0700" channel="htv7">
     <title lang="vi">Chuyện trưa 12 giờ</title>
   </programme>
-  <programme start="20210919123000 +0700" stop="20210919130000 +0700" channel="htv9">
-    <title lang="vi">Nghệ thuật không gian</title>
+  <programme start="20210922123000 +0700" stop="20210922130000 +0700" channel="htv7">
+    <title lang="vi">Phim truyện Trung Quốc</title>
+    <desc lang="vi">Thiên kim háo sắc.(n)</desc>
   </programme>
-  <programme start="20210919130000 +0700" stop="20210919132000 +0700" channel="htv9">
-    <title lang="vi">Tạp chí bí quyết đẹp</title>
+  <programme start="20210922130000 +0700" stop="20210922135000 +0700" channel="htv7">
+    <title lang="vi">Phim truyện Trung Quốc</title>
+    <desc lang="vi">Sứ mệnh trái tim.(n)</desc>
   </programme>
-  <programme start="20210919132000 +0700" stop="20210919155000 +0700" channel="htv9">
-    <title lang="vi">Nghệ sĩ và sàn diễn</title>
-    <desc lang="vi">Ca sĩ Hồng Hạnh.(n)</desc>
+  <programme start="20210922135000 +0700" stop="20210922140000 +0700" channel="htv7">
+    <title lang="vi">Thị trường 365</title>
   </programme>
-  <programme start="20210919155000 +0700" stop="20210919161000 +0700" channel="htv9">
-    <title lang="vi">Ở nhà hát ca</title>
-    <desc lang="vi">Số 13.(n)</desc>
+  <programme start="20210922140000 +0700" stop="20210922142000 +0700" channel="htv7">
+    <title lang="vi">Những nẻo đường du ký</title>
   </programme>
-  <programme start="20210919161000 +0700" stop="20210919164500 +0700" channel="htv9">
-    <title lang="vi">Vững bước tương lai</title>
+  <programme start="20210922142000 +0700" stop="20210922145000 +0700" channel="htv7">
+    <title lang="vi">Gõ cửa nhà sao</title>
   </programme>
-  <programme start="20210919164500 +0700" stop="20210919171000 +0700" channel="htv9">
+  <programme start="20210922145000 +0700" stop="20210922155000 +0700" channel="htv7">
+    <title lang="vi">Bộ cánh tình yêu</title>
+  </programme>
+  <programme start="20210922155000 +0700" stop="20210922162500 +0700" channel="htv7">
+    <title lang="vi">Vườn sao mai</title>
+    <desc lang="vi">Búp bê nghệ thuật.(n)</desc>
+  </programme>
+  <programme start="20210922162500 +0700" stop="20210922165000 +0700" channel="htv7">
+    <title lang="vi">Vợ chồng son</title>
+  </programme>
+  <programme start="20210922165000 +0700" stop="20210922170000 +0700" channel="htv7">
+    <title lang="vi">Bữa cơm gia đình</title>
+  </programme>
+  <programme start="20210922170000 +0700" stop="20210922174500 +0700" channel="htv7">
+    <title lang="vi">Phim truyện Trung Quốc</title>
+    <desc lang="vi">Minh Lan truyện.(n)</desc>
+  </programme>
+  <programme start="20210922174500 +0700" stop="20210922183000 +0700" channel="htv7">
+    <title lang="vi">Phim truyện Trung Quốc</title>
+    <desc lang="vi">Võ Đang nhất kiếm.(n)</desc>
+  </programme>
+  <programme start="20210922183000 +0700" stop="20210922190000 +0700" channel="htv7">
+    <title lang="vi">Chương trình 60 giây</title>
+  </programme>
+  <programme start="20210922190000 +0700" stop="20210922193300 +0700" channel="htv7">
+    <title lang="vi">Bí kíp vàng</title>
+  </programme>
+  <programme start="20210922193300 +0700" stop="20210922195500 +0700" channel="htv7">
+    <title lang="vi">Phim sitcom</title>
+    <desc lang="vi">Mẹ trùm.(n)</desc>
+  </programme>
+  <programme start="20210922195500 +0700" stop="20210922203500 +0700" channel="htv7">
+    <title lang="vi">Phim sitcom</title>
+    <desc lang="vi">Đại Kê chạy đi.(n)</desc>
+  </programme>
+  <programme start="20210922203500 +0700" stop="20210922215500 +0700" channel="htv7">
+    <title lang="vi">Giọng ải giọng ai</title>
+  </programme>
+  <programme start="20210922215500 +0700" stop="20210922223000 +0700" channel="htv7">
+    <title lang="vi">Phim sitcom</title>
+    <desc lang="vi">Gieo nợ gặt duyên.(n)</desc>
+  </programme>
+  <programme start="20210922223000 +0700" stop="20210922231000 +0700" channel="htv7">
+    <title lang="vi">Nhật ký hạnh phúc</title>
+  </programme>
+  <programme start="20210922231000 +0700" stop="20210922232500 +0700" channel="htv7">
+    <title lang="vi">Xanh tươi mối ngày</title>
+  </programme>
+  <programme start="20210921082500 +0700" stop="20210921084000 +0700" channel="htv9">
+    <title lang="vi">Học Bác hôm nay</title>
+    <desc lang="vi">Người bình thường quanh tôi.(n)</desc>
+  </programme>
+  <programme start="20210921084000 +0700" stop="20210921092000 +0700" channel="htv9">
+    <title lang="vi">Nhạc thính phòng</title>
+    <desc lang="vi">Gõ cửa nâm nhạc \" Wonder Music \".(n)</desc>
+  </programme>
+  <programme start="20210921092000 +0700" stop="20210921110000 +0700" channel="htv9">
+    <title lang="vi">Chiếu phim</title>
+    <desc lang="vi">Phim truyện Việt Nam: Ván bài lật ngửa - Tập 2.(n)</desc>
+  </programme>
+  <programme start="20210921110000 +0700" stop="20210921113000 +0700" channel="htv9">
+    <title lang="vi">Tiêu điểm 247</title>
+  </programme>
+  <programme start="20210921113000 +0700" stop="20210921120000 +0700" channel="htv9">
+    <title lang="vi">Bản tin trưa</title>
+  </programme>
+  <programme start="20210921120000 +0700" stop="20210921123000 +0700" channel="htv9">
+    <title lang="vi">Chuyện trưa 12 giờ</title>
+  </programme>
+  <programme start="20210921123000 +0700" stop="20210921124500 +0700" channel="htv9">
+    <title lang="vi">Son môi đỏ</title>
+  </programme>
+  <programme start="20210921124500 +0700" stop="20210921132500 +0700" channel="htv9">
+    <title lang="vi">Chiếu phim</title>
+    <desc lang="vi">Phim truyện Bồ Đào Nha: Mặt nạ ký ức.(n)</desc>
+  </programme>
+  <programme start="20210921132500 +0700" stop="20210921134000 +0700" channel="htv9">
+    <title lang="vi">Phim Sitcom</title>
+    <desc lang="vi">Nơi yêu thương bắt đầu.(n)</desc>
+  </programme>
+  <programme start="20210921134000 +0700" stop="20210921141000 +0700" channel="htv9">
+    <title lang="vi">Muôn màu thể thao</title>
+  </programme>
+  <programme start="20210921141000 +0700" stop="20210921145000 +0700" channel="htv9">
+    <title lang="vi">Vì chất lượng cuộc sống</title>
+  </programme>
+  <programme start="20210921145000 +0700" stop="20210921151000 +0700" channel="htv9">
+    <title lang="vi">Phim tài liệu</title>
+    <desc lang="vi">Người là niềm tin tất thắng ( Tập 2 ).(n)</desc>
+  </programme>
+  <programme start="20210921151000 +0700" stop="20210921161000 +0700" channel="htv9">
+    <title lang="vi">Vườn âm nhạc</title>
+    <desc lang="vi">Ấm áp trăng thu.(n)</desc>
+  </programme>
+  <programme start="20210921161000 +0700" stop="20210921162000 +0700" channel="htv9">
+    <title lang="vi">Cẩm nang phòng chống Covid tại nhà</title>
+  </programme>
+  <programme start="20210921162000 +0700" stop="20210921164500 +0700" channel="htv9">
+    <title lang="vi">Phim Sitcom</title>
+    <desc lang="vi">Biệt đội se duyên.(n)</desc>
+  </programme>
+  <programme start="20210921164500 +0700" stop="20210921171000 +0700" channel="htv9">
     <title lang="vi">Sitcom</title>
     <desc lang="vi">Về phía cầu vồng.(n)</desc>
   </programme>
-  <programme start="20210919171000 +0700" stop="20210919173500 +0700" channel="htv9">
-    <title lang="vi">Bếp ngọt</title>
+  <programme start="20210921171000 +0700" stop="20210921172500 +0700" channel="htv9">
+    <title lang="vi">Bí mật các loài hoa</title>
   </programme>
-  <programme start="20210919173500 +0700" stop="20210919174000 +0700" channel="htv9">
-    <title lang="vi">Tiêu điểm y tế</title>
+  <programme start="20210921172500 +0700" stop="20210921173500 +0700" channel="htv9">
+    <title lang="vi">Nhịp điệu nắng mai</title>
+    <desc lang="vi">Nhịp thiên.(n)</desc>
   </programme>
-  <programme start="20210919174000 +0700" stop="20210919183000 +0700" channel="htv9">
-    <title lang="vi">Phim cuối tuần</title>
-    <desc lang="vi">Cán cân công lý.(n)</desc>
+  <programme start="20210921173500 +0700" stop="20210921180500 +0700" channel="htv9">
+    <title lang="vi">Bí kíp vàng</title>
   </programme>
-  <programme start="20210919183000 +0700" stop="20210919190000 +0700" channel="htv9">
-    <title lang="vi">Chương trình 60 giây</title>
+  <programme start="20210921180500 +0700" stop="20210921181000 +0700" channel="htv9">
+    <title lang="vi">Tiêu điểm y tế</title>
   </programme>
-  <programme start="20210919190000 +0700" stop="20210919194500 +0700" channel="htv9">
+  <programme start="20210921181000 +0700" stop="20210921183000 +0700" channel="htv9">
+    <title lang="vi">Phim Sitcom</title>
+    <desc lang="vi">Nhật ký nàng xuân.(n)</desc>
+  </programme>
+  <programme start="20210921183000 +0700" stop="20210921190000 +0700" channel="htv9">
+    <title lang="vi">Chương trình 60 giây</title>
+  </programme>
+  <programme start="20210921190000 +0700" stop="20210921194500 +0700" channel="htv9">
     <title lang="vi">Tiếp sóng VTV</title>
   </programme>
-  <programme start="20210919194500 +0700" stop="20210919200000 +0700" channel="htv9">
-    <title lang="vi">Thể thao 365</title>
+  <programme start="20210921194500 +0700" stop="20210921200000 +0700" channel="htv9">
+    <title lang="vi">Thể thao 365</title>
   </programme>
-  <programme start="20210919200000 +0700" stop="20210919202300 +0700" channel="htv9">
-    <title lang="vi">Chương trình thời sự HTV</title>
+  <programme start="20210921200000 +0700" stop="20210921202300 +0700" channel="htv9">
+    <title lang="vi">Chương trình thời sự HTV</title>
   </programme>
-  <programme start="20210919202300 +0700" stop="20210919202600 +0700" channel="htv9">
-    <title lang="vi">Thời tiết du ký</title>
+  <programme start="20210921202300 +0700" stop="20210921202600 +0700" channel="htv9">
+    <title lang="vi">Thời tiết du ký</title>
   </programme>
-  <programme start="20210919202600 +0700" stop="20210919203300 +0700" channel="htv9">
-    <title lang="vi">Thế giới 24 7</title>
+  <programme start="20210921202600 +0700" stop="20210921203300 +0700" channel="htv9">
+    <title lang="vi">Ăn sạch sống khỏe</title>
   </programme>
-  <programme start="20210919203300 +0700" stop="20210919205000 +0700" channel="htv9">
-    <title lang="vi">Thế giới 24 giờ</title>
+  <programme start="20210921203300 +0700" stop="20210921205500 +0700" channel="htv9">
+    <title lang="vi">Thế giới 24 giờ</title>
   </programme>
-  <programme start="20210919205000 +0700" stop="20210919210500 +0700" channel="htv9">
-    <title lang="vi">Ký sự truyền hình</title>
-    <desc lang="vi">Sứ dưỡng sinh hướng đến sức khỏe cộng đồng.(n)</desc>
+  <programme start="20210921205500 +0700" stop="20210921212500 +0700" channel="htv9">
+    <title lang="vi">Vì bình yên cuộc sống</title>
+    <desc lang="vi">Truyền hình Quân khu 7.(n)</desc>
   </programme>
-  <programme start="20210919210500 +0700" stop="20210919220500 +0700" channel="htv9">
-    <title lang="vi">Vườn âm nhạc</title>
-    <desc lang="vi">Ấm áp trăng thu.(n)</desc>
+  <programme start="20210921212500 +0700" stop="20210921213500 +0700" channel="htv9">
+    <title lang="vi">Chương trình khoa giáo</title>
   </programme>
-  <programme start="20210919220500 +0700" stop="20210919223000 +0700" channel="htv9">
-    <title lang="vi">Lời yêu thương HTV và Bạn</title>
+  <programme start="20210921213500 +0700" stop="20210921214500 +0700" channel="htv9">
+    <title lang="vi">Truyền hình thanh niên</title>
   </programme>
-  <programme start="20210919223000 +0700" stop="20210919224500 +0700" channel="htv9">
-    <title lang="vi">Khoảnh khắc cuộc đời</title>
+  <programme start="20210921214500 +0700" stop="20210921220000 +0700" channel="htv9">
+    <title lang="vi">Thanh xuân tỏa sáng</title>
   </programme>
-  <programme start="20210919090000 +0700" stop="20210919093000 +0700" channel="k1hd">
-    <title lang="vi">Phim điện ảnh và những ngôi sao</title>
+  <programme start="20210921220000 +0700" stop="20210921225000 +0700" channel="htv9">
+    <title lang="vi">Phim truyện Việt Nam</title>
+    <desc lang="vi">Đường chân trời.(n)</desc>
   </programme>
-  <programme start="20210919093000 +0700" stop="20210919111500 +0700" channel="k1hd">
-    <title lang="vi">The little witch</title>
+  <programme start="20210921225000 +0700" stop="20210921230500 +0700" channel="htv9">
+    <title lang="vi">Khoảnh khắc cuộc đời</title>
   </programme>
-  <programme start="20210919111500 +0700" stop="20210919114500 +0700" channel="k1hd">
-    <title lang="vi">Các cặp đôi hollywood</title>
+  <programme start="20210921230500 +0700" stop="20210921232500 +0700" channel="htv9">
+    <title lang="vi">Những ngôi sao thầm lặng</title>
+    <desc lang="vi">Chuyện của Thành.(n)</desc>
   </programme>
-  <programme start="20210919114500 +0700" stop="20210919120000 +0700" channel="k1hd">
-    <title lang="vi">Phim hay xem ngay: du lịch châu á qua màn ảnh tháng 9</title>
+  <programme start="20210921232500 +0700" stop="20210922012500 +0700" channel="htv9">
+    <title lang="vi">THTT</title>
+    <desc lang="vi">Bóng đá giải Vô địch quốc gia Italia - Vòng 5: Trận: Bologna - Genoa.(n)</desc>
   </programme>
-  <programme start="20210919120000 +0700" stop="20210919133000 +0700" channel="k1hd">
-    <title lang="vi">Trời sáng rồi ta ngủ đi thôi good morning and good night</title>
+  <programme start="20210922012500 +0700" stop="20210922014000 +0700" channel="htv9">
+    <title lang="vi">Vườn sao mai</title>
+    <desc lang="vi">Năm học mới.(n)</desc>
   </programme>
-  <programme start="20210919133000 +0700" stop="20210919140000 +0700" channel="k1hd">
-    <title lang="vi">Phim điện ảnh và những ngôi sao</title>
+  <programme start="20210922014000 +0700" stop="20210922034000 +0700" channel="htv9">
+    <title lang="vi">THTT</title>
+    <desc lang="vi">Bóng đá giải Vô địch quốc gia Italia - Vòng 5: Trận: Fiorentina - Inter.(n)</desc>
   </programme>
-  <programme start="20210919140000 +0700" stop="20210919160000 +0700" channel="k1hd">
+  <programme start="20210922034000 +0700" stop="20210922050200 +0700" channel="htv9">
+    <title lang="vi">Chiếu phim</title>
+    <desc lang="vi">Phim truyện Singapore: Bông hồng thép.(n)</desc>
+  </programme>
+  <programme start="20210922050200 +0700" stop="20210922051200 +0700" channel="htv9">
+    <title lang="vi">Thể dục cơ bản</title>
+  </programme>
+  <programme start="20210922051200 +0700" stop="20210922052200 +0700" channel="htv9">
+    <title lang="vi">Bài tập dưỡng sinh nâng cao sức khỏe</title>
+  </programme>
+  <programme start="20210922052200 +0700" stop="20210922055000 +0700" channel="htv9">
+    <title lang="vi">Muôn màu thể thao</title>
+  </programme>
+  <programme start="20210922055000 +0700" stop="20210922055700 +0700" channel="htv9">
+    <title lang="vi">Cẩm nang phòng chống Covid tại nhà</title>
+  </programme>
+  <programme start="20210922055700 +0700" stop="20210922060000 +0700" channel="htv9">
+    <title lang="vi">Những câu chuyện đẹp</title>
+  </programme>
+  <programme start="20210922060000 +0700" stop="20210922063000 +0700" channel="htv9">
+    <title lang="vi">Tin buổi sáng</title>
+  </programme>
+  <programme start="20210922063000 +0700" stop="20210922070000 +0700" channel="htv9">
+    <title lang="vi">Chương trình 60 giây</title>
+  </programme>
+  <programme start="20210922070000 +0700" stop="20210922071500 +0700" channel="htv9">
+    <title lang="vi">Bác sĩ của bạn</title>
+  </programme>
+  <programme start="20210922071500 +0700" stop="20210922073000 +0700" channel="htv9">
+    <title lang="vi">Chuyện 4 phương</title>
+  </programme>
+  <programme start="20210922073000 +0700" stop="20210922074000 +0700" channel="htv9">
+    <title lang="vi">Nhìn ra thế giới</title>
+  </programme>
+  <programme start="20210922074000 +0700" stop="20210922080000 +0700" channel="htv9">
+    <title lang="vi">Truyền hình thanh niên</title>
+  </programme>
+  <programme start="20210922080000 +0700" stop="20210922082500 +0700" channel="htv9">
+    <title lang="vi">Phim tài liệu</title>
+    <desc lang="vi">Thành phố Hồ Chí Minh - Đô thị thông minh ( Tập 3 ).(n)</desc>
+  </programme>
+  <programme start="20210922082500 +0700" stop="20210922084500 +0700" channel="htv9">
+    <title lang="vi">Tạp chí giáo dục</title>
+    <desc lang="vi">Giáo dục giới tính cho trẻ mầm non.(n)</desc>
+  </programme>
+  <programme start="20210922084500 +0700" stop="20210922091500 +0700" channel="htv9">
+    <title lang="vi">Ca nhạc</title>
+    <desc lang="vi">Thế giới âm nhạc.(n)</desc>
+  </programme>
+  <programme start="20210922091500 +0700" stop="20210922093000 +0700" channel="htv9">
+    <title lang="vi">A, bạn đây rồi</title>
+    <desc lang="vi">Xin chào mùa thu.(n)</desc>
+  </programme>
+  <programme start="20210922093000 +0700" stop="20210922110000 +0700" channel="htv9">
+    <title lang="vi">Chiếu phim</title>
+    <desc lang="vi">Phim truyện Việt Nam: Ván bài lật ngửa - Tập 3.(n)</desc>
+  </programme>
+  <programme start="20210922110000 +0700" stop="20210922113000 +0700" channel="htv9">
+    <title lang="vi">Tiêu điểm 247</title>
+  </programme>
+  <programme start="20210922113000 +0700" stop="20210922120000 +0700" channel="htv9">
+    <title lang="vi">Bản tin trưa</title>
+  </programme>
+  <programme start="20210922120000 +0700" stop="20210922123000 +0700" channel="htv9">
+    <title lang="vi">Chuyện trưa 12 giờ</title>
+  </programme>
+  <programme start="20210922123000 +0700" stop="20210922124500 +0700" channel="htv9">
+    <title lang="vi">Son môi đỏ</title>
+  </programme>
+  <programme start="20210922124500 +0700" stop="20210922132500 +0700" channel="htv9">
+    <title lang="vi">Chiếu phim</title>
+    <desc lang="vi">Phim truyện Bồ Đào Nha: Mặt nạ ký ức.(n)</desc>
+  </programme>
+  <programme start="20210922132500 +0700" stop="20210922134000 +0700" channel="htv9">
+    <title lang="vi">Phim Sitcom</title>
+    <desc lang="vi">Nơi yêu thương bắt đầu.(n)</desc>
+  </programme>
+  <programme start="20210922134000 +0700" stop="20210922141000 +0700" channel="htv9">
+    <title lang="vi">Muôn màu thể thao</title>
+  </programme>
+  <programme start="20210922141000 +0700" stop="20210922142500 +0700" channel="htv9">
+    <title lang="vi">Kiến thức cuộc sống</title>
+    <desc lang="vi">Chuyển đổi từ 0 đến 1 ( Bài 5).(n)</desc>
+  </programme>
+  <programme start="20210922142500 +0700" stop="20210922150000 +0700" channel="htv9">
+    <title lang="vi">Vững bước tương lai</title>
+  </programme>
+  <programme start="20210922150000 +0700" stop="20210922152000 +0700" channel="htv9">
+    <title lang="vi">Phim tài liệu</title>
+    <desc lang="vi">Người là niềm tin tất thắng ( Tập 3 ).(n)</desc>
+  </programme>
+  <programme start="20210922152000 +0700" stop="20210922153500 +0700" channel="htv9">
+    <title lang="vi">Phụ nữ &amp; cuộc sống</title>
+  </programme>
+  <programme start="20210922153500 +0700" stop="20210922154500 +0700" channel="htv9">
+    <title lang="vi">Phóng sự</title>
+  </programme>
+  <programme start="20210922154500 +0700" stop="20210922161000 +0700" channel="htv9">
+    <title lang="vi">Thanh xuân tỏa sáng</title>
+  </programme>
+  <programme start="20210922161000 +0700" stop="20210922162000 +0700" channel="htv9">
+    <title lang="vi">Cẩm nang phòng chống Covid tại nhà</title>
+  </programme>
+  <programme start="20210922162000 +0700" stop="20210922164500 +0700" channel="htv9">
+    <title lang="vi">Phim Sitcom</title>
+    <desc lang="vi">Biệt đội se duyên.(n)</desc>
+  </programme>
+  <programme start="20210922164500 +0700" stop="20210922171000 +0700" channel="htv9">
+    <title lang="vi">Sitcom</title>
+    <desc lang="vi">Về phía cầu vồng.(n)</desc>
+  </programme>
+  <programme start="20210922171000 +0700" stop="20210922172500 +0700" channel="htv9">
+    <title lang="vi">Bí mật các loài hoa</title>
+  </programme>
+  <programme start="20210922172500 +0700" stop="20210922173500 +0700" channel="htv9">
+    <title lang="vi">Nhịp điệu nắng mai</title>
+    <desc lang="vi">Nhịp thiên.(n)</desc>
+  </programme>
+  <programme start="20210922173500 +0700" stop="20210922180500 +0700" channel="htv9">
+    <title lang="vi">Bí kíp vàng</title>
+  </programme>
+  <programme start="20210922180500 +0700" stop="20210922181000 +0700" channel="htv9">
+    <title lang="vi">Tiêu điểm y tế</title>
+  </programme>
+  <programme start="20210922181000 +0700" stop="20210922183000 +0700" channel="htv9">
+    <title lang="vi">Phim Sitcom</title>
+    <desc lang="vi">Nhật ký nàng xuân.(n)</desc>
+  </programme>
+  <programme start="20210922183000 +0700" stop="20210922190000 +0700" channel="htv9">
+    <title lang="vi">Chương trình 60 giây</title>
+  </programme>
+  <programme start="20210922190000 +0700" stop="20210922194500 +0700" channel="htv9">
+    <title lang="vi">Tiếp sóng VTV</title>
+  </programme>
+  <programme start="20210922194500 +0700" stop="20210922200000 +0700" channel="htv9">
+    <title lang="vi">Thể thao 365</title>
+  </programme>
+  <programme start="20210922200000 +0700" stop="20210922202300 +0700" channel="htv9">
+    <title lang="vi">Chương trình thời sự HTV</title>
+  </programme>
+  <programme start="20210922202300 +0700" stop="20210922202600 +0700" channel="htv9">
+    <title lang="vi">Thời tiết du ký</title>
+  </programme>
+  <programme start="20210922202600 +0700" stop="20210922203300 +0700" channel="htv9">
+    <title lang="vi">Ăn sạch sống khỏe</title>
+  </programme>
+  <programme start="20210922203300 +0700" stop="20210922205500 +0700" channel="htv9">
+    <title lang="vi">Thế giới 24 giờ</title>
+  </programme>
+  <programme start="20210922205500 +0700" stop="20210922211500 +0700" channel="htv9">
+    <title lang="vi">Vì bình yên cuộc sống</title>
+    <desc lang="vi">Quốc phòng toàn dân.(n)</desc>
+  </programme>
+  <programme start="20210922211500 +0700" stop="20210922214500 +0700" channel="htv9">
+    <title lang="vi">Hãy đoán đi</title>
+  </programme>
+  <programme start="20210922214500 +0700" stop="20210922220000 +0700" channel="htv9">
+    <title lang="vi">Thanh xuân tỏa sáng</title>
+  </programme>
+  <programme start="20210922220000 +0700" stop="20210922225000 +0700" channel="htv9">
+    <title lang="vi">Phim truyện Việt Nam</title>
+    <desc lang="vi">Đường chân trời.(n)</desc>
+  </programme>
+  <programme start="20210922225000 +0700" stop="20210922230500 +0700" channel="htv9">
+    <title lang="vi">Khoảnh khắc cuộc đời</title>
+  </programme>
+  <programme start="20210922230500 +0700" stop="20210922232500 +0700" channel="htv9">
+    <title lang="vi">Kết nối không giới hạn</title>
+    <desc lang="vi">Lớp học đảo ngược.(n)</desc>
+  </programme>
+  <programme start="20210921093000 +0700" stop="20210921113000 +0700" channel="k1hd">
     <title lang="vi">Josée, Nàng Thơ Của Tôi</title>
+    <desc lang="vi">Josée.(n)</desc>
   </programme>
-  <programme start="20210919160000 +0700" stop="20210919170000 +0700" channel="k1hd">
-    <title lang="vi">Lâu Đài Sói (Tập 7)</title>
-  </programme>
-  <programme start="20210919170000 +0700" stop="20210919180000 +0700" channel="k1hd">
-    <title lang="vi">Người Hòa Giải (Tập 9)</title>
-  </programme>
-  <programme start="20210919180000 +0700" stop="20210919194100 +0700" channel="k1hd">
-    <title lang="vi">Siêu Thú</title>
-    <desc lang="vi">Spycies.(n)</desc>
-  </programme>
-  <programme start="20210919194100 +0700" stop="20210919194800 +0700" channel="k1hd">
-    <title lang="vi">Bức tường trở về: men say</title>
-  </programme>
-  <programme start="20210919194800 +0700" stop="20210919200000 +0700" channel="k1hd">
-    <title lang="vi">Bức tường trở về: hoa ban trắng</title>
-  </programme>
-  <programme start="20210919200000 +0700" stop="20210919220200 +0700" channel="k1hd">
-    <title lang="vi">Con Bạc</title>
-    <desc lang="vi">A City Called Macau.(n)</desc>
-  </programme>
-  <programme start="20210919220200 +0700" stop="20210920001500 +0700" channel="k1hd">
-    <title lang="vi">Giải Cứu Nhà Trắng</title>
-    <desc lang="vi">White House Down.(n)</desc>
-  </programme>
-  <programme start="20210920001500 +0700" stop="20210920014000 +0700" channel="k1hd">
-    <title lang="vi">Sát thủ máu lạnh a company man</title>
-  </programme>
-  <programme start="20210920014000 +0700" stop="20210920020900 +0700" channel="k1hd">
+  <programme start="20210921113000 +0700" stop="20210921120000 +0700" channel="k1hd">
     <title lang="vi">Các cặp đôi hollywood</title>
   </programme>
-  <programme start="20210920020900 +0700" stop="20210920033100 +0700" channel="k1hd">
-    <title lang="vi">đời cho ta bao lần đôi mươi the gift of youth</title>
-  </programme>
-  <programme start="20210920033100 +0700" stop="20210920035900 +0700" channel="k1hd">
-    <title lang="vi">Phim điện ảnh và những ngôi sao</title>
-  </programme>
-  <programme start="20210920035900 +0700" stop="20210920060000 +0700" channel="k1hd">
-    <title lang="vi">Có một nơi chỉ chúng ta biết somewhere only we know</title>
-  </programme>
-  <programme start="20210920060000 +0700" stop="20210920074500 +0700" channel="k1hd">
-    <title lang="vi">Tháng 5 Để Dành</title>
-    <desc lang="vi">Sunset Promise.(n)</desc>
-  </programme>
-  <programme start="20210920074500 +0700" stop="20210920093500 +0700" channel="k1hd">
-    <title lang="vi">Nghìn Dặm Kiếm Tìm</title>
-    <desc lang="vi">Lost And Love.(n)</desc>
-  </programme>
-  <programme start="20210920093500 +0700" stop="20210920111400 +0700" channel="k1hd">
-    <title lang="vi">Người Bắt Chim</title>
-    <desc lang="vi">The Bird Catcher​.(n)</desc>
-  </programme>
-  <programme start="20210920111400 +0700" stop="20210920113000 +0700" channel="k1hd">
-    <title lang="vi">Phim hay xem ngay: bột trắng tinh khiết reasons to watch: zero zero zero</title>
-  </programme>
-  <programme start="20210920113000 +0700" stop="20210920120000 +0700" channel="k1hd">
-    <title lang="vi">Phim điện ảnh và những ngôi sao</title>
-  </programme>
-  <programme start="20210920120000 +0700" stop="20210920140200 +0700" channel="k1hd">
-    <title lang="vi">Thành Phố Macau</title>
-    <desc lang="vi">A City Called Macau.(n)</desc>
-  </programme>
-  <programme start="20210920140200 +0700" stop="20210920160500 +0700" channel="k1hd">
-    <title lang="vi">Dạ Quỷ</title>
-    <desc lang="vi">Rampant.(n)</desc>
-  </programme>
-  <programme start="20210920160500 +0700" stop="20210920172900 +0700" channel="k1hd">
-    <title lang="vi">Đời Cho Ta Bao Lần Đôi Mươi</title>
-    <desc lang="vi">The Gift Of Youth.(n)</desc>
-  </programme>
-  <programme start="20210920172900 +0700" stop="20210920180000 +0700" channel="k1hd">
-    <title lang="vi">Các cặp đôi hollywood</title>
-  </programme>
-  <programme start="20210920180000 +0700" stop="20210920193200 +0700" channel="k1hd">
-    <title lang="vi">Terra willy</title>
-  </programme>
-  <programme start="20210920193200 +0700" stop="20210920200000 +0700" channel="k1hd">
-    <title lang="vi">Phim điện ảnh và những ngôi sao</title>
-  </programme>
-  <programme start="20210920200000 +0700" stop="20210920205200 +0700" channel="k1hd">
+  <programme start="20210921120000 +0700" stop="20210921125500 +0700" channel="k1hd">
     <title lang="vi">Bột Trắng Tinh Khiết (Phần 1 - Tập 5)</title>
     <desc lang="vi">Zerozerozero s1, ep05.(n)</desc>
   </programme>
-  <programme start="20210920205200 +0700" stop="20210920220000 +0700" channel="k1hd">
+  <programme start="20210921125500 +0700" stop="20210921140000 +0700" channel="k1hd">
     <title lang="vi">Bột Trắng Tinh Khiết (Phần 1 - Tập 6)</title>
     <desc lang="vi">Zerozerozero s1, ep06.(n)</desc>
   </programme>
-  <programme start="20210920220000 +0700" stop="20210920234300 +0700" channel="k1hd">
-    <title lang="vi">Mật Mã Sống</title>
-    <desc lang="vi">Safe.(n)</desc>
+  <programme start="20210921140000 +0700" stop="20210921154500 +0700" channel="k1hd">
+    <title lang="vi">Siêu thú spycies</title>
   </programme>
-  <programme start="20210919090200 +0700" stop="20210919095600 +0700" channel="kpm">
-    <title lang="vi">Man City - Southampton (H1) Premier League 2021 22</title>
+  <programme start="20210921154500 +0700" stop="20210921180000 +0700" channel="k1hd">
+    <title lang="vi">Giáo Chủ</title>
+    <desc lang="vi">The Master.(n)</desc>
   </programme>
-  <programme start="20210919095600 +0700" stop="20210919105300 +0700" channel="kpm">
-    <title lang="vi">Man City - Southampton (H1) Premier League 2021 22</title>
+  <programme start="20210921180000 +0700" stop="20210921192400 +0700" channel="k1hd">
+    <title lang="vi">Thú Cưng Siêu Quậy</title>
+    <desc lang="vi">Trouble.(n)</desc>
   </programme>
-  <programme start="20210919105300 +0700" stop="20210919110800 +0700" channel="kpm">
-    <title lang="vi">Thế giới bàn thắng</title>
-  </programme>
-  <programme start="20210919110800 +0700" stop="20210919113100 +0700" channel="kpm">
-    <title lang="vi">Sa bàn</title>
-  </programme>
-  <programme start="20210919113100 +0700" stop="20210919113800 +0700" channel="kpm">
-    <title lang="vi">Hành trình sân cỏ</title>
-  </programme>
-  <programme start="20210919113800 +0700" stop="20210919120700 +0700" channel="kpm">
-    <title lang="vi">Tổng hợp trước vòng 1</title>
-  </programme>
-  <programme start="20210919120700 +0700" stop="20210919130200 +0700" channel="kpm">
-    <title lang="vi">Liverpool - Crystal Palace (H1) Premier League 2021 22</title>
-  </programme>
-  <programme start="20210919130200 +0700" stop="20210919135300 +0700" channel="kpm">
-    <title lang="vi">Liverpool - Crystal Palace (H2) Premier League 2021 22</title>
-  </programme>
-  <programme start="20210919135300 +0700" stop="20210919143900 +0700" channel="kpm">
-    <title lang="vi">Câu lạc bộ của tôi</title>
-  </programme>
-  <programme start="20210919143900 +0700" stop="20210919153400 +0700" channel="kpm">
-    <title lang="vi">Wolves - Brentford (H1) Premier League 2021 22</title>
-  </programme>
-  <programme start="20210919153400 +0700" stop="20210919163200 +0700" channel="kpm">
-    <title lang="vi">Wolves - Brentford (H2) Premier League 2021 22</title>
-  </programme>
-  <programme start="20210919163200 +0700" stop="20210919164600 +0700" channel="kpm">
-    <title lang="vi">Hành trình sân cỏ</title>
-  </programme>
-  <programme start="20210919164600 +0700" stop="20210919170500 +0700" channel="kpm">
-    <title lang="vi">Sa bàn</title>
-  </programme>
-  <programme start="20210919170500 +0700" stop="20210919171600 +0700" channel="kpm">
-    <title lang="vi">Trận đấu 10 phút: bỉ - cộng hòa czech</title>
-  </programme>
-  <programme start="20210919171600 +0700" stop="20210919181200 +0700" channel="kpm">
-    <title lang="vi">Burnley - arsenal (h1) epl 21</title>
-  </programme>
-  <programme start="20210919181200 +0700" stop="20210919190600 +0700" channel="kpm">
-    <title lang="vi">Burnley - arsenal (h2) epl 21</title>
-  </programme>
-  <programme start="20210919190600 +0700" stop="20210919192100 +0700" channel="kpm">
-    <title lang="vi">Hành trình sân cỏ</title>
-  </programme>
-  <programme start="20210919192100 +0700" stop="20210919195100 +0700" channel="kpm">
-    <title lang="vi">Tổng hợp trước vòng 1</title>
-  </programme>
-  <programme start="20210919195100 +0700" stop="20210919202100 +0700" channel="kpm">
-    <title lang="vi">Super sunday</title>
-  </programme>
-  <programme start="20210919202100 +0700" stop="20210919211200 +0700" channel="kpm">
-    <title lang="vi">West Ham - Man Utd (H1) Premier League 2021 22</title>
-  </programme>
-  <programme start="20210919211200 +0700" stop="20210919212600 +0700" channel="kpm">
-    <title lang="vi">Super sunday</title>
-  </programme>
-  <programme start="20210919212600 +0700" stop="20210919221600 +0700" channel="kpm">
-    <title lang="vi">West Ham - Man Utd (H2) Premier League 2021 22</title>
-  </programme>
-  <programme start="20210919221600 +0700" stop="20210919222700 +0700" channel="kpm">
-    <title lang="vi">Super sunday</title>
-  </programme>
-  <programme start="20210919222700 +0700" stop="20210919225100 +0700" channel="kpm">
-    <title lang="vi">Super sunday</title>
-  </programme>
-  <programme start="20210919225100 +0700" stop="20210919234100 +0700" channel="kpm">
-    <title lang="vi">Tottenham - Chelsea (H1) Premier League 2021 22</title>
-  </programme>
-  <programme start="20210919234100 +0700" stop="20210919235600 +0700" channel="kpm">
-    <title lang="vi">Super sunday</title>
-  </programme>
-  <programme start="20210919235600 +0700" stop="20210920004600 +0700" channel="kpm">
-    <title lang="vi">Tottenham - chelsea (h2) epl 21</title>
-  </programme>
-  <programme start="20210920004600 +0700" stop="20210920010700 +0700" channel="kpm">
-    <title lang="vi">Super sunday</title>
-  </programme>
-  <programme start="20210920010700 +0700" stop="20210920012100 +0700" channel="kpm">
-    <title lang="vi">Trận đấu 10 phút: hà lan - montenegro</title>
-  </programme>
-  <programme start="20210920012100 +0700" stop="20210920015100 +0700" channel="kpm">
-    <title lang="vi">Thế giới ngoại hạng anh</title>
-  </programme>
-  <programme start="20210920015100 +0700" stop="20210920023600 +0700" channel="kpm">
-    <title lang="vi">Câu lạc bộ của tôi</title>
-  </programme>
-  <programme start="20210920023600 +0700" stop="20210920040600 +0700" channel="kpm">
-    <title lang="vi">Indycar series firestone grand prix of monterey 2021 - phần 1</title>
-  </programme>
-  <programme start="20210920040600 +0700" stop="20210920052100 +0700" channel="kpm">
-    <title lang="vi">Indycar series firestone grand prix of monterey 2021 - phần 2</title>
-  </programme>
-  <programme start="20210920052100 +0700" stop="20210920060000 +0700" channel="kpm">
-    <title lang="vi">Epl – đội hình tiêu biểu: micah richards</title>
-  </programme>
-  <programme start="20210920060000 +0700" stop="20210920061400 +0700" channel="kpm">
-    <title lang="vi">Thế giới bàn thắng</title>
-  </programme>
-  <programme start="20210920061400 +0700" stop="20210920061500 +0700" channel="kpm">
-    <title lang="vi">Những pha phá bóng huyền thoại trên vạch vôi epl</title>
-  </programme>
-  <programme start="20210920061500 +0700" stop="20210920070900 +0700" channel="kpm">
-    <title lang="vi">Tottenham - chelsea (h1) epl 21</title>
-  </programme>
-  <programme start="20210920070900 +0700" stop="20210920080300 +0700" channel="kpm">
-    <title lang="vi">Tottenham - chelsea (h2) epl 21</title>
-  </programme>
-  <programme start="20210920080300 +0700" stop="20210920081500 +0700" channel="kpm">
-    <title lang="vi">Những bàn thắng góc hẹp kinh điển tại ngoại hạng anh</title>
-  </programme>
-  <programme start="20210920081500 +0700" stop="20210920090400 +0700" channel="kpm">
-    <title lang="vi">Tổng hợp vòng loại world cup 2022 khu vực châu âu</title>
-  </programme>
-  <programme start="20210920090400 +0700" stop="20210920091400 +0700" channel="kpm">
-    <title lang="vi">Những pha sút phạt xuất thần trong lịch sử ngoại hạng anh</title>
-  </programme>
-  <programme start="20210920091400 +0700" stop="20210920101000 +0700" channel="kpm">
-    <title lang="vi">Brighton - leicester (h1) epl 21</title>
-  </programme>
-  <programme start="20210920101000 +0700" stop="20210920110300 +0700" channel="kpm">
-    <title lang="vi">Brighton - leicester (h2) epl 21</title>
-  </programme>
-  <programme start="20210920110300 +0700" stop="20210920111400 +0700" channel="kpm">
-    <title lang="vi">Trận đấu 10 phút: anh - andorra</title>
-  </programme>
-  <programme start="20210920111400 +0700" stop="20210920114400 +0700" channel="kpm">
-    <title lang="vi">Thế giới ngoại hạng anh</title>
-  </programme>
-  <programme start="20210920114400 +0700" stop="20210920121600 +0700" channel="kpm">
-    <title lang="vi">Bản tin thể thao</title>
-  </programme>
-  <programme start="20210920121600 +0700" stop="20210920130900 +0700" channel="kpm">
-    <title lang="vi">West ham - man utd (h1) epl 21</title>
-  </programme>
-  <programme start="20210920130900 +0700" stop="20210920140400 +0700" channel="kpm">
-    <title lang="vi">West ham - man utd (h2) epl 21</title>
-  </programme>
-  <programme start="20210920140400 +0700" stop="20210920141500 +0700" channel="kpm">
-    <title lang="vi">Trận đấu 10 phút: belarus - xứ wales</title>
-  </programme>
-  <programme start="20210920141500 +0700" stop="20210920144400 +0700" channel="kpm">
-    <title lang="vi">Chân dung ngoại hạng: ollie watkins</title>
-  </programme>
-  <programme start="20210920144400 +0700" stop="20210920151500 +0700" channel="kpm">
-    <title lang="vi">Những hlv ngoại hạng anh vĩ đại: arsene wenger</title>
-  </programme>
-  <programme start="20210920151500 +0700" stop="20210920154600 +0700" channel="kpm">
-    <title lang="vi">Bản tin thể thao</title>
-  </programme>
-  <programme start="20210920154600 +0700" stop="20210920161400 +0700" channel="kpm">
-    <title lang="vi">100 bàn thắng tại epl của mohamed salah</title>
-  </programme>
-  <programme start="20210920161400 +0700" stop="20210920170900 +0700" channel="kpm">
-    <title lang="vi">Man City - Southampton (H1) Premier League 2021 22</title>
-  </programme>
-  <programme start="20210920170900 +0700" stop="20210920181000 +0700" channel="kpm">
-    <title lang="vi">Man City - Southampton (H2) Premier League 2021 22</title>
-  </programme>
-  <programme start="20210920181000 +0700" stop="20210920182000 +0700" channel="kpm">
-    <title lang="vi">Trận đấu 10 phút: bồ đào nha - israel</title>
-  </programme>
-  <programme start="20210920182000 +0700" stop="20210920185100 +0700" channel="kpm">
-    <title lang="vi">Bản tin thể thao</title>
-  </programme>
-  <programme start="20210920185100 +0700" stop="20210920193200 +0700" channel="kpm">
-    <title lang="vi">Epl – đội hình tiêu biểu: rob green</title>
-  </programme>
-  <programme start="20210920193200 +0700" stop="20210920195000 +0700" channel="kpm">
-    <title lang="vi">Thế giới bàn thắng</title>
-  </programme>
-  <programme start="20210920195000 +0700" stop="20210920202000 +0700" channel="kpm">
-    <title lang="vi">Thế giới ngoại hạng anh</title>
-  </programme>
-  <programme start="20210920202000 +0700" stop="20210920203500 +0700" channel="kpm">
-    <title lang="vi">đội tuyển tôi yêu</title>
-  </programme>
-  <programme start="20210920203500 +0700" stop="20210920205000 +0700" channel="kpm">
-    <title lang="vi">đội tuyển tôi yêu</title>
-  </programme>
-  <programme start="20210920205000 +0700" stop="20210920210500 +0700" channel="kpm">
-    <title lang="vi">đội tuyển tôi yêu</title>
-  </programme>
-  <programme start="20210920210500 +0700" stop="20210920212100 +0700" channel="kpm">
-    <title lang="vi">đội tuyển tôi yêu</title>
-  </programme>
-  <programme start="20210920212100 +0700" stop="20210920221500 +0700" channel="kpm">
-    <title lang="vi">Tottenham - chelsea (h1) epl 21</title>
-  </programme>
-  <programme start="20210920221500 +0700" stop="20210920230700 +0700" channel="kpm">
-    <title lang="vi">Tottenham - chelsea (h2) epl 21</title>
-  </programme>
-  <programme start="20210920230700 +0700" stop="20210920232000 +0700" channel="kpm">
-    <title lang="vi">Trận đấu 10 phút: arsenal - norwich</title>
-  </programme>
-  <programme start="20210919084200 +0700" stop="20210919093100 +0700" channel="kns">
-    <title lang="vi">Cửu châu hải thượng mục vân ký tribes and empires storm of prophecy, ep46</title>
-  </programme>
-  <programme start="20210919093100 +0700" stop="20210919100000 +0700" channel="kns">
+  <programme start="20210921192400 +0700" stop="20210921195200 +0700" channel="k1hd">
     <title lang="vi">Các cặp đôi hollywood</title>
   </programme>
-  <programme start="20210919100000 +0700" stop="20210919113000 +0700" channel="kns">
-    <title lang="vi">Khi Con Là Nhà</title>
+  <programme start="20210921195200 +0700" stop="20210921200000 +0700" channel="k1hd">
+    <title lang="vi">Hậu trường nhắm mắt thấy mùa hè</title>
   </programme>
-  <programme start="20210919113000 +0700" stop="20210919120000 +0700" channel="kns">
-    <title lang="vi">Các cặp đôi hollywood</title>
+  <programme start="20210921200000 +0700" stop="20210921221500 +0700" channel="k1hd">
+    <title lang="vi">Nữ Hoàng Poker</title>
+    <desc lang="vi">Molly's Game​.(n)</desc>
   </programme>
-  <programme start="20210919120000 +0700" stop="20210919124500 +0700" channel="kns">
-    <title lang="vi">Cửa Hàng Tiện Lợi Sao Mai (Tập 10)</title>
+  <programme start="20210921221500 +0700" stop="20210921231500 +0700" channel="k1hd">
+    <title lang="vi">Bác Sĩ Foster (Phần 1 - Tập 4)</title>
+    <desc lang="vi">Doctor Foster s1, ep04.(n)</desc>
   </programme>
-  <programme start="20210919124500 +0700" stop="20210919133200 +0700" channel="kns">
-    <title lang="vi">Cửa Hàng Tiện Lợi Sao Mai (Tập 11)</title>
+  <programme start="20210921231500 +0700" stop="20210922005500 +0700" channel="k1hd">
+    <title lang="vi">Tiệc Cưới Phần 2 - Điểm Đến: Dubai</title>
+    <desc lang="vi">The Wedding Party 2: Destination Dubai.(n)</desc>
   </programme>
-  <programme start="20210919133200 +0700" stop="20210919141300 +0700" channel="kns">
-    <title lang="vi">Cửa Hàng Tiện Lợi Sao Mai (Tập 12)</title>
+  <programme start="20210922005500 +0700" stop="20210922024500 +0700" channel="k1hd">
+    <title lang="vi">Nghìn dặm kiếm tìm lost and love</title>
   </programme>
-  <programme start="20210919141300 +0700" stop="20210919161000 +0700" channel="kns">
-    <title lang="vi">Cảnh Sát Của Năm</title>
+  <programme start="20210922024500 +0700" stop="20210922042600 +0700" channel="k1hd">
+    <title lang="vi">Giấc mộng tây du - phục ma ký dream journey 4: biography of demon</title>
   </programme>
-  <programme start="20210919161000 +0700" stop="20210919181500 +0700" channel="kns">
-    <title lang="vi">Đi Qua Tương Lai</title>
-  </programme>
-  <programme start="20210919181500 +0700" stop="20210919190300 +0700" channel="kns">
-    <title lang="vi">Đại Hiệp Hoắc Nguyên Giáp (Tập 44)</title>
-  </programme>
-  <programme start="20210919190300 +0700" stop="20210919200000 +0700" channel="kns">
-    <title lang="vi">Đại Hiệp Hoắc Nguyên Giáp (Tập 45)</title>
-  </programme>
-  <programme start="20210919200000 +0700" stop="20210919210400 +0700" channel="kns">
-    <title lang="vi">Brighton - Leicester (Hiệp 1) EPL 21</title>
-  </programme>
-  <programme start="20210919210400 +0700" stop="20210919220000 +0700" channel="kns">
-    <title lang="vi">Brighton - Leicester (Hiệp 2) EPL 21</title>
-  </programme>
-  <programme start="20210919220000 +0700" stop="20210920001500 +0700" channel="kns">
-    <title lang="vi">Chuyện Tình Ở Barcelona</title>
-  </programme>
-  <programme start="20210920001500 +0700" stop="20210920010700 +0700" channel="kns">
-    <title lang="vi">100 ngày của hoàng tử 100 days my prince, ep06</title>
-  </programme>
-  <programme start="20210920010700 +0700" stop="20210920020100 +0700" channel="kns">
-    <title lang="vi">100 ngày của hoàng tử 100 days my prince, ep07</title>
-  </programme>
-  <programme start="20210920020100 +0700" stop="20210920021500 +0700" channel="kns">
-    <title lang="vi">Phim hay xem ngay: du lịch châu á qua màn ảnh tháng 9</title>
-  </programme>
-  <programme start="20210920021500 +0700" stop="20210920035100 +0700" channel="kns">
+  <programme start="20210922042600 +0700" stop="20210922060000 +0700" channel="k1hd">
     <title lang="vi">Mật mã sống safe</title>
   </programme>
-  <programme start="20210920035100 +0700" stop="20210920044000 +0700" channel="kns">
-    <title lang="vi">Thế giới nợ tôi một mối tình đầu lucky's first love, ep01</title>
+  <programme start="20210922060000 +0700" stop="20210922064900 +0700" channel="k1hd">
+    <title lang="vi">Bột trắng tinh khiết zerozerozero s1, ep05</title>
   </programme>
-  <programme start="20210920044000 +0700" stop="20210920053200 +0700" channel="kns">
-    <title lang="vi">Thế giới nợ tôi một mối tình đầu lucky's first love, ep02</title>
+  <programme start="20210922064900 +0700" stop="20210922074500 +0700" channel="k1hd">
+    <title lang="vi">Bột trắng tinh khiết zerozerozero s1, ep06</title>
   </programme>
-  <programme start="20210920053200 +0700" stop="20210920060000 +0700" channel="kns">
-    <title lang="vi">Các cặp đôi hollywood</title>
+  <programme start="20210922074500 +0700" stop="20210922084000 +0700" channel="k1hd">
+    <title lang="vi">Bác sĩ foster doctor foster s1, ep04</title>
   </programme>
-  <programme start="20210920060000 +0700" stop="20210920080000 +0700" channel="kns">
-    <title lang="vi">Yêu đời lên nhé happy-go-lucky</title>
+  <programme start="20210922084000 +0700" stop="20210922100400 +0700" channel="k1hd">
+    <title lang="vi">Sát thủ máu lạnh a company man</title>
   </programme>
-  <programme start="20210920080000 +0700" stop="20210920083500 +0700" channel="kns">
-    <title lang="vi">Sự trả thù hoàn hảo gracious revenge, ep66</title>
+  <programme start="20210922100400 +0700" stop="20210922121800 +0700" channel="k1hd">
+    <title lang="vi">Nữ hoàng poker molly's game​</title>
   </programme>
-  <programme start="20210920083500 +0700" stop="20210920090100 +0700" channel="kns">
-    <title lang="vi">Các cặp đôi hollywood</title>
+  <programme start="20210922121800 +0700" stop="20210922131400 +0700" channel="k1hd">
+    <title lang="vi">Bác sĩ foster doctor foster s1, ep04</title>
   </programme>
-  <programme start="20210920090100 +0700" stop="20210920100000 +0700" channel="kns">
-    <title lang="vi">Cửa hàng tiện lợi sao mai backstreet rookie, ep13</title>
+  <programme start="20210922131400 +0700" stop="20210922151400 +0700" channel="k1hd">
+    <title lang="vi">Thành phố macau a city called macau</title>
   </programme>
-  <programme start="20210920100000 +0700" stop="20210920110000 +0700" channel="kns">
-    <title lang="vi">100 ngày của hoàng tử 100 days my prince, ep07</title>
+  <programme start="20210922151400 +0700" stop="20210922163400 +0700" channel="k1hd">
+    <title lang="vi">Love in blood tu la tân nương</title>
   </programme>
-  <programme start="20210920110000 +0700" stop="20210920120000 +0700" channel="kns">
-    <title lang="vi">đại hiệp hoắc nguyên giáp heroes, ep45</title>
+  <programme start="20210922163400 +0700" stop="20210922173100 +0700" channel="k1hd">
+    <title lang="vi">Bác sĩ foster doctor foster s1, ep05</title>
   </programme>
-  <programme start="20210920120000 +0700" stop="20210920124200 +0700" channel="kns">
-    <title lang="vi">Lại một lần nữa once again, ep100</title>
+  <programme start="20210922173100 +0700" stop="20210922190600 +0700" channel="k1hd">
+    <title lang="vi">điệp khúc chorus</title>
   </programme>
-  <programme start="20210920124200 +0700" stop="20210920130000 +0700" channel="kns">
-    <title lang="vi">Phim hay xem ngay: du lịch châu á qua màn ảnh tháng 9</title>
+  <programme start="20210922190600 +0700" stop="20210922210300 +0700" channel="k1hd">
+    <title lang="vi">Josée josée, nàng thơ của tôi</title>
   </programme>
-  <programme start="20210920130000 +0700" stop="20210920135000 +0700" channel="kns">
-    <title lang="vi">Cửu châu hải thượng mục vân ký tribes and empires storm of prophecy, ep47</title>
+  <programme start="20210922210300 +0700" stop="20210922222100 +0700" channel="k1hd">
+    <title lang="vi">Giáng sinh trở lại christmas all over again</title>
   </programme>
-  <programme start="20210920135000 +0700" stop="20210920140000 +0700" channel="kns">
-    <title lang="vi">Clip ca nhạc</title>
+  <programme start="20210921083900 +0700" stop="20210921085600 +0700" channel="kpm">
+    <title lang="vi">đội tuyển tôi yêu</title>
   </programme>
-  <programme start="20210920140000 +0700" stop="20210920144700 +0700" channel="kns">
-    <title lang="vi">Cửa hàng tiện lợi sao mai backstreet rookie, ep13</title>
+  <programme start="20210921085600 +0700" stop="20210921095000 +0700" channel="kpm">
+    <title lang="vi">Burnley - Arsenal (H1) Premier League 2021 22</title>
   </programme>
-  <programme start="20210920144700 +0700" stop="20210920150000 +0700" channel="kns">
-    <title lang="vi">Bức tường trở về: bình yên</title>
+  <programme start="20210921095000 +0700" stop="20210921104200 +0700" channel="kpm">
+    <title lang="vi">Burnley - Arsenal (H2) Premier League 2021 22</title>
   </programme>
-  <programme start="20210920150000 +0700" stop="20210920160000 +0700" channel="kns">
-    <title lang="vi">đấu phá thương khung battle through the heavens, ep21</title>
+  <programme start="20210921104200 +0700" stop="20210921105500 +0700" channel="kpm">
+    <title lang="vi">Câu chuyện của tôi: mason mount</title>
   </programme>
-  <programme start="20210920160000 +0700" stop="20210920164700 +0700" channel="kns">
-    <title lang="vi">đại hiệp hoắc nguyên giáp heroes, ep45</title>
+  <programme start="20210921105500 +0700" stop="20210921112400 +0700" channel="kpm">
+    <title lang="vi">100 bàn thắng tại epl của mohamed salah</title>
   </programme>
-  <programme start="20210920164700 +0700" stop="20210920170000 +0700" channel="kns">
-    <title lang="vi">Phim hay xem ngay: bột trắng tinh khiết reasons to watch: zero zero zero</title>
+  <programme start="20210921112400 +0700" stop="20210921115600 +0700" channel="kpm">
+    <title lang="vi">Bản tin thể thao</title>
   </programme>
-  <programme start="20210920170000 +0700" stop="20210920175200 +0700" channel="kns">
-    <title lang="vi">100 ngày của hoàng tử 100 days my prince, ep08</title>
+  <programme start="20210921115600 +0700" stop="20210921125300 +0700" channel="kpm">
+    <title lang="vi">Tottenham - Chelsea (H1) Premier League 2021 22</title>
   </programme>
-  <programme start="20210920175200 +0700" stop="20210920180000 +0700" channel="kns">
-    <title lang="vi">Clip ca nhạc</title>
+  <programme start="20210921125300 +0700" stop="20210921135400 +0700" channel="kpm">
+    <title lang="vi">Tottenham - Chelsea (H2) Premier League 2021 22</title>
   </programme>
-  <programme start="20210920180000 +0700" stop="20210920184200 +0700" channel="kns">
-    <title lang="vi">Sự trả thù hoàn hảo gracious revenge, ep67</title>
+  <programme start="20210921135400 +0700" stop="20210921140400 +0700" channel="kpm">
+    <title lang="vi">đội tuyển tôi yêu</title>
   </programme>
-  <programme start="20210920184200 +0700" stop="20210920190000 +0700" channel="kns">
-    <title lang="vi">Phim hay xem ngay: du lịch châu á qua màn ảnh tháng 9</title>
+  <programme start="20210921140400 +0700" stop="20210921141400 +0700" channel="kpm">
+    <title lang="vi">đội tuyển tôi yêu</title>
   </programme>
-  <programme start="20210920190000 +0700" stop="20210920200000 +0700" channel="kns">
-    <title lang="vi">đấu phá thương khung battle through the heavens, ep22</title>
+  <programme start="20210921141400 +0700" stop="20210921143400 +0700" channel="kpm">
+    <title lang="vi">đội tuyển tôi yêu</title>
   </programme>
-  <programme start="20210920200000 +0700" stop="20210920204400 +0700" channel="kns">
-    <title lang="vi">Cửa hàng tiện lợi sao mai backstreet rookie, ep14</title>
+  <programme start="20210921143400 +0700" stop="20210921145000 +0700" channel="kpm">
+    <title lang="vi">đội tuyển tôi yêu</title>
   </programme>
-  <programme start="20210920204400 +0700" stop="20210920210000 +0700" channel="kns">
-    <title lang="vi">Phim hay xem ngay: bột trắng tinh khiết reasons to watch: zero zero zero</title>
+  <programme start="20210921145000 +0700" stop="20210921152000 +0700" channel="kpm">
+    <title lang="vi">Bản tin thể thao</title>
   </programme>
-  <programme start="20210920210000 +0700" stop="20210920214700 +0700" channel="kns">
-    <title lang="vi">ám hành ngự sử royal secret agent, ep01</title>
+  <programme start="20210921152000 +0700" stop="20210921155000 +0700" channel="kpm">
+    <title lang="vi">Thế Giới Ngoại Hạng Anh 2021 22</title>
   </programme>
-  <programme start="20210920214700 +0700" stop="20210920220000 +0700" channel="kns">
-    <title lang="vi">Clip ca nhạc</title>
+  <programme start="20210921155000 +0700" stop="20210921164400 +0700" channel="kpm">
+    <title lang="vi">Aston Villa - Everton (H1) Premier League 2021 22</title>
   </programme>
-  <programme start="20210920220000 +0700" stop="20210920230000 +0700" channel="kns">
-    <title lang="vi">Thế giới nợ tôi một mối tình đầu lucky's first love, ep03</title>
+  <programme start="20210921164400 +0700" stop="20210921174900 +0700" channel="kpm">
+    <title lang="vi">Aston Villa - Everton (H2) Premier League 2021 22</title>
   </programme>
-  <programme start="20210920230000 +0700" stop="20210920234900 +0700" channel="kns">
-    <title lang="vi">Lương sinh, liệu đôi ta có thể ngừng đau thương all out of love, ep39</title>
+  <programme start="20210921174900 +0700" stop="20210921181900 +0700" channel="kpm">
+    <title lang="vi">Bản tin thể thao</title>
   </programme>
-  <programme start="20210919090000 +0700" stop="20210919093000 +0700" channel="kpc">
-    <title lang="vi">PGA Tour Muôn Màu 2021</title>
+  <programme start="20210921181900 +0700" stop="20210921184900 +0700" channel="kpm">
+    <title lang="vi">100 bàn thắng tại epl của mohamed salah</title>
   </programme>
-  <programme start="20210919093000 +0700" stop="20210919104200 +0700" channel="kpc">
-    <title lang="vi">ATP Masters 1000 Western &amp; Southern Mở Rộng 2021</title>
-    <desc lang="vi">Ngày 7 - Rublev Vs A. Zverev.(n)</desc>
+  <programme start="20210921184900 +0700" stop="20210921191900 +0700" channel="kpm">
+    <title lang="vi">Tạp chí derby: derby bắc london</title>
   </programme>
-  <programme start="20210919104200 +0700" stop="20210919110000 +0700" channel="kpc">
-    <title lang="vi">Lễ Trao Giải ATP Masters 1000 Western &amp; Southern Mở Rộng 2021</title>
+  <programme start="20210921191900 +0700" stop="20210921194900 +0700" channel="kpm">
+    <title lang="vi">Chân dung ngoại hạng: jack harrison</title>
   </programme>
-  <programme start="20210919110000 +0700" stop="20210919120000 +0700" channel="kpc">
-    <title lang="vi">Tổng Hợp Champions Tour Ascension Charity Classic 2021</title>
+  <programme start="20210921194900 +0700" stop="20210921204900 +0700" channel="kpm">
+    <title lang="vi">Tổng Hợp Vòng 5 Premier League 2021 22</title>
   </programme>
-  <programme start="20210919120000 +0700" stop="20210919121300 +0700" channel="kpc">
-    <title lang="vi">Võ tổng hợp: cage warriors 119 - the trilogy strikes back - trận 1 - kieran lister vs joe mccolgan</title>
+  <programme start="20210921204900 +0700" stop="20210921214500 +0700" channel="kpm">
+    <title lang="vi">West Ham - Man Utd (H1) Premier League 2021 22</title>
   </programme>
-  <programme start="20210919121300 +0700" stop="20210919122400 +0700" channel="kpc">
-    <title lang="vi">Võ tổng hợp: cage warriors 119 - the trilogy strikes back - trận 2 - lawrence tracey vs ian garry</title>
+  <programme start="20210921214500 +0700" stop="20210921224900 +0700" channel="kpm">
+    <title lang="vi">West Ham - Man Utd (H2) Premier League 2021 22</title>
   </programme>
-  <programme start="20210919122400 +0700" stop="20210919125000 +0700" channel="kpc">
-    <title lang="vi">Võ tổng hợp: cage warriors 119 - the trilogy strikes back - trận 3 - jordan vucenic vs paul hughes</title>
+  <programme start="20210921224900 +0700" stop="20210921225900 +0700" channel="kpm">
+    <title lang="vi">đội tuyển tôi yêu</title>
   </programme>
-  <programme start="20210919125000 +0700" stop="20210919133000 +0700" channel="kpc">
-    <title lang="vi">Võ tổng hợp: cage warriors 119 - the trilogy strikes back - trận 4 - agy sardari vs jack grant</title>
+  <programme start="20210921225900 +0700" stop="20210921230900 +0700" channel="kpm">
+    <title lang="vi">đội tuyển tôi yêu</title>
   </programme>
-  <programme start="20210919133000 +0700" stop="20210919135800 +0700" channel="kpc">
-    <title lang="vi">Võ tổng hợp: cage warriors 119 - the trilogy strikes back - trận 5 - perry goodwin vs morgan charriere</title>
+  <programme start="20210921230900 +0700" stop="20210921232900 +0700" channel="kpm">
+    <title lang="vi">đội tuyển tôi yêu</title>
   </programme>
-  <programme start="20210919135800 +0700" stop="20210919141500 +0700" channel="kpc">
-    <title lang="vi">Trận đấu kinh điển atp</title>
+  <programme start="20210921232900 +0700" stop="20210921234600 +0700" channel="kpm">
+    <title lang="vi">đội tuyển tôi yêu</title>
   </programme>
-  <programme start="20210919141500 +0700" stop="20210919143900 +0700" channel="kpc">
-    <title lang="vi">PGA Tour Muôn Màu 2021</title>
+  <programme start="20210921234600 +0700" stop="20210922004300 +0700" channel="kpm">
+    <title lang="vi">Newcastle - leeds (h1) epl 21</title>
   </programme>
-  <programme start="20210919143900 +0700" stop="20210919150000 +0700" channel="kpc">
+  <programme start="20210922004300 +0700" stop="20210922013400 +0700" channel="kpm">
+    <title lang="vi">Newcastle - leeds (h2) epl 21</title>
+  </programme>
+  <programme start="20210922013400 +0700" stop="20210922014400 +0700" channel="kpm">
     <title lang="vi">Thế giới bàn thắng</title>
   </programme>
-  <programme start="20210919150000 +0700" stop="20210919163200 +0700" channel="kpc">
-    <title lang="vi">PGA Tour Fortinet Championship 2021</title>
-    <desc lang="vi">Ngày 3 - Phần 3.(n)</desc>
+  <programme start="20210922014400 +0700" stop="20210922024400 +0700" channel="kpm">
+    <title lang="vi">Epl tổng hợp vòng 5</title>
   </programme>
-  <programme start="20210919163200 +0700" stop="20210919173000 +0700" channel="kpc">
-    <title lang="vi">Những sự kiện ufc đặc sắc: cormier vs miocic 2</title>
+  <programme start="20210922024400 +0700" stop="20210922034100 +0700" channel="kpm">
+    <title lang="vi">Tottenham - chelsea (h1) epl 21</title>
   </programme>
-  <programme start="20210919173000 +0700" stop="20210919184300 +0700" channel="kpc">
-    <title lang="vi">ATP Masters 1000 Western &amp; Southern Mở Rộng 2021</title>
-    <desc lang="vi">Ngày 7 - Rublev Vs A. Zverev.(n)</desc>
+  <programme start="20210922034100 +0700" stop="20210922043500 +0700" channel="kpm">
+    <title lang="vi">Tottenham - chelsea (h2) epl 21</title>
   </programme>
-  <programme start="20210919184300 +0700" stop="20210919185900 +0700" channel="kpc">
-    <title lang="vi">Lễ Trao Giải ATP Masters 1000 Western &amp; Southern Mở Rộng 2021</title>
+  <programme start="20210922043500 +0700" stop="20210922044400 +0700" channel="kpm">
+    <title lang="vi">Những pha cứu thua không dùng tay của thủ môn trong lịch sử ngoại hạng anh</title>
   </programme>
-  <programme start="20210919185900 +0700" stop="20210919200000 +0700" channel="kpc">
-    <title lang="vi">Tổng Hợp WRC Eko Acropolis Rally Greece 2021</title>
+  <programme start="20210922044400 +0700" stop="20210922052900 +0700" channel="kpm">
+    <title lang="vi">Câu lạc bộ của tôi</title>
   </programme>
-  <programme start="20210919200000 +0700" stop="20210919210500 +0700" channel="kpc">
-    <title lang="vi">Brighton - Leicester (Hiệp 1) EPL 21</title>
+  <programme start="20210922052900 +0700" stop="20210922060000 +0700" channel="kpm">
+    <title lang="vi">Những pha phản công kinh điển trong lịch sử ngoại hạng anh</title>
   </programme>
-  <programme start="20210919210500 +0700" stop="20210919220000 +0700" channel="kpc">
-    <title lang="vi">Brighton - Leicester (Hiệp 2) EPL 21</title>
+  <programme start="20210922060000 +0700" stop="20210922065500 +0700" channel="kpm">
+    <title lang="vi">Man city - southampton (h1) epl 21</title>
   </programme>
-  <programme start="20210919220000 +0700" stop="20210919223000 +0700" channel="kpc">
-    <title lang="vi">PGA Tour Muôn Màu 2021</title>
+  <programme start="20210922065500 +0700" stop="20210922075000 +0700" channel="kpm">
+    <title lang="vi">Man city - southampton (h2) epl 21</title>
   </programme>
-  <programme start="20210919223000 +0700" stop="20210920000200 +0700" channel="kpc">
-    <title lang="vi">Pga tour fortinet championship 2021 - ngày 3</title>
+  <programme start="20210922075000 +0700" stop="20210922080000 +0700" channel="kpm">
+    <title lang="vi">Thế giới bàn thắng</title>
   </programme>
-  <programme start="20210920000200 +0700" stop="20210920010000 +0700" channel="kpc">
-    <title lang="vi">Khoảnh khắc atp masters</title>
+  <programme start="20210922080000 +0700" stop="20210922083000 +0700" channel="kpm">
+    <title lang="vi">Chân dung ngoại hạng: jack harrison</title>
   </programme>
-  <programme start="20210920010000 +0700" stop="20210920012200 +0700" channel="kpc">
-    <title lang="vi">A. besputin vs v. plotnikov - hạng bán trung quốc tế</title>
+  <programme start="20210922083000 +0700" stop="20210922093300 +0700" channel="kpm">
+    <title lang="vi">Bồ đào nha - cộng hòa ireland (h1) vòng loại world cup 2022 khu vực châu âu</title>
   </programme>
-  <programme start="20210920012200 +0700" stop="20210920013800 +0700" channel="kpc">
-    <title lang="vi">Khariton agrba vs helber rojas - tranh đai vô địch wba hạng siêu nhẹ</title>
+  <programme start="20210922093300 +0700" stop="20210922102800 +0700" channel="kpm">
+    <title lang="vi">Bồ đào nha - cộng hòa ireland (h2) vòng loại world cup 2022 khu vực châu âu</title>
   </programme>
-  <programme start="20210920013800 +0700" stop="20210920015300 +0700" channel="kpc">
-    <title lang="vi">V. mironchikov vs e. akhundzada - quyền anh hạng siêu trung</title>
+  <programme start="20210922102800 +0700" stop="20210922103800 +0700" channel="kpm">
+    <title lang="vi">đội tuyển tôi yêu</title>
   </programme>
-  <programme start="20210920015300 +0700" stop="20210920020400 +0700" channel="kpc">
-    <title lang="vi">V. ivanov vs a. stepanov - quyền anh hạng nặng</title>
+  <programme start="20210922103800 +0700" stop="20210922104800 +0700" channel="kpm">
+    <title lang="vi">đội tuyển tôi yêu</title>
   </programme>
-  <programme start="20210920020400 +0700" stop="20210920021900 +0700" channel="kpc">
-    <title lang="vi">R. akhmetkhanov vs a. karpets - quyền anh hạng trung</title>
+  <programme start="20210922104800 +0700" stop="20210922110800 +0700" channel="kpm">
+    <title lang="vi">đội tuyển tôi yêu</title>
   </programme>
-  <programme start="20210920021900 +0700" stop="20210920032100 +0700" channel="kpc">
-    <title lang="vi">Pavel silyagin vs a. abdugofurov - tranh đai vô địch wbc silver hạng siêu trung</title>
+  <programme start="20210922110800 +0700" stop="20210922112500 +0700" channel="kpm">
+    <title lang="vi">đội tuyển tôi yêu</title>
   </programme>
-  <programme start="20210920032100 +0700" stop="20210920043000 +0700" channel="kpc">
-    <title lang="vi">Artur beterbiev vs adam deines - tranh đai vô địch wbc &amp; ibf hạng dưới nặng</title>
+  <programme start="20210922112500 +0700" stop="20210922115700 +0700" channel="kpm">
+    <title lang="vi">Bản tin thể thao</title>
   </programme>
-  <programme start="20210920043000 +0700" stop="20210920050000 +0700" channel="kpc">
-    <title lang="vi">Hành trình đến pga tour</title>
+  <programme start="20210922115700 +0700" stop="20210922125200 +0700" channel="kpm">
+    <title lang="vi">Brighton - leicester (h1) epl 21</title>
   </programme>
-  <programme start="20210920050000 +0700" stop="20210920060000 +0700" channel="kpc">
-    <title lang="vi">Pga tour fortinet championship 2021 - ngày 4 - phần 1</title>
+  <programme start="20210922125200 +0700" stop="20210922134500 +0700" channel="kpm">
+    <title lang="vi">Brighton - leicester (h2) epl 21</title>
   </programme>
-  <programme start="20210920060000 +0700" stop="20210920070000 +0700" channel="kpc">
-    <title lang="vi">PGA Tour Fortinet Championship 2021</title>
-    <desc lang="vi">Ngày 4 - Phần 02.(n)</desc>
+  <programme start="20210922134500 +0700" stop="20210922135500 +0700" channel="kpm">
+    <title lang="vi">Trận đấu 10 phút: wolves - brentford</title>
   </programme>
-  <programme start="20210920070000 +0700" stop="20210920080100 +0700" channel="kpc">
-    <title lang="vi">PGA Tour Fortinet Championship 2021</title>
-    <desc lang="vi">Ngày 4 - Phần 03.(n)</desc>
+  <programme start="20210922135500 +0700" stop="20210922145500 +0700" channel="kpm">
+    <title lang="vi">Epl tổng hợp vòng 5</title>
   </programme>
-  <programme start="20210920080100 +0700" stop="20210920083100 +0700" channel="kpc">
-    <title lang="vi">Phim tài liệu về w series: nữ hoàng băng giá: the ice women cometh</title>
+  <programme start="20210922145500 +0700" stop="20210922152500 +0700" channel="kpm">
+    <title lang="vi">Bản tin thể thao</title>
   </programme>
-  <programme start="20210920083100 +0700" stop="20210920092000 +0700" channel="kpc">
-    <title lang="vi">Những sự kiện ufc đặc sắc: masvidal vs diaz</title>
+  <programme start="20210922152500 +0700" stop="20210922155500 +0700" channel="kpm">
+    <title lang="vi">Chân dung ngoại hạng: jack harrison</title>
   </programme>
-  <programme start="20210920092000 +0700" stop="20210920093100 +0700" channel="kpc">
-    <title lang="vi">Hành trình vô địch atp 500 hamburg european open 2021 của pablo carreno busta</title>
+  <programme start="20210922155500 +0700" stop="20210922164900 +0700" channel="kpm">
+    <title lang="vi">Liverpool - crystal palace (h1) epl 21</title>
   </programme>
-  <programme start="20210920093100 +0700" stop="20210920110100 +0700" channel="kpc">
-    <title lang="vi">Indycar Series Firestone Grand Prix Of Monterey 2021</title>
-    <desc lang="vi">Phần 1.(n)</desc>
+  <programme start="20210922164900 +0700" stop="20210922175500 +0700" channel="kpm">
+    <title lang="vi">Liverpool - crystal palace (h2) epl 21</title>
   </programme>
-  <programme start="20210920110100 +0700" stop="20210920122000 +0700" channel="kpc">
-    <title lang="vi">Indycar Series Firestone Grand Prix Of Monterey 2021</title>
-    <desc lang="vi">Phần 2.(n)</desc>
+  <programme start="20210922175500 +0700" stop="20210922182600 +0700" channel="kpm">
+    <title lang="vi">Bản tin thể thao</title>
   </programme>
-  <programme start="20210920122000 +0700" stop="20210920123100 +0700" channel="kpc">
-    <title lang="vi">Kỹ thuật atp</title>
+  <programme start="20210922182600 +0700" stop="20210922183600 +0700" channel="kpm">
+    <title lang="vi">đội tuyển tôi yêu</title>
   </programme>
-  <programme start="20210920123100 +0700" stop="20210920133100 +0700" channel="kpc">
-    <title lang="vi">Tổng hợp pga tour bmw championship 2021</title>
+  <programme start="20210922183600 +0700" stop="20210922184600 +0700" channel="kpm">
+    <title lang="vi">đội tuyển tôi yêu</title>
   </programme>
-  <programme start="20210920133100 +0700" stop="20210920140100 +0700" channel="kpc">
-    <title lang="vi">Tạp chí atp tour</title>
+  <programme start="20210922184600 +0700" stop="20210922190600 +0700" channel="kpm">
+    <title lang="vi">đội tuyển tôi yêu</title>
   </programme>
-  <programme start="20210920140100 +0700" stop="20210920150000 +0700" channel="kpc">
-    <title lang="vi">Tổng hợp wrc eko acropolis rally greece 2021</title>
+  <programme start="20210922190600 +0700" stop="20210922192200 +0700" channel="kpm">
+    <title lang="vi">đội tuyển tôi yêu</title>
   </programme>
-  <programme start="20210920150000 +0700" stop="20210920163300 +0700" channel="kpc">
-    <title lang="vi">Pga tour fortinet championship 2021 - ngày 4</title>
+  <programme start="20210922192200 +0700" stop="20210922195000 +0700" channel="kpm">
+    <title lang="vi">Những hlv ngoại hạng anh vĩ đại: alex ferguson</title>
   </programme>
-  <programme start="20210920163300 +0700" stop="20210920173100 +0700" channel="kpc">
-    <title lang="vi">Tổng hợp vòng loại world cup 2022 khu vực châu âu</title>
+  <programme start="20210922195000 +0700" stop="20210922202100 +0700" channel="kpm">
+    <title lang="vi">Câu lạc bộ của tôi</title>
   </programme>
-  <programme start="20210920173100 +0700" stop="20210920183600 +0700" channel="kpc">
-    <title lang="vi">Atp masters 1000 miami mở rộng 2019 – ngày 7 – tsitsipas vs shapovalov - phần 1</title>
+  <programme start="20210922202100 +0700" stop="20210922205100 +0700" channel="kpm">
+    <title lang="vi">100 bàn thắng tại epl của mohamed salah</title>
   </programme>
-  <programme start="20210920183600 +0700" stop="20210920200000 +0700" channel="kpc">
-    <title lang="vi">Atp masters 1000 miami mở rộng 2019 – ngày 7 – tsitsipas vs shapovalov - phần 2</title>
+  <programme start="20210922205100 +0700" stop="20210922214500 +0700" channel="kpm">
+    <title lang="vi">Man city - southampton (h1) epl 21</title>
   </programme>
-  <programme start="20210920200000 +0700" stop="20210920203000 +0700" channel="kpc">
+  <programme start="20210922214500 +0700" stop="20210922224200 +0700" channel="kpm">
+    <title lang="vi">Man city - southampton (h2) epl 21</title>
+  </programme>
+  <programme start="20210922224200 +0700" stop="20210922225100 +0700" channel="kpm">
+    <title lang="vi">Hành trình sân cỏ</title>
+  </programme>
+  <programme start="20210922225100 +0700" stop="20210922235100 +0700" channel="kpm">
+    <title lang="vi">Epl tổng hợp vòng 5</title>
+  </programme>
+  <programme start="20210921083600 +0700" stop="20210921090200 +0700" channel="kns">
+    <title lang="vi">Các cặp đôi hollywood</title>
+  </programme>
+  <programme start="20210921090200 +0700" stop="20210921100000 +0700" channel="kns">
+    <title lang="vi">Cửa Hàng Tiện Lợi Sao Mai (Tập 14)</title>
+  </programme>
+  <programme start="20210921100000 +0700" stop="20210921110000 +0700" channel="kns">
+    <title lang="vi">100 Ngày Của Hoàng Tử (Tập 8)</title>
+  </programme>
+  <programme start="20210921110000 +0700" stop="20210921114900 +0700" channel="kns">
+    <title lang="vi">Ám Hành Ngự Sử (Tập 1)</title>
+  </programme>
+  <programme start="20210921114900 +0700" stop="20210921115900 +0700" channel="kns">
+    <title lang="vi">Clip ca nhạc</title>
+  </programme>
+  <programme start="20210921115900 +0700" stop="20210921124700 +0700" channel="kns">
+    <title lang="vi">Three lives, three worlds: the pillow book, ep01</title>
+  </programme>
+  <programme start="20210921124700 +0700" stop="20210921125900 +0700" channel="kns">
+    <title lang="vi">Clip ca nhạc</title>
+  </programme>
+  <programme start="20210921125900 +0700" stop="20210921135900 +0700" channel="kns">
+    <title lang="vi">Cửu Châu Hải Thượng Mục Vân Ký (Tập 48)</title>
+  </programme>
+  <programme start="20210921135900 +0700" stop="20210921144500 +0700" channel="kns">
+    <title lang="vi">Cửa Hàng Tiện Lợi Sao Mai (Tập 14)</title>
+  </programme>
+  <programme start="20210921144500 +0700" stop="20210921145900 +0700" channel="kns">
+    <title lang="vi">Phim hay xem ngay: du lịch châu á qua màn ảnh tháng 9</title>
+  </programme>
+  <programme start="20210921145900 +0700" stop="20210921155900 +0700" channel="kns">
+    <title lang="vi">Đấu Phá Thương Khung (Tập 22)</title>
+  </programme>
+  <programme start="20210921155900 +0700" stop="20210921164900 +0700" channel="kns">
+    <title lang="vi">Ám Hành Ngự Sử (Tập 1)</title>
+  </programme>
+  <programme start="20210921164900 +0700" stop="20210921165900 +0700" channel="kns">
+    <title lang="vi">Clip ca nhạc</title>
+  </programme>
+  <programme start="20210921165900 +0700" stop="20210921175900 +0700" channel="kns">
+    <title lang="vi">100 Ngày Của Hoàng Tử (Tập 9)</title>
+  </programme>
+  <programme start="20210921175900 +0700" stop="20210921183500 +0700" channel="kns">
+    <title lang="vi">Sự Trả Thù Hoàn Hảo (Tập 68)</title>
+  </programme>
+  <programme start="20210921183500 +0700" stop="20210921190100 +0700" channel="kns">
+    <title lang="vi">Các cặp đôi hollywood</title>
+  </programme>
+  <programme start="20210921190100 +0700" stop="20210921195900 +0700" channel="kns">
+    <title lang="vi">Đấu Phá Thương Khung (Tập 23)</title>
+  </programme>
+  <programme start="20210921195900 +0700" stop="20210921205900 +0700" channel="kns">
+    <title lang="vi">Cửa Hàng Tiện Lợi Sao Mai (Tập 15)</title>
+  </programme>
+  <programme start="20210921205900 +0700" stop="20210921214600 +0700" channel="kns">
+    <title lang="vi">Ám Hành Ngự Sử (Tập 2)</title>
+  </programme>
+  <programme start="20210921214600 +0700" stop="20210921220000 +0700" channel="kns">
+    <title lang="vi">Phim hay xem ngay: du lịch châu á qua màn ảnh tháng 9</title>
+  </programme>
+  <programme start="20210921220000 +0700" stop="20210921224800 +0700" channel="kns">
+    <title lang="vi">Thế Giới Nợ Tôi Một Mối Tình Đầu (Tập 4)</title>
+  </programme>
+  <programme start="20210921224800 +0700" stop="20210921230100 +0700" channel="kns">
+    <title lang="vi">Hậu trường nhắm mắt thấy mùa hè</title>
+  </programme>
+  <programme start="20210921230100 +0700" stop="20210921235000 +0700" channel="kns">
+    <title lang="vi">Lương Sinh, Liệu Đôi Ta Có Thể Ngừng Đau Thương (Tập 40)</title>
+  </programme>
+  <programme start="20210921235000 +0700" stop="20210922000100 +0700" channel="kns">
+    <title lang="vi">Bức tường trở về: đường đến ngày vinh quang</title>
+  </programme>
+  <programme start="20210922000100 +0700" stop="20210922005000 +0700" channel="kns">
+    <title lang="vi">Three lives, three worlds: the pillow book, ep01</title>
+  </programme>
+  <programme start="20210922005000 +0700" stop="20210922010100 +0700" channel="kns">
+    <title lang="vi">Bức tường trở về: cơn mưa tháng 5</title>
+  </programme>
+  <programme start="20210922010100 +0700" stop="20210922014500 +0700" channel="kns">
+    <title lang="vi">Cửa hàng tiện lợi sao mai backstreet rookie, ep15</title>
+  </programme>
+  <programme start="20210922014500 +0700" stop="20210922020100 +0700" channel="kns">
+    <title lang="vi">Phim hay xem ngay: bột trắng tinh khiết reasons to watch: zero zero zero</title>
+  </programme>
+  <programme start="20210922020100 +0700" stop="20210922024700 +0700" channel="kns">
+    <title lang="vi">đấu phá thương khung battle through the heavens, ep23</title>
+  </programme>
+  <programme start="20210922024700 +0700" stop="20210922030100 +0700" channel="kns">
+    <title lang="vi">Phim hay xem ngay: bột trắng tinh khiết reasons to watch: zero zero zero</title>
+  </programme>
+  <programme start="20210922030100 +0700" stop="20210922035200 +0700" channel="kns">
+    <title lang="vi">100 ngày của hoàng tử 100 days my prince, ep09</title>
+  </programme>
+  <programme start="20210922035200 +0700" stop="20210922040100 +0700" channel="kns">
+    <title lang="vi">Clip ca nhạc</title>
+  </programme>
+  <programme start="20210922040100 +0700" stop="20210922043600 +0700" channel="kns">
+    <title lang="vi">Sự trả thù hoàn hảo gracious revenge, ep68</title>
+  </programme>
+  <programme start="20210922043600 +0700" stop="20210922050100 +0700" channel="kns">
+    <title lang="vi">Các cặp đôi hollywood</title>
+  </programme>
+  <programme start="20210922050100 +0700" stop="20210922054800 +0700" channel="kns">
+    <title lang="vi">Cửu châu hải thượng mục vân ký tribes and empires storm of prophecy, ep48</title>
+  </programme>
+  <programme start="20210922054800 +0700" stop="20210922060000 +0700" channel="kns">
+    <title lang="vi">Clip ca nhạc</title>
+  </programme>
+  <programme start="20210922060000 +0700" stop="20210922064300 +0700" channel="kns">
+    <title lang="vi">ám hành ngự sử royal secret agent, ep02</title>
+  </programme>
+  <programme start="20210922064300 +0700" stop="20210922072700 +0700" channel="kns">
+    <title lang="vi">Three lives, three worlds: the pillow book, ep01</title>
+  </programme>
+  <programme start="20210922072700 +0700" stop="20210922080200 +0700" channel="kns">
+    <title lang="vi">Sự trả thù hoàn hảo gracious revenge, ep68</title>
+  </programme>
+  <programme start="20210922080200 +0700" stop="20210922084300 +0700" channel="kns">
+    <title lang="vi">Cửa hàng tiện lợi sao mai backstreet rookie, ep15</title>
+  </programme>
+  <programme start="20210922084300 +0700" stop="20210922093100 +0700" channel="kns">
+    <title lang="vi">100 ngày của hoàng tử 100 days my prince, ep09</title>
+  </programme>
+  <programme start="20210922093100 +0700" stop="20210922101400 +0700" channel="kns">
+    <title lang="vi">ám hành ngự sử royal secret agent, ep02</title>
+  </programme>
+  <programme start="20210922101400 +0700" stop="20210922110000 +0700" channel="kns">
+    <title lang="vi">Three lives, three worlds: the pillow book, ep02</title>
+  </programme>
+  <programme start="20210922110000 +0700" stop="20210922114500 +0700" channel="kns">
+    <title lang="vi">Cửu châu hải thượng mục vân ký tribes and empires storm of prophecy, ep49</title>
+  </programme>
+  <programme start="20210922114500 +0700" stop="20210922122600 +0700" channel="kns">
+    <title lang="vi">Cửa hàng tiện lợi sao mai backstreet rookie, ep15</title>
+  </programme>
+  <programme start="20210922122600 +0700" stop="20210922131100 +0700" channel="kns">
+    <title lang="vi">đấu phá thương khung battle through the heavens, ep23</title>
+  </programme>
+  <programme start="20210922131100 +0700" stop="20210922135400 +0700" channel="kns">
+    <title lang="vi">ám hành ngự sử royal secret agent, ep02</title>
+  </programme>
+  <programme start="20210922135400 +0700" stop="20210922144200 +0700" channel="kns">
+    <title lang="vi">100 ngày của hoàng tử 100 days my prince, ep10</title>
+  </programme>
+  <programme start="20210922144200 +0700" stop="20210922151500 +0700" channel="kns">
+    <title lang="vi">Sự trả thù hoàn hảo gracious revenge, ep69</title>
+  </programme>
+  <programme start="20210922151500 +0700" stop="20210922160000 +0700" channel="kns">
+    <title lang="vi">đấu phá thương khung battle through the heavens, ep24</title>
+  </programme>
+  <programme start="20210922160000 +0700" stop="20210922164300 +0700" channel="kns">
+    <title lang="vi">Cửa hàng tiện lợi sao mai backstreet rookie, ep16</title>
+  </programme>
+  <programme start="20210922164300 +0700" stop="20210922172600 +0700" channel="kns">
+    <title lang="vi">ám hành ngự sử royal secret agent, ep03</title>
+  </programme>
+  <programme start="20210922172600 +0700" stop="20210922181300 +0700" channel="kns">
+    <title lang="vi">Thế giới nợ tôi một mối tình đầu lucky's first love, ep05</title>
+  </programme>
+  <programme start="20210922181300 +0700" stop="20210922185800 +0700" channel="kns">
+    <title lang="vi">Lương sinh, liệu đôi ta có thể ngừng đau thương all out of love, ep41</title>
+  </programme>
+  <programme start="20210922185800 +0700" stop="20210922194400 +0700" channel="kns">
+    <title lang="vi">Three lives, three worlds: the pillow book, ep02</title>
+  </programme>
+  <programme start="20210922194400 +0700" stop="20210922202700 +0700" channel="kns">
+    <title lang="vi">Cửa hàng tiện lợi sao mai backstreet rookie, ep16</title>
+  </programme>
+  <programme start="20210922202700 +0700" stop="20210922211200 +0700" channel="kns">
+    <title lang="vi">đấu phá thương khung battle through the heavens, ep24</title>
+  </programme>
+  <programme start="20210922211200 +0700" stop="20210922220000 +0700" channel="kns">
+    <title lang="vi">100 ngày của hoàng tử 100 days my prince, ep10</title>
+  </programme>
+  <programme start="20210922220000 +0700" stop="20210922223400 +0700" channel="kns">
+    <title lang="vi">Sự trả thù hoàn hảo gracious revenge, ep69</title>
+  </programme>
+  <programme start="20210921083800 +0700" stop="20210921085900 +0700" channel="kpc">
+    <title lang="vi">Những cú đánh hay nhất pga tour 2021 - the northern trust</title>
+  </programme>
+  <programme start="20210921085900 +0700" stop="20210921092800 +0700" channel="kpc">
     <title lang="vi">Pga tour: học từ nhà vô địch</title>
   </programme>
-  <programme start="20210920203000 +0700" stop="20210920212100 +0700" channel="kpc">
-    <title lang="vi">Những sự kiện ufc đặc sắc: cormier vs miocic 2</title>
+  <programme start="20210921092800 +0700" stop="20210921101900 +0700" channel="kpc">
+    <title lang="vi">Atp 500 citi mở rộng 2019 – ngày 7 – kyrgios vs medvedev - phần 1</title>
   </programme>
-  <programme start="20210920212100 +0700" stop="20210920213000 +0700" channel="kpc">
-    <title lang="vi">Người dẫn đầu 2021 - bmw championship</title>
+  <programme start="20210921101900 +0700" stop="20210921111700 +0700" channel="kpc">
+    <title lang="vi">Atp 500 citi mở rộng 2019 – ngày 7 – kyrgios vs medvedev - phần 2</title>
   </programme>
-  <programme start="20210920213000 +0700" stop="20210920230100 +0700" channel="kpc">
-    <title lang="vi">Pga tour fortinet championship 2021 - ngày 4</title>
+  <programme start="20210921111700 +0700" stop="20210921114200 +0700" channel="kpc">
+    <title lang="vi">Atp 500 citi mở rộng 2019 – lễ trao giải</title>
   </programme>
-  <programme start="20210920230100 +0700" stop="20210920233000 +0700" channel="kpc">
-    <title lang="vi">Phim tài liệu về w series: nữ hoàng băng giá: the ice women cometh</title>
+  <programme start="20210921114200 +0700" stop="20210921123600 +0700" channel="kpc">
+    <title lang="vi">Tổng hợp korn ferry tour albertsons boise open 2021</title>
   </programme>
-  <programme start="20210919090000 +0700" stop="20210919143000 +0700" channel="htv.the.thao">
-    <title lang="vi">Trực tiếp giải Golf KLPGA -OkSavingsBank Se Ri Pak Invitational 2021</title>
+  <programme start="20210921123600 +0700" stop="20210921132600 +0700" channel="kpc">
+    <title lang="vi">Những sự kiện ufc đặc sắc: masvidal vs diaz</title>
   </programme>
-  <programme start="20210919143000 +0700" stop="20210919161500 +0700" channel="htv.the.thao">
+  <programme start="20210921132600 +0700" stop="20210921145800 +0700" channel="kpc">
+    <title lang="vi">Pga tour fortinet championship 2021 - ngày 1</title>
+  </programme>
+  <programme start="20210921145800 +0700" stop="20210921155600 +0700" channel="kpc">
+    <title lang="vi">Tổng hợp atp masters 1000 western &amp; southern mở rộng 2021</title>
+  </programme>
+  <programme start="20210921155600 +0700" stop="20210921163500 +0700" channel="kpc">
+    <title lang="vi">Chặng silverstone - w series 2021</title>
+  </programme>
+  <programme start="20210921163500 +0700" stop="20210921164600 +0700" channel="kpc">
+    <title lang="vi">Hành trình vô địch atp 500 hamburg european open 2021 của pablo carreno busta</title>
+  </programme>
+  <programme start="20210921164600 +0700" stop="20210921165600 +0700" channel="kpc">
+    <title lang="vi">Trọn vẹn màn trình diễn của cristiano ronaldo ngày trở lại man utd</title>
+  </programme>
+  <programme start="20210921165600 +0700" stop="20210921172600 +0700" channel="kpc">
+    <title lang="vi">Pga tour: học từ nhà vô địch</title>
+  </programme>
+  <programme start="20210921172600 +0700" stop="20210921175500 +0700" channel="kpc">
+    <title lang="vi">Tạp chí atp tour</title>
+  </programme>
+  <programme start="20210921175500 +0700" stop="20210921184700 +0700" channel="kpc">
+    <title lang="vi">Liechtenstein - đức (h1) vòng loại world cup 2022 khu vực châu âu</title>
+  </programme>
+  <programme start="20210921184700 +0700" stop="20210921194300 +0700" channel="kpc">
+    <title lang="vi">Liechtenstein - đức (h2) vòng loại world cup 2022 khu vực châu âu</title>
+  </programme>
+  <programme start="20210921194300 +0700" stop="20210921195600 +0700" channel="kpc">
+    <title lang="vi">Những hố đấu playoff bmw championship 2021</title>
+  </programme>
+  <programme start="20210921195600 +0700" stop="20210921205600 +0700" channel="kpc">
+    <title lang="vi">Khoảnh khắc atp masters</title>
+  </programme>
+  <programme start="20210921205600 +0700" stop="20210921212600 +0700" channel="kpc">
+    <title lang="vi">Những cuộc so găng đỉnh cao: frankie edgar vs gray maynard 2</title>
+  </programme>
+  <programme start="20210921212600 +0700" stop="20210921224400 +0700" channel="kpc">
+    <title lang="vi">Atp 500 st. petersburg mở rộng 2020 - ngày 6 - bk1 - a. rublev vs shapovalov (phần 1)</title>
+  </programme>
+  <programme start="20210921224400 +0700" stop="20210921235600 +0700" channel="kpc">
+    <title lang="vi">Atp 500 st. petersburg mở rộng 2020 - ngày 6 - bk1 - a. rublev vs shapovalov (phần 02)</title>
+  </programme>
+  <programme start="20210921235600 +0700" stop="20210922002600 +0700" channel="kpc">
+    <title lang="vi">Pga tour: học từ nhà vô địch</title>
+  </programme>
+  <programme start="20210922002600 +0700" stop="20210922011500 +0700" channel="kpc">
+    <title lang="vi">Những sự kiện ufc đặc sắc: masvidal vs diaz</title>
+  </programme>
+  <programme start="20210922011500 +0700" stop="20210922012600 +0700" channel="kpc">
+    <title lang="vi">Trận đấu 10 phút: watford - wolves</title>
+  </programme>
+  <programme start="20210922012600 +0700" stop="20210922025800 +0700" channel="kpc">
+    <title lang="vi">Pga tour fortinet championship 2021 - ngày 1</title>
+  </programme>
+  <programme start="20210922025800 +0700" stop="20210922032600 +0700" channel="kpc">
+    <title lang="vi">Tổng hợp mackenzie tour</title>
+  </programme>
+  <programme start="20210922032600 +0700" stop="20210922043700 +0700" channel="kpc">
+    <title lang="vi">Atp masters 1000 rolex paris masters 2019 – ngày 4 – a. zverev vs shapovalov (phần 01)</title>
+  </programme>
+  <programme start="20210922043700 +0700" stop="20210922054800 +0700" channel="kpc">
+    <title lang="vi">Atp masters 1000 rolex paris masters 2019 – ngày 4 – a. zverev vs shapovalov (phần 02)</title>
+  </programme>
+  <programme start="20210921080000 +0700" stop="20210921083000 +0700" channel="htv.the.thao">
+    <title lang="vi">Muôn màu thể thao</title>
+  </programme>
+  <programme start="20210921083000 +0700" stop="20210921100000 +0700" channel="htv.the.thao">
+    <title lang="vi">Câu lạc bộ thể thao</title>
+    <desc lang="vi">Tường thuật giải quần vợt US OPEN.(n)</desc>
+  </programme>
+  <programme start="20210921100000 +0700" stop="20210921120000 +0700" channel="htv.the.thao">
     <title lang="vi">Câu lạc bộ thể thao</title>
     <desc lang="vi">Tường thuật giải bóng đá vô địch quốc gia Italia.(n)</desc>
   </programme>
-  <programme start="20210919161500 +0700" stop="20210919163000 +0700" channel="htv.the.thao">
-    <title lang="vi">Nhịp sống thể thao</title>
+  <programme start="20210921120000 +0700" stop="20210921123000 +0700" channel="htv.the.thao">
+    <title lang="vi">Điểm tin US Open</title>
   </programme>
-  <programme start="20210919163000 +0700" stop="20210919172500 +0700" channel="htv.the.thao">
-    <title lang="vi">Trực tiếp Tổng Quan Serie A &amp; Bạn</title>
+  <programme start="20210921123000 +0700" stop="20210921130000 +0700" channel="htv.the.thao">
+    <title lang="vi">Muôn màu thể thao</title>
   </programme>
-  <programme start="20210919172500 +0700" stop="20210919193000 +0700" channel="htv.the.thao">
-    <title lang="vi">Trực tiếp giải bóng đá vô địch quốc gia Italia</title>
+  <programme start="20210921130000 +0700" stop="20210921133000 +0700" channel="htv.the.thao">
+    <title lang="vi">Thể thao bốn phương</title>
   </programme>
-  <programme start="20210919193000 +0700" stop="20210919195500 +0700" channel="htv.the.thao">
-    <title lang="vi">Khỏe đẹp</title>
+  <programme start="20210921133000 +0700" stop="20210921140000 +0700" channel="htv.the.thao">
+    <title lang="vi">Vui cùng bước nhảy</title>
   </programme>
-  <programme start="20210919195500 +0700" stop="20210919220000 +0700" channel="htv.the.thao">
-    <title lang="vi">Trực tiếp giải bóng đá vô địch quốc gia Italia</title>
+  <programme start="20210921140000 +0700" stop="20210921143000 +0700" channel="htv.the.thao">
+    <title lang="vi">Trực tiếp lễ bốc thăm AFF Cup 2020</title>
   </programme>
-  <programme start="20210919220000 +0700" stop="20210919221500 +0700" channel="htv.the.thao">
+  <programme start="20210921143000 +0700" stop="20210921150000 +0700" channel="htv.the.thao">
+    <title lang="vi">Tạp chí bóng đá Đức</title>
+  </programme>
+  <programme start="20210921150000 +0700" stop="20210921163000 +0700" channel="htv.the.thao">
+    <title lang="vi">Câu lạc bộ thể thao</title>
+    <desc lang="vi">Tường thuật olympic Tokyo.(n)</desc>
+  </programme>
+  <programme start="20210921163000 +0700" stop="20210921170000 +0700" channel="htv.the.thao">
+    <title lang="vi">Tạp chí điền kinh</title>
+  </programme>
+  <programme start="20210921170000 +0700" stop="20210921171500 +0700" channel="htv.the.thao">
+    <title lang="vi">Tập mà chơi chơi mà tập</title>
+  </programme>
+  <programme start="20210921171500 +0700" stop="20210921190000 +0700" channel="htv.the.thao">
+    <title lang="vi">Câu lạc bộ thể thao</title>
+    <desc lang="vi">Tường thuật giải bóng đá vô địch quốc gia Italia.(n)</desc>
+  </programme>
+  <programme start="20210921190000 +0700" stop="20210921193000 +0700" channel="htv.the.thao">
+    <title lang="vi">Điểm tin US Open</title>
+  </programme>
+  <programme start="20210921193000 +0700" stop="20210921200000 +0700" channel="htv.the.thao">
+    <title lang="vi">Tạp chí quyền Anh</title>
+  </programme>
+  <programme start="20210921200000 +0700" stop="20210921203000 +0700" channel="htv.the.thao">
+    <title lang="vi">Tổng quan bóng đá Ý</title>
+  </programme>
+  <programme start="20210921203000 +0700" stop="20210921204500 +0700" channel="htv.the.thao">
     <title lang="vi">Bản tin 365</title>
   </programme>
-  <programme start="20210919221500 +0700" stop="20210919225500 +0700" channel="htv.the.thao">
-    <title lang="vi">Tạp chí quyền anh</title>
+  <programme start="20210921204500 +0700" stop="20210921213000 +0700" channel="htv.the.thao">
+    <title lang="vi">Thể thao vòng quanh thế giới</title>
   </programme>
-  <programme start="20210919225500 +0700" stop="20210920010000 +0700" channel="htv.the.thao">
-    <title lang="vi">Trực tiếp giải bóng đá vô địch quốc gia Italia</title>
+  <programme start="20210921213000 +0700" stop="20210921220000 +0700" channel="htv.the.thao">
+    <title lang="vi">Muôn màu thể thao</title>
   </programme>
-  <programme start="20210920010000 +0700" stop="20210920011500 +0700" channel="htv.the.thao">
+  <programme start="20210921220000 +0700" stop="20210921222500 +0700" channel="htv.the.thao">
+    <title lang="vi">Vui cùng bước nhảy</title>
+  </programme>
+  <programme start="20210921222500 +0700" stop="20210921224000 +0700" channel="htv.the.thao">
     <title lang="vi">Bản tin 365</title>
   </programme>
-  <programme start="20210920011500 +0700" stop="20210920014000 +0700" channel="htv.the.thao">
-    <title lang="vi">Tạp chí cầu lông</title>
+  <programme start="20210921224000 +0700" stop="20210921232500 +0700" channel="htv.the.thao">
+    <title lang="vi">Câu lạc bộ thể thao</title>
+    <desc lang="vi">Tường thuật olympic Tokyo.(n)</desc>
   </programme>
-  <programme start="20210920014000 +0700" stop="20210920040000 +0700" channel="htv.the.thao">
+  <programme start="20210921232500 +0700" stop="20210922014000 +0700" channel="htv.the.thao">
+    <title lang="vi">Trực tiếp giải bóng đá vô địch quốc gia Italia</title>
+  </programme>
+  <programme start="20210922014000 +0700" stop="20210922034000 +0700" channel="htv.the.thao">
     <title lang="vi">Trực tiếp giải bóng đá vô địch quốc gia Italia</title>
   </programme>
 </tv>

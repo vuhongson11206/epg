@@ -80,1795 +80,1462 @@
     <display-name lang="vi">SCTV22</display-name>
     <url>http://www.tv24.vn</url>
   </channel>
-  <programme start="20210919000000 +0700" stop="20210919003200 +0700" channel="sctv1">
-    <title lang="vi">CƯỜI MƯỜI THANG THUỐC BỔ_HDPS_019</title>
-  </programme>
-  <programme start="20210919003200 +0700" stop="20210919010000 +0700" channel="sctv1">
-    <title lang="vi">XUÂN TÓC VÀNG_NCV 2010</title>
-  </programme>
-  <programme start="20210919010000 +0700" stop="20210919013500 +0700" channel="sctv1">
-    <title lang="vi">CHUYỆN NHÀ MÌNH_ TẬP 81,82, 83</title>
-  </programme>
-  <programme start="20210919013500 +0700" stop="20210919020000 +0700" channel="sctv1">
-    <title lang="vi">TÁM XUYÊN ViỆT - TẬP 27</title>
-  </programme>
-  <programme start="20210919020000 +0700" stop="20210919030000 +0700" channel="sctv1">
-    <title lang="vi">MỸ NHÂN VÀO BẾP - TẬP 16,17,18</title>
-  </programme>
-  <programme start="20210919030000 +0700" stop="20210919040000 +0700" channel="sctv1">
-    <title lang="vi">KHI MẸ CHỒNG KHÔNG ƯNG_TẬP 31</title>
-  </programme>
-  <programme start="20210919040000 +0700" stop="20210919043500 +0700" channel="sctv1">
-    <title lang="vi">CHUYỆN NHÀ MÌNH_ TẬP 81,82, 83</title>
-  </programme>
-  <programme start="20210919043500 +0700" stop="20210919050000 +0700" channel="sctv1">
-    <title lang="vi">TÁM XUYÊN ViỆT - TẬP 27</title>
-  </programme>
-  <programme start="20210919050000 +0700" stop="20210919052800 +0700" channel="sctv1">
-    <title lang="vi">MẠC GIA KÝ_P2_TẬP 28</title>
-  </programme>
-  <programme start="20210919052800 +0700" stop="20210919060000 +0700" channel="sctv1">
-    <title lang="vi">KÉN RỂ - TẬP 21</title>
-  </programme>
-  <programme start="20210919060000 +0700" stop="20210919062500 +0700" channel="sctv1">
-    <title lang="vi">CƯỜI MƯỜI THANG THUỐC BỔ_HDPS_020</title>
-  </programme>
-  <programme start="20210919062500 +0700" stop="20210919070000 +0700" channel="sctv1">
-    <title lang="vi">CỤ RÙA ĐI KIỆN_NCV2010</title>
-  </programme>
-  <programme start="20210919070000 +0700" stop="20210919073500 +0700" channel="sctv1">
-    <title lang="vi">CHUYỆN NHÀ MÌNH_ TẬP 84,85,86</title>
-  </programme>
-  <programme start="20210919073500 +0700" stop="20210919080000 +0700" channel="sctv1">
-    <title lang="vi">TÁM XUYÊN ViỆT - TẬP 28</title>
-  </programme>
-  <programme start="20210919080000 +0700" stop="20210919090000 +0700" channel="sctv1">
-    <title lang="vi">MỸ NHÂN VÀO BẾP - TẬP 19,20,21</title>
-  </programme>
-  <programme start="20210919090000 +0700" stop="20210919100000 +0700" channel="sctv1">
-    <title lang="vi">KHI MẸ CHỒNG KHÔNG ƯNG_TẬP 32</title>
-  </programme>
-  <programme start="20210919100000 +0700" stop="20210919103500 +0700" channel="sctv1">
-    <title lang="vi">CHUYỆN NHÀ MÌNH_ TẬP 84,85,86</title>
-  </programme>
-  <programme start="20210919103500 +0700" stop="20210919110000 +0700" channel="sctv1">
-    <title lang="vi">TÁM XUYÊN ViỆT - TẬP 28</title>
-  </programme>
-  <programme start="20210919110000 +0700" stop="20210919113500 +0700" channel="sctv1">
-    <title lang="vi">MẠC GIA KÝ_P2_TẬP 29</title>
-  </programme>
-  <programme start="20210919113500 +0700" stop="20210919120000 +0700" channel="sctv1">
-    <title lang="vi">KÉN RỂ - TẬP 22</title>
-  </programme>
-  <programme start="20210919120000 +0700" stop="20210919123000 +0700" channel="sctv1">
-    <title lang="vi">CƯỜI MƯỜI THANG THUỐC BỔ_HDPS_021</title>
-  </programme>
-  <programme start="20210919123000 +0700" stop="20210919130000 +0700" channel="sctv1">
-    <title lang="vi">NỖI KHỔ NÀO HƠN_NCV2010</title>
-  </programme>
-  <programme start="20210919130000 +0700" stop="20210919133500 +0700" channel="sctv1">
-    <title lang="vi">CHUYỆN NHÀ MÌNH_ TẬP 87,88,89</title>
-  </programme>
-  <programme start="20210919133500 +0700" stop="20210919140000 +0700" channel="sctv1">
-    <title lang="vi">TÁM XUYÊN ViỆT - TẬP 29</title>
-  </programme>
-  <programme start="20210919140000 +0700" stop="20210919150000 +0700" channel="sctv1">
-    <title lang="vi">MỸ NHÂN VÀO BẾP - TẬP 22,23,24</title>
-  </programme>
-  <programme start="20210919150000 +0700" stop="20210919160000 +0700" channel="sctv1">
-    <title lang="vi">KHI MẸ CHỒNG KHÔNG ƯNG_TẬP 33</title>
-  </programme>
-  <programme start="20210919160000 +0700" stop="20210919163500 +0700" channel="sctv1">
-    <title lang="vi">CHUYỆN NHÀ MÌNH_ TẬP 87,88,89</title>
-  </programme>
-  <programme start="20210919163500 +0700" stop="20210919170000 +0700" channel="sctv1">
-    <title lang="vi">TÁM XUYÊN ViỆT - TẬP 29</title>
-  </programme>
-  <programme start="20210919170000 +0700" stop="20210919173100 +0700" channel="sctv1">
-    <title lang="vi">MẠC GIA KÝ_P2_TẬP 30</title>
-  </programme>
-  <programme start="20210919173100 +0700" stop="20210919180000 +0700" channel="sctv1">
-    <title lang="vi">KÉN RỂ - TẬP 23</title>
-  </programme>
-  <programme start="20210919180000 +0700" stop="20210919183100 +0700" channel="sctv1">
-    <title lang="vi">CƯỜI MƯỜI THANG THUỐC BỔ_HDPS_022</title>
-  </programme>
-  <programme start="20210919183100 +0700" stop="20210919190000 +0700" channel="sctv1">
-    <title lang="vi">SIÊU THÔNG MINH SIÊU VƯỢT TRỘI_NCV2011</title>
-  </programme>
-  <programme start="20210919190000 +0700" stop="20210919193700 +0700" channel="sctv1">
-    <title lang="vi">CHUYỆN NHÀ MÌNH_ TẬP 90,91,92</title>
-  </programme>
-  <programme start="20210919193700 +0700" stop="20210919200000 +0700" channel="sctv1">
-    <title lang="vi">TÁM XUYÊN ViỆT - TẬP 30</title>
-  </programme>
-  <programme start="20210919200000 +0700" stop="20210919210000 +0700" channel="sctv1">
-    <title lang="vi">MỸ NHÂN VÀO BẾP - TẬP 25,26,27</title>
-  </programme>
-  <programme start="20210919210000 +0700" stop="20210919220000 +0700" channel="sctv1">
-    <title lang="vi">KHI MẸ CHỒNG KHÔNG ƯNG_TẬP 34</title>
-  </programme>
-  <programme start="20210919220000 +0700" stop="20210919223700 +0700" channel="sctv1">
-    <title lang="vi">CHUYỆN NHÀ MÌNH_ TẬP 90,91,92</title>
-  </programme>
-  <programme start="20210919223700 +0700" stop="20210919230000 +0700" channel="sctv1">
-    <title lang="vi">TÁM XUYÊN ViỆT - TẬP 30</title>
-  </programme>
-  <programme start="20210919230000 +0700" stop="20210919233300 +0700" channel="sctv1">
-    <title lang="vi">MẠC GIA KÝ_P2_TẬP 31</title>
-  </programme>
-  <programme start="20210919233300 +0700" stop="20210920000000 +0700" channel="sctv1">
-    <title lang="vi">KÉN RỂ - TẬP 24</title>
-  </programme>
-  <programme start="20210920000000 +0700" stop="20210920002500 +0700" channel="sctv1">
-    <title lang="vi">CƯỜI MƯỜI THANG THUỐC BỔ_HDPS_020</title>
-  </programme>
-  <programme start="20210920002500 +0700" stop="20210920010000 +0700" channel="sctv1">
-    <title lang="vi">CỤ RÙA ĐI KIỆN_NCV2010</title>
-  </programme>
-  <programme start="20210920010000 +0700" stop="20210920013500 +0700" channel="sctv1">
-    <title lang="vi">CHUYỆN NHÀ MÌNH_ TẬP 84,85,86</title>
-  </programme>
-  <programme start="20210920013500 +0700" stop="20210920020000 +0700" channel="sctv1">
-    <title lang="vi">TÁM XUYÊN ViỆT - TẬP 28</title>
-  </programme>
-  <programme start="20210920020000 +0700" stop="20210920030000 +0700" channel="sctv1">
-    <title lang="vi">MỸ NHÂN VÀO BẾP - TẬP 19,20,21</title>
-  </programme>
-  <programme start="20210920030000 +0700" stop="20210920040000 +0700" channel="sctv1">
-    <title lang="vi">KHI MẸ CHỒNG KHÔNG ƯNG_TẬP 32</title>
-  </programme>
-  <programme start="20210920040000 +0700" stop="20210920043500 +0700" channel="sctv1">
-    <title lang="vi">CHUYỆN NHÀ MÌNH_ TẬP 84,85,86</title>
-  </programme>
-  <programme start="20210920043500 +0700" stop="20210920050000 +0700" channel="sctv1">
-    <title lang="vi">TÁM XUYÊN ViỆT - TẬP 28</title>
-  </programme>
-  <programme start="20210920050000 +0700" stop="20210920053500 +0700" channel="sctv1">
-    <title lang="vi">MẠC GIA KÝ_P2_TẬP 29</title>
-  </programme>
-  <programme start="20210920053500 +0700" stop="20210920060000 +0700" channel="sctv1">
-    <title lang="vi">KÉN RỂ - TẬP 22</title>
-  </programme>
-  <programme start="20210920060000 +0700" stop="20210920063000 +0700" channel="sctv1">
-    <title lang="vi">CƯỜI MƯỜI THANG THUỐC BỔ_HDPS_021</title>
-  </programme>
-  <programme start="20210920063000 +0700" stop="20210920070000 +0700" channel="sctv1">
-    <title lang="vi">NỖI KHỔ NÀO HƠN_NCV2010</title>
-  </programme>
-  <programme start="20210920070000 +0700" stop="20210920073500 +0700" channel="sctv1">
-    <title lang="vi">CHUYỆN NHÀ MÌNH_ TẬP 87,88,89</title>
-  </programme>
-  <programme start="20210920073500 +0700" stop="20210920080000 +0700" channel="sctv1">
-    <title lang="vi">TÁM XUYÊN ViỆT - TẬP 29</title>
-  </programme>
-  <programme start="20210920080000 +0700" stop="20210920090000 +0700" channel="sctv1">
-    <title lang="vi">MỸ NHÂN VÀO BẾP - TẬP 22,23,24</title>
-  </programme>
-  <programme start="20210920090000 +0700" stop="20210920100000 +0700" channel="sctv1">
-    <title lang="vi">KHI MẸ CHỒNG KHÔNG ƯNG_TẬP 33</title>
-  </programme>
-  <programme start="20210920100000 +0700" stop="20210920103500 +0700" channel="sctv1">
-    <title lang="vi">CHUYỆN NHÀ MÌNH_ TẬP 87,88,89</title>
-  </programme>
-  <programme start="20210920103500 +0700" stop="20210920110000 +0700" channel="sctv1">
-    <title lang="vi">TÁM XUYÊN ViỆT - TẬP 29</title>
-  </programme>
-  <programme start="20210920110000 +0700" stop="20210920113100 +0700" channel="sctv1">
-    <title lang="vi">MẠC GIA KÝ_P2_TẬP 30</title>
-  </programme>
-  <programme start="20210920113100 +0700" stop="20210920120000 +0700" channel="sctv1">
-    <title lang="vi">KÉN RỂ - TẬP 23</title>
-  </programme>
-  <programme start="20210920120000 +0700" stop="20210920123100 +0700" channel="sctv1">
-    <title lang="vi">CƯỜI MƯỜI THANG THUỐC BỔ_HDPS_022</title>
-  </programme>
-  <programme start="20210920123100 +0700" stop="20210920130000 +0700" channel="sctv1">
-    <title lang="vi">SIÊU THÔNG MINH SIÊU VƯỢT TRỘI_NCV2011</title>
-  </programme>
-  <programme start="20210920130000 +0700" stop="20210920133700 +0700" channel="sctv1">
-    <title lang="vi">CHUYỆN NHÀ MÌNH_ TẬP 90,91,92</title>
-  </programme>
-  <programme start="20210920133700 +0700" stop="20210920140000 +0700" channel="sctv1">
-    <title lang="vi">TÁM XUYÊN ViỆT - TẬP 30</title>
-  </programme>
-  <programme start="20210920140000 +0700" stop="20210920150000 +0700" channel="sctv1">
-    <title lang="vi">MỸ NHÂN VÀO BẾP - TẬP 25,26,27</title>
-  </programme>
-  <programme start="20210920150000 +0700" stop="20210920160000 +0700" channel="sctv1">
-    <title lang="vi">KHI MẸ CHỒNG KHÔNG ƯNG_TẬP 34</title>
-  </programme>
-  <programme start="20210920160000 +0700" stop="20210920163700 +0700" channel="sctv1">
-    <title lang="vi">CHUYỆN NHÀ MÌNH_ TẬP 90,91,92</title>
-  </programme>
-  <programme start="20210920163700 +0700" stop="20210920170000 +0700" channel="sctv1">
-    <title lang="vi">TÁM XUYÊN ViỆT - TẬP 30</title>
-  </programme>
-  <programme start="20210920170000 +0700" stop="20210920173300 +0700" channel="sctv1">
-    <title lang="vi">MẠC GIA KÝ_P2_TẬP 31</title>
-  </programme>
-  <programme start="20210920173300 +0700" stop="20210920180000 +0700" channel="sctv1">
-    <title lang="vi">KÉN RỂ - TẬP 24</title>
-  </programme>
-  <programme start="20210920180000 +0700" stop="20210920183000 +0700" channel="sctv1">
-    <title lang="vi">CƯỜI MƯỜI THANG THUỐC BỔ_HDPS_023</title>
-  </programme>
-  <programme start="20210920183000 +0700" stop="20210920190000 +0700" channel="sctv1">
-    <title lang="vi">CÂY KHẾ CÂY VÀNG_NCV 2010</title>
-  </programme>
-  <programme start="20210920190000 +0700" stop="20210920194100 +0700" channel="sctv1">
-    <title lang="vi">CHUYỆN NHÀ MÌNH_ TẬP 93,94,95</title>
-  </programme>
-  <programme start="20210920194100 +0700" stop="20210920200000 +0700" channel="sctv1">
-    <title lang="vi">TÁM XUYÊN ViỆT - TẬP 31</title>
-  </programme>
-  <programme start="20210920200000 +0700" stop="20210920210000 +0700" channel="sctv1">
-    <title lang="vi">MỸ NHÂN VÀO BẾP - TẬP 28,29,30</title>
-  </programme>
-  <programme start="20210920210000 +0700" stop="20210920220000 +0700" channel="sctv1">
-    <title lang="vi">KHI MẸ CHỒNG KHÔNG ƯNG_TẬP 35</title>
-  </programme>
-  <programme start="20210920220000 +0700" stop="20210920224100 +0700" channel="sctv1">
-    <title lang="vi">CHUYỆN NHÀ MÌNH_ TẬP 93,94,95</title>
-  </programme>
-  <programme start="20210920224100 +0700" stop="20210920230000 +0700" channel="sctv1">
-    <title lang="vi">TÁM XUYÊN ViỆT - TẬP 31</title>
-  </programme>
-  <programme start="20210920230000 +0700" stop="20210920233500 +0700" channel="sctv1">
-    <title lang="vi">MẠC GIA KÝ_P2_TẬP 32</title>
-  </programme>
-  <programme start="20210919000000 +0700" stop="20210919010000 +0700" channel="sctv11">
-    <title lang="vi">Cải Lương: Tô Ánh Nguyệt - Phần 1</title>
-  </programme>
-  <programme start="20210919010000 +0700" stop="20210919020000 +0700" channel="sctv11">
-    <title lang="vi">Phim Hoạt Hình: Tại Sao - Tập 9 - 10</title>
-  </programme>
-  <programme start="20210919020000 +0700" stop="20210919023000 +0700" channel="sctv11">
-    <title lang="vi">Chuyện nhà mình - Số 101- 102</title>
-  </programme>
-  <programme start="20210919023000 +0700" stop="20210919030000 +0700" channel="sctv11">
-    <title lang="vi">Món Ngon Đãi Tiệc - Số 35</title>
-  </programme>
-  <programme start="20210919030000 +0700" stop="20210919040000 +0700" channel="sctv11">
-    <title lang="vi">Cải Lương: Tô Ánh Nguyệt - Phần 1</title>
-  </programme>
-  <programme start="20210919040000 +0700" stop="20210919050000 +0700" channel="sctv11">
-    <title lang="vi">SZ Bolero - Những Nốt Nhạc Ngân - Số 751</title>
-  </programme>
-  <programme start="20210919050000 +0700" stop="20210919053000 +0700" channel="sctv11">
-    <title lang="vi">Món Ngon Đãi Tiệc - Số 34</title>
-  </programme>
-  <programme start="20210919053000 +0700" stop="20210919060000 +0700" channel="sctv11">
-    <title lang="vi">Chuyện nhà mình - Số 99 - 100</title>
-  </programme>
-  <programme start="20210919060000 +0700" stop="20210919070000 +0700" channel="sctv11">
-    <title lang="vi">SZ Bolero - Những Nốt Nhạc Ngân - Số 751</title>
-  </programme>
-  <programme start="20210919070000 +0700" stop="20210919073000 +0700" channel="sctv11">
-    <title lang="vi">Món Ngon Đãi Tiệc - Số 36</title>
-  </programme>
-  <programme start="20210919073000 +0700" stop="20210919080000 +0700" channel="sctv11">
-    <title lang="vi">Chuyện nhà mình - Số 103 - 104</title>
-  </programme>
-  <programme start="20210919080000 +0700" stop="20210919090000 +0700" channel="sctv11">
-    <title lang="vi">Phim Ấn Độ: Lời Nguyền Ngọt Ngào - Tập 34</title>
-  </programme>
-  <programme start="20210919090000 +0700" stop="20210919100000 +0700" channel="sctv11">
-    <title lang="vi">Phim Hoạt Hình: Tại Sao - Tập 11 - 12</title>
-  </programme>
-  <programme start="20210919100000 +0700" stop="20210919110000 +0700" channel="sctv11">
-    <title lang="vi">Cải Lương: Tô Ánh Nguyệt - Phần 1</title>
-  </programme>
-  <programme start="20210919110000 +0700" stop="20210919120000 +0700" channel="sctv11">
-    <title lang="vi">SZ Bolero - Những Nốt Nhạc Ngân - Số 752</title>
-  </programme>
-  <programme start="20210919120000 +0700" stop="20210919124500 +0700" channel="sctv11">
-    <title lang="vi">Phim TVB: Thiên Long Bát Bộ - Tập 45 (Hết)</title>
-  </programme>
-  <programme start="20210919124500 +0700" stop="20210919130000 +0700" channel="sctv11">
-    <title lang="vi">Nữ Thần Giáng Thế - Phần 2 - Tập 7</title>
-  </programme>
-  <programme start="20210919130000 +0700" stop="20210919140000 +0700" channel="sctv11">
-    <title lang="vi">Phim Trung Quốc: Ỷ Thiên Đồ Long Ký - Tập 8</title>
-  </programme>
-  <programme start="20210919140000 +0700" stop="20210919150000 +0700" channel="sctv11">
-    <title lang="vi">SZ Bolero - Những Nốt Nhạc Ngân - Số 753</title>
-  </programme>
-  <programme start="20210919150000 +0700" stop="20210919160000 +0700" channel="sctv11">
-    <title lang="vi">Phim Trung Quốc: Mộ Bạch Thủ - Tập 21</title>
-  </programme>
-  <programme start="20210919160000 +0700" stop="20210919170000 +0700" channel="sctv11">
-    <title lang="vi">Cải Lương: Tô Ánh Nguyệt - Phần 2</title>
-  </programme>
-  <programme start="20210919170000 +0700" stop="20210919180000 +0700" channel="sctv11">
-    <title lang="vi">SZ Bolero - Những Nốt Nhạc Ngân - Số 754</title>
-  </programme>
-  <programme start="20210919180000 +0700" stop="20210919190000 +0700" channel="sctv11">
-    <title lang="vi">Phim TVB: Đắc Kỷ Trụ Vương - Tập 1</title>
-  </programme>
-  <programme start="20210919190000 +0700" stop="20210919200000 +0700" channel="sctv11">
-    <title lang="vi">Phim Trung Quốc: Ỷ Thiên Đồ Long Ký - Tập 9</title>
-  </programme>
-  <programme start="20210919200000 +0700" stop="20210919210000 +0700" channel="sctv11">
-    <title lang="vi">Giai Điệu Vàng - Số 131</title>
-  </programme>
-  <programme start="20210919210000 +0700" stop="20210919220000 +0700" channel="sctv11">
-    <title lang="vi">Phim Trung Quốc: Triều Đại Tuỳ Đường - Tập 10</title>
-  </programme>
-  <programme start="20210919220000 +0700" stop="20210919230000 +0700" channel="sctv11">
-    <title lang="vi">Phim Ấn Độ: Lời Nguyền Ngọt Ngào - Tập 35</title>
-  </programme>
-  <programme start="20210919230000 +0700" stop="20210920000000 +0700" channel="sctv11">
-    <title lang="vi">SZ Bolero - Những Nốt Nhạc Ngân - Số 753</title>
-  </programme>
-  <programme start="20210920000000 +0700" stop="20210920010000 +0700" channel="sctv11">
-    <title lang="vi">Cải Lương: Tô Ánh Nguyệt - Phần 2</title>
-  </programme>
-  <programme start="20210920010000 +0700" stop="20210920020000 +0700" channel="sctv11">
-    <title lang="vi">Phim Hoạt Hình: Tại Sao - Tập 11 - 12</title>
-  </programme>
-  <programme start="20210920020000 +0700" stop="20210920023000 +0700" channel="sctv11">
-    <title lang="vi">Chuyện nhà mình - Số 103 - 104</title>
-  </programme>
-  <programme start="20210920023000 +0700" stop="20210920030000 +0700" channel="sctv11">
-    <title lang="vi">Món Ngon Đãi Tiệc - Số 36</title>
-  </programme>
-  <programme start="20210920030000 +0700" stop="20210920040000 +0700" channel="sctv11">
-    <title lang="vi">Cải Lương: Tô Ánh Nguyệt - Phần 2</title>
-  </programme>
-  <programme start="20210920040000 +0700" stop="20210920050000 +0700" channel="sctv11">
-    <title lang="vi">SZ Bolero - Những Nốt Nhạc Ngân - Số 752</title>
-  </programme>
-  <programme start="20210920050000 +0700" stop="20210920053000 +0700" channel="sctv11">
-    <title lang="vi">Món Ngon Đãi Tiệc - Số 35</title>
-  </programme>
-  <programme start="20210920053000 +0700" stop="20210920060000 +0700" channel="sctv11">
-    <title lang="vi">Chuyện nhà mình - Số 101 - 102</title>
-  </programme>
-  <programme start="20210920060000 +0700" stop="20210920070000 +0700" channel="sctv11">
-    <title lang="vi">SZ Bolero - Những Nốt Nhạc Ngân - Số 752</title>
-  </programme>
-  <programme start="20210920070000 +0700" stop="20210920073000 +0700" channel="sctv11">
-    <title lang="vi">Món Ngon Đãi Tiệc - Số 37</title>
-  </programme>
-  <programme start="20210920073000 +0700" stop="20210920080000 +0700" channel="sctv11">
-    <title lang="vi">Chuyện nhà mình - Số 105 - 106</title>
-  </programme>
-  <programme start="20210920080000 +0700" stop="20210920090000 +0700" channel="sctv11">
-    <title lang="vi">Phim Ấn Độ: Lời Nguyền Ngọt Ngào - Tập 35</title>
-  </programme>
-  <programme start="20210920090000 +0700" stop="20210920100000 +0700" channel="sctv11">
-    <title lang="vi">Phim Hoạt Hình: Tại Sao - Tập 13 - 14</title>
-  </programme>
-  <programme start="20210920100000 +0700" stop="20210920110000 +0700" channel="sctv11">
-    <title lang="vi">Giai Điệu Vàng - Số 131</title>
-  </programme>
-  <programme start="20210920110000 +0700" stop="20210920120000 +0700" channel="sctv11">
-    <title lang="vi">SZ Bolero - Những Nốt Nhạc Ngân - Số 753</title>
-  </programme>
-  <programme start="20210920120000 +0700" stop="20210920124500 +0700" channel="sctv11">
-    <title lang="vi">Phim TVB: Đắc Kỷ Trụ Vương - Tập 1</title>
-  </programme>
-  <programme start="20210920124500 +0700" stop="20210920130000 +0700" channel="sctv11">
-    <title lang="vi">Nữ Thần Giáng Thế - Phần 2 - Tập 8</title>
-  </programme>
-  <programme start="20210920130000 +0700" stop="20210920140000 +0700" channel="sctv11">
-    <title lang="vi">Phim Trung Quốc: Ỷ Thiên Đồ Long Ký - Tập 9</title>
-  </programme>
-  <programme start="20210920140000 +0700" stop="20210920150000 +0700" channel="sctv11">
-    <title lang="vi">SZ Bolero - Những Nốt Nhạc Ngân - Số 754</title>
-  </programme>
-  <programme start="20210920150000 +0700" stop="20210920160000 +0700" channel="sctv11">
-    <title lang="vi">Giai Điệu Vàng - Số 131</title>
-  </programme>
-  <programme start="20210920160000 +0700" stop="20210920170000 +0700" channel="sctv11">
+  <programme start="20210921000000 +0700" stop="20210921010000 +0700" channel="sctv11">
     <title lang="vi">Cải Lương: Tô Ánh Nguyệt - Phần 3</title>
   </programme>
-  <programme start="20210920170000 +0700" stop="20210920180000 +0700" channel="sctv11">
-    <title lang="vi">SZ Bolero - Những Nốt Nhạc Ngân - Số 755</title>
+  <programme start="20210921010000 +0700" stop="20210921020000 +0700" channel="sctv11">
+    <title lang="vi">Phim Hoạt Hình: Tại Sao - Tập 13 - 14</title>
   </programme>
-  <programme start="20210920180000 +0700" stop="20210920190000 +0700" channel="sctv11">
-    <title lang="vi">Phim TVB: Đắc Kỷ Trụ Vương - Tập 2</title>
+  <programme start="20210921020000 +0700" stop="20210921023000 +0700" channel="sctv11">
+    <title lang="vi">Chuyện nhà mình - Số 105 - 106</title>
   </programme>
-  <programme start="20210920190000 +0700" stop="20210920200000 +0700" channel="sctv11">
-    <title lang="vi">Phim Trung Quốc: Ỷ Thiên Đồ Long Ký - Tập 10</title>
+  <programme start="20210921023000 +0700" stop="20210921030000 +0700" channel="sctv11">
+    <title lang="vi">Món Ngon Đãi Tiệc - Số 37</title>
   </programme>
-  <programme start="20210920200000 +0700" stop="20210920210000 +0700" channel="sctv11">
-    <title lang="vi">Phim Trung Quốc: Mộ Bạch Thủ - Tập 22</title>
+  <programme start="20210921030000 +0700" stop="20210921040000 +0700" channel="sctv11">
+    <title lang="vi">Cải Lương: Tô Ánh Nguyệt - Phần 3</title>
   </programme>
-  <programme start="20210920210000 +0700" stop="20210920220000 +0700" channel="sctv11">
-    <title lang="vi">Phim Trung Quốc: Triều Đại Tuỳ Đường - Tập 11</title>
+  <programme start="20210921040000 +0700" stop="20210921050000 +0700" channel="sctv11">
+    <title lang="vi">SZ Bolero - Những Nốt Nhạc Ngân - Số 753</title>
   </programme>
-  <programme start="20210920220000 +0700" stop="20210920230000 +0700" channel="sctv11">
+  <programme start="20210921050000 +0700" stop="20210921053000 +0700" channel="sctv11">
+    <title lang="vi">Món Ngon Đãi Tiệc - Số 36</title>
+  </programme>
+  <programme start="20210921053000 +0700" stop="20210921060000 +0700" channel="sctv11">
+    <title lang="vi">Chuyện nhà mình - Số 103 - 104</title>
+  </programme>
+  <programme start="20210921060000 +0700" stop="20210921070000 +0700" channel="sctv11">
+    <title lang="vi">SZ Bolero - Những Nốt Nhạc Ngân - Số 753</title>
+  </programme>
+  <programme start="20210921070000 +0700" stop="20210921073000 +0700" channel="sctv11">
+    <title lang="vi">Món Ngon Đãi Tiệc - Số 38</title>
+  </programme>
+  <programme start="20210921073000 +0700" stop="20210921080000 +0700" channel="sctv11">
+    <title lang="vi">Chuyện nhà mình - Số 107 - 108</title>
+  </programme>
+  <programme start="20210921080000 +0700" stop="20210921090000 +0700" channel="sctv11">
     <title lang="vi">Phim Ấn Độ: Lời Nguyền Ngọt Ngào - Tập 36</title>
   </programme>
-  <programme start="20210919000000 +0700" stop="20210919004500 +0700" channel="sctv12">
-    <title lang="vi">Những con gấu xám</title>
+  <programme start="20210921090000 +0700" stop="20210921100000 +0700" channel="sctv11">
+    <title lang="vi">Phim Hoạt Hình: Tại Sao - Tập 15 - 16</title>
   </programme>
-  <programme start="20210919004500 +0700" stop="20210919010500 +0700" channel="sctv12">
-    <title lang="vi">Món don xứ Quảng</title>
+  <programme start="20210921100000 +0700" stop="20210921110000 +0700" channel="sctv11">
+    <title lang="vi">Cải Lương: Tô Ánh Nguyệt - Phần 2</title>
   </programme>
-  <programme start="20210919010500 +0700" stop="20210919011500 +0700" channel="sctv12">
-    <title lang="vi">Về với ngôi làng đại dương</title>
+  <programme start="20210921110000 +0700" stop="20210921120000 +0700" channel="sctv11">
+    <title lang="vi">SZ Bolero - Những Nốt Nhạc Ngân - Số 754</title>
   </programme>
-  <programme start="20210919011500 +0700" stop="20210919020000 +0700" channel="sctv12">
-    <title lang="vi">Cuộc sống của loài chim cánh cụt</title>
+  <programme start="20210921120000 +0700" stop="20210921124500 +0700" channel="sctv11">
+    <title lang="vi">Phim TVB: Đắc Kỷ Trụ Vương - Tập 2</title>
   </programme>
-  <programme start="20210919020000 +0700" stop="20210919022000 +0700" channel="sctv12">
-    <title lang="vi">Khám phá khu du lịch vườn xoài</title>
+  <programme start="20210921124500 +0700" stop="20210921130000 +0700" channel="sctv11">
+    <title lang="vi">Nữ Thần Giáng Thế - Phần 2 - Tập 9</title>
   </programme>
-  <programme start="20210919022000 +0700" stop="20210919023000 +0700" channel="sctv12">
-    <title lang="vi">Premier Village Phú Quốc - part 2</title>
+  <programme start="20210921130000 +0700" stop="20210921140000 +0700" channel="sctv11">
+    <title lang="vi">Phim Trung Quốc: Ỷ Thiên Đồ Long Ký - Tập 10</title>
   </programme>
-  <programme start="20210919023000 +0700" stop="20210919030000 +0700" channel="sctv12">
-    <title lang="vi">ĐIỀU KỲ DIỆU TỪ ĐÔI BÀN TAY P.6</title>
+  <programme start="20210921140000 +0700" stop="20210921150000 +0700" channel="sctv11">
+    <title lang="vi">SZ Bolero - Những Nốt Nhạc Ngân - Số 755</title>
   </programme>
-  <programme start="20210919030000 +0700" stop="20210919040000 +0700" channel="sctv12">
-    <title lang="vi">Hẻm Núi Lớn</title>
+  <programme start="20210921150000 +0700" stop="20210921160000 +0700" channel="sctv11">
+    <title lang="vi">Phim Trung Quốc: Mộ Bạch Thủ - Tập 22</title>
   </programme>
-  <programme start="20210919040000 +0700" stop="20210919042000 +0700" channel="sctv12">
-    <title lang="vi">Gỏi hoa Sa Đéc</title>
+  <programme start="20210921160000 +0700" stop="20210921170000 +0700" channel="sctv11">
+    <title lang="vi">Cải Lương: Tô Ánh Nguyệt - Phần 4</title>
   </programme>
-  <programme start="20210919042000 +0700" stop="20210919043000 +0700" channel="sctv12">
-    <title lang="vi">Thế giới biển đặc sắc ở Ninh Hoà</title>
+  <programme start="20210921170000 +0700" stop="20210921180000 +0700" channel="sctv11">
+    <title lang="vi">SZ Bolero - Những Nốt Nhạc Ngân - Số 756</title>
   </programme>
-  <programme start="20210919043000 +0700" stop="20210919053000 +0700" channel="sctv12">
-    <title lang="vi">THÁCH THỨC CỦA MÙA XUÂN</title>
+  <programme start="20210921180000 +0700" stop="20210921190000 +0700" channel="sctv11">
+    <title lang="vi">Phim TVB: Đắc Kỷ Trụ Vương - Tập 3</title>
   </programme>
-  <programme start="20210919053000 +0700" stop="20210919055000 +0700" channel="sctv12">
-    <title lang="vi">HÁT DÔ LIỆP TUYẾT</title>
+  <programme start="20210921190000 +0700" stop="20210921200000 +0700" channel="sctv11">
+    <title lang="vi">Phim Trung Quốc: Ỷ Thiên Đồ Long Ký - Tập 11</title>
   </programme>
-  <programme start="20210919055000 +0700" stop="20210919060000 +0700" channel="sctv12">
-    <title lang="vi">Về núi Ấn Sông Trà</title>
+  <programme start="20210921200000 +0700" stop="20210921210000 +0700" channel="sctv11">
+    <title lang="vi">Phim Trung Quốc: Mộ Bạch Thủ - Tập 23</title>
   </programme>
-  <programme start="20210919060000 +0700" stop="20210919063000 +0700" channel="sctv12">
-    <title lang="vi">BÍ ẨN TRONG BĂNG P1</title>
+  <programme start="20210921210000 +0700" stop="20210921220000 +0700" channel="sctv11">
+    <title lang="vi">Phim Trung Quốc: Triều Đại Tuỳ Đường - Tập 12</title>
   </programme>
-  <programme start="20210919063000 +0700" stop="20210919073000 +0700" channel="sctv12">
+  <programme start="20210921220000 +0700" stop="20210921230000 +0700" channel="sctv11">
+    <title lang="vi">Phim Ấn Độ: Lời Nguyền Ngọt Ngào - Tập 37</title>
+  </programme>
+  <programme start="20210921230000 +0700" stop="20210922000000 +0700" channel="sctv11">
+    <title lang="vi">SZ Bolero - Những Nốt Nhạc Ngân - Số 755</title>
+  </programme>
+  <programme start="20210922000000 +0700" stop="20210922010000 +0700" channel="sctv11">
+    <title lang="vi">Cải Lương: Tô Ánh Nguyệt - Phần 4</title>
+  </programme>
+  <programme start="20210922010000 +0700" stop="20210922020000 +0700" channel="sctv11">
+    <title lang="vi">Phim Hoạt Hình: Tại Sao - Tập 15 - 16</title>
+  </programme>
+  <programme start="20210922020000 +0700" stop="20210922023000 +0700" channel="sctv11">
+    <title lang="vi">Chuyện nhà mình - Số 107 - 108</title>
+  </programme>
+  <programme start="20210922023000 +0700" stop="20210922030000 +0700" channel="sctv11">
+    <title lang="vi">Món Ngon Đãi Tiệc - Số 38</title>
+  </programme>
+  <programme start="20210922030000 +0700" stop="20210922040000 +0700" channel="sctv11">
+    <title lang="vi">Cải Lương: Tô Ánh Nguyệt - Phần 4</title>
+  </programme>
+  <programme start="20210922040000 +0700" stop="20210922050000 +0700" channel="sctv11">
+    <title lang="vi">SZ Bolero - Những Nốt Nhạc Ngân - Số 754</title>
+  </programme>
+  <programme start="20210922050000 +0700" stop="20210922053000 +0700" channel="sctv11">
+    <title lang="vi">Món Ngon Đãi Tiệc - Số 37</title>
+  </programme>
+  <programme start="20210922053000 +0700" stop="20210922060000 +0700" channel="sctv11">
+    <title lang="vi">Chuyện nhà mình - Số 105 - 106</title>
+  </programme>
+  <programme start="20210922060000 +0700" stop="20210922070000 +0700" channel="sctv11">
+    <title lang="vi">SZ Bolero - Những Nốt Nhạc Ngân - Số 754</title>
+  </programme>
+  <programme start="20210922070000 +0700" stop="20210922073000 +0700" channel="sctv11">
+    <title lang="vi">Món Ngon Đãi Tiệc - Số 39</title>
+  </programme>
+  <programme start="20210922073000 +0700" stop="20210922080000 +0700" channel="sctv11">
+    <title lang="vi">Chuyện nhà mình - Số 109 - 110</title>
+  </programme>
+  <programme start="20210922080000 +0700" stop="20210922090000 +0700" channel="sctv11">
+    <title lang="vi">Phim Ấn Độ: Lời Nguyền Ngọt Ngào - Tập 37</title>
+  </programme>
+  <programme start="20210922090000 +0700" stop="20210922100000 +0700" channel="sctv11">
+    <title lang="vi">Phim Hoạt Hình: Tại Sao - Tập 17 - 18</title>
+  </programme>
+  <programme start="20210922100000 +0700" stop="20210922110000 +0700" channel="sctv11">
+    <title lang="vi">Cải Lương: Tô Ánh Nguyệt - Phần 3</title>
+  </programme>
+  <programme start="20210922110000 +0700" stop="20210922120000 +0700" channel="sctv11">
+    <title lang="vi">SZ Bolero - Những Nốt Nhạc Ngân - Số 755</title>
+  </programme>
+  <programme start="20210922120000 +0700" stop="20210922124500 +0700" channel="sctv11">
+    <title lang="vi">Phim TVB: Đắc Kỷ Trụ Vương - Tập 3</title>
+  </programme>
+  <programme start="20210922124500 +0700" stop="20210922130000 +0700" channel="sctv11">
+    <title lang="vi">Nữ Thần Giáng Thế - Phần 2 - Tập 10</title>
+  </programme>
+  <programme start="20210922130000 +0700" stop="20210922140000 +0700" channel="sctv11">
+    <title lang="vi">Phim Trung Quốc: Ỷ Thiên Đồ Long Ký - Tập 11</title>
+  </programme>
+  <programme start="20210922140000 +0700" stop="20210922150000 +0700" channel="sctv11">
+    <title lang="vi">SZ Bolero - Những Nốt Nhạc Ngân - Số 756</title>
+  </programme>
+  <programme start="20210922150000 +0700" stop="20210922160000 +0700" channel="sctv11">
+    <title lang="vi">Phim Trung Quốc: Mộ Bạch Thủ - Tập 23</title>
+  </programme>
+  <programme start="20210922160000 +0700" stop="20210922170000 +0700" channel="sctv11">
+    <title lang="vi">Cải Lương: Tô Ánh Nguyệt - Phần 5</title>
+  </programme>
+  <programme start="20210922170000 +0700" stop="20210922180000 +0700" channel="sctv11">
+    <title lang="vi">SZ Bolero - Những Nốt Nhạc Ngân - Số 757</title>
+  </programme>
+  <programme start="20210922180000 +0700" stop="20210922190000 +0700" channel="sctv11">
+    <title lang="vi">Phim TVB: Đắc Kỷ Trụ Vương - Tập 4</title>
+  </programme>
+  <programme start="20210922190000 +0700" stop="20210922200000 +0700" channel="sctv11">
+    <title lang="vi">Phim Trung Quốc: Ỷ Thiên Đồ Long Ký - Tập 12</title>
+  </programme>
+  <programme start="20210922200000 +0700" stop="20210922210000 +0700" channel="sctv11">
+    <title lang="vi">Phim Trung Quốc: Mộ Bạch Thủ - Tập 24</title>
+  </programme>
+  <programme start="20210922210000 +0700" stop="20210922220000 +0700" channel="sctv11">
+    <title lang="vi">Phim Trung Quốc: Triều Đại Tuỳ Đường - Tập 13</title>
+  </programme>
+  <programme start="20210922220000 +0700" stop="20210922230000 +0700" channel="sctv11">
+    <title lang="vi">Phim Ấn Độ: Lời Nguyền Ngọt Ngào - Tập 38</title>
+  </programme>
+  <programme start="20210921000000 +0700" stop="20210921004500 +0700" channel="sctv12">
     <title lang="vi">Sinh ra để chạy</title>
   </programme>
-  <programme start="20210919073000 +0700" stop="20210919075000 +0700" channel="sctv12">
+  <programme start="20210921004500 +0700" stop="20210921010500 +0700" channel="sctv12">
     <title lang="vi">Bê thui Cầu Mống</title>
   </programme>
-  <programme start="20210919075000 +0700" stop="20210919080000 +0700" channel="sctv12">
+  <programme start="20210921010500 +0700" stop="20210921011500 +0700" channel="sctv12">
     <title lang="vi">Khám phá xứ sở loài chim chung tình</title>
   </programme>
-  <programme start="20210919080000 +0700" stop="20210919090000 +0700" channel="sctv12">
+  <programme start="20210921011500 +0700" stop="20210921020000 +0700" channel="sctv12">
     <title lang="vi">ĐẠI BÀNG VÀNG</title>
   </programme>
-  <programme start="20210919090000 +0700" stop="20210919092000 +0700" channel="sctv12">
+  <programme start="20210921020000 +0700" stop="20210921022000 +0700" channel="sctv12">
     <title lang="vi">Du lịch an toàn không hối tiếc - Canada P1</title>
   </programme>
-  <programme start="20210919092000 +0700" stop="20210919093000 +0700" channel="sctv12">
+  <programme start="20210921022000 +0700" stop="20210921023000 +0700" channel="sctv12">
     <title lang="vi">Hát Karaoke Kiểu InterCon Da Nang</title>
   </programme>
-  <programme start="20210919093000 +0700" stop="20210919100000 +0700" channel="sctv12">
+  <programme start="20210921023000 +0700" stop="20210921030000 +0700" channel="sctv12">
     <title lang="vi">BÍ ẨN TRONG BĂNG P2</title>
   </programme>
-  <programme start="20210919100000 +0700" stop="20210919110000 +0700" channel="sctv12">
+  <programme start="20210921030000 +0700" stop="20210921040000 +0700" channel="sctv12">
     <title lang="vi">Thắng hoặc chết</title>
   </programme>
-  <programme start="20210919110000 +0700" stop="20210919112000 +0700" channel="sctv12">
+  <programme start="20210921040000 +0700" stop="20210921042000 +0700" channel="sctv12">
     <title lang="vi">Củ ấu chiên giòn</title>
   </programme>
-  <programme start="20210919112000 +0700" stop="20210919113000 +0700" channel="sctv12">
+  <programme start="20210921042000 +0700" stop="20210921043000 +0700" channel="sctv12">
     <title lang="vi">Khám phá vịnh Nha Phu</title>
   </programme>
-  <programme start="20210919113000 +0700" stop="20210919123000 +0700" channel="sctv12">
+  <programme start="20210921043000 +0700" stop="20210921053000 +0700" channel="sctv12">
     <title lang="vi">Loài hổ tuyết</title>
   </programme>
-  <programme start="20210919123000 +0700" stop="20210919125000 +0700" channel="sctv12">
+  <programme start="20210921053000 +0700" stop="20210921055000 +0700" channel="sctv12">
     <title lang="vi">NGƯỜI GIỮ HỒN ẨM THỰC TRUYỀN THỐNG HÀ NỘI</title>
   </programme>
-  <programme start="20210919125000 +0700" stop="20210919130000 +0700" channel="sctv12">
+  <programme start="20210921055000 +0700" stop="20210921060000 +0700" channel="sctv12">
     <title lang="vi">Một ngày ở làng sinh thái nhà sàn Thái Hải</title>
   </programme>
-  <programme start="20210919130000 +0700" stop="20210919133000 +0700" channel="sctv12">
+  <programme start="20210921060000 +0700" stop="20210921063000 +0700" channel="sctv12">
     <title lang="vi">CON MẮT 3D P.1</title>
   </programme>
-  <programme start="20210919133000 +0700" stop="20210919143000 +0700" channel="sctv12">
+  <programme start="20210921063000 +0700" stop="20210921073000 +0700" channel="sctv12">
     <title lang="vi">Những loài động vật nguy hiểm nhất châu Phi</title>
   </programme>
-  <programme start="20210919143000 +0700" stop="20210919145000 +0700" channel="sctv12">
+  <programme start="20210921073000 +0700" stop="20210921075000 +0700" channel="sctv12">
     <title lang="vi">Mì Quảng Phú Chiêm</title>
   </programme>
-  <programme start="20210919145000 +0700" stop="20210919150000 +0700" channel="sctv12">
+  <programme start="20210921075000 +0700" stop="20210921080000 +0700" channel="sctv12">
     <title lang="vi">Lắng nghe tiếng vọng non sông</title>
   </programme>
-  <programme start="20210919150000 +0700" stop="20210919160000 +0700" channel="sctv12">
+  <programme start="20210921080000 +0700" stop="20210921090000 +0700" channel="sctv12">
     <title lang="vi">Cảnh quay bất ngờ P6</title>
   </programme>
-  <programme start="20210919160000 +0700" stop="20210919162000 +0700" channel="sctv12">
+  <programme start="20210921090000 +0700" stop="20210921092000 +0700" channel="sctv12">
     <title lang="vi">Đồng hành cùng Saigontourist 19.2021</title>
   </programme>
-  <programme start="20210919162000 +0700" stop="20210919163000 +0700" channel="sctv12">
+  <programme start="20210921092000 +0700" stop="20210921093000 +0700" channel="sctv12">
     <title lang="vi">Thành phố đỏ Marrakech - Maroc part1</title>
   </programme>
-  <programme start="20210919163000 +0700" stop="20210919170000 +0700" channel="sctv12">
+  <programme start="20210921093000 +0700" stop="20210921100000 +0700" channel="sctv12">
     <title lang="vi">CON MẮT 3D P.2</title>
   </programme>
-  <programme start="20210919170000 +0700" stop="20210919180000 +0700" channel="sctv12">
+  <programme start="20210921100000 +0700" stop="20210921110000 +0700" channel="sctv12">
     <title lang="vi">Những loài động vật nguy hiểm nhất châu Úc</title>
   </programme>
-  <programme start="20210919180000 +0700" stop="20210919182000 +0700" channel="sctv12">
+  <programme start="20210921110000 +0700" stop="20210921112000 +0700" channel="sctv12">
     <title lang="vi">Cơm chiên sen</title>
   </programme>
-  <programme start="20210919182000 +0700" stop="20210919183000 +0700" channel="sctv12">
+  <programme start="20210921112000 +0700" stop="20210921113000 +0700" channel="sctv12">
     <title lang="vi">Cô Tô hòn đảo thiên đường</title>
   </programme>
-  <programme start="20210919183000 +0700" stop="20210919193000 +0700" channel="sctv12">
+  <programme start="20210921113000 +0700" stop="20210921123000 +0700" channel="sctv12">
     <title lang="vi">Cảnh quay bất ngờ P7</title>
   </programme>
-  <programme start="20210919193000 +0700" stop="20210919195000 +0700" channel="sctv12">
+  <programme start="20210921123000 +0700" stop="20210921125000 +0700" channel="sctv12">
     <title lang="vi">Du lịch an toàn không hối tiếc - Canada P2</title>
   </programme>
-  <programme start="20210919195000 +0700" stop="20210919200000 +0700" channel="sctv12">
+  <programme start="20210921125000 +0700" stop="20210921130000 +0700" channel="sctv12">
     <title lang="vi">Phú Quốc và những đặc sản bất ngờ</title>
   </programme>
-  <programme start="20210919200000 +0700" stop="20210919203000 +0700" channel="sctv12">
+  <programme start="20210921130000 +0700" stop="20210921133000 +0700" channel="sctv12">
     <title lang="vi">VỆ BINH VÙNG CẬN ĐÔNG P.1</title>
   </programme>
-  <programme start="20210919203000 +0700" stop="20210919213000 +0700" channel="sctv12">
+  <programme start="20210921133000 +0700" stop="20210921143000 +0700" channel="sctv12">
     <title lang="vi">Những loài động vật nguy hiểm nhất Ấn Độ</title>
   </programme>
-  <programme start="20210919213000 +0700" stop="20210919215000 +0700" channel="sctv12">
-    <title lang="vi">Chả giò hạt sen</title>
-  </programme>
-  <programme start="20210919215000 +0700" stop="20210919220000 +0700" channel="sctv12">
-    <title lang="vi">Truyền thuyết về xứ Trầm Hương</title>
-  </programme>
-  <programme start="20210919220000 +0700" stop="20210919230000 +0700" channel="sctv12">
-    <title lang="vi">Mùa đông ở Yellowstone</title>
-  </programme>
-  <programme start="20210919230000 +0700" stop="20210919232000 +0700" channel="sctv12">
-    <title lang="vi">ĐÌNH TƯỜNG PHIÊU</title>
-  </programme>
-  <programme start="20210919232000 +0700" stop="20210919233000 +0700" channel="sctv12">
-    <title lang="vi">Don - món ngon sông Trà</title>
-  </programme>
-  <programme start="20210919233000 +0700" stop="20210920000000 +0700" channel="sctv12">
-    <title lang="vi">DAMAS, THỦ ĐÔ LÂU ĐỜI NHẤT P.2</title>
-  </programme>
-  <programme start="20210920000000 +0700" stop="20210920004500 +0700" channel="sctv12">
-    <title lang="vi">Hẻm Núi Lớn</title>
-  </programme>
-  <programme start="20210920004500 +0700" stop="20210920010500 +0700" channel="sctv12">
-    <title lang="vi">Gỏi hoa Sa Đéc</title>
-  </programme>
-  <programme start="20210920010500 +0700" stop="20210920011500 +0700" channel="sctv12">
-    <title lang="vi">Thế giới biển đặc sắc ở Ninh Hoà</title>
-  </programme>
-  <programme start="20210920011500 +0700" stop="20210920020000 +0700" channel="sctv12">
-    <title lang="vi">THÁCH THỨC CỦA MÙA XUÂN</title>
-  </programme>
-  <programme start="20210920020000 +0700" stop="20210920022000 +0700" channel="sctv12">
-    <title lang="vi">HÁT DÔ LIỆP TUYẾT</title>
-  </programme>
-  <programme start="20210920022000 +0700" stop="20210920023000 +0700" channel="sctv12">
-    <title lang="vi">Về núi Ấn Sông Trà</title>
-  </programme>
-  <programme start="20210920023000 +0700" stop="20210920030000 +0700" channel="sctv12">
-    <title lang="vi">BÍ ẨN TRONG BĂNG P1</title>
-  </programme>
-  <programme start="20210920030000 +0700" stop="20210920040000 +0700" channel="sctv12">
-    <title lang="vi">Sinh ra để chạy</title>
-  </programme>
-  <programme start="20210920040000 +0700" stop="20210920042000 +0700" channel="sctv12">
-    <title lang="vi">Bê thui Cầu Mống</title>
-  </programme>
-  <programme start="20210920042000 +0700" stop="20210920043000 +0700" channel="sctv12">
-    <title lang="vi">Khám phá xứ sở loài chim chung tình</title>
-  </programme>
-  <programme start="20210920043000 +0700" stop="20210920053000 +0700" channel="sctv12">
-    <title lang="vi">ĐẠI BÀNG VÀNG</title>
-  </programme>
-  <programme start="20210920053000 +0700" stop="20210920055000 +0700" channel="sctv12">
-    <title lang="vi">Du lịch an toàn không hối tiếc - Canada P1</title>
-  </programme>
-  <programme start="20210920055000 +0700" stop="20210920060000 +0700" channel="sctv12">
-    <title lang="vi">Hát Karaoke Kiểu InterCon Da Nang</title>
-  </programme>
-  <programme start="20210920060000 +0700" stop="20210920063000 +0700" channel="sctv12">
-    <title lang="vi">BÍ ẨN TRONG BĂNG P2</title>
-  </programme>
-  <programme start="20210920063000 +0700" stop="20210920073000 +0700" channel="sctv12">
-    <title lang="vi">Thắng hoặc chết</title>
-  </programme>
-  <programme start="20210920073000 +0700" stop="20210920075000 +0700" channel="sctv12">
-    <title lang="vi">Củ ấu chiên giòn</title>
-  </programme>
-  <programme start="20210920075000 +0700" stop="20210920080000 +0700" channel="sctv12">
-    <title lang="vi">Khám phá vịnh Nha Phu</title>
-  </programme>
-  <programme start="20210920080000 +0700" stop="20210920090000 +0700" channel="sctv12">
-    <title lang="vi">Loài hổ tuyết</title>
-  </programme>
-  <programme start="20210920090000 +0700" stop="20210920092000 +0700" channel="sctv12">
-    <title lang="vi">NGƯỜI GIỮ HỒN ẨM THỰC TRUYỀN THỐNG HÀ NỘI</title>
-  </programme>
-  <programme start="20210920092000 +0700" stop="20210920093000 +0700" channel="sctv12">
-    <title lang="vi">Một ngày ở làng sinh thái nhà sàn Thái Hải</title>
-  </programme>
-  <programme start="20210920093000 +0700" stop="20210920100000 +0700" channel="sctv12">
-    <title lang="vi">CON MẮT 3D P.1</title>
-  </programme>
-  <programme start="20210920100000 +0700" stop="20210920110000 +0700" channel="sctv12">
-    <title lang="vi">Những loài động vật nguy hiểm nhất châu Phi</title>
-  </programme>
-  <programme start="20210920110000 +0700" stop="20210920112000 +0700" channel="sctv12">
-    <title lang="vi">Mì Quảng Phú Chiêm</title>
-  </programme>
-  <programme start="20210920112000 +0700" stop="20210920113000 +0700" channel="sctv12">
-    <title lang="vi">Lắng nghe tiếng vọng non sông</title>
-  </programme>
-  <programme start="20210920113000 +0700" stop="20210920123000 +0700" channel="sctv12">
-    <title lang="vi">Cảnh quay bất ngờ P6</title>
-  </programme>
-  <programme start="20210920123000 +0700" stop="20210920125000 +0700" channel="sctv12">
-    <title lang="vi">Đồng hành cùng Saigontourist 19.2021</title>
-  </programme>
-  <programme start="20210920125000 +0700" stop="20210920130000 +0700" channel="sctv12">
-    <title lang="vi">Thành phố đỏ Marrakech - Maroc part1</title>
-  </programme>
-  <programme start="20210920130000 +0700" stop="20210920133000 +0700" channel="sctv12">
-    <title lang="vi">CON MẮT 3D P.2</title>
-  </programme>
-  <programme start="20210920133000 +0700" stop="20210920143000 +0700" channel="sctv12">
-    <title lang="vi">Những loài động vật nguy hiểm nhất châu Úc</title>
-  </programme>
-  <programme start="20210920143000 +0700" stop="20210920145000 +0700" channel="sctv12">
-    <title lang="vi">Cơm chiên sen</title>
-  </programme>
-  <programme start="20210920145000 +0700" stop="20210920150000 +0700" channel="sctv12">
-    <title lang="vi">Cô Tô hòn đảo thiên đường</title>
-  </programme>
-  <programme start="20210920150000 +0700" stop="20210920160000 +0700" channel="sctv12">
-    <title lang="vi">Cảnh quay bất ngờ P7</title>
-  </programme>
-  <programme start="20210920160000 +0700" stop="20210920162000 +0700" channel="sctv12">
-    <title lang="vi">Du lịch an toàn không hối tiếc - Canada P2</title>
-  </programme>
-  <programme start="20210920162000 +0700" stop="20210920163000 +0700" channel="sctv12">
-    <title lang="vi">Phú Quốc và những đặc sản bất ngờ</title>
-  </programme>
-  <programme start="20210920163000 +0700" stop="20210920170000 +0700" channel="sctv12">
-    <title lang="vi">VỆ BINH VÙNG CẬN ĐÔNG P.1</title>
-  </programme>
-  <programme start="20210920170000 +0700" stop="20210920180000 +0700" channel="sctv12">
-    <title lang="vi">Những loài động vật nguy hiểm nhất Ấn Độ</title>
-  </programme>
-  <programme start="20210920180000 +0700" stop="20210920182000 +0700" channel="sctv12">
+  <programme start="20210921143000 +0700" stop="20210921145000 +0700" channel="sctv12">
     <title lang="vi">Canh chua cá rô đồng</title>
   </programme>
-  <programme start="20210920182000 +0700" stop="20210920183000 +0700" channel="sctv12">
+  <programme start="20210921145000 +0700" stop="20210921150000 +0700" channel="sctv12">
     <title lang="vi">Hành trình khám phá đặc sản Cô Tô</title>
   </programme>
-  <programme start="20210920183000 +0700" stop="20210920193000 +0700" channel="sctv12">
+  <programme start="20210921150000 +0700" stop="20210921160000 +0700" channel="sctv12">
     <title lang="vi">Cảnh quay bất ngờ P8</title>
   </programme>
-  <programme start="20210920193000 +0700" stop="20210920195000 +0700" channel="sctv12">
+  <programme start="20210921160000 +0700" stop="20210921162000 +0700" channel="sctv12">
     <title lang="vi">BIỂU TƯỢNG HÙNG THIÊNG</title>
   </programme>
-  <programme start="20210920195000 +0700" stop="20210920200000 +0700" channel="sctv12">
+  <programme start="20210921162000 +0700" stop="20210921163000 +0700" channel="sctv12">
     <title lang="vi">Du lịch Mai Châu - Hòa Bình</title>
   </programme>
-  <programme start="20210920200000 +0700" stop="20210920203000 +0700" channel="sctv12">
+  <programme start="20210921163000 +0700" stop="20210921170000 +0700" channel="sctv12">
     <title lang="vi">VỆ BINH VÙNG CẬN ĐÔNG P.2</title>
   </programme>
-  <programme start="20210920203000 +0700" stop="20210920213000 +0700" channel="sctv12">
+  <programme start="20210921170000 +0700" stop="20210921180000 +0700" channel="sctv12">
     <title lang="vi">Đuổi theo gió mùa</title>
   </programme>
-  <programme start="20210920213000 +0700" stop="20210920215000 +0700" channel="sctv12">
-    <title lang="vi">Món don xứ Quảng</title>
+  <programme start="20210921180000 +0700" stop="20210921182000 +0700" channel="sctv12">
+    <title lang="vi">Cao lầu phố cổ</title>
   </programme>
-  <programme start="20210920215000 +0700" stop="20210920220000 +0700" channel="sctv12">
-    <title lang="vi">Về với ngôi làng đại dương</title>
+  <programme start="20210921182000 +0700" stop="20210921183000 +0700" channel="sctv12">
+    <title lang="vi">Hương vị ẩm thực Cô Tô</title>
   </programme>
-  <programme start="20210920220000 +0700" stop="20210920230000 +0700" channel="sctv12">
-    <title lang="vi">Cuộc sống của loài chim cánh cụt</title>
+  <programme start="20210921183000 +0700" stop="20210921193000 +0700" channel="sctv12">
+    <title lang="vi">Tải trọng của một chiếc xe chở cá sấu P1</title>
   </programme>
-  <programme start="20210920230000 +0700" stop="20210920232000 +0700" channel="sctv12">
-    <title lang="vi">Khám phá khu du lịch vườn xoài</title>
+  <programme start="20210921193000 +0700" stop="20210921195000 +0700" channel="sctv12">
+    <title lang="vi">Đồng hành cùng Saigontourist 19.2021 (PL)</title>
   </programme>
-  <programme start="20210920232000 +0700" stop="20210920233000 +0700" channel="sctv12">
-    <title lang="vi">Premier Village Phú Quốc - part 2</title>
+  <programme start="20210921195000 +0700" stop="20210921200000 +0700" channel="sctv12">
+    <title lang="vi">Thành phố đỏ Marrakech - Maroc part2</title>
   </programme>
-  <programme start="20210919004500 +0700" stop="20210919014500 +0700" channel="sctv14">
-    <title lang="vi">Mật danh Đ9 (T25/38)</title>
+  <programme start="20210921200000 +0700" stop="20210921203000 +0700" channel="sctv12">
+    <title lang="vi">THỨC ĂN LÀNH MẠNH CỦA VIỆT NAM</title>
   </programme>
-  <programme start="20210919014500 +0700" stop="20210919024500 +0700" channel="sctv14">
-    <title lang="vi">Mẹ ghẻ (T50/59)</title>
+  <programme start="20210921203000 +0700" stop="20210921213000 +0700" channel="sctv12">
+    <title lang="vi">Trò chơi hò hẹn</title>
   </programme>
-  <programme start="20210919024500 +0700" stop="20210919034500 +0700" channel="sctv14">
-    <title lang="vi">Muôn kiểu làm dâu (T4/76)</title>
+  <programme start="20210921213000 +0700" stop="20210921215000 +0700" channel="sctv12">
+    <title lang="vi">Gỏi hoa Sa Đéc</title>
   </programme>
-  <programme start="20210919034500 +0700" stop="20210919044500 +0700" channel="sctv14">
-    <title lang="vi">Danh vọng phù hoa (T1/39)</title>
+  <programme start="20210921215000 +0700" stop="20210921220000 +0700" channel="sctv12">
+    <title lang="vi">Thế giới biển đặc sắc ở Ninh Hoà</title>
   </programme>
-  <programme start="20210919044500 +0700" stop="20210919054500 +0700" channel="sctv14">
-    <title lang="vi">Tình kỹ nữ (T20/27)</title>
+  <programme start="20210921220000 +0700" stop="20210921230000 +0700" channel="sctv12">
+    <title lang="vi">THÁCH THỨC CỦA MÙA XUÂN</title>
   </programme>
-  <programme start="20210919054500 +0700" stop="20210919064500 +0700" channel="sctv14">
-    <title lang="vi">Biệt thự hoa hồng (T6/32)</title>
+  <programme start="20210921230000 +0700" stop="20210921232000 +0700" channel="sctv12">
+    <title lang="vi">HÁT DÔ LIỆP TUYẾT</title>
   </programme>
-  <programme start="20210919064500 +0700" stop="20210919074500 +0700" channel="sctv14">
-    <title lang="vi">Tình kỹ nữ (T21/27)</title>
+  <programme start="20210921232000 +0700" stop="20210921233000 +0700" channel="sctv12">
+    <title lang="vi">Về núi Ấn Sông Trà</title>
   </programme>
-  <programme start="20210919074500 +0700" stop="20210919084500 +0700" channel="sctv14">
-    <title lang="vi">Muôn kiểu làm dâu (T5/76)</title>
+  <programme start="20210921233000 +0700" stop="20210922000000 +0700" channel="sctv12">
+    <title lang="vi">BÍ ẨN TRONG BĂNG P1</title>
   </programme>
-  <programme start="20210919084500 +0700" stop="20210919094500 +0700" channel="sctv14">
-    <title lang="vi">Danh vọng phù hoa (T2/39)</title>
+  <programme start="20210922000000 +0700" stop="20210922004500 +0700" channel="sctv12">
+    <title lang="vi">Thắng hoặc chết</title>
   </programme>
-  <programme start="20210919094500 +0700" stop="20210919104500 +0700" channel="sctv14">
-    <title lang="vi">Biệt thự hoa hồng (T7/32)</title>
+  <programme start="20210922004500 +0700" stop="20210922010500 +0700" channel="sctv12">
+    <title lang="vi">Củ ấu chiên giòn</title>
   </programme>
-  <programme start="20210919104500 +0700" stop="20210919114500 +0700" channel="sctv14">
-    <title lang="vi">Mẹ ghẻ (T51/59)</title>
+  <programme start="20210922010500 +0700" stop="20210922011500 +0700" channel="sctv12">
+    <title lang="vi">Khám phá vịnh Nha Phu</title>
   </programme>
-  <programme start="20210919114500 +0700" stop="20210919124500 +0700" channel="sctv14">
-    <title lang="vi">Mật danh Đ9 (T26/38)</title>
+  <programme start="20210922011500 +0700" stop="20210922020000 +0700" channel="sctv12">
+    <title lang="vi">Loài hổ tuyết</title>
   </programme>
-  <programme start="20210919124500 +0700" stop="20210919133000 +0700" channel="sctv14">
-    <title lang="vi">Tình kỹ nữ (T22/27)</title>
+  <programme start="20210922020000 +0700" stop="20210922022000 +0700" channel="sctv12">
+    <title lang="vi">NGƯỜI GIỮ HỒN ẨM THỰC TRUYỀN THỐNG HÀ NỘI</title>
   </programme>
-  <programme start="20210919133000 +0700" stop="20210919134500 +0700" channel="sctv14">
-    <title lang="vi">Kết nối phim Việt số tổng hợp 10</title>
+  <programme start="20210922022000 +0700" stop="20210922023000 +0700" channel="sctv12">
+    <title lang="vi">Một ngày ở làng sinh thái nhà sàn Thái Hải</title>
   </programme>
-  <programme start="20210919134500 +0700" stop="20210919144500 +0700" channel="sctv14">
-    <title lang="vi">Muôn kiểu làm dâu (T6/76)</title>
+  <programme start="20210922023000 +0700" stop="20210922030000 +0700" channel="sctv12">
+    <title lang="vi">CON MẮT 3D P.1</title>
   </programme>
-  <programme start="20210919144500 +0700" stop="20210919154500 +0700" channel="sctv14">
-    <title lang="vi">Danh vọng phù hoa (T3/39)</title>
+  <programme start="20210922030000 +0700" stop="20210922040000 +0700" channel="sctv12">
+    <title lang="vi">Những loài động vật nguy hiểm nhất châu Phi</title>
   </programme>
-  <programme start="20210919154500 +0700" stop="20210919164500 +0700" channel="sctv14">
-    <title lang="vi">Mẹ ghẻ (T52/59)</title>
+  <programme start="20210922040000 +0700" stop="20210922042000 +0700" channel="sctv12">
+    <title lang="vi">Mì Quảng Phú Chiêm</title>
   </programme>
-  <programme start="20210919164500 +0700" stop="20210919174500 +0700" channel="sctv14">
+  <programme start="20210922042000 +0700" stop="20210922043000 +0700" channel="sctv12">
+    <title lang="vi">Lắng nghe tiếng vọng non sông</title>
+  </programme>
+  <programme start="20210922043000 +0700" stop="20210922053000 +0700" channel="sctv12">
+    <title lang="vi">Cảnh quay bất ngờ P6</title>
+  </programme>
+  <programme start="20210922053000 +0700" stop="20210922055000 +0700" channel="sctv12">
+    <title lang="vi">Đồng hành cùng Saigontourist 19.2021</title>
+  </programme>
+  <programme start="20210922055000 +0700" stop="20210922060000 +0700" channel="sctv12">
+    <title lang="vi">Thành phố đỏ Marrakech - Maroc part1</title>
+  </programme>
+  <programme start="20210922060000 +0700" stop="20210922063000 +0700" channel="sctv12">
+    <title lang="vi">CON MẮT 3D P.2</title>
+  </programme>
+  <programme start="20210922063000 +0700" stop="20210922073000 +0700" channel="sctv12">
+    <title lang="vi">Những loài động vật nguy hiểm nhất châu Úc</title>
+  </programme>
+  <programme start="20210922073000 +0700" stop="20210922075000 +0700" channel="sctv12">
+    <title lang="vi">Cơm chiên sen</title>
+  </programme>
+  <programme start="20210922075000 +0700" stop="20210922080000 +0700" channel="sctv12">
+    <title lang="vi">Cô Tô hòn đảo thiên đường</title>
+  </programme>
+  <programme start="20210922080000 +0700" stop="20210922090000 +0700" channel="sctv12">
+    <title lang="vi">Cảnh quay bất ngờ P7</title>
+  </programme>
+  <programme start="20210922090000 +0700" stop="20210922092000 +0700" channel="sctv12">
+    <title lang="vi">Du lịch an toàn không hối tiếc - Canada P2</title>
+  </programme>
+  <programme start="20210922092000 +0700" stop="20210922093000 +0700" channel="sctv12">
+    <title lang="vi">Phú Quốc và những đặc sản bất ngờ</title>
+  </programme>
+  <programme start="20210922093000 +0700" stop="20210922100000 +0700" channel="sctv12">
+    <title lang="vi">VỆ BINH VÙNG CẬN ĐÔNG P.1</title>
+  </programme>
+  <programme start="20210922100000 +0700" stop="20210922110000 +0700" channel="sctv12">
+    <title lang="vi">Những loài động vật nguy hiểm nhất Ấn Độ</title>
+  </programme>
+  <programme start="20210922110000 +0700" stop="20210922112000 +0700" channel="sctv12">
+    <title lang="vi">Canh chua cá rô đồng</title>
+  </programme>
+  <programme start="20210922112000 +0700" stop="20210922113000 +0700" channel="sctv12">
+    <title lang="vi">Hành trình khám phá đặc sản Cô Tô</title>
+  </programme>
+  <programme start="20210922113000 +0700" stop="20210922123000 +0700" channel="sctv12">
+    <title lang="vi">Cảnh quay bất ngờ P8</title>
+  </programme>
+  <programme start="20210922123000 +0700" stop="20210922125000 +0700" channel="sctv12">
+    <title lang="vi">BIỂU TƯỢNG HÙNG THIÊNG</title>
+  </programme>
+  <programme start="20210922125000 +0700" stop="20210922130000 +0700" channel="sctv12">
+    <title lang="vi">Du lịch Mai Châu - Hòa Bình</title>
+  </programme>
+  <programme start="20210922130000 +0700" stop="20210922133000 +0700" channel="sctv12">
+    <title lang="vi">VỆ BINH VÙNG CẬN ĐÔNG P.2</title>
+  </programme>
+  <programme start="20210922133000 +0700" stop="20210922143000 +0700" channel="sctv12">
+    <title lang="vi">Đuổi theo gió mùa</title>
+  </programme>
+  <programme start="20210922143000 +0700" stop="20210922145000 +0700" channel="sctv12">
+    <title lang="vi">Cao lầu phố cổ</title>
+  </programme>
+  <programme start="20210922145000 +0700" stop="20210922150000 +0700" channel="sctv12">
+    <title lang="vi">Hương vị ẩm thực Cô Tô</title>
+  </programme>
+  <programme start="20210922150000 +0700" stop="20210922160000 +0700" channel="sctv12">
+    <title lang="vi">Tải trọng của một chiếc xe chở cá sấu P1</title>
+  </programme>
+  <programme start="20210922160000 +0700" stop="20210922162000 +0700" channel="sctv12">
+    <title lang="vi">Đồng hành cùng Saigontourist 19.2021 (PL)</title>
+  </programme>
+  <programme start="20210922162000 +0700" stop="20210922163000 +0700" channel="sctv12">
+    <title lang="vi">Thành phố đỏ Marrakech - Maroc part2</title>
+  </programme>
+  <programme start="20210922163000 +0700" stop="20210922170000 +0700" channel="sctv12">
+    <title lang="vi">THỨC ĂN LÀNH MẠNH CỦA VIỆT NAM</title>
+  </programme>
+  <programme start="20210922170000 +0700" stop="20210922180000 +0700" channel="sctv12">
+    <title lang="vi">Trò chơi hò hẹn</title>
+  </programme>
+  <programme start="20210922180000 +0700" stop="20210922182000 +0700" channel="sctv12">
+    <title lang="vi">Lẩu ếch ớt hiểm xanh</title>
+  </programme>
+  <programme start="20210922182000 +0700" stop="20210922183000 +0700" channel="sctv12">
+    <title lang="vi">Ngôi làng dệt choàng Nam Bộ</title>
+  </programme>
+  <programme start="20210922183000 +0700" stop="20210922193000 +0700" channel="sctv12">
+    <title lang="vi">MỘT NĂM TRÊN SÔNG TAY P.1</title>
+  </programme>
+  <programme start="20210922193000 +0700" stop="20210922195000 +0700" channel="sctv12">
+    <title lang="vi">LÊ LA QUÀ VẶT</title>
+  </programme>
+  <programme start="20210922195000 +0700" stop="20210922200000 +0700" channel="sctv12">
+    <title lang="vi">Khám phá Pha Luông</title>
+  </programme>
+  <programme start="20210922200000 +0700" stop="20210922203000 +0700" channel="sctv12">
+    <title lang="vi">SỰ THẬT ĐẰNG SAUVIỆC NÓI DỐI P.1</title>
+  </programme>
+  <programme start="20210922203000 +0700" stop="20210922213000 +0700" channel="sctv12">
+    <title lang="vi">Đám đông quyết định</title>
+  </programme>
+  <programme start="20210922213000 +0700" stop="20210922215000 +0700" channel="sctv12">
+    <title lang="vi">Bê thui Cầu Mống</title>
+  </programme>
+  <programme start="20210922215000 +0700" stop="20210922220000 +0700" channel="sctv12">
+    <title lang="vi">Khám phá xứ sở loài chim chung tình</title>
+  </programme>
+  <programme start="20210922220000 +0700" stop="20210922230000 +0700" channel="sctv12">
+    <title lang="vi">ĐẠI BÀNG VÀNG</title>
+  </programme>
+  <programme start="20210922230000 +0700" stop="20210922232000 +0700" channel="sctv12">
+    <title lang="vi">Du lịch an toàn không hối tiếc - Canada P1</title>
+  </programme>
+  <programme start="20210922232000 +0700" stop="20210922233000 +0700" channel="sctv12">
+    <title lang="vi">Hát Karaoke Kiểu InterCon Da Nang</title>
+  </programme>
+  <programme start="20210921004500 +0700" stop="20210921014500 +0700" channel="sctv14">
     <title lang="vi">Mật danh Đ9 (T27/38)</title>
   </programme>
-  <programme start="20210919174500 +0700" stop="20210919183000 +0700" channel="sctv14">
-    <title lang="vi">Biệt thự hoa hồng (T8/32)</title>
-  </programme>
-  <programme start="20210919183000 +0700" stop="20210919184500 +0700" channel="sctv14">
-    <title lang="vi">Kết nối phim Việt số tổng hợp 10</title>
-  </programme>
-  <programme start="20210919184500 +0700" stop="20210919194500 +0700" channel="sctv14">
-    <title lang="vi">Tình kỹ nữ (T23/27)</title>
-  </programme>
-  <programme start="20210919194500 +0700" stop="20210919204500 +0700" channel="sctv14">
-    <title lang="vi">Muôn kiểu làm dâu (T7/76)</title>
-  </programme>
-  <programme start="20210919204500 +0700" stop="20210919214500 +0700" channel="sctv14">
-    <title lang="vi">Danh vọng phù hoa (T4/39)</title>
-  </programme>
-  <programme start="20210919214500 +0700" stop="20210919224500 +0700" channel="sctv14">
-    <title lang="vi">Mẹ ghẻ (T53/59)</title>
-  </programme>
-  <programme start="20210919224500 +0700" stop="20210919234500 +0700" channel="sctv14">
-    <title lang="vi">Mật danh Đ9 (T28/38)</title>
-  </programme>
-  <programme start="20210919234500 +0700" stop="20210920004500 +0700" channel="sctv14">
-    <title lang="vi">Biệt thự hoa hồng (T5/32)</title>
-  </programme>
-  <programme start="20210920004500 +0700" stop="20210920014500 +0700" channel="sctv14">
-    <title lang="vi">Mật danh Đ9 (T26/38)</title>
-  </programme>
-  <programme start="20210920014500 +0700" stop="20210920024500 +0700" channel="sctv14">
-    <title lang="vi">Mẹ ghẻ (T51/59)</title>
-  </programme>
-  <programme start="20210920024500 +0700" stop="20210920034500 +0700" channel="sctv14">
-    <title lang="vi">Muôn kiểu làm dâu (T5/76)</title>
-  </programme>
-  <programme start="20210920034500 +0700" stop="20210920044500 +0700" channel="sctv14">
-    <title lang="vi">Danh vọng phù hoa (T2/39)</title>
-  </programme>
-  <programme start="20210920044500 +0700" stop="20210920054500 +0700" channel="sctv14">
-    <title lang="vi">Tình kỹ nữ (T21/27)</title>
-  </programme>
-  <programme start="20210920054500 +0700" stop="20210920064500 +0700" channel="sctv14">
-    <title lang="vi">Biệt thự hoa hồng (T7/32)</title>
-  </programme>
-  <programme start="20210920064500 +0700" stop="20210920073000 +0700" channel="sctv14">
-    <title lang="vi">Tình kỹ nữ (T22/27)</title>
-  </programme>
-  <programme start="20210920073000 +0700" stop="20210920074500 +0700" channel="sctv14">
-    <title lang="vi">Kết nối phim Việt số tổng hợp 10</title>
-  </programme>
-  <programme start="20210920074500 +0700" stop="20210920084500 +0700" channel="sctv14">
-    <title lang="vi">Muôn kiểu làm dâu (T6/76)</title>
-  </programme>
-  <programme start="20210920084500 +0700" stop="20210920094500 +0700" channel="sctv14">
-    <title lang="vi">Danh vọng phù hoa (T3/39)</title>
-  </programme>
-  <programme start="20210920094500 +0700" stop="20210920104500 +0700" channel="sctv14">
-    <title lang="vi">Biệt thự hoa hồng (T8/32)</title>
-  </programme>
-  <programme start="20210920104500 +0700" stop="20210920114500 +0700" channel="sctv14">
+  <programme start="20210921014500 +0700" stop="20210921024500 +0700" channel="sctv14">
     <title lang="vi">Mẹ ghẻ (T52/59)</title>
   </programme>
-  <programme start="20210920114500 +0700" stop="20210920124500 +0700" channel="sctv14">
-    <title lang="vi">Mật danh Đ9 (T27/38)</title>
+  <programme start="20210921024500 +0700" stop="20210921034500 +0700" channel="sctv14">
+    <title lang="vi">Muôn kiểu làm dâu (T6/76)</title>
   </programme>
-  <programme start="20210920124500 +0700" stop="20210920133000 +0700" channel="sctv14">
+  <programme start="20210921034500 +0700" stop="20210921044500 +0700" channel="sctv14">
+    <title lang="vi">Danh vọng phù hoa (T3/39)</title>
+  </programme>
+  <programme start="20210921044500 +0700" stop="20210921054500 +0700" channel="sctv14">
+    <title lang="vi">Tình kỹ nữ (T22/27)</title>
+  </programme>
+  <programme start="20210921054500 +0700" stop="20210921064500 +0700" channel="sctv14">
+    <title lang="vi">Biệt thự hoa hồng (T8/32)</title>
+  </programme>
+  <programme start="20210921064500 +0700" stop="20210921073000 +0700" channel="sctv14">
     <title lang="vi">Tình kỹ nữ (T23/27)</title>
   </programme>
-  <programme start="20210920133000 +0700" stop="20210920134500 +0700" channel="sctv14">
+  <programme start="20210921073000 +0700" stop="20210921074500 +0700" channel="sctv14">
     <title lang="vi">Kết nối phim Việt số tổng hợp 10</title>
   </programme>
-  <programme start="20210920134500 +0700" stop="20210920144500 +0700" channel="sctv14">
+  <programme start="20210921074500 +0700" stop="20210921084500 +0700" channel="sctv14">
     <title lang="vi">Muôn kiểu làm dâu (T7/76)</title>
   </programme>
-  <programme start="20210920144500 +0700" stop="20210920154500 +0700" channel="sctv14">
+  <programme start="20210921084500 +0700" stop="20210921094500 +0700" channel="sctv14">
     <title lang="vi">Danh vọng phù hoa (T4/39)</title>
   </programme>
-  <programme start="20210920154500 +0700" stop="20210920164500 +0700" channel="sctv14">
-    <title lang="vi">Mẹ ghẻ (T53/59)</title>
-  </programme>
-  <programme start="20210920164500 +0700" stop="20210920174500 +0700" channel="sctv14">
-    <title lang="vi">Mật danh Đ9 (T28/38)</title>
-  </programme>
-  <programme start="20210920174500 +0700" stop="20210920184500 +0700" channel="sctv14">
+  <programme start="20210921094500 +0700" stop="20210921104500 +0700" channel="sctv14">
     <title lang="vi">Biệt thự hoa hồng (T9/32)</title>
   </programme>
-  <programme start="20210920184500 +0700" stop="20210920194500 +0700" channel="sctv14">
+  <programme start="20210921104500 +0700" stop="20210921114500 +0700" channel="sctv14">
+    <title lang="vi">Mẹ ghẻ (T53/59)</title>
+  </programme>
+  <programme start="20210921114500 +0700" stop="20210921124500 +0700" channel="sctv14">
+    <title lang="vi">Mật danh Đ9 (T28/38)</title>
+  </programme>
+  <programme start="20210921124500 +0700" stop="20210921134500 +0700" channel="sctv14">
     <title lang="vi">Tình kỹ nữ (T24/27)</title>
   </programme>
-  <programme start="20210920194500 +0700" stop="20210920204500 +0700" channel="sctv14">
+  <programme start="20210921134500 +0700" stop="20210921144500 +0700" channel="sctv14">
     <title lang="vi">Muôn kiểu làm dâu (T8/76)</title>
   </programme>
-  <programme start="20210920204500 +0700" stop="20210920214500 +0700" channel="sctv14">
+  <programme start="20210921144500 +0700" stop="20210921154500 +0700" channel="sctv14">
     <title lang="vi">Danh vọng phù hoa (T5/39)</title>
   </programme>
-  <programme start="20210920214500 +0700" stop="20210920224500 +0700" channel="sctv14">
+  <programme start="20210921154500 +0700" stop="20210921164500 +0700" channel="sctv14">
     <title lang="vi">Mẹ ghẻ (T54/59)</title>
   </programme>
-  <programme start="20210920224500 +0700" stop="20210920234500 +0700" channel="sctv14">
+  <programme start="20210921164500 +0700" stop="20210921174500 +0700" channel="sctv14">
     <title lang="vi">Mật danh Đ9 (T29/38)</title>
   </programme>
-  <programme start="20210919000000 +0700" stop="20210919020000 +0700" channel="sctv15">
+  <programme start="20210921174500 +0700" stop="20210921184500 +0700" channel="sctv14">
+    <title lang="vi">Biệt thự hoa hồng (T10/32)</title>
+  </programme>
+  <programme start="20210921184500 +0700" stop="20210921194500 +0700" channel="sctv14">
+    <title lang="vi">Tình kỹ nữ (T25/27)</title>
+  </programme>
+  <programme start="20210921194500 +0700" stop="20210921204500 +0700" channel="sctv14">
+    <title lang="vi">Muôn kiểu làm dâu (T9/76)</title>
+  </programme>
+  <programme start="20210921204500 +0700" stop="20210921214500 +0700" channel="sctv14">
+    <title lang="vi">Danh vọng phù hoa (T6/39)</title>
+  </programme>
+  <programme start="20210921214500 +0700" stop="20210921224500 +0700" channel="sctv14">
+    <title lang="vi">Mẹ ghẻ (T55/59)</title>
+  </programme>
+  <programme start="20210921224500 +0700" stop="20210921234500 +0700" channel="sctv14">
+    <title lang="vi">Mật danh Đ9 (T30/38)</title>
+  </programme>
+  <programme start="20210921234500 +0700" stop="20210922004500 +0700" channel="sctv14">
+    <title lang="vi">Biệt thự hoa hồng (T7/32)</title>
+  </programme>
+  <programme start="20210922004500 +0700" stop="20210922014500 +0700" channel="sctv14">
+    <title lang="vi">Mật danh Đ9 (T28/38)</title>
+  </programme>
+  <programme start="20210922014500 +0700" stop="20210922024500 +0700" channel="sctv14">
+    <title lang="vi">Mẹ ghẻ (T53/59)</title>
+  </programme>
+  <programme start="20210922024500 +0700" stop="20210922034500 +0700" channel="sctv14">
+    <title lang="vi">Muôn kiểu làm dâu (T7/76)</title>
+  </programme>
+  <programme start="20210922034500 +0700" stop="20210922044500 +0700" channel="sctv14">
+    <title lang="vi">Danh vọng phù hoa (T4/39)</title>
+  </programme>
+  <programme start="20210922044500 +0700" stop="20210922054500 +0700" channel="sctv14">
+    <title lang="vi">Tình kỹ nữ (T23/27)</title>
+  </programme>
+  <programme start="20210922054500 +0700" stop="20210922064500 +0700" channel="sctv14">
+    <title lang="vi">Biệt thự hoa hồng (T9/32)</title>
+  </programme>
+  <programme start="20210922064500 +0700" stop="20210922074500 +0700" channel="sctv14">
+    <title lang="vi">Tình kỹ nữ (T24/27)</title>
+  </programme>
+  <programme start="20210922074500 +0700" stop="20210922084500 +0700" channel="sctv14">
+    <title lang="vi">Muôn kiểu làm dâu (T8/76)</title>
+  </programme>
+  <programme start="20210922084500 +0700" stop="20210922094500 +0700" channel="sctv14">
+    <title lang="vi">Danh vọng phù hoa (T5/39)</title>
+  </programme>
+  <programme start="20210922094500 +0700" stop="20210922104500 +0700" channel="sctv14">
+    <title lang="vi">Biệt thự hoa hồng (T10/32)</title>
+  </programme>
+  <programme start="20210922104500 +0700" stop="20210922114500 +0700" channel="sctv14">
+    <title lang="vi">Mẹ ghẻ (T54/59)</title>
+  </programme>
+  <programme start="20210922114500 +0700" stop="20210922124500 +0700" channel="sctv14">
+    <title lang="vi">Mật danh Đ9 (T29/38)</title>
+  </programme>
+  <programme start="20210922124500 +0700" stop="20210922134500 +0700" channel="sctv14">
+    <title lang="vi">Tình kỹ nữ (T25/27)</title>
+  </programme>
+  <programme start="20210922134500 +0700" stop="20210922144500 +0700" channel="sctv14">
+    <title lang="vi">Muôn kiểu làm dâu (T9/76)</title>
+  </programme>
+  <programme start="20210922144500 +0700" stop="20210922154500 +0700" channel="sctv14">
+    <title lang="vi">Danh vọng phù hoa (T6/39)</title>
+  </programme>
+  <programme start="20210922154500 +0700" stop="20210922164500 +0700" channel="sctv14">
+    <title lang="vi">Mẹ ghẻ (T55/59)</title>
+  </programme>
+  <programme start="20210922164500 +0700" stop="20210922174500 +0700" channel="sctv14">
+    <title lang="vi">Mật danh Đ9 (T30/38)</title>
+  </programme>
+  <programme start="20210922174500 +0700" stop="20210922184500 +0700" channel="sctv14">
+    <title lang="vi">Biệt thự hoa hồng (T11/32)</title>
+  </programme>
+  <programme start="20210922184500 +0700" stop="20210922194500 +0700" channel="sctv14">
+    <title lang="vi">Tình kỹ nữ (T26/27)</title>
+  </programme>
+  <programme start="20210922194500 +0700" stop="20210922204500 +0700" channel="sctv14">
+    <title lang="vi">Muôn kiểu làm dâu (T10/76)</title>
+  </programme>
+  <programme start="20210922204500 +0700" stop="20210922214500 +0700" channel="sctv14">
+    <title lang="vi">Danh vọng phù hoa (T7/39)</title>
+  </programme>
+  <programme start="20210922214500 +0700" stop="20210922224500 +0700" channel="sctv14">
+    <title lang="vi">Mẹ ghẻ (T56/59)</title>
+  </programme>
+  <programme start="20210922224500 +0700" stop="20210922234500 +0700" channel="sctv14">
+    <title lang="vi">Mật danh Đ9 (T31/38)</title>
+  </programme>
+  <programme start="20210921000000 +0700" stop="20210921020000 +0700" channel="sctv15">
     <title lang="vi">Bóng đá</title>
   </programme>
-  <programme start="20210919020000 +0700" stop="20210919040000 +0700" channel="sctv15">
+  <programme start="20210921020000 +0700" stop="20210921040000 +0700" channel="sctv15">
     <title lang="vi">Cầu lông</title>
   </programme>
-  <programme start="20210919040000 +0700" stop="20210919060000 +0700" channel="sctv15">
+  <programme start="20210921040000 +0700" stop="20210921060000 +0700" channel="sctv15">
     <title lang="vi">Võ thuật</title>
   </programme>
-  <programme start="20210919060000 +0700" stop="20210919080000 +0700" channel="sctv15">
-    <title lang="vi">Liga 2021/22 R5 lche - Levante</title>
+  <programme start="20210921060000 +0700" stop="20210921080000 +0700" channel="sctv15">
+    <title lang="vi">Liga 2021/22 R5 Rayo Vallecano - Getafe</title>
   </programme>
-  <programme start="20210919080000 +0700" stop="20210919100000 +0700" channel="sctv15">
-    <title lang="vi">LaLiga Classics 2007/08 R36 Real Madrid - Barcelona</title>
+  <programme start="20210921080000 +0700" stop="20210921100000 +0700" channel="sctv15">
+    <title lang="vi">LaLiga Classics 2016/17 R31 R. Madrid - At. Madrid</title>
   </programme>
-  <programme start="20210919100000 +0700" stop="20210919120000 +0700" channel="sctv15">
-    <title lang="vi">Liga 2021/22 R5 Alaves - Osasuna</title>
+  <programme start="20210921100000 +0700" stop="20210921120000 +0700" channel="sctv15">
+    <title lang="vi">Liga 2021/22 R5 Valencia - Real Madrid</title>
   </programme>
-  <programme start="20210919120000 +0700" stop="20210919140000 +0700" channel="sctv15">
-    <title lang="vi">Liga 2021/22 R5 Atletico Madrid - Athletic Bilbao</title>
+  <programme start="20210921120000 +0700" stop="20210921140000 +0700" channel="sctv15">
+    <title lang="vi">Liga 2021/22 R5 Barcelona - Granada</title>
   </programme>
-  <programme start="20210919140000 +0700" stop="20210919141000 +0700" channel="sctv15">
+  <programme start="20210921140000 +0700" stop="20210921141000 +0700" channel="sctv15">
     <title lang="vi">Điểm tin trưa</title>
   </programme>
-  <programme start="20210919141000 +0700" stop="20210919160000 +0700" channel="sctv15">
-    <title lang="vi">Liga 2021/22 R5 Elche - Levante</title>
+  <programme start="20210921141000 +0700" stop="20210921160000 +0700" channel="sctv15">
+    <title lang="vi">Liga 2021/22 R5 Rayo Vallecano - Getafe</title>
   </programme>
-  <programme start="20210919160000 +0700" stop="20210919180000 +0700" channel="sctv15">
-    <title lang="vi">LaLiga Classics 2007/08 R36 Real Madrid - Barcelona</title>
+  <programme start="20210921160000 +0700" stop="20210921180000 +0700" channel="sctv15">
+    <title lang="vi">LaLiga Classics 2016/17 R31 R. Madrid - At. Madrid</title>
   </programme>
-  <programme start="20210919180000 +0700" stop="20210919194500 +0700" channel="sctv15">
-    <title lang="vi">Liga 2021/22 R5 Alaves - Osasuna</title>
+  <programme start="20210921180000 +0700" stop="20210921194500 +0700" channel="sctv15">
+    <title lang="vi">Liga 2021/22 R5 Valencia - Real Madrid</title>
   </programme>
-  <programme start="20210919194500 +0700" stop="20210919200000 +0700" channel="sctv15">
+  <programme start="20210921194500 +0700" stop="20210921200000 +0700" channel="sctv15">
     <title lang="vi">Bản tin thể thao</title>
   </programme>
-  <programme start="20210919200000 +0700" stop="20210919214500 +0700" channel="sctv15">
+  <programme start="20210921200000 +0700" stop="20210921214500 +0700" channel="sctv15">
     <title lang="vi">Võ thuật</title>
   </programme>
-  <programme start="20210919214500 +0700" stop="20210919220000 +0700" channel="sctv15">
+  <programme start="20210921214500 +0700" stop="20210921220000 +0700" channel="sctv15">
     <title lang="vi">Bản tin thể thao</title>
   </programme>
-  <programme start="20210919220000 +0700" stop="20210920000000 +0700" channel="sctv15">
-    <title lang="vi">Liga 2021/22 R5 Atletico Madrid - Athletic Bilbao</title>
-  </programme>
-  <programme start="20210920000000 +0700" stop="20210920020000 +0700" channel="sctv15">
-    <title lang="vi">Bóng đá</title>
-  </programme>
-  <programme start="20210920020000 +0700" stop="20210920040000 +0700" channel="sctv15">
-    <title lang="vi">Cầu lông</title>
-  </programme>
-  <programme start="20210920040000 +0700" stop="20210920060000 +0700" channel="sctv15">
-    <title lang="vi">Võ thuật</title>
-  </programme>
-  <programme start="20210920060000 +0700" stop="20210920080000 +0700" channel="sctv15">
-    <title lang="vi">Liga 2021/22 R5 Real Betis - Espanyol</title>
-  </programme>
-  <programme start="20210920080000 +0700" stop="20210920100000 +0700" channel="sctv15">
-    <title lang="vi">LaLiga Classics 2009/10 R37 Sevilla - Barcelona</title>
-  </programme>
-  <programme start="20210920100000 +0700" stop="20210920120000 +0700" channel="sctv15">
-    <title lang="vi">Liga 2021/22 R5 Mallorca - Villarreal</title>
-  </programme>
-  <programme start="20210920120000 +0700" stop="20210920140000 +0700" channel="sctv15">
-    <title lang="vi">Liga 2021/22 R5 Real Sociedad - Sevilla</title>
-  </programme>
-  <programme start="20210920140000 +0700" stop="20210920141000 +0700" channel="sctv15">
-    <title lang="vi">Điểm tin trưa</title>
-  </programme>
-  <programme start="20210920141000 +0700" stop="20210920160000 +0700" channel="sctv15">
-    <title lang="vi">Liga 2021/22 R5 Real Betis - Espanyol</title>
-  </programme>
-  <programme start="20210920160000 +0700" stop="20210920180000 +0700" channel="sctv15">
-    <title lang="vi">LaLiga Classics 2009/10 R37 Sevilla - Barcelona</title>
-  </programme>
-  <programme start="20210920180000 +0700" stop="20210920194500 +0700" channel="sctv15">
-    <title lang="vi">Liga 2021/22 R5 Mallorca - Villarreal</title>
-  </programme>
-  <programme start="20210920194500 +0700" stop="20210920200000 +0700" channel="sctv15">
-    <title lang="vi">Bản tin thể thao</title>
-  </programme>
-  <programme start="20210920200000 +0700" stop="20210920214500 +0700" channel="sctv15">
-    <title lang="vi">Cầu lông BWF</title>
-  </programme>
-  <programme start="20210920214500 +0700" stop="20210920220000 +0700" channel="sctv15">
-    <title lang="vi">Bản tin thể thao</title>
-  </programme>
-  <programme start="20210920220000 +0700" stop="20210920223000 +0700" channel="sctv15">
-    <title lang="vi">Tạp chí cầu lông</title>
-  </programme>
-  <programme start="20210920223000 +0700" stop="20210920233000 +0700" channel="sctv15">
+  <programme start="20210921220000 +0700" stop="20210921223000 +0700" channel="sctv15">
     <title lang="vi">LaLiga World</title>
   </programme>
-  <programme start="20210919004700 +0700" stop="20210919023400 +0700" channel="sctv16">
-    <title lang="vi">HAEUNDAE 2009 - SÓNG THẦN Ở HẢI VÂN ĐÀI</title>
-  </programme>
-  <programme start="20210919023400 +0700" stop="20210919041600 +0700" channel="sctv16">
-    <title lang="vi">ALEX CROSS - THÁM TỬ LỪNG DANH</title>
-  </programme>
-  <programme start="20210919041600 +0700" stop="20210919060300 +0700" channel="sctv16">
-    <title lang="vi">THE LAST STAND - CHỐT CHẶN CUỐI CÙNG</title>
-  </programme>
-  <programme start="20210919060300 +0700" stop="20210919075100 +0700" channel="sctv16">
-    <title lang="vi">HAEUNDAE 2009 - SÓNG THẦN Ở HẢI VÂN ĐÀI</title>
-  </programme>
-  <programme start="20210919075100 +0700" stop="20210919093200 +0700" channel="sctv16">
-    <title lang="vi">ALEX CROSS - THÁM TỬ LỪNG DANH</title>
-  </programme>
-  <programme start="20210919093200 +0700" stop="20210919111900 +0700" channel="sctv16">
-    <title lang="vi">THE LAST STAND - CHỐT CHẶN CUỐI CÙNG</title>
-  </programme>
-  <programme start="20210919111900 +0700" stop="20210919130800 +0700" channel="sctv16">
-    <title lang="vi">HAEUNDAE 2009 - SÓNG THẦN Ở HẢI VÂN ĐÀI</title>
-  </programme>
-  <programme start="20210919130800 +0700" stop="20210919144900 +0700" channel="sctv16">
-    <title lang="vi">ALEX CROSS - THÁM TỬ LỪNG DANH</title>
-  </programme>
-  <programme start="20210919144900 +0700" stop="20210919163700 +0700" channel="sctv16">
-    <title lang="vi">THE LAST STAND - CHỐT CHẶN CUỐI CÙNG</title>
-  </programme>
-  <programme start="20210919163700 +0700" stop="20210919182500 +0700" channel="sctv16">
-    <title lang="vi">HAEUNDAE 2009 - SÓNG THẦN Ở HẢI VÂN ĐÀI</title>
-  </programme>
-  <programme start="20210919182500 +0700" stop="20210919200800 +0700" channel="sctv16">
-    <title lang="vi">ALEX CROSS - THÁM TỬ LỪNG DANH</title>
-  </programme>
-  <programme start="20210919200800 +0700" stop="20210919215700 +0700" channel="sctv16">
-    <title lang="vi">THE LAST STAND - CHỐT CHẶN CUỐI CÙNG</title>
-  </programme>
-  <programme start="20210919215700 +0700" stop="20210919230000 +0700" channel="sctv16">
-    <title lang="vi">HAEUNDAE 2009 - SÓNG THẦN Ở HẢI VÂN ĐÀI</title>
-  </programme>
-  <programme start="20210919230000 +0700" stop="20210920015400 +0700" channel="sctv16">
-    <title lang="vi">THE LAST STAND - CHỐT CHẶN CUỐI CÙNG</title>
-  </programme>
-  <programme start="20210920015400 +0700" stop="20210920033200 +0700" channel="sctv16">
-    <title lang="vi">THE HURRICANE HEIST - VỤ CƯỚP TRONG TÂM BÃO</title>
-  </programme>
-  <programme start="20210920033200 +0700" stop="20210920050500 +0700" channel="sctv16">
-    <title lang="vi">SKIN TRADE - MẠNG ĐỔI MẠNG</title>
-  </programme>
-  <programme start="20210920050500 +0700" stop="20210920071600 +0700" channel="sctv16">
-    <title lang="vi">THE LEGEND OF THE DEMON CAT - YÊU MIÊU TRUYỆN</title>
-  </programme>
-  <programme start="20210920071600 +0700" stop="20210920085400 +0700" channel="sctv16">
-    <title lang="vi">THE HURRICANE HEIST - VỤ CƯỚP TRONG TÂM BÃO</title>
-  </programme>
-  <programme start="20210920085400 +0700" stop="20210920102700 +0700" channel="sctv16">
-    <title lang="vi">SKIN TRADE - MẠNG ĐỔI MẠNG</title>
-  </programme>
-  <programme start="20210920102700 +0700" stop="20210920123700 +0700" channel="sctv16">
-    <title lang="vi">THE LEGEND OF THE DEMON CAT - YÊU MIÊU TRUYỆN</title>
-  </programme>
-  <programme start="20210920123700 +0700" stop="20210920141600 +0700" channel="sctv16">
-    <title lang="vi">THE HURRICANE HEIST - VỤ CƯỚP TRONG TÂM BÃO</title>
-  </programme>
-  <programme start="20210920141600 +0700" stop="20210920155000 +0700" channel="sctv16">
-    <title lang="vi">SKIN TRADE - MẠNG ĐỔI MẠNG</title>
-  </programme>
-  <programme start="20210920155000 +0700" stop="20210920180000 +0700" channel="sctv16">
-    <title lang="vi">THE LEGEND OF THE DEMON CAT - YÊU MIÊU TRUYỆN</title>
-  </programme>
-  <programme start="20210920180000 +0700" stop="20210920194000 +0700" channel="sctv16">
-    <title lang="vi">THE HURRICANE HEIST - VỤ CƯỚP TRONG TÂM BÃO</title>
-  </programme>
-  <programme start="20210920194000 +0700" stop="20210920211500 +0700" channel="sctv16">
-    <title lang="vi">SKIN TRADE - MẠNG ĐỔI MẠNG</title>
-  </programme>
-  <programme start="20210920211500 +0700" stop="20210920232500 +0700" channel="sctv16">
-    <title lang="vi">THE LEGEND OF THE DEMON CAT - YÊU MIÊU TRUYỆN</title>
-  </programme>
-  <programme start="20210920232500 +0700" stop="20210920234400 +0700" channel="sctv16">
-    <title lang="vi">ESCOBAR - 35 - KẺ SỐNG SÓT - TẬP 35</title>
-  </programme>
-  <programme start="20210919000000 +0700" stop="20210919013000 +0700" channel="sctv17">
-    <title lang="vi">THTT Liga 2021/22 R5 Elche - Levante</title>
-  </programme>
-  <programme start="20210919013000 +0700" stop="20210919020000 +0700" channel="sctv17">
-    <title lang="vi">Tạp chí thể thao</title>
-  </programme>
-  <programme start="20210919020000 +0700" stop="20210919040000 +0700" channel="sctv17">
-    <title lang="vi">THTT Liga 2021/22 R5 Alaves - Osasuna</title>
-  </programme>
-  <programme start="20210919040000 +0700" stop="20210919060000 +0700" channel="sctv17">
-    <title lang="vi">Bóng Đá</title>
-  </programme>
-  <programme start="20210919060000 +0700" stop="20210919080000 +0700" channel="sctv17">
-    <title lang="vi">Liga 2021/22 R5 Atletico Madrid - Athletic Bilbao</title>
-  </programme>
-  <programme start="20210919080000 +0700" stop="20210919100000 +0700" channel="sctv17">
-    <title lang="vi">WWE RAW 1476</title>
-  </programme>
-  <programme start="20210919100000 +0700" stop="20210919114500 +0700" channel="sctv17">
-    <title lang="vi">Liga 2021/22 R5 Elche - Levante</title>
-  </programme>
-  <programme start="20210919114500 +0700" stop="20210919120000 +0700" channel="sctv17">
-    <title lang="vi">Điểm Tin Trưa</title>
-  </programme>
-  <programme start="20210919120000 +0700" stop="20210919133000 +0700" channel="sctv17">
-    <title lang="vi">WWE Smackdown 1151</title>
-  </programme>
-  <programme start="20210919133000 +0700" stop="20210919140000 +0700" channel="sctv17">
-    <title lang="vi">Tạp chí thể thao</title>
-  </programme>
-  <programme start="20210919140000 +0700" stop="20210919154500 +0700" channel="sctv17">
-    <title lang="vi">Liga 2021/22 R5 Alaves - Osasuna</title>
-  </programme>
-  <programme start="20210919154500 +0700" stop="20210919160000 +0700" channel="sctv17">
-    <title lang="vi">Điểm Tin Trưa</title>
-  </programme>
-  <programme start="20210919160000 +0700" stop="20210919164500 +0700" channel="sctv17">
+  <programme start="20210921223000 +0700" stop="20210921233000 +0700" channel="sctv15">
     <title lang="vi">Võ thuật</title>
   </programme>
-  <programme start="20210919164500 +0700" stop="20210919184500 +0700" channel="sctv17">
-    <title lang="vi">Liga 2021/22 R5 Atletico Madrid - Athletic Bilbao</title>
+  <programme start="20210921233000 +0700" stop="20210922000000 +0700" channel="sctv15">
+    <title lang="vi">Tạp chí cầu lông</title>
   </programme>
-  <programme start="20210919184500 +0700" stop="20210919190000 +0700" channel="sctv17">
-    <title lang="vi">Bản tin thể thao SSPORT</title>
+  <programme start="20210922000000 +0700" stop="20210922020000 +0700" channel="sctv15">
+    <title lang="vi">Bóng đá</title>
   </programme>
-  <programme start="20210919190000 +0700" stop="20210919211500 +0700" channel="sctv17">
-    <title lang="vi">THTT Liga 2021/22 R5 Mallorca - Villarreal</title>
-  </programme>
-  <programme start="20210919211500 +0700" stop="20210919233000 +0700" channel="sctv17">
-    <title lang="vi">THTT Liga 2021/22 R5 Real Sociedad - Sevilla</title>
-  </programme>
-  <programme start="20210919233000 +0700" stop="20210920000000 +0700" channel="sctv17">
-    <title lang="vi">THTT Liga 2021/22 R5 Real Betis - Espanyol</title>
-  </programme>
-  <programme start="20210920000000 +0700" stop="20210920013000 +0700" channel="sctv17">
-    <title lang="vi">THTT Liga 2021/22 R5 Real Betis - Espanyol</title>
-  </programme>
-  <programme start="20210920013000 +0700" stop="20210920020000 +0700" channel="sctv17">
-    <title lang="vi">Tạp chí thể thao</title>
-  </programme>
-  <programme start="20210920020000 +0700" stop="20210920040000 +0700" channel="sctv17">
-    <title lang="vi">THTT Liga 2021/22 R5 Valencia - Real Madrid</title>
-  </programme>
-  <programme start="20210920040000 +0700" stop="20210920060000 +0700" channel="sctv17">
-    <title lang="vi">Bóng Đá</title>
-  </programme>
-  <programme start="20210920060000 +0700" stop="20210920080000 +0700" channel="sctv17">
-    <title lang="vi">Liga 2021/22 R5 Valencia - Real Madrid</title>
-  </programme>
-  <programme start="20210920080000 +0700" stop="20210920093000 +0700" channel="sctv17">
-    <title lang="vi">WWE Smackdown 1151</title>
-  </programme>
-  <programme start="20210920093000 +0700" stop="20210920100000 +0700" channel="sctv17">
-    <title lang="vi">Tạp chí thể thao</title>
-  </programme>
-  <programme start="20210920100000 +0700" stop="20210920114500 +0700" channel="sctv17">
-    <title lang="vi">Liga 2021/22 R5 Real Betis - Espanyol</title>
-  </programme>
-  <programme start="20210920114500 +0700" stop="20210920120000 +0700" channel="sctv17">
-    <title lang="vi">Điểm Tin Trưa</title>
-  </programme>
-  <programme start="20210920120000 +0700" stop="20210920140000 +0700" channel="sctv17">
-    <title lang="vi">WWE RAW 1476</title>
-  </programme>
-  <programme start="20210920140000 +0700" stop="20210920154500 +0700" channel="sctv17">
-    <title lang="vi">Liga 2021/22 R5 Real Sociedad - Sevilla</title>
-  </programme>
-  <programme start="20210920154500 +0700" stop="20210920160000 +0700" channel="sctv17">
-    <title lang="vi">Điểm Tin Trưa</title>
-  </programme>
-  <programme start="20210920160000 +0700" stop="20210920164500 +0700" channel="sctv17">
-    <title lang="vi">Tạp chí thể thao</title>
-  </programme>
-  <programme start="20210920164500 +0700" stop="20210920184500 +0700" channel="sctv17">
-    <title lang="vi">Liga 2021/22 R5 Real Betis - Espanyol</title>
-  </programme>
-  <programme start="20210920184500 +0700" stop="20210920190000 +0700" channel="sctv17">
-    <title lang="vi">Bản tin thể thao SSPORT</title>
-  </programme>
-  <programme start="20210920190000 +0700" stop="20210920204500 +0700" channel="sctv17">
-    <title lang="vi">Liga 2021/22 R5 Valencia - Real Madrid</title>
-  </programme>
-  <programme start="20210920204500 +0700" stop="20210920210000 +0700" channel="sctv17">
-    <title lang="vi">Bản tin thể thao SSPORT</title>
-  </programme>
-  <programme start="20210920210000 +0700" stop="20210920223000 +0700" channel="sctv17">
-    <title lang="vi">WWE Smackdown 1151</title>
-  </programme>
-  <programme start="20210920223000 +0700" stop="20210920230000 +0700" channel="sctv17">
-    <title lang="vi">Tạp chí thể thao</title>
-  </programme>
-  <programme start="20210920230000 +0700" stop="20210920234500 +0700" channel="sctv17">
-    <title lang="vi">Cầu lông BWF</title>
-  </programme>
-  <programme start="20210919000000 +0700" stop="20210919003000 +0700" channel="sctv18">
-    <title lang="vi">Mỹ nhân vào bếp - Tập 97, 98</title>
-  </programme>
-  <programme start="20210919003000 +0700" stop="20210919010000 +0700" channel="sctv18">
-    <title lang="vi">Sách và cuộc sống - Tập 177Điều chúng mình chưa biết - Tập 71</title>
-  </programme>
-  <programme start="20210919010000 +0700" stop="20210919013000 +0700" channel="sctv18">
-    <title lang="vi">Huyền diệu xứ Thanh - Tập 5Sống ở Việt Nam - Tập 136</title>
-  </programme>
-  <programme start="20210919013000 +0700" stop="20210919020000 +0700" channel="sctv18">
-    <title lang="vi">Sách và cuộc sống - Tập 177Điều chúng mình chưa biết - Tập 71</title>
-  </programme>
-  <programme start="20210919020000 +0700" stop="20210919023000 +0700" channel="sctv18">
-    <title lang="vi">Mỹ nhân vào bếp - Tập 97, 98</title>
-  </programme>
-  <programme start="20210919023000 +0700" stop="20210919030000 +0700" channel="sctv18">
-    <title lang="vi">Sách và cuộc sống - Tập 177Điều chúng mình chưa biết - Tập 71</title>
-  </programme>
-  <programme start="20210919030000 +0700" stop="20210919033000 +0700" channel="sctv18">
-    <title lang="vi">Huyền diệu xứ Thanh - Tập 5Sống ở Việt Nam - Tập 136</title>
-  </programme>
-  <programme start="20210919033000 +0700" stop="20210919040000 +0700" channel="sctv18">
-    <title lang="vi">Sách và cuộc sống - Tập 177Điều chúng mình chưa biết - Tập 71</title>
-  </programme>
-  <programme start="20210919040000 +0700" stop="20210919043000 +0700" channel="sctv18">
-    <title lang="vi">Mỹ nhân vào bếp - Tập 97, 98</title>
-  </programme>
-  <programme start="20210919043000 +0700" stop="20210919050000 +0700" channel="sctv18">
-    <title lang="vi">Sách và cuộc sống - Tập 177Điều chúng mình chưa biết - Tập 71</title>
-  </programme>
-  <programme start="20210919050000 +0700" stop="20210919053000 +0700" channel="sctv18">
-    <title lang="vi">Huyền diệu xứ Thanh - Tập 5Sống ở Việt Nam - Tập 136</title>
-  </programme>
-  <programme start="20210919053000 +0700" stop="20210919060200 +0700" channel="sctv18">
-    <title lang="vi">Sách và cuộc sống - Tập 177Điều chúng mình chưa biết - Tập 71</title>
-  </programme>
-  <programme start="20210919060200 +0700" stop="20210919063000 +0700" channel="sctv18">
-    <title lang="vi">Mỹ nhân vào bếp - Tập 97, 98</title>
-  </programme>
-  <programme start="20210919063000 +0700" stop="20210919073000 +0700" channel="sctv18">
-    <title lang="vi">Yoga sự trải nghiệm - Tập 154</title>
-  </programme>
-  <programme start="20210919073000 +0700" stop="20210919080000 +0700" channel="sctv18">
-    <title lang="vi">Sách và cuộc sống - Tập 177Điều chúng mình chưa biết - Tập 71</title>
-  </programme>
-  <programme start="20210919080000 +0700" stop="20210919090000 +0700" channel="sctv18">
-    <title lang="vi">Họa mi trong mưa - Tập 70</title>
-  </programme>
-  <programme start="20210919090000 +0700" stop="20210919093000 +0700" channel="sctv18">
-    <title lang="vi">Sách và cuộc sống - Tập 177Điều chúng mình chưa biết - Tập 71</title>
-  </programme>
-  <programme start="20210919093000 +0700" stop="20210919100000 +0700" channel="sctv18">
-    <title lang="vi">Huyền diệu xứ Thanh - Tập 5Sống ở Việt Nam - Tập 136</title>
-  </programme>
-  <programme start="20210919100000 +0700" stop="20210919110000 +0700" channel="sctv18">
-    <title lang="vi">Mỹ vị kỳ duyên - Tập 7</title>
-  </programme>
-  <programme start="20210919110000 +0700" stop="20210919120000 +0700" channel="sctv18">
-    <title lang="vi">Mười anh em - Tập 15</title>
-  </programme>
-  <programme start="20210919120000 +0700" stop="20210919123000 +0700" channel="sctv18">
-    <title lang="vi">Huyền diệu xứ Thanh - Tập 5Sống ở Việt Nam - Tập 136</title>
-  </programme>
-  <programme start="20210919123000 +0700" stop="20210919130000 +0700" channel="sctv18">
-    <title lang="vi">Sách và cuộc sống - Tập 177Điều chúng mình chưa biết - Tập 71</title>
-  </programme>
-  <programme start="20210919130000 +0700" stop="20210919133000 +0700" channel="sctv18">
-    <title lang="vi">Màu thời gian - Tập 7</title>
-  </programme>
-  <programme start="20210919133000 +0700" stop="20210919140000 +0700" channel="sctv18">
-    <title lang="vi">Huyền diệu xứ Thanh - Tập 5Sống ở Việt Nam - Tập 136</title>
-  </programme>
-  <programme start="20210919140000 +0700" stop="20210919150000 +0700" channel="sctv18">
-    <title lang="vi">Họa mi trong mưa - Tập 70</title>
-  </programme>
-  <programme start="20210919150000 +0700" stop="20210919153000 +0700" channel="sctv18">
-    <title lang="vi">Mỹ nhân vào bếp - Tập 97, 98</title>
-  </programme>
-  <programme start="20210919153000 +0700" stop="20210919160000 +0700" channel="sctv18">
-    <title lang="vi">Sách và cuộc sống - Tập 177Điều chúng mình chưa biết - Tập 71</title>
-  </programme>
-  <programme start="20210919160000 +0700" stop="20210919163000 +0700" channel="sctv18">
-    <title lang="vi">Huyền diệu xứ Thanh - Tập 5Sống ở Việt Nam - Tập 136</title>
-  </programme>
-  <programme start="20210919163000 +0700" stop="20210919173000 +0700" channel="sctv18">
-    <title lang="vi">Yoga sự trải nghiệm - Tập 155</title>
-  </programme>
-  <programme start="20210919173000 +0700" stop="20210919180000 +0700" channel="sctv18">
-    <title lang="vi">Màu thời gian - Tập 8</title>
-  </programme>
-  <programme start="20210919180000 +0700" stop="20210919190000 +0700" channel="sctv18">
-    <title lang="vi">Mười anh em - Tập 16</title>
-  </programme>
-  <programme start="20210919190000 +0700" stop="20210919193000 +0700" channel="sctv18">
-    <title lang="vi">Mỹ nhân vào bếp - Tập 99, 100</title>
-  </programme>
-  <programme start="20210919193000 +0700" stop="20210919200000 +0700" channel="sctv18">
-    <title lang="vi">Sách và cuộc sống - Tập 178Điều chúng mình chưa biết - Tập 72</title>
-  </programme>
-  <programme start="20210919200000 +0700" stop="20210919205000 +0700" channel="sctv18">
-    <title lang="vi">Họa mi trong mưa - Tập 71</title>
-  </programme>
-  <programme start="20210919205000 +0700" stop="20210919210000 +0700" channel="sctv18">
-    <title lang="vi">Đệm Nhạc Việt</title>
-  </programme>
-  <programme start="20210919210000 +0700" stop="20210919213000 +0700" channel="sctv18">
-    <title lang="vi">Huyền diệu xứ Thanh - Tập 6Sống ở Việt Nam - Tập 137</title>
-  </programme>
-  <programme start="20210919213000 +0700" stop="20210919220000 +0700" channel="sctv18">
-    <title lang="vi">Màu thời gian - Tập 8</title>
-  </programme>
-  <programme start="20210919220000 +0700" stop="20210919230000 +0700" channel="sctv18">
-    <title lang="vi">Mười anh em - Tập 16</title>
-  </programme>
-  <programme start="20210919230000 +0700" stop="20210919233000 +0700" channel="sctv18">
-    <title lang="vi">Mỹ nhân vào bếp - Tập 99, 100</title>
-  </programme>
-  <programme start="20210919233000 +0700" stop="20210920000000 +0700" channel="sctv18">
-    <title lang="vi">Sách và cuộc sống - Tập 178Điều chúng mình chưa biết - Tập 72</title>
-  </programme>
-  <programme start="20210920000000 +0700" stop="20210920003000 +0700" channel="sctv18">
-    <title lang="vi">Mỹ nhân vào bếp - Tập 99, 100</title>
-  </programme>
-  <programme start="20210920003000 +0700" stop="20210920010000 +0700" channel="sctv18">
-    <title lang="vi">Sách và cuộc sống - Tập 178Điều chúng mình chưa biết - Tập 72</title>
-  </programme>
-  <programme start="20210920010000 +0700" stop="20210920013000 +0700" channel="sctv18">
-    <title lang="vi">Huyền diệu xứ Thanh - Tập 6Sống ở Việt Nam - Tập 137</title>
-  </programme>
-  <programme start="20210920013000 +0700" stop="20210920020000 +0700" channel="sctv18">
-    <title lang="vi">Sách và cuộc sống - Tập 178Điều chúng mình chưa biết - Tập 72</title>
-  </programme>
-  <programme start="20210920020000 +0700" stop="20210920023000 +0700" channel="sctv18">
-    <title lang="vi">Mỹ nhân vào bếp - Tập 99, 100</title>
-  </programme>
-  <programme start="20210920023000 +0700" stop="20210920030000 +0700" channel="sctv18">
-    <title lang="vi">Sách và cuộc sống - Tập 178Điều chúng mình chưa biết - Tập 72</title>
-  </programme>
-  <programme start="20210920030000 +0700" stop="20210920033000 +0700" channel="sctv18">
-    <title lang="vi">Huyền diệu xứ Thanh - Tập 6Sống ở Việt Nam - Tập 137</title>
-  </programme>
-  <programme start="20210920033000 +0700" stop="20210920040000 +0700" channel="sctv18">
-    <title lang="vi">Sách và cuộc sống - Tập 178Điều chúng mình chưa biết - Tập 72</title>
-  </programme>
-  <programme start="20210920040000 +0700" stop="20210920043000 +0700" channel="sctv18">
-    <title lang="vi">Mỹ nhân vào bếp - Tập 99, 100</title>
-  </programme>
-  <programme start="20210920043000 +0700" stop="20210920050000 +0700" channel="sctv18">
-    <title lang="vi">Sách và cuộc sống - Tập 178Điều chúng mình chưa biết - Tập 72</title>
-  </programme>
-  <programme start="20210920050000 +0700" stop="20210920053000 +0700" channel="sctv18">
-    <title lang="vi">Huyền diệu xứ Thanh - Tập 6Sống ở Việt Nam - Tập 137</title>
-  </programme>
-  <programme start="20210920053000 +0700" stop="20210920060200 +0700" channel="sctv18">
-    <title lang="vi">Sách và cuộc sống - Tập 178Điều chúng mình chưa biết - Tập 72</title>
-  </programme>
-  <programme start="20210920060200 +0700" stop="20210920063000 +0700" channel="sctv18">
-    <title lang="vi">Mỹ nhân vào bếp - Tập 99, 100</title>
-  </programme>
-  <programme start="20210920063000 +0700" stop="20210920073000 +0700" channel="sctv18">
-    <title lang="vi">Yoga sự trải nghiệm - Tập 155</title>
-  </programme>
-  <programme start="20210920073000 +0700" stop="20210920080000 +0700" channel="sctv18">
-    <title lang="vi">Sách và cuộc sống - Tập 178Điều chúng mình chưa biết - Tập 72</title>
-  </programme>
-  <programme start="20210920080000 +0700" stop="20210920090000 +0700" channel="sctv18">
-    <title lang="vi">Họa mi trong mưa - Tập 71</title>
-  </programme>
-  <programme start="20210920090000 +0700" stop="20210920093000 +0700" channel="sctv18">
-    <title lang="vi">Sách và cuộc sống - Tập 178Điều chúng mình chưa biết - Tập 72</title>
-  </programme>
-  <programme start="20210920093000 +0700" stop="20210920100000 +0700" channel="sctv18">
-    <title lang="vi">Huyền diệu xứ Thanh - Tập 6Sống ở Việt Nam - Tập 137</title>
-  </programme>
-  <programme start="20210920100000 +0700" stop="20210920110000 +0700" channel="sctv18">
-    <title lang="vi">Mỹ vị kỳ duyên - Tập 8</title>
-  </programme>
-  <programme start="20210920110000 +0700" stop="20210920120000 +0700" channel="sctv18">
-    <title lang="vi">Mười anh em - Tập 16</title>
-  </programme>
-  <programme start="20210920120000 +0700" stop="20210920123000 +0700" channel="sctv18">
-    <title lang="vi">Huyền diệu xứ Thanh - Tập 6Sống ở Việt Nam - Tập 137</title>
-  </programme>
-  <programme start="20210920123000 +0700" stop="20210920130000 +0700" channel="sctv18">
-    <title lang="vi">Sách và cuộc sống - Tập 178Điều chúng mình chưa biết - Tập 72</title>
-  </programme>
-  <programme start="20210920130000 +0700" stop="20210920133000 +0700" channel="sctv18">
-    <title lang="vi">Màu thời gian - Tập 8</title>
-  </programme>
-  <programme start="20210920133000 +0700" stop="20210920140000 +0700" channel="sctv18">
-    <title lang="vi">Huyền diệu xứ Thanh - Tập 6Sống ở Việt Nam - Tập 137</title>
-  </programme>
-  <programme start="20210920140000 +0700" stop="20210920150000 +0700" channel="sctv18">
-    <title lang="vi">Họa mi trong mưa - Tập 71</title>
-  </programme>
-  <programme start="20210920150000 +0700" stop="20210920153000 +0700" channel="sctv18">
-    <title lang="vi">Mỹ nhân vào bếp - Tập 99, 100</title>
-  </programme>
-  <programme start="20210920153000 +0700" stop="20210920160000 +0700" channel="sctv18">
-    <title lang="vi">Sách và cuộc sống - Tập 178Điều chúng mình chưa biết - Tập 72</title>
-  </programme>
-  <programme start="20210920160000 +0700" stop="20210920163000 +0700" channel="sctv18">
-    <title lang="vi">Huyền diệu xứ Thanh - Tập 6Sống ở Việt Nam - Tập 137</title>
-  </programme>
-  <programme start="20210920163000 +0700" stop="20210920173000 +0700" channel="sctv18">
-    <title lang="vi">Yoga sự trải nghiệm - Tập 156</title>
-  </programme>
-  <programme start="20210920173000 +0700" stop="20210920180000 +0700" channel="sctv18">
-    <title lang="vi">Màu thời gian - Tập 9</title>
-  </programme>
-  <programme start="20210920180000 +0700" stop="20210920190000 +0700" channel="sctv18">
-    <title lang="vi">Mười anh em - Tập 17</title>
-  </programme>
-  <programme start="20210920190000 +0700" stop="20210920193000 +0700" channel="sctv18">
-    <title lang="vi">Mỹ nhân vào bếp - Tập 101, 102</title>
-  </programme>
-  <programme start="20210920193000 +0700" stop="20210920200000 +0700" channel="sctv18">
-    <title lang="vi">Sách và cuộc sống - Tập 179Điều chúng mình chưa biết - Tập 73</title>
-  </programme>
-  <programme start="20210920200000 +0700" stop="20210920205000 +0700" channel="sctv18">
-    <title lang="vi">Họa mi trong mưa - Tập 72</title>
-  </programme>
-  <programme start="20210920205000 +0700" stop="20210920210000 +0700" channel="sctv18">
-    <title lang="vi">Đệm Nhạc Việt</title>
-  </programme>
-  <programme start="20210920210000 +0700" stop="20210920213000 +0700" channel="sctv18">
-    <title lang="vi">Huyền diệu xứ Thanh - Tập 7Sống ở Việt Nam - Tập 138</title>
-  </programme>
-  <programme start="20210920213000 +0700" stop="20210920220000 +0700" channel="sctv18">
-    <title lang="vi">Màu thời gian - Tập 9</title>
-  </programme>
-  <programme start="20210920220000 +0700" stop="20210920230000 +0700" channel="sctv18">
-    <title lang="vi">Mười anh em - Tập 17</title>
-  </programme>
-  <programme start="20210920230000 +0700" stop="20210920233000 +0700" channel="sctv18">
-    <title lang="vi">Mỹ nhân vào bếp - Tập 101, 102</title>
-  </programme>
-  <programme start="20210919000000 +0700" stop="20210919005000 +0700" channel="sctv2">
-    <title lang="vi">Phim truyện : Trường săn - Tập 21</title>
-  </programme>
-  <programme start="20210919005000 +0700" stop="20210919014500 +0700" channel="sctv2">
-    <title lang="vi">Phim truyện : Con gái của mẹ - Tập 77</title>
-  </programme>
-  <programme start="20210919014500 +0700" stop="20210919021500 +0700" channel="sctv2">
-    <title lang="vi">Du lịch kỳ thú : Những thám tử vui nhộn - Số 3</title>
-  </programme>
-  <programme start="20210919021500 +0700" stop="20210919023500 +0700" channel="sctv2">
-    <title lang="vi">Tinh hoa võ thuật : 0</title>
-  </programme>
-  <programme start="20210919023500 +0700" stop="20210919032500 +0700" channel="sctv2">
-    <title lang="vi">Phim truyện : Hoa Tư Dẫn - Tuyệt Ái Chi Thành - Tập 35</title>
-  </programme>
-  <programme start="20210919032500 +0700" stop="20210919042000 +0700" channel="sctv2">
-    <title lang="vi">Ca nhạc : Tự tình Bolero - Số 1</title>
-  </programme>
-  <programme start="20210919042000 +0700" stop="20210919051000 +0700" channel="sctv2">
-    <title lang="vi">Phim truyện : Trường săn - Tập 21</title>
-  </programme>
-  <programme start="20210919051000 +0700" stop="20210919060000 +0700" channel="sctv2">
-    <title lang="vi">Phim truyện : Cẩm Y Chi Hạ - Tập 21</title>
-  </programme>
-  <programme start="20210919060000 +0700" stop="20210919063000 +0700" channel="sctv2">
-    <title lang="vi">Tinh hoa võ thuật : 0</title>
-  </programme>
-  <programme start="20210919063000 +0700" stop="20210919070000 +0700" channel="sctv2">
-    <title lang="vi">Talkshow : Bạn muốn hẹn hò - Số 59</title>
-  </programme>
-  <programme start="20210919070000 +0700" stop="20210919074500 +0700" channel="sctv2">
-    <title lang="vi">Phim truyện : Hoa Tư Dẫn - Tuyệt Ái Chi Thành - Tập 35</title>
-  </programme>
-  <programme start="20210919074500 +0700" stop="20210919083000 +0700" channel="sctv2">
-    <title lang="vi">Phim truyện : Con gái của mẹ - Tập 77</title>
-  </programme>
-  <programme start="20210919083000 +0700" stop="20210919091000 +0700" channel="sctv2">
-    <title lang="vi">Hiểu và Thương : Niềm tin tìm lại</title>
-  </programme>
-  <programme start="20210919091000 +0700" stop="20210919093000 +0700" channel="sctv2">
-    <title lang="vi">Cine Box - Số 3 : 0</title>
-  </programme>
-  <programme start="20210919093000 +0700" stop="20210919101500 +0700" channel="sctv2">
-    <title lang="vi">Phim truyện : Trường săn - Tập 22</title>
-  </programme>
-  <programme start="20210919101500 +0700" stop="20210919104500 +0700" channel="sctv2">
-    <title lang="vi">Gameshow : 24h thử yêu - Số 3</title>
-  </programme>
-  <programme start="20210919104500 +0700" stop="20210919110000 +0700" channel="sctv2">
-    <title lang="vi">Đặc sản miền sông nước : Vịt tiềm Nam Bộ</title>
-  </programme>
-  <programme start="20210919110000 +0700" stop="20210919120000 +0700" channel="sctv2">
-    <title lang="vi">Phim truyện : Cẩm Y Chi Hạ - Tập 22</title>
-  </programme>
-  <programme start="20210919120000 +0700" stop="20210919130000 +0700" channel="sctv2">
-    <title lang="vi">Phim truyện : Con gái của mẹ - Tập 78</title>
-  </programme>
-  <programme start="20210919130000 +0700" stop="20210919135000 +0700" channel="sctv2">
-    <title lang="vi">Phim truyện : Hoa Tư Dẫn - Tuyệt Ái Chi Thành - Tập 36</title>
-  </programme>
-  <programme start="20210919135000 +0700" stop="20210919142000 +0700" channel="sctv2">
-    <title lang="vi">Huyền bí Phương Đông : Điệu hò tâm thức biển</title>
-  </programme>
-  <programme start="20210919142000 +0700" stop="20210919150500 +0700" channel="sctv2">
-    <title lang="vi">Phim truyện : Trường săn - Tập 22</title>
-  </programme>
-  <programme start="20210919150500 +0700" stop="20210919152000 +0700" channel="sctv2">
-    <title lang="vi">Ẩm thực : Căn bếp vui vẻ - Số 9</title>
-  </programme>
-  <programme start="20210919152000 +0700" stop="20210919154000 +0700" channel="sctv2">
-    <title lang="vi">Mõ làng : Nghĩa tình làng xóm</title>
-  </programme>
-  <programme start="20210919154000 +0700" stop="20210919160000 +0700" channel="sctv2">
-    <title lang="vi">Net Choice - Số 12 : 0</title>
-  </programme>
-  <programme start="20210919160000 +0700" stop="20210919164500 +0700" channel="sctv2">
-    <title lang="vi">Phim truyện : Cẩm Y Chi Hạ - Tập 22</title>
-  </programme>
-  <programme start="20210919164500 +0700" stop="20210919170000 +0700" channel="sctv2">
-    <title lang="vi">Đặc sản miền sông nước : Tung lò mò</title>
-  </programme>
-  <programme start="20210919170000 +0700" stop="20210919173000 +0700" channel="sctv2">
-    <title lang="vi">Người kết nối : Những tấm lòng nhân ái - Số 3</title>
-  </programme>
-  <programme start="20210919173000 +0700" stop="20210919180000 +0700" channel="sctv2">
-    <title lang="vi">Talkshow : Bạn muốn hẹn hò - Số 60</title>
-  </programme>
-  <programme start="20210919180000 +0700" stop="20210919190000 +0700" channel="sctv2">
-    <title lang="vi">Phim truyện : Trường săn - Tập 23</title>
-  </programme>
-  <programme start="20210919190000 +0700" stop="20210919200000 +0700" channel="sctv2">
-    <title lang="vi">Phim truyện : Con gái của mẹ - Tập 78</title>
-  </programme>
-  <programme start="20210919200000 +0700" stop="20210919210000 +0700" channel="sctv2">
-    <title lang="vi">Phim truyện : Cẩm Y Chi Hạ - Tập 23</title>
-  </programme>
-  <programme start="20210919210000 +0700" stop="20210919220000 +0700" channel="sctv2">
-    <title lang="vi">Gameshow : Tỏ tình hoàn mỹ - Số 3</title>
-  </programme>
-  <programme start="20210919000000 +0700" stop="20210919000200 +0700" channel="sctv21">
-    <title lang="vi">Hình hiệu kênh</title>
-  </programme>
-  <programme start="20210919000200 +0700" stop="20210919004000 +0700" channel="sctv21">
-    <title lang="vi">Muôn màu cuộc sống - Tập 10</title>
-  </programme>
-  <programme start="20210919004000 +0700" stop="20210919012000 +0700" channel="sctv21">
-    <title lang="vi">Di sản văn hoá - Tập 26;Sách và cuộc sống - Tập 283</title>
-  </programme>
-  <programme start="20210919012000 +0700" stop="20210919020000 +0700" channel="sctv21">
-    <title lang="vi">BND_Việt Nam thời đại Hồ Chí Minh: Tập 10</title>
-  </programme>
-  <programme start="20210919020000 +0700" stop="20210919030000 +0700" channel="sctv21">
-    <title lang="vi">Khoảng cách còn lại - Phần 2Kỷ niệm đồi trăng - Phần 1</title>
-  </programme>
-  <programme start="20210919030000 +0700" stop="20210919034000 +0700" channel="sctv21">
-    <title lang="vi">Muôn màu cuộc sống - Tập 10</title>
-  </programme>
-  <programme start="20210919034000 +0700" stop="20210919042000 +0700" channel="sctv21">
-    <title lang="vi">Di sản văn hoá - Tập 26;Sách và cuộc sống - Tập 283</title>
-  </programme>
-  <programme start="20210919042000 +0700" stop="20210919050000 +0700" channel="sctv21">
-    <title lang="vi">BND_Việt Nam thời đại Hồ Chí Minh: Tập 10</title>
-  </programme>
-  <programme start="20210919050000 +0700" stop="20210919060000 +0700" channel="sctv21">
-    <title lang="vi">Khoảng cách còn lại - Phần 2Kỷ niệm đồi trăng - Phần 1</title>
-  </programme>
-  <programme start="20210919060000 +0700" stop="20210919060200 +0700" channel="sctv21">
-    <title lang="vi">Hình hiệu kênh</title>
-  </programme>
-  <programme start="20210919060200 +0700" stop="20210919070000 +0700" channel="sctv21">
-    <title lang="vi">Yoga sự trải nghiệm (30P) - Tập 2;Muôn màu cuộc sống - Tập 10</title>
-  </programme>
-  <programme start="20210919070000 +0700" stop="20210919072000 +0700" channel="sctv21">
-    <title lang="vi">Khai tâm truyện - Tập 53</title>
-  </programme>
-  <programme start="20210919072000 +0700" stop="20210919080000 +0700" channel="sctv21">
-    <title lang="vi">Di sản văn hoá - Tập 26;Sách và cuộc sống - Tập 283</title>
-  </programme>
-  <programme start="20210919080000 +0700" stop="20210919084000 +0700" channel="sctv21">
-    <title lang="vi">BND_Việt Nam thời đại Hồ Chí Minh: Tập 10</title>
-  </programme>
-  <programme start="20210919084000 +0700" stop="20210919094000 +0700" channel="sctv21">
-    <title lang="vi">Khoảng cách còn lại - Phần 2Kỷ niệm đồi trăng - Phần 1</title>
-  </programme>
-  <programme start="20210919094000 +0700" stop="20210919102000 +0700" channel="sctv21">
-    <title lang="vi">Muôn màu cuộc sống - Tập 10</title>
-  </programme>
-  <programme start="20210919102000 +0700" stop="20210919110000 +0700" channel="sctv21">
-    <title lang="vi">Di sản văn hoá - Tập 26;Sách và cuộc sống - Tập 283</title>
-  </programme>
-  <programme start="20210919110000 +0700" stop="20210919114000 +0700" channel="sctv21">
-    <title lang="vi">Người Tràng An - Người Hà Nội Tập 58</title>
-  </programme>
-  <programme start="20210919114000 +0700" stop="20210919120000 +0700" channel="sctv21">
-    <title lang="vi">Khai tâm truyện - Tập 54</title>
-  </programme>
-  <programme start="20210919120000 +0700" stop="20210919120200 +0700" channel="sctv21">
-    <title lang="vi">Hình hiệu kênh</title>
-  </programme>
-  <programme start="20210919120200 +0700" stop="20210919130000 +0700" channel="sctv21">
-    <title lang="vi">Vụ án viên đạn lạc - Phần 2</title>
-  </programme>
-  <programme start="20210919130000 +0700" stop="20210919134000 +0700" channel="sctv21">
-    <title lang="vi">Muôn màu cuộc sống - Tập 10</title>
-  </programme>
-  <programme start="20210919134000 +0700" stop="20210919142000 +0700" channel="sctv21">
-    <title lang="vi">Di sản văn hoá - Tập 26;Sách và cuộc sống - Tập 283</title>
-  </programme>
-  <programme start="20210919142000 +0700" stop="20210919150000 +0700" channel="sctv21">
-    <title lang="vi">BND_Việt Nam thời đại Hồ Chí Minh: Tập 10</title>
-  </programme>
-  <programme start="20210919150000 +0700" stop="20210919160000 +0700" channel="sctv21">
-    <title lang="vi">Khoảng cách còn lại - Phần 2Kỷ niệm đồi trăng - Phần 1</title>
-  </programme>
-  <programme start="20210919160000 +0700" stop="20210919164000 +0700" channel="sctv21">
-    <title lang="vi">Muôn màu cuộc sống - Tập 10</title>
-  </programme>
-  <programme start="20210919164000 +0700" stop="20210919172000 +0700" channel="sctv21">
-    <title lang="vi">Di sản văn hoá - Tập 26;Sách và cuộc sống - Tập 283</title>
-  </programme>
-  <programme start="20210919172000 +0700" stop="20210919180000 +0700" channel="sctv21">
-    <title lang="vi">BND_Việt Nam thời đại Hồ Chí Minh: Tập 10</title>
-  </programme>
-  <programme start="20210919180000 +0700" stop="20210919180200 +0700" channel="sctv21">
-    <title lang="vi">Hình hiệu kênh</title>
-  </programme>
-  <programme start="20210919180200 +0700" stop="20210919184000 +0700" channel="sctv21">
-    <title lang="vi">Nghệ thuật Việt - Tập 99</title>
-  </programme>
-  <programme start="20210919184000 +0700" stop="20210919192000 +0700" channel="sctv21">
-    <title lang="vi">Di sản văn hoá - Tập 27;Góc cuộc sống - Tập 5</title>
-  </programme>
-  <programme start="20210919192000 +0700" stop="20210919200000 +0700" channel="sctv21">
-    <title lang="vi">BND_Việt Nam thời đại Hồ Chí Minh: Tập 11</title>
-  </programme>
-  <programme start="20210919200000 +0700" stop="20210919210000 +0700" channel="sctv21">
-    <title lang="vi">Kỷ niệm đồi trăng - Phần 2</title>
-  </programme>
-  <programme start="20210919210000 +0700" stop="20210919214000 +0700" channel="sctv21">
-    <title lang="vi">Khỏe để an viên - Tập 72</title>
-  </programme>
-  <programme start="20210919214000 +0700" stop="20210919222000 +0700" channel="sctv21">
-    <title lang="vi">Nghệ thuật Việt - Tập 99</title>
-  </programme>
-  <programme start="20210919222000 +0700" stop="20210919230000 +0700" channel="sctv21">
-    <title lang="vi">Di sản văn hoá - Tập 27;Sách và cuộc sống - Tập 284</title>
-  </programme>
-  <programme start="20210919230000 +0700" stop="20210919234000 +0700" channel="sctv21">
-    <title lang="vi">Người Tràng An - Người Hà Nội Tập 58</title>
-  </programme>
-  <programme start="20210919234000 +0700" stop="20210920000000 +0700" channel="sctv21">
-    <title lang="vi">Khai tâm truyện - Tập 54</title>
-  </programme>
-  <programme start="20210920000000 +0700" stop="20210920000200 +0700" channel="sctv21">
-    <title lang="vi">Hình hiệu kênh</title>
-  </programme>
-  <programme start="20210920000200 +0700" stop="20210920004000 +0700" channel="sctv21">
-    <title lang="vi">Nghệ thuật Việt - Tập 99</title>
-  </programme>
-  <programme start="20210920004000 +0700" stop="20210920012000 +0700" channel="sctv21">
-    <title lang="vi">Di sản văn hoá - Tập 27;Sách và cuộc sống - Tập 284</title>
-  </programme>
-  <programme start="20210920012000 +0700" stop="20210920020000 +0700" channel="sctv21">
-    <title lang="vi">BND_Việt Nam thời đại Hồ Chí Minh: Tập 11</title>
-  </programme>
-  <programme start="20210920020000 +0700" stop="20210920030000 +0700" channel="sctv21">
-    <title lang="vi">Kỷ niệm đồi trăng - Phần 2</title>
-  </programme>
-  <programme start="20210920030000 +0700" stop="20210920034000 +0700" channel="sctv21">
-    <title lang="vi">Nghệ thuật Việt - Tập 99</title>
-  </programme>
-  <programme start="20210920034000 +0700" stop="20210920042000 +0700" channel="sctv21">
-    <title lang="vi">Di sản văn hoá - Tập 27;Sách và cuộc sống - Tập 284</title>
-  </programme>
-  <programme start="20210920042000 +0700" stop="20210920050000 +0700" channel="sctv21">
-    <title lang="vi">BND_Việt Nam thời đại Hồ Chí Minh: Tập 11</title>
-  </programme>
-  <programme start="20210920050000 +0700" stop="20210920060000 +0700" channel="sctv21">
-    <title lang="vi">Kỷ niệm đồi trăng - Phần 2</title>
-  </programme>
-  <programme start="20210920060000 +0700" stop="20210920060200 +0700" channel="sctv21">
-    <title lang="vi">Hình hiệu kênh</title>
-  </programme>
-  <programme start="20210920060200 +0700" stop="20210920070000 +0700" channel="sctv21">
-    <title lang="vi">Yoga sự trải nghiệm (30P) - Tập 3; Nghệ thuật Việt - Tập 99</title>
-  </programme>
-  <programme start="20210920070000 +0700" stop="20210920072000 +0700" channel="sctv21">
-    <title lang="vi">Khai tâm truyện - Tập 54</title>
-  </programme>
-  <programme start="20210920072000 +0700" stop="20210920080000 +0700" channel="sctv21">
-    <title lang="vi">Di sản văn hoá - Tập 27;Sách và cuộc sống - Tập 284</title>
-  </programme>
-  <programme start="20210920080000 +0700" stop="20210920084000 +0700" channel="sctv21">
-    <title lang="vi">BND_Việt Nam thời đại Hồ Chí Minh: Tập 11</title>
-  </programme>
-  <programme start="20210920084000 +0700" stop="20210920094000 +0700" channel="sctv21">
-    <title lang="vi">Kỷ niệm đồi trăng - Phần 2</title>
-  </programme>
-  <programme start="20210920094000 +0700" stop="20210920102000 +0700" channel="sctv21">
-    <title lang="vi">Nghệ thuật Việt - Tập 99</title>
-  </programme>
-  <programme start="20210920102000 +0700" stop="20210920110000 +0700" channel="sctv21">
-    <title lang="vi">Di sản văn hoá - Tập 27;Sách và cuộc sống - Tập 284</title>
-  </programme>
-  <programme start="20210920110000 +0700" stop="20210920114000 +0700" channel="sctv21">
-    <title lang="vi">Hà Nội của chúng ta - Tập 54</title>
-  </programme>
-  <programme start="20210920114000 +0700" stop="20210920120000 +0700" channel="sctv21">
-    <title lang="vi">Khai tâm truyện - Tập 55</title>
-  </programme>
-  <programme start="20210920120000 +0700" stop="20210920120200 +0700" channel="sctv21">
-    <title lang="vi">Hình hiệu kênh</title>
-  </programme>
-  <programme start="20210920120200 +0700" stop="20210920130000 +0700" channel="sctv21">
-    <title lang="vi">Bãi biển đời người - Phần 1</title>
-  </programme>
-  <programme start="20210920130000 +0700" stop="20210920134000 +0700" channel="sctv21">
-    <title lang="vi">Nghệ thuật Việt - Tập 99</title>
-  </programme>
-  <programme start="20210920134000 +0700" stop="20210920142000 +0700" channel="sctv21">
-    <title lang="vi">Di sản văn hoá - Tập 27;Sách và cuộc sống - Tập 284</title>
-  </programme>
-  <programme start="20210920142000 +0700" stop="20210920150000 +0700" channel="sctv21">
-    <title lang="vi">BND_Việt Nam thời đại Hồ Chí Minh: Tập 11</title>
-  </programme>
-  <programme start="20210920150000 +0700" stop="20210920160000 +0700" channel="sctv21">
-    <title lang="vi">Kỷ niệm đồi trăng - Phần 2</title>
-  </programme>
-  <programme start="20210920160000 +0700" stop="20210920164000 +0700" channel="sctv21">
-    <title lang="vi">Nghệ thuật Việt - Tập 99</title>
-  </programme>
-  <programme start="20210920164000 +0700" stop="20210920172000 +0700" channel="sctv21">
-    <title lang="vi">Di sản văn hoá - Tập 27;Sách và cuộc sống - Tập 284</title>
-  </programme>
-  <programme start="20210920172000 +0700" stop="20210920180000 +0700" channel="sctv21">
-    <title lang="vi">BND_Việt Nam thời đại Hồ Chí Minh: Tập 11</title>
-  </programme>
-  <programme start="20210920180000 +0700" stop="20210920180200 +0700" channel="sctv21">
-    <title lang="vi">Hình hiệu kênh</title>
-  </programme>
-  <programme start="20210920180200 +0700" stop="20210920184000 +0700" channel="sctv21">
-    <title lang="vi">Văn hoá ẩm thực Việt - Tập 34</title>
-  </programme>
-  <programme start="20210920184000 +0700" stop="20210920192000 +0700" channel="sctv21">
-    <title lang="vi">Di sản văn hoá - Tập 28;Góc cuộc sống - Tập 6</title>
-  </programme>
-  <programme start="20210920192000 +0700" stop="20210920200000 +0700" channel="sctv21">
-    <title lang="vi">BND_Việt Nam thời đại Hồ Chí Minh: Tập 12</title>
-  </programme>
-  <programme start="20210920200000 +0700" stop="20210920210000 +0700" channel="sctv21">
-    <title lang="vi">Con chim vành khuyên</title>
-  </programme>
-  <programme start="20210920210000 +0700" stop="20210920214000 +0700" channel="sctv21">
-    <title lang="vi">Thiền trong cuộc sống - Tập 38</title>
-  </programme>
-  <programme start="20210920214000 +0700" stop="20210920222000 +0700" channel="sctv21">
-    <title lang="vi">Văn hoá ẩm thực Việt - Tập 34</title>
-  </programme>
-  <programme start="20210920222000 +0700" stop="20210920230000 +0700" channel="sctv21">
-    <title lang="vi">Di sản văn hoá - Tập 28;Sách và cuộc sống - Tập 285</title>
-  </programme>
-  <programme start="20210920230000 +0700" stop="20210920234000 +0700" channel="sctv21">
-    <title lang="vi">Hà Nội của chúng ta - Tập 54</title>
-  </programme>
-  <programme start="20210920234000 +0700" stop="20210920235500 +0700" channel="sctv21">
-    <title lang="vi">Khai tâm truyện - Tập 55</title>
-  </programme>
-  <programme start="20210919000000 +0700" stop="20210919020000 +0700" channel="sctv22">
-    <title lang="vi">LALiga Mallorca - Espanyol R3</title>
-  </programme>
-  <programme start="20210919020000 +0700" stop="20210919030000 +0700" channel="sctv22">
-    <title lang="vi">Võ thuật</title>
-  </programme>
-  <programme start="20210919030000 +0700" stop="20210919050000 +0700" channel="sctv22">
-    <title lang="vi">Cầu lông</title>
-  </programme>
-  <programme start="20210919050000 +0700" stop="20210919070000 +0700" channel="sctv22">
-    <title lang="vi">LALiga Valencia - Alaves R3</title>
-  </programme>
-  <programme start="20210919070000 +0700" stop="20210919090000 +0700" channel="sctv22">
-    <title lang="vi">LaLiga Celta Vigo - Athletic Bilbao R3</title>
-  </programme>
-  <programme start="20210919090000 +0700" stop="20210919110000 +0700" channel="sctv22">
-    <title lang="vi">Cầu lông</title>
-  </programme>
-  <programme start="20210919110000 +0700" stop="20210919130000 +0700" channel="sctv22">
-    <title lang="vi">LaLiga Elche - Sevilla R3</title>
-  </programme>
-  <programme start="20210919130000 +0700" stop="20210919131000 +0700" channel="sctv22">
-    <title lang="vi">Điểm tin trưa</title>
-  </programme>
-  <programme start="20210919131000 +0700" stop="20210919140000 +0700" channel="sctv22">
+  <programme start="20210922020000 +0700" stop="20210922030000 +0700" channel="sctv15">
     <title lang="vi">LaLiga Highlights</title>
   </programme>
-  <programme start="20210919140000 +0700" stop="20210919160000 +0700" channel="sctv22">
-    <title lang="vi">LaLiga Real Sociedad - Levante R3</title>
+  <programme start="20210922030000 +0700" stop="20210922050000 +0700" channel="sctv15">
+    <title lang="vi">TTHTT LaLiga 2021/22 R6 Levante - Celta Vigo</title>
   </programme>
-  <programme start="20210919160000 +0700" stop="20210919180000 +0700" channel="sctv22">
-    <title lang="vi">Cầu lông</title>
-  </programme>
-  <programme start="20210919180000 +0700" stop="20210919200000 +0700" channel="sctv22">
-    <title lang="vi">LaLiga Real Betis - Real Madrid R3</title>
-  </programme>
-  <programme start="20210919200000 +0700" stop="20210919201500 +0700" channel="sctv22">
-    <title lang="vi">Bản tin SSPORT</title>
-  </programme>
-  <programme start="20210919201500 +0700" stop="20210919203000 +0700" channel="sctv22">
-    <title lang="vi">Tạp chí thể thao</title>
-  </programme>
-  <programme start="20210919203000 +0700" stop="20210919223000 +0700" channel="sctv22">
-    <title lang="vi">LaLiga Barcelona - Getafe R3</title>
-  </programme>
-  <programme start="20210919223000 +0700" stop="20210920000000 +0700" channel="sctv22">
-    <title lang="vi">LaLiga Cadiz - Osasuna R3</title>
-  </programme>
-  <programme start="20210920000000 +0700" stop="20210920020000 +0700" channel="sctv22">
-    <title lang="vi">LaLiga Rayo Vallecano - Granada R3</title>
-  </programme>
-  <programme start="20210920020000 +0700" stop="20210920030000 +0700" channel="sctv22">
-    <title lang="vi">Hola Liga</title>
-  </programme>
-  <programme start="20210920030000 +0700" stop="20210920050000 +0700" channel="sctv22">
-    <title lang="vi">Cầu lông</title>
-  </programme>
-  <programme start="20210920050000 +0700" stop="20210920070000 +0700" channel="sctv22">
-    <title lang="vi">LaLiga Atletico Madrid - Villarreal R3</title>
-  </programme>
-  <programme start="20210920070000 +0700" stop="20210920090000 +0700" channel="sctv22">
-    <title lang="vi">LALiga Mallorca - Espanyol R3</title>
-  </programme>
-  <programme start="20210920090000 +0700" stop="20210920110000 +0700" channel="sctv22">
-    <title lang="vi">Cầu lông</title>
-  </programme>
-  <programme start="20210920110000 +0700" stop="20210920130000 +0700" channel="sctv22">
-    <title lang="vi">LALiga Valencia - Alaves R3</title>
-  </programme>
-  <programme start="20210920130000 +0700" stop="20210920131000 +0700" channel="sctv22">
-    <title lang="vi">Điểm tin trưa</title>
-  </programme>
-  <programme start="20210920131000 +0700" stop="20210920140000 +0700" channel="sctv22">
+  <programme start="20210922050000 +0700" stop="20210922060000 +0700" channel="sctv15">
     <title lang="vi">Võ thuật</title>
   </programme>
-  <programme start="20210920140000 +0700" stop="20210920160000 +0700" channel="sctv22">
-    <title lang="vi">LaLiga Celta Vigo - Athletic Bilbao R3</title>
+  <programme start="20210922060000 +0700" stop="20210922080000 +0700" channel="sctv15">
+    <title lang="vi">Liga 2021/22 R6 Athletic Bilbao - Rayo Vallecano</title>
   </programme>
-  <programme start="20210920160000 +0700" stop="20210920180000 +0700" channel="sctv22">
-    <title lang="vi">Cầu lông</title>
+  <programme start="20210922080000 +0700" stop="20210922100000 +0700" channel="sctv15">
+    <title lang="vi">LaLiga 2021/22 R6 Levante - Celta Vigo</title>
   </programme>
-  <programme start="20210920180000 +0700" stop="20210920200000 +0700" channel="sctv22">
-    <title lang="vi">LaLiga Elche - Sevilla R3</title>
+  <programme start="20210922100000 +0700" stop="20210922120000 +0700" channel="sctv15">
+    <title lang="vi">LaLiga Classics 2014/15 R14 Barcelona - Espanyol</title>
   </programme>
-  <programme start="20210920200000 +0700" stop="20210920201500 +0700" channel="sctv22">
-    <title lang="vi">Bản tin SSPORT</title>
+  <programme start="20210922120000 +0700" stop="20210922140000 +0700" channel="sctv15">
+    <title lang="vi">Liga 2021/22 R6 Getafe - Atletico Madrid</title>
   </programme>
-  <programme start="20210920201500 +0700" stop="20210920203000 +0700" channel="sctv22">
+  <programme start="20210922140000 +0700" stop="20210922141000 +0700" channel="sctv15">
+    <title lang="vi">Điểm tin trưa</title>
+  </programme>
+  <programme start="20210922141000 +0700" stop="20210922160000 +0700" channel="sctv15">
+    <title lang="vi">Liga 2021/22 R6 Athletic Bilbao - Rayo Vallecano</title>
+  </programme>
+  <programme start="20210922160000 +0700" stop="20210922180000 +0700" channel="sctv15">
+    <title lang="vi">LaLiga 2021/22 R6 Levante - Celta Vigo</title>
+  </programme>
+  <programme start="20210922180000 +0700" stop="20210922194500 +0700" channel="sctv15">
+    <title lang="vi">LaLiga Classics 2014/15 R14 Barcelona - Espanyol</title>
+  </programme>
+  <programme start="20210922194500 +0700" stop="20210922200000 +0700" channel="sctv15">
+    <title lang="vi">Bản tin thể thao</title>
+  </programme>
+  <programme start="20210922200000 +0700" stop="20210922214500 +0700" channel="sctv15">
+    <title lang="vi">Cầu lông BWF</title>
+  </programme>
+  <programme start="20210922214500 +0700" stop="20210922220000 +0700" channel="sctv15">
+    <title lang="vi">Bản tin thể thao</title>
+  </programme>
+  <programme start="20210922220000 +0700" stop="20210922230000 +0700" channel="sctv15">
+    <title lang="vi">LaLiga Highlights</title>
+  </programme>
+  <programme start="20210921000800 +0700" stop="20210921020800 +0700" channel="sctv16">
+    <title lang="vi">MONKEY KING - TÂY DU KÝ ĐẠI NÁO THIÊN CUNG</title>
+  </programme>
+  <programme start="20210921020800 +0700" stop="20210921040500 +0700" channel="sctv16">
+    <title lang="vi">THE FOUR 2 - TỨ ĐẠI DANH BỘ 2</title>
+  </programme>
+  <programme start="20210921040500 +0700" stop="20210921060100 +0700" channel="sctv16">
+    <title lang="vi">OUT OF THE FURNACE - ĐI TÌM CÔNG LÝ</title>
+  </programme>
+  <programme start="20210921060100 +0700" stop="20210921080200 +0700" channel="sctv16">
+    <title lang="vi">MONKEY KING - TÂY DU KÝ ĐẠI NÁO THIÊN CUNG</title>
+  </programme>
+  <programme start="20210921080200 +0700" stop="20210921095900 +0700" channel="sctv16">
+    <title lang="vi">THE FOUR 2 - TỨ ĐẠI DANH BỘ 2</title>
+  </programme>
+  <programme start="20210921095900 +0700" stop="20210921115500 +0700" channel="sctv16">
+    <title lang="vi">OUT OF THE FURNACE - ĐI TÌM CÔNG LÝ</title>
+  </programme>
+  <programme start="20210921115500 +0700" stop="20210921135600 +0700" channel="sctv16">
+    <title lang="vi">MONKEY KING - TÂY DU KÝ ĐẠI NÁO THIÊN CUNG</title>
+  </programme>
+  <programme start="20210921135600 +0700" stop="20210921155400 +0700" channel="sctv16">
+    <title lang="vi">THE FOUR 2 - TỨ ĐẠI DANH BỘ 2</title>
+  </programme>
+  <programme start="20210921155400 +0700" stop="20210921175100 +0700" channel="sctv16">
+    <title lang="vi">OUT OF THE FURNACE - ĐI TÌM CÔNG LÝ</title>
+  </programme>
+  <programme start="20210921175100 +0700" stop="20210921195200 +0700" channel="sctv16">
+    <title lang="vi">MONKEY KING - TÂY DU KÝ ĐẠI NÁO THIÊN CUNG</title>
+  </programme>
+  <programme start="20210921195200 +0700" stop="20210921215100 +0700" channel="sctv16">
+    <title lang="vi">THE FOUR 2 - TỨ ĐẠI DANH BỘ 2</title>
+  </programme>
+  <programme start="20210921215100 +0700" stop="20210921234800 +0700" channel="sctv16">
+    <title lang="vi">OUT OF THE FURNACE - ĐI TÌM CÔNG LÝ</title>
+  </programme>
+  <programme start="20210921234800 +0700" stop="20210922003100 +0700" channel="sctv16">
+    <title lang="vi">ESCOBAR - 36 - KẺ SỐNG SÓT - TẬP 36</title>
+  </programme>
+  <programme start="20210922003100 +0700" stop="20210922020700 +0700" channel="sctv16">
+    <title lang="vi">SLEEPLESS - ĐỘT KÍCH MÀN ĐÊM</title>
+  </programme>
+  <programme start="20210922020700 +0700" stop="20210922035400 +0700" channel="sctv16">
+    <title lang="vi">NOVEMBER MAN - SÁT THỦ THÁNG 11</title>
+  </programme>
+  <programme start="20210922035400 +0700" stop="20210922054200 +0700" channel="sctv16">
+    <title lang="vi">THE LAST STAND - CHỐT CHẶN CUỐI CÙNG</title>
+  </programme>
+  <programme start="20210922054200 +0700" stop="20210922071800 +0700" channel="sctv16">
+    <title lang="vi">SLEEPLESS - ĐỘT KÍCH MÀN ĐÊM</title>
+  </programme>
+  <programme start="20210922071800 +0700" stop="20210922090600 +0700" channel="sctv16">
+    <title lang="vi">NOVEMBER MAN - SÁT THỦ THÁNG 11</title>
+  </programme>
+  <programme start="20210922090600 +0700" stop="20210922105300 +0700" channel="sctv16">
+    <title lang="vi">THE LAST STAND - CHỐT CHẶN CUỐI CÙNG</title>
+  </programme>
+  <programme start="20210922105300 +0700" stop="20210922122800 +0700" channel="sctv16">
+    <title lang="vi">SLEEPLESS - ĐỘT KÍCH MÀN ĐÊM</title>
+  </programme>
+  <programme start="20210922122800 +0700" stop="20210922141800 +0700" channel="sctv16">
+    <title lang="vi">NOVEMBER MAN - SÁT THỦ THÁNG 11</title>
+  </programme>
+  <programme start="20210922141800 +0700" stop="20210922160500 +0700" channel="sctv16">
+    <title lang="vi">THE LAST STAND - CHỐT CHẶN CUỐI CÙNG</title>
+  </programme>
+  <programme start="20210922160500 +0700" stop="20210922174200 +0700" channel="sctv16">
+    <title lang="vi">SLEEPLESS - ĐỘT KÍCH MÀN ĐÊM</title>
+  </programme>
+  <programme start="20210922174200 +0700" stop="20210922193100 +0700" channel="sctv16">
+    <title lang="vi">NOVEMBER MAN - SÁT THỦ THÁNG 11</title>
+  </programme>
+  <programme start="20210922193100 +0700" stop="20210922212000 +0700" channel="sctv16">
+    <title lang="vi">THE LAST STAND - CHỐT CHẶN CUỐI CÙNG</title>
+  </programme>
+  <programme start="20210922212000 +0700" stop="20210922225600 +0700" channel="sctv16">
+    <title lang="vi">SLEEPLESS - ĐỘT KÍCH MÀN ĐÊM</title>
+  </programme>
+  <programme start="20210921000000 +0700" stop="20210921020000 +0700" channel="sctv17">
+    <title lang="vi">Bóng Đá</title>
+  </programme>
+  <programme start="20210921020000 +0700" stop="20210921040000 +0700" channel="sctv17">
+    <title lang="vi">THTT Liga 2021/22 R5 Barcelona - Granada</title>
+  </programme>
+  <programme start="20210921040000 +0700" stop="20210921060000 +0700" channel="sctv17">
+    <title lang="vi">Bóng Đá</title>
+  </programme>
+  <programme start="20210921060000 +0700" stop="20210921080000 +0700" channel="sctv17">
+    <title lang="vi">Liga 2021/22 R5 Barcelona - Granada</title>
+  </programme>
+  <programme start="20210921080000 +0700" stop="20210921100000 +0700" channel="sctv17">
+    <title lang="vi">WWE RAW 1476</title>
+  </programme>
+  <programme start="20210921100000 +0700" stop="20210921114500 +0700" channel="sctv17">
+    <title lang="vi">Liga 2021/22 R5 Mallorca - Villarreal</title>
+  </programme>
+  <programme start="20210921114500 +0700" stop="20210921120000 +0700" channel="sctv17">
+    <title lang="vi">Điểm Tin Trưa</title>
+  </programme>
+  <programme start="20210921120000 +0700" stop="20210921130000 +0700" channel="sctv17">
+    <title lang="vi">WWE BOTTOMLINE 1008</title>
+  </programme>
+  <programme start="20210921130000 +0700" stop="20210921140000 +0700" channel="sctv17">
+    <title lang="vi">Cầu lông BWF</title>
+  </programme>
+  <programme start="20210921140000 +0700" stop="20210921154500 +0700" channel="sctv17">
+    <title lang="vi">Liga 2021/22 R5 Valencia - Real Madrid</title>
+  </programme>
+  <programme start="20210921154500 +0700" stop="20210921160000 +0700" channel="sctv17">
+    <title lang="vi">Điểm Tin Trưa</title>
+  </programme>
+  <programme start="20210921160000 +0700" stop="20210921164500 +0700" channel="sctv17">
+    <title lang="vi">WWE BOTTOMLINE 1008</title>
+  </programme>
+  <programme start="20210921164500 +0700" stop="20210921184500 +0700" channel="sctv17">
+    <title lang="vi">Liga 2021/22 R5 Barcelona - Granada</title>
+  </programme>
+  <programme start="20210921184500 +0700" stop="20210921190000 +0700" channel="sctv17">
+    <title lang="vi">Bản tin thể thao SSPORT</title>
+  </programme>
+  <programme start="20210921190000 +0700" stop="20210921200000 +0700" channel="sctv17">
+    <title lang="vi">LaLiga Highlights</title>
+  </programme>
+  <programme start="20210921200000 +0700" stop="20210921204500 +0700" channel="sctv17">
+    <title lang="vi">Cầu lông BWF</title>
+  </programme>
+  <programme start="20210921204500 +0700" stop="20210921210000 +0700" channel="sctv17">
+    <title lang="vi">Bản tin thể thao SSPORT</title>
+  </programme>
+  <programme start="20210921210000 +0700" stop="20210921220000 +0700" channel="sctv17">
+    <title lang="vi">WWE BOTTOMLINE 1008</title>
+  </programme>
+  <programme start="20210921220000 +0700" stop="20210921234500 +0700" channel="sctv17">
+    <title lang="vi">Liga 2021/22 R5 Barcelona - Granada</title>
+  </programme>
+  <programme start="20210921234500 +0700" stop="20210922000000 +0700" channel="sctv17">
+    <title lang="vi">Bản tin thể thao SSPORT</title>
+  </programme>
+  <programme start="20210922000000 +0700" stop="20210922003000 +0700" channel="sctv17">
     <title lang="vi">Tạp chí thể thao</title>
   </programme>
-  <programme start="20210920203000 +0700" stop="20210920220000 +0700" channel="sctv22">
-    <title lang="vi">LaLiga Real Sociedad - Levante R3</title>
+  <programme start="20210922003000 +0700" stop="20210922023000 +0700" channel="sctv17">
+    <title lang="vi">THTT Liga 2021/22 R6 Getafe - Atletico Madrid</title>
+  </programme>
+  <programme start="20210922023000 +0700" stop="20210922030000 +0700" channel="sctv17">
+    <title lang="vi">Tạp chí thể thao</title>
+  </programme>
+  <programme start="20210922030000 +0700" stop="20210922044500 +0700" channel="sctv17">
+    <title lang="vi">THTT Liga 2021/22 R6 Athletic Bilbao - Rayo Vallecano</title>
+  </programme>
+  <programme start="20210922044500 +0700" stop="20210922060000 +0700" channel="sctv17">
+    <title lang="vi">Võ thuật</title>
+  </programme>
+  <programme start="20210922060000 +0700" stop="20210922080000 +0700" channel="sctv17">
+    <title lang="vi">Liga 2021/22 R6 Getafe - Atletico Madrid</title>
+  </programme>
+  <programme start="20210922080000 +0700" stop="20210922090000 +0700" channel="sctv17">
+    <title lang="vi">WWE BOTTOMLINE 1008</title>
+  </programme>
+  <programme start="20210922090000 +0700" stop="20210922111500 +0700" channel="sctv17">
+    <title lang="vi">Liga 2021/22 R6 Athletic Bilbao - Rayo Vallecano</title>
+  </programme>
+  <programme start="20210922111500 +0700" stop="20210922114500 +0700" channel="sctv17">
+    <title lang="vi">Tạp chí thể thao</title>
+  </programme>
+  <programme start="20210922114500 +0700" stop="20210922120000 +0700" channel="sctv17">
+    <title lang="vi">Điểm Tin Trưa</title>
+  </programme>
+  <programme start="20210922120000 +0700" stop="20210922130000 +0700" channel="sctv17">
+    <title lang="vi">WWE AFTERBURN 1009</title>
+  </programme>
+  <programme start="20210922130000 +0700" stop="20210922140000 +0700" channel="sctv17">
+    <title lang="vi">LaLiga Highlights</title>
+  </programme>
+  <programme start="20210922140000 +0700" stop="20210922154500 +0700" channel="sctv17">
+    <title lang="vi">Liga 2021/22 R6 Levante - Celta Vigo</title>
+  </programme>
+  <programme start="20210922154500 +0700" stop="20210922160000 +0700" channel="sctv17">
+    <title lang="vi">Điểm Tin Trưa</title>
+  </programme>
+  <programme start="20210922160000 +0700" stop="20210922164500 +0700" channel="sctv17">
+    <title lang="vi">WWE AFTERBURN 1009</title>
+  </programme>
+  <programme start="20210922164500 +0700" stop="20210922184500 +0700" channel="sctv17">
+    <title lang="vi">Liga 2021/22 R6 Athletic Bilbao - Rayo Vallecano</title>
+  </programme>
+  <programme start="20210922184500 +0700" stop="20210922190000 +0700" channel="sctv17">
+    <title lang="vi">Bản tin thể thao SSPORT</title>
+  </programme>
+  <programme start="20210922190000 +0700" stop="20210922200000 +0700" channel="sctv17">
+    <title lang="vi">Võ thuật</title>
+  </programme>
+  <programme start="20210922200000 +0700" stop="20210922204500 +0700" channel="sctv17">
+    <title lang="vi">Tạp chí thể thao</title>
+  </programme>
+  <programme start="20210922204500 +0700" stop="20210922210000 +0700" channel="sctv17">
+    <title lang="vi">Bản tin thể thao SSPORT</title>
+  </programme>
+  <programme start="20210922210000 +0700" stop="20210922220000 +0700" channel="sctv17">
+    <title lang="vi">WWE AFTERBURN 1009</title>
+  </programme>
+  <programme start="20210922220000 +0700" stop="20210922234500 +0700" channel="sctv17">
+    <title lang="vi">Liga 2021/22 R6 Getafe - Atletico Madrid</title>
+  </programme>
+  <programme start="20210921000000 +0700" stop="20210921003000 +0700" channel="sctv18">
+    <title lang="vi">Mỹ nhân vào bếp - Tập 101, 102</title>
+  </programme>
+  <programme start="20210921003000 +0700" stop="20210921010000 +0700" channel="sctv18">
+    <title lang="vi">Sách và cuộc sống - Tập 179Điều chúng mình chưa biết - Tập 73</title>
+  </programme>
+  <programme start="20210921010000 +0700" stop="20210921013000 +0700" channel="sctv18">
+    <title lang="vi">Huyền diệu xứ Thanh - Tập 7Sống ở Việt Nam - Tập 138</title>
+  </programme>
+  <programme start="20210921013000 +0700" stop="20210921020000 +0700" channel="sctv18">
+    <title lang="vi">Sách và cuộc sống - Tập 179Điều chúng mình chưa biết - Tập 73</title>
+  </programme>
+  <programme start="20210921020000 +0700" stop="20210921023000 +0700" channel="sctv18">
+    <title lang="vi">Mỹ nhân vào bếp - Tập 101, 102</title>
+  </programme>
+  <programme start="20210921023000 +0700" stop="20210921030000 +0700" channel="sctv18">
+    <title lang="vi">Sách và cuộc sống - Tập 179Điều chúng mình chưa biết - Tập 73</title>
+  </programme>
+  <programme start="20210921030000 +0700" stop="20210921033000 +0700" channel="sctv18">
+    <title lang="vi">Huyền diệu xứ Thanh - Tập 7Sống ở Việt Nam - Tập 138</title>
+  </programme>
+  <programme start="20210921033000 +0700" stop="20210921040000 +0700" channel="sctv18">
+    <title lang="vi">Sách và cuộc sống - Tập 179Điều chúng mình chưa biết - Tập 73</title>
+  </programme>
+  <programme start="20210921040000 +0700" stop="20210921043000 +0700" channel="sctv18">
+    <title lang="vi">Mỹ nhân vào bếp - Tập 101, 102</title>
+  </programme>
+  <programme start="20210921043000 +0700" stop="20210921050000 +0700" channel="sctv18">
+    <title lang="vi">Sách và cuộc sống - Tập 179Điều chúng mình chưa biết - Tập 73</title>
+  </programme>
+  <programme start="20210921050000 +0700" stop="20210921053000 +0700" channel="sctv18">
+    <title lang="vi">Huyền diệu xứ Thanh - Tập 7Sống ở Việt Nam - Tập 138</title>
+  </programme>
+  <programme start="20210921053000 +0700" stop="20210921060200 +0700" channel="sctv18">
+    <title lang="vi">Sách và cuộc sống - Tập 179Điều chúng mình chưa biết - Tập 73</title>
+  </programme>
+  <programme start="20210921060200 +0700" stop="20210921063000 +0700" channel="sctv18">
+    <title lang="vi">Mỹ nhân vào bếp - Tập 101, 102</title>
+  </programme>
+  <programme start="20210921063000 +0700" stop="20210921073000 +0700" channel="sctv18">
+    <title lang="vi">Yoga sự trải nghiệm - Tập 156</title>
+  </programme>
+  <programme start="20210921073000 +0700" stop="20210921080000 +0700" channel="sctv18">
+    <title lang="vi">Sách và cuộc sống - Tập 179Điều chúng mình chưa biết - Tập 73</title>
+  </programme>
+  <programme start="20210921080000 +0700" stop="20210921090000 +0700" channel="sctv18">
+    <title lang="vi">Họa mi trong mưa - Tập 72</title>
+  </programme>
+  <programme start="20210921090000 +0700" stop="20210921093000 +0700" channel="sctv18">
+    <title lang="vi">Sách và cuộc sống - Tập 179Điều chúng mình chưa biết - Tập 73</title>
+  </programme>
+  <programme start="20210921093000 +0700" stop="20210921100000 +0700" channel="sctv18">
+    <title lang="vi">Huyền diệu xứ Thanh - Tập 7Sống ở Việt Nam - Tập 138</title>
+  </programme>
+  <programme start="20210921100000 +0700" stop="20210921110000 +0700" channel="sctv18">
+    <title lang="vi">Mỹ vị kỳ duyên - Tập 9</title>
+  </programme>
+  <programme start="20210921110000 +0700" stop="20210921120000 +0700" channel="sctv18">
+    <title lang="vi">Mười anh em - Tập 17</title>
+  </programme>
+  <programme start="20210921120000 +0700" stop="20210921123000 +0700" channel="sctv18">
+    <title lang="vi">Huyền diệu xứ Thanh - Tập 7Sống ở Việt Nam - Tập 138</title>
+  </programme>
+  <programme start="20210921123000 +0700" stop="20210921130000 +0700" channel="sctv18">
+    <title lang="vi">Sách và cuộc sống - Tập 179Điều chúng mình chưa biết - Tập 73</title>
+  </programme>
+  <programme start="20210921130000 +0700" stop="20210921133000 +0700" channel="sctv18">
+    <title lang="vi">Màu thời gian - Tập 9</title>
+  </programme>
+  <programme start="20210921133000 +0700" stop="20210921140000 +0700" channel="sctv18">
+    <title lang="vi">Huyền diệu xứ Thanh - Tập 7Sống ở Việt Nam - Tập 138</title>
+  </programme>
+  <programme start="20210921140000 +0700" stop="20210921150000 +0700" channel="sctv18">
+    <title lang="vi">Họa mi trong mưa - Tập 72</title>
+  </programme>
+  <programme start="20210921150000 +0700" stop="20210921153000 +0700" channel="sctv18">
+    <title lang="vi">Mỹ nhân vào bếp - Tập 101, 102</title>
+  </programme>
+  <programme start="20210921153000 +0700" stop="20210921160000 +0700" channel="sctv18">
+    <title lang="vi">Sách và cuộc sống - Tập 179Điều chúng mình chưa biết - Tập 73</title>
+  </programme>
+  <programme start="20210921160000 +0700" stop="20210921163000 +0700" channel="sctv18">
+    <title lang="vi">Huyền diệu xứ Thanh - Tập 7Sống ở Việt Nam - Tập 138</title>
+  </programme>
+  <programme start="20210921163000 +0700" stop="20210921173000 +0700" channel="sctv18">
+    <title lang="vi">Yoga sự trải nghiệm - Tập 157</title>
+  </programme>
+  <programme start="20210921173000 +0700" stop="20210921180000 +0700" channel="sctv18">
+    <title lang="vi">Màu thời gian - Tập 10</title>
+  </programme>
+  <programme start="20210921180000 +0700" stop="20210921190000 +0700" channel="sctv18">
+    <title lang="vi">Mười anh em - Tập 18</title>
+  </programme>
+  <programme start="20210921190000 +0700" stop="20210921193000 +0700" channel="sctv18">
+    <title lang="vi">Mỹ nhân vào bếp - Tập 103, 104</title>
+  </programme>
+  <programme start="20210921193000 +0700" stop="20210921200000 +0700" channel="sctv18">
+    <title lang="vi">Sách và cuộc sống - Tập 180Điều chúng mình chưa biết - Tập 74</title>
+  </programme>
+  <programme start="20210921200000 +0700" stop="20210921205000 +0700" channel="sctv18">
+    <title lang="vi">Họa mi trong mưa - Tập 73</title>
+  </programme>
+  <programme start="20210921205000 +0700" stop="20210921210000 +0700" channel="sctv18">
+    <title lang="vi">Đệm Nhạc Việt</title>
+  </programme>
+  <programme start="20210921210000 +0700" stop="20210921213000 +0700" channel="sctv18">
+    <title lang="vi">Huyền diệu xứ Thanh - Tập 8Sống ở Việt Nam - Tập 139</title>
+  </programme>
+  <programme start="20210921213000 +0700" stop="20210921220000 +0700" channel="sctv18">
+    <title lang="vi">Màu thời gian - Tập 10</title>
+  </programme>
+  <programme start="20210921220000 +0700" stop="20210921230000 +0700" channel="sctv18">
+    <title lang="vi">Mười anh em - Tập 18</title>
+  </programme>
+  <programme start="20210921230000 +0700" stop="20210921233000 +0700" channel="sctv18">
+    <title lang="vi">Mỹ nhân vào bếp - Tập 103, 104</title>
+  </programme>
+  <programme start="20210921233000 +0700" stop="20210922000000 +0700" channel="sctv18">
+    <title lang="vi">Sách và cuộc sống - Tập 180Điều chúng mình chưa biết - Tập 74</title>
+  </programme>
+  <programme start="20210922000000 +0700" stop="20210922003000 +0700" channel="sctv18">
+    <title lang="vi">Mỹ nhân vào bếp - Tập 103, 104</title>
+  </programme>
+  <programme start="20210922003000 +0700" stop="20210922010000 +0700" channel="sctv18">
+    <title lang="vi">Sách và cuộc sống - Tập 180Điều chúng mình chưa biết - Tập 74</title>
+  </programme>
+  <programme start="20210922010000 +0700" stop="20210922013000 +0700" channel="sctv18">
+    <title lang="vi">Huyền diệu xứ Thanh - Tập 8Sống ở Việt Nam - Tập 139</title>
+  </programme>
+  <programme start="20210922013000 +0700" stop="20210922020000 +0700" channel="sctv18">
+    <title lang="vi">Sách và cuộc sống - Tập 180Điều chúng mình chưa biết - Tập 74</title>
+  </programme>
+  <programme start="20210922020000 +0700" stop="20210922023000 +0700" channel="sctv18">
+    <title lang="vi">Mỹ nhân vào bếp - Tập 103, 104</title>
+  </programme>
+  <programme start="20210922023000 +0700" stop="20210922030000 +0700" channel="sctv18">
+    <title lang="vi">Sách và cuộc sống - Tập 180Điều chúng mình chưa biết - Tập 74</title>
+  </programme>
+  <programme start="20210922030000 +0700" stop="20210922033000 +0700" channel="sctv18">
+    <title lang="vi">Huyền diệu xứ Thanh - Tập 8Sống ở Việt Nam - Tập 139</title>
+  </programme>
+  <programme start="20210922033000 +0700" stop="20210922040000 +0700" channel="sctv18">
+    <title lang="vi">Sách và cuộc sống - Tập 180Điều chúng mình chưa biết - Tập 74</title>
+  </programme>
+  <programme start="20210922040000 +0700" stop="20210922043000 +0700" channel="sctv18">
+    <title lang="vi">Mỹ nhân vào bếp - Tập 103, 104</title>
+  </programme>
+  <programme start="20210922043000 +0700" stop="20210922050000 +0700" channel="sctv18">
+    <title lang="vi">Sách và cuộc sống - Tập 180Điều chúng mình chưa biết - Tập 74</title>
+  </programme>
+  <programme start="20210922050000 +0700" stop="20210922053000 +0700" channel="sctv18">
+    <title lang="vi">Huyền diệu xứ Thanh - Tập 8Sống ở Việt Nam - Tập 139</title>
+  </programme>
+  <programme start="20210922053000 +0700" stop="20210922060200 +0700" channel="sctv18">
+    <title lang="vi">Sách và cuộc sống - Tập 180Điều chúng mình chưa biết - Tập 74</title>
+  </programme>
+  <programme start="20210922060200 +0700" stop="20210922063000 +0700" channel="sctv18">
+    <title lang="vi">Mỹ nhân vào bếp - Tập 103, 104</title>
+  </programme>
+  <programme start="20210922063000 +0700" stop="20210922073000 +0700" channel="sctv18">
+    <title lang="vi">Yoga sự trải nghiệm - Tập 157</title>
+  </programme>
+  <programme start="20210922073000 +0700" stop="20210922080000 +0700" channel="sctv18">
+    <title lang="vi">Sách và cuộc sống - Tập 180Điều chúng mình chưa biết - Tập 74</title>
+  </programme>
+  <programme start="20210922080000 +0700" stop="20210922090000 +0700" channel="sctv18">
+    <title lang="vi">Họa mi trong mưa - Tập 73</title>
+  </programme>
+  <programme start="20210922090000 +0700" stop="20210922093000 +0700" channel="sctv18">
+    <title lang="vi">Sách và cuộc sống - Tập 180Điều chúng mình chưa biết - Tập 74</title>
+  </programme>
+  <programme start="20210922093000 +0700" stop="20210922100000 +0700" channel="sctv18">
+    <title lang="vi">Huyền diệu xứ Thanh - Tập 8Sống ở Việt Nam - Tập 139</title>
+  </programme>
+  <programme start="20210922100000 +0700" stop="20210922110000 +0700" channel="sctv18">
+    <title lang="vi">Mỹ vị kỳ duyên - Tập 10</title>
+  </programme>
+  <programme start="20210922110000 +0700" stop="20210922120000 +0700" channel="sctv18">
+    <title lang="vi">Mười anh em - Tập 18</title>
+  </programme>
+  <programme start="20210922120000 +0700" stop="20210922123000 +0700" channel="sctv18">
+    <title lang="vi">Huyền diệu xứ Thanh - Tập 8Sống ở Việt Nam - Tập 139</title>
+  </programme>
+  <programme start="20210922123000 +0700" stop="20210922130000 +0700" channel="sctv18">
+    <title lang="vi">Sách và cuộc sống - Tập 180Điều chúng mình chưa biết - Tập 74</title>
+  </programme>
+  <programme start="20210922130000 +0700" stop="20210922133000 +0700" channel="sctv18">
+    <title lang="vi">Màu thời gian - Tập 10</title>
+  </programme>
+  <programme start="20210922133000 +0700" stop="20210922140000 +0700" channel="sctv18">
+    <title lang="vi">Huyền diệu xứ Thanh - Tập 8Sống ở Việt Nam - Tập 139</title>
+  </programme>
+  <programme start="20210922140000 +0700" stop="20210922150000 +0700" channel="sctv18">
+    <title lang="vi">Họa mi trong mưa - Tập 73</title>
+  </programme>
+  <programme start="20210922150000 +0700" stop="20210922153000 +0700" channel="sctv18">
+    <title lang="vi">Mỹ nhân vào bếp - Tập 103, 104</title>
+  </programme>
+  <programme start="20210922153000 +0700" stop="20210922160000 +0700" channel="sctv18">
+    <title lang="vi">Sách và cuộc sống - Tập 180Điều chúng mình chưa biết - Tập 74</title>
+  </programme>
+  <programme start="20210922160000 +0700" stop="20210922163000 +0700" channel="sctv18">
+    <title lang="vi">Huyền diệu xứ Thanh - Tập 8Sống ở Việt Nam - Tập 139</title>
+  </programme>
+  <programme start="20210922163000 +0700" stop="20210922173000 +0700" channel="sctv18">
+    <title lang="vi">Yoga sự trải nghiệm - Tập 158</title>
+  </programme>
+  <programme start="20210922173000 +0700" stop="20210922180000 +0700" channel="sctv18">
+    <title lang="vi">Màu thời gian - Tập 11</title>
+  </programme>
+  <programme start="20210922180000 +0700" stop="20210922190000 +0700" channel="sctv18">
+    <title lang="vi">Mười anh em - Tập 19</title>
+  </programme>
+  <programme start="20210922190000 +0700" stop="20210922193000 +0700" channel="sctv18">
+    <title lang="vi">Mỹ nhân vào bếp - Tập 105, 106</title>
+  </programme>
+  <programme start="20210922193000 +0700" stop="20210922200000 +0700" channel="sctv18">
+    <title lang="vi">Sách và cuộc sống - Tập 181Điều chúng mình chưa biết - Tập 75</title>
+  </programme>
+  <programme start="20210922200000 +0700" stop="20210922205000 +0700" channel="sctv18">
+    <title lang="vi">Họa mi trong mưa - Tập 74</title>
+  </programme>
+  <programme start="20210922205000 +0700" stop="20210922210000 +0700" channel="sctv18">
+    <title lang="vi">Đệm Nhạc Việt</title>
+  </programme>
+  <programme start="20210922210000 +0700" stop="20210922213000 +0700" channel="sctv18">
+    <title lang="vi">Huyền diệu xứ Thanh - Tập 9Sống ở Việt Nam - Tập 140</title>
+  </programme>
+  <programme start="20210922213000 +0700" stop="20210922220000 +0700" channel="sctv18">
+    <title lang="vi">Màu thời gian - Tập 11</title>
+  </programme>
+  <programme start="20210922220000 +0700" stop="20210922230000 +0700" channel="sctv18">
+    <title lang="vi">Mười anh em - Tập 19</title>
+  </programme>
+  <programme start="20210922230000 +0700" stop="20210922233000 +0700" channel="sctv18">
+    <title lang="vi">Mỹ nhân vào bếp - Tập 105, 106</title>
+  </programme>
+  <programme start="20210921000000 +0700" stop="20210921000200 +0700" channel="sctv21">
+    <title lang="vi">Hình hiệu kênh</title>
+  </programme>
+  <programme start="20210921000200 +0700" stop="20210921004000 +0700" channel="sctv21">
+    <title lang="vi">Văn hoá ẩm thực Việt - Tập 34</title>
+  </programme>
+  <programme start="20210921004000 +0700" stop="20210921012000 +0700" channel="sctv21">
+    <title lang="vi">Di sản văn hoá - Tập 28;Sách và cuộc sống - Tập 285</title>
+  </programme>
+  <programme start="20210921012000 +0700" stop="20210921020000 +0700" channel="sctv21">
+    <title lang="vi">BND_Việt Nam thời đại Hồ Chí Minh: Tập 12</title>
+  </programme>
+  <programme start="20210921020000 +0700" stop="20210921030000 +0700" channel="sctv21">
+    <title lang="vi">Con chim vành khuyên</title>
+  </programme>
+  <programme start="20210921030000 +0700" stop="20210921034000 +0700" channel="sctv21">
+    <title lang="vi">Văn hoá ẩm thực Việt - Tập 34</title>
+  </programme>
+  <programme start="20210921034000 +0700" stop="20210921042000 +0700" channel="sctv21">
+    <title lang="vi">Di sản văn hoá - Tập 28;Sách và cuộc sống - Tập 285</title>
+  </programme>
+  <programme start="20210921042000 +0700" stop="20210921050000 +0700" channel="sctv21">
+    <title lang="vi">BND_Việt Nam thời đại Hồ Chí Minh: Tập 12</title>
+  </programme>
+  <programme start="20210921050000 +0700" stop="20210921060000 +0700" channel="sctv21">
+    <title lang="vi">Con chim vành khuyên</title>
+  </programme>
+  <programme start="20210921060000 +0700" stop="20210921060200 +0700" channel="sctv21">
+    <title lang="vi">Hình hiệu kênh</title>
+  </programme>
+  <programme start="20210921060200 +0700" stop="20210921070000 +0700" channel="sctv21">
+    <title lang="vi">Yoga sự trải nghiệm (30P) - Tập 4; Văn hoá ẩm thực Việt - Tập 34</title>
+  </programme>
+  <programme start="20210921070000 +0700" stop="20210921072000 +0700" channel="sctv21">
+    <title lang="vi">Khai tâm truyện - Tập 55</title>
+  </programme>
+  <programme start="20210921072000 +0700" stop="20210921080000 +0700" channel="sctv21">
+    <title lang="vi">Di sản văn hoá - Tập 28;Sách và cuộc sống - Tập 285</title>
+  </programme>
+  <programme start="20210921080000 +0700" stop="20210921084000 +0700" channel="sctv21">
+    <title lang="vi">BND_Việt Nam thời đại Hồ Chí Minh: Tập 12</title>
+  </programme>
+  <programme start="20210921084000 +0700" stop="20210921094000 +0700" channel="sctv21">
+    <title lang="vi">Con chim vành khuyên</title>
+  </programme>
+  <programme start="20210921094000 +0700" stop="20210921102000 +0700" channel="sctv21">
+    <title lang="vi">Văn hoá ẩm thực Việt - Tập 34</title>
+  </programme>
+  <programme start="20210921102000 +0700" stop="20210921110000 +0700" channel="sctv21">
+    <title lang="vi">Di sản văn hoá - Tập 28;Sách và cuộc sống - Tập 285</title>
+  </programme>
+  <programme start="20210921110000 +0700" stop="20210921114000 +0700" channel="sctv21">
+    <title lang="vi">Hà Nội của chúng ta - Tập 55</title>
+  </programme>
+  <programme start="20210921114000 +0700" stop="20210921120000 +0700" channel="sctv21">
+    <title lang="vi">Khai tâm truyện - Tập 56</title>
+  </programme>
+  <programme start="20210921120000 +0700" stop="20210921120200 +0700" channel="sctv21">
+    <title lang="vi">Hình hiệu kênh</title>
+  </programme>
+  <programme start="20210921120200 +0700" stop="20210921130000 +0700" channel="sctv21">
+    <title lang="vi">Bãi biển đời người - Phần 2</title>
+  </programme>
+  <programme start="20210921130000 +0700" stop="20210921134000 +0700" channel="sctv21">
+    <title lang="vi">Văn hoá ẩm thực Việt - Tập 34</title>
+  </programme>
+  <programme start="20210921134000 +0700" stop="20210921142000 +0700" channel="sctv21">
+    <title lang="vi">Di sản văn hoá - Tập 28;Sách và cuộc sống - Tập 285</title>
+  </programme>
+  <programme start="20210921142000 +0700" stop="20210921150000 +0700" channel="sctv21">
+    <title lang="vi">BND_Việt Nam thời đại Hồ Chí Minh: Tập 12</title>
+  </programme>
+  <programme start="20210921150000 +0700" stop="20210921160000 +0700" channel="sctv21">
+    <title lang="vi">Con chim vành khuyên</title>
+  </programme>
+  <programme start="20210921160000 +0700" stop="20210921164000 +0700" channel="sctv21">
+    <title lang="vi">Văn hoá ẩm thực Việt - Tập 34</title>
+  </programme>
+  <programme start="20210921164000 +0700" stop="20210921172000 +0700" channel="sctv21">
+    <title lang="vi">Di sản văn hoá - Tập 28;Sách và cuộc sống - Tập 285</title>
+  </programme>
+  <programme start="20210921172000 +0700" stop="20210921180000 +0700" channel="sctv21">
+    <title lang="vi">BND_Việt Nam thời đại Hồ Chí Minh: Tập 12</title>
+  </programme>
+  <programme start="20210921180000 +0700" stop="20210921180200 +0700" channel="sctv21">
+    <title lang="vi">Hình hiệu kênh</title>
+  </programme>
+  <programme start="20210921180200 +0700" stop="20210921184000 +0700" channel="sctv21">
+    <title lang="vi">Văn hoá ẩm thực Việt - Tập 11(PS Trung Thu)</title>
+  </programme>
+  <programme start="20210921184000 +0700" stop="20210921192000 +0700" channel="sctv21">
+    <title lang="vi">Di sản văn hoá - Tập 29;Góc cuộc sống - Tập 7</title>
+  </programme>
+  <programme start="20210921192000 +0700" stop="20210921200000 +0700" channel="sctv21">
+    <title lang="vi">BND_Việt Nam thời đại Hồ Chí Minh: Tập 13</title>
+  </programme>
+  <programme start="20210921200000 +0700" stop="20210921210000 +0700" channel="sctv21">
+    <title lang="vi">Trăng rằm</title>
+  </programme>
+  <programme start="20210921210000 +0700" stop="20210921214000 +0700" channel="sctv21">
+    <title lang="vi">Thiền trong cuộc sống - Tập 39</title>
+  </programme>
+  <programme start="20210921214000 +0700" stop="20210921222000 +0700" channel="sctv21">
+    <title lang="vi">Văn hoá ẩm thực Việt - Tập 11(PS Trung Thu)</title>
+  </programme>
+  <programme start="20210921222000 +0700" stop="20210921230000 +0700" channel="sctv21">
+    <title lang="vi">Di sản văn hoá - Tập 29;Sách và cuộc sống - Tập 286</title>
+  </programme>
+  <programme start="20210921230000 +0700" stop="20210921234000 +0700" channel="sctv21">
+    <title lang="vi">Hà Nội của chúng ta - Tập 55</title>
+  </programme>
+  <programme start="20210921234000 +0700" stop="20210922000000 +0700" channel="sctv21">
+    <title lang="vi">Khai tâm truyện - Tập 56</title>
+  </programme>
+  <programme start="20210922000000 +0700" stop="20210922000200 +0700" channel="sctv21">
+    <title lang="vi">Hình hiệu kênh</title>
+  </programme>
+  <programme start="20210922000200 +0700" stop="20210922004000 +0700" channel="sctv21">
+    <title lang="vi">Văn hoá ẩm thực Việt - Tập 11(PS Trung Thu)</title>
+  </programme>
+  <programme start="20210922004000 +0700" stop="20210922012000 +0700" channel="sctv21">
+    <title lang="vi">Di sản văn hoá - Tập 29;Sách và cuộc sống - Tập 286</title>
+  </programme>
+  <programme start="20210922012000 +0700" stop="20210922020000 +0700" channel="sctv21">
+    <title lang="vi">BND_Việt Nam thời đại Hồ Chí Minh: Tập 13</title>
+  </programme>
+  <programme start="20210922020000 +0700" stop="20210922030000 +0700" channel="sctv21">
+    <title lang="vi">Trăng rằm</title>
+  </programme>
+  <programme start="20210922030000 +0700" stop="20210922034000 +0700" channel="sctv21">
+    <title lang="vi">Văn hoá ẩm thực Việt - Tập 11(PS Trung Thu)</title>
+  </programme>
+  <programme start="20210922034000 +0700" stop="20210922042000 +0700" channel="sctv21">
+    <title lang="vi">Di sản văn hoá - Tập 29;Sách và cuộc sống - Tập 286</title>
+  </programme>
+  <programme start="20210922042000 +0700" stop="20210922050000 +0700" channel="sctv21">
+    <title lang="vi">BND_Việt Nam thời đại Hồ Chí Minh: Tập 13</title>
+  </programme>
+  <programme start="20210922050000 +0700" stop="20210922060000 +0700" channel="sctv21">
+    <title lang="vi">Trăng rằm</title>
+  </programme>
+  <programme start="20210922060000 +0700" stop="20210922060200 +0700" channel="sctv21">
+    <title lang="vi">Hình hiệu kênh</title>
+  </programme>
+  <programme start="20210922060200 +0700" stop="20210922070000 +0700" channel="sctv21">
+    <title lang="vi">Yoga sự trải nghiệm (30P) - Tập 5; Văn hoá ẩm thực Việt - Tập 11(PS Trung Thu)</title>
+  </programme>
+  <programme start="20210922070000 +0700" stop="20210922072000 +0700" channel="sctv21">
+    <title lang="vi">Khai tâm truyện - Tập 56</title>
+  </programme>
+  <programme start="20210922072000 +0700" stop="20210922080000 +0700" channel="sctv21">
+    <title lang="vi">Di sản văn hoá - Tập 29;Sách và cuộc sống - Tập 286</title>
+  </programme>
+  <programme start="20210922080000 +0700" stop="20210922084000 +0700" channel="sctv21">
+    <title lang="vi">BND_Việt Nam thời đại Hồ Chí Minh: Tập 13</title>
+  </programme>
+  <programme start="20210922084000 +0700" stop="20210922094000 +0700" channel="sctv21">
+    <title lang="vi">Trăng rằm</title>
+  </programme>
+  <programme start="20210922094000 +0700" stop="20210922102000 +0700" channel="sctv21">
+    <title lang="vi">Văn hoá ẩm thực Việt - Tập 11(PS Trung Thu)</title>
+  </programme>
+  <programme start="20210922102000 +0700" stop="20210922110000 +0700" channel="sctv21">
+    <title lang="vi">Di sản văn hoá - Tập 29;Sách và cuộc sống - Tập 286</title>
+  </programme>
+  <programme start="20210922110000 +0700" stop="20210922114000 +0700" channel="sctv21">
+    <title lang="vi">Hà Nội của chúng ta - Tập 56</title>
+  </programme>
+  <programme start="20210922114000 +0700" stop="20210922120000 +0700" channel="sctv21">
+    <title lang="vi">Khai tâm truyện - Tập 57</title>
+  </programme>
+  <programme start="20210922120000 +0700" stop="20210922120200 +0700" channel="sctv21">
+    <title lang="vi">Hình hiệu kênh</title>
+  </programme>
+  <programme start="20210922120200 +0700" stop="20210922130000 +0700" channel="sctv21">
+    <title lang="vi">Cho cả ngày mai - Phần 1</title>
+  </programme>
+  <programme start="20210922130000 +0700" stop="20210922134000 +0700" channel="sctv21">
+    <title lang="vi">Văn hoá ẩm thực Việt - Tập 11(PS Trung Thu)</title>
+  </programme>
+  <programme start="20210922134000 +0700" stop="20210922142000 +0700" channel="sctv21">
+    <title lang="vi">Di sản văn hoá - Tập 29;Sách và cuộc sống - Tập 286</title>
+  </programme>
+  <programme start="20210922142000 +0700" stop="20210922150000 +0700" channel="sctv21">
+    <title lang="vi">BND_Việt Nam thời đại Hồ Chí Minh: Tập 13</title>
+  </programme>
+  <programme start="20210922150000 +0700" stop="20210922160000 +0700" channel="sctv21">
+    <title lang="vi">Trăng rằm</title>
+  </programme>
+  <programme start="20210922160000 +0700" stop="20210922164000 +0700" channel="sctv21">
+    <title lang="vi">Văn hoá ẩm thực Việt - Tập 11(PS Trung Thu)</title>
+  </programme>
+  <programme start="20210922164000 +0700" stop="20210922172000 +0700" channel="sctv21">
+    <title lang="vi">Di sản văn hoá - Tập 29;Sách và cuộc sống - Tập 286</title>
+  </programme>
+  <programme start="20210922172000 +0700" stop="20210922180000 +0700" channel="sctv21">
+    <title lang="vi">BND_Việt Nam thời đại Hồ Chí Minh: Tập 13</title>
+  </programme>
+  <programme start="20210922180000 +0700" stop="20210922180200 +0700" channel="sctv21">
+    <title lang="vi">Hình hiệu kênh</title>
+  </programme>
+  <programme start="20210922180200 +0700" stop="20210922184000 +0700" channel="sctv21">
+    <title lang="vi">Một ngày làm người Việt - Tập 11</title>
+  </programme>
+  <programme start="20210922184000 +0700" stop="20210922192000 +0700" channel="sctv21">
+    <title lang="vi">Di sản văn hoá - Tập 30;Góc cuộc sống - Tập 8</title>
+  </programme>
+  <programme start="20210922192000 +0700" stop="20210922200000 +0700" channel="sctv21">
+    <title lang="vi">BND_Việt Nam thời đại Hồ Chí Minh: Tập 14</title>
+  </programme>
+  <programme start="20210922200000 +0700" stop="20210922210000 +0700" channel="sctv21">
+    <title lang="vi">Sa bẫy - Tập 1 - Phần 1</title>
+  </programme>
+  <programme start="20210922210000 +0700" stop="20210922214000 +0700" channel="sctv21">
+    <title lang="vi">Thiền trong cuộc sống - Tập 40</title>
+  </programme>
+  <programme start="20210922214000 +0700" stop="20210922222000 +0700" channel="sctv21">
+    <title lang="vi">Một ngày làm người Việt - Tập 11</title>
+  </programme>
+  <programme start="20210922222000 +0700" stop="20210922230000 +0700" channel="sctv21">
+    <title lang="vi">Di sản văn hoá - Tập 30;Sách và cuộc sống - Tập 287</title>
+  </programme>
+  <programme start="20210922230000 +0700" stop="20210922234000 +0700" channel="sctv21">
+    <title lang="vi">Hà Nội của chúng ta - Tập 56</title>
+  </programme>
+  <programme start="20210921000000 +0700" stop="20210921020000 +0700" channel="sctv22">
+    <title lang="vi">LaLiga Barcelona - Getafe R3</title>
+  </programme>
+  <programme start="20210921020000 +0700" stop="20210921030000 +0700" channel="sctv22">
+    <title lang="vi">Võ thuật</title>
+  </programme>
+  <programme start="20210921030000 +0700" stop="20210921050000 +0700" channel="sctv22">
+    <title lang="vi">Cầu lông</title>
+  </programme>
+  <programme start="20210921050000 +0700" stop="20210921070000 +0700" channel="sctv22">
+    <title lang="vi">LaLiga Cadiz - Osasuna R3</title>
+  </programme>
+  <programme start="20210921070000 +0700" stop="20210921090000 +0700" channel="sctv22">
+    <title lang="vi">LaLiga Rayo Vallecano - Granada R3</title>
+  </programme>
+  <programme start="20210921090000 +0700" stop="20210921110000 +0700" channel="sctv22">
+    <title lang="vi">Cầu lông</title>
+  </programme>
+  <programme start="20210921110000 +0700" stop="20210921130000 +0700" channel="sctv22">
+    <title lang="vi">LaLiga Atletico Madrid - Villarreal R3</title>
+  </programme>
+  <programme start="20210921130000 +0700" stop="20210921131000 +0700" channel="sctv22">
+    <title lang="vi">Điểm tin trưa</title>
+  </programme>
+  <programme start="20210921131000 +0700" stop="20210921140000 +0700" channel="sctv22">
+    <title lang="vi">Tạp chí Transworld Sports</title>
+  </programme>
+  <programme start="20210921140000 +0700" stop="20210921160000 +0700" channel="sctv22">
+    <title lang="vi">LaLiga Levante - Rayo Vallecano R4</title>
+  </programme>
+  <programme start="20210921160000 +0700" stop="20210921180000 +0700" channel="sctv22">
+    <title lang="vi">Cầu lông</title>
+  </programme>
+  <programme start="20210921180000 +0700" stop="20210921200000 +0700" channel="sctv22">
+    <title lang="vi">LaLiga Athletic Bilbao - Mallorca R4</title>
+  </programme>
+  <programme start="20210921200000 +0700" stop="20210921201500 +0700" channel="sctv22">
+    <title lang="vi">Bản tin SSPORT</title>
+  </programme>
+  <programme start="20210921201500 +0700" stop="20210921203000 +0700" channel="sctv22">
+    <title lang="vi">Tạp chí thể thao</title>
+  </programme>
+  <programme start="20210921203000 +0700" stop="20210921220000 +0700" channel="sctv22">
+    <title lang="vi">LaLiga Espanyol - Atletico Madrid R4</title>
+  </programme>
+  <programme start="20210921220000 +0700" stop="20210922000000 +0700" channel="sctv22">
+    <title lang="vi">LaLiga Osasuna - Valencia R4</title>
+  </programme>
+  <programme start="20210922000000 +0700" stop="20210922020000 +0700" channel="sctv22">
+    <title lang="vi">LaLiga Cadiz - Real Sociedad R4</title>
+  </programme>
+  <programme start="20210922020000 +0700" stop="20210922030000 +0700" channel="sctv22">
+    <title lang="vi">LaLiga Highlights</title>
+  </programme>
+  <programme start="20210922030000 +0700" stop="20210922050000 +0700" channel="sctv22">
+    <title lang="vi">Cầu lông</title>
+  </programme>
+  <programme start="20210922050000 +0700" stop="20210922070000 +0700" channel="sctv22">
+    <title lang="vi">LaLiga Real Madrid - Celta Vigo R4</title>
+  </programme>
+  <programme start="20210922070000 +0700" stop="20210922090000 +0700" channel="sctv22">
+    <title lang="vi">Liga Getafe - Elche R4</title>
+  </programme>
+  <programme start="20210922090000 +0700" stop="20210922110000 +0700" channel="sctv22">
+    <title lang="vi">Cầu lông</title>
+  </programme>
+  <programme start="20210922110000 +0700" stop="20210922130000 +0700" channel="sctv22">
+    <title lang="vi">LaLiga Granada - Real Betis R4</title>
+  </programme>
+  <programme start="20210922130000 +0700" stop="20210922131000 +0700" channel="sctv22">
+    <title lang="vi">Điểm tin trưa</title>
+  </programme>
+  <programme start="20210922131000 +0700" stop="20210922140000 +0700" channel="sctv22">
+    <title lang="vi">LaLiga Highlights</title>
+  </programme>
+  <programme start="20210922140000 +0700" stop="20210922160000 +0700" channel="sctv22">
+    <title lang="vi">LaLiga Levante - Rayo Vallecano R4</title>
+  </programme>
+  <programme start="20210922160000 +0700" stop="20210922180000 +0700" channel="sctv22">
+    <title lang="vi">Cầu lông</title>
+  </programme>
+  <programme start="20210922180000 +0700" stop="20210922200000 +0700" channel="sctv22">
+    <title lang="vi">LaLiga Athletic Bilbao - Mallorca R4</title>
+  </programme>
+  <programme start="20210922200000 +0700" stop="20210922201500 +0700" channel="sctv22">
+    <title lang="vi">Bản tin SSPORT</title>
+  </programme>
+  <programme start="20210922201500 +0700" stop="20210922203000 +0700" channel="sctv22">
+    <title lang="vi">Tạp chí thể thao</title>
+  </programme>
+  <programme start="20210922203000 +0700" stop="20210922220000 +0700" channel="sctv22">
+    <title lang="vi">LaLiga Osasuna - Valencia R4</title>
   </programme>
 </tv>
