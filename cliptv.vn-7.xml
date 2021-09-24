@@ -80,151 +80,31 @@
     <display-name lang="vi">Bình Dương 1</display-name>
     <url>http://www.cliptv.vn</url>
   </channel>
-  <programme start="20210922083000 +0700" stop="20210922090000 +0700" channel="da.nang1">
-    <title lang="vi">Phim hoạt hình</title>
-    <desc lang="vi">Mike, Lu và Og Tập 36.(n)</desc>
-  </programme>
-  <programme start="20210922090000 +0700" stop="20210922093000 +0700" channel="da.nang1">
-    <title lang="vi">Chào ngày mới</title>
-    <desc lang="vi">PL.(n)</desc>
-  </programme>
-  <programme start="20210922093000 +0700" stop="20210922094500 +0700" channel="da.nang1">
-    <title lang="vi">Dạy tiếng Việt lớp 1</title>
-    <desc lang="vi">Bài 2: Chữ C, O và dấu sắc 10’59.(n)</desc>
-  </programme>
-  <programme start="20210922094500 +0700" stop="20210922100000 +0700" channel="da.nang1">
-    <title lang="vi">Chương trình</title>
-    <desc lang="vi">Pops Kids Số 119.(n)</desc>
-  </programme>
-  <programme start="20210922100000 +0700" stop="20210922101500 +0700" channel="da.nang1">
-    <title lang="vi">Chuyên mục</title>
-    <desc lang="vi">An toàn thực phẩm 21\/9 PL.(n)</desc>
-  </programme>
-  <programme start="20210922101500 +0700" stop="20210922104500 +0700" channel="da.nang1">
-    <title lang="vi">Chương trình</title>
-    <desc lang="vi">Pops Music Số 100.(n)</desc>
-  </programme>
-  <programme start="20210922104500 +0700" stop="20210922110000 +0700" channel="da.nang1">
-    <title lang="vi">Phim sitcom</title>
-    <desc lang="vi">Những cô nàng rắc rối Tập 132.(n)</desc>
-  </programme>
-  <programme start="20210922110000 +0700" stop="20210922111500 +0700" channel="da.nang1">
-    <title lang="vi">Khoa giáo</title>
-    <desc lang="vi">Chùa Côn Sơn.(n)</desc>
-  </programme>
-  <programme start="20210922111500 +0700" stop="20210922112500 +0700" channel="da.nang1">
-    <title lang="vi">Bản tin thể thao</title>
-    <desc lang="vi">Bản tin thể thao.(n)</desc>
-  </programme>
-  <programme start="20210922112500 +0700" stop="20210922113000 +0700" channel="da.nang1">
-    <title lang="vi">Bản tin Tài chính thị trường</title>
-    <desc lang="vi">Bản tin Tài chính thị trường.(n)</desc>
-  </programme>
-  <programme start="20210922113000 +0700" stop="20210922115500 +0700" channel="da.nang1">
-    <title lang="vi">Thời sự Đài PT-TH ĐN</title>
-    <desc lang="vi">Thời sự Đài PT-TH ĐN.(n)</desc>
-  </programme>
-  <programme start="20210922115500 +0700" stop="20210922120000 +0700" channel="da.nang1">
-    <title lang="vi">Thông tin – Thông báo – Quảng cáo</title>
-    <desc lang="vi">Thông tin – Thông báo – Quảng cáo.(n)</desc>
-  </programme>
-  <programme start="20210922120000 +0700" stop="20210922130000 +0700" channel="da.nang1">
-    <title lang="vi">Phim truyện ĐL</title>
-    <desc lang="vi">Mái ấm gia đình – P2 Tập 89.(n)</desc>
-  </programme>
-  <programme start="20210922130000 +0700" stop="20210922140000 +0700" channel="da.nang1">
-    <title lang="vi">Phim truyện ĐL</title>
-    <desc lang="vi">Mái ấm gia đình – P3 Tập 1.(n)</desc>
-  </programme>
-  <programme start="20210922140000 +0700" stop="20210922143000 +0700" channel="da.nang1">
-    <title lang="vi">Thời sự PT-TH Đà Nẵng</title>
-    <desc lang="vi">PL.(n)</desc>
-  </programme>
-  <programme start="20210922143000 +0700" stop="20210922144500 +0700" channel="da.nang1">
-    <title lang="vi">Dạy tiếng Việt lớp 1</title>
-    <desc lang="vi">Bài 2: Chữ C, O và dấu sắc 10’59.(n)</desc>
-  </programme>
-  <programme start="20210922144500 +0700" stop="20210922150000 +0700" channel="da.nang1">
-    <title lang="vi">Chương trình</title>
-    <desc lang="vi">Pops Kids Số 120.(n)</desc>
-  </programme>
-  <programme start="20210922150000 +0700" stop="20210922151500 +0700" channel="da.nang1">
-    <title lang="vi">Chuyên mục</title>
-    <desc lang="vi">Quốc phòng toàn dân 20\/9 PL.(n)</desc>
-  </programme>
-  <programme start="20210922151500 +0700" stop="20210922153000 +0700" channel="da.nang1">
-    <title lang="vi">Phim hoạt hình</title>
-    <desc lang="vi">Vòng quanh thế giới Tập 27.(n)</desc>
-  </programme>
-  <programme start="20210922153000 +0700" stop="20210922160000 +0700" channel="da.nang1">
-    <title lang="vi">Di sản văn hóa</title>
-    <desc lang="vi">Réo rắt tiếng đàn Nhị Việt Nam.(n)</desc>
-  </programme>
-  <programme start="20210922160000 +0700" stop="20210922165000 +0700" channel="da.nang1">
-    <title lang="vi">Phim truyện Singapore</title>
-    <desc lang="vi">Giấc mơ có thật – P2 Tập 3.(n)</desc>
-  </programme>
-  <programme start="20210922165000 +0700" stop="20210922170000 +0700" channel="da.nang1">
-    <title lang="vi">Bản tin thể thao</title>
-    <desc lang="vi">PL.(n)</desc>
-  </programme>
-  <programme start="20210922170000 +0700" stop="20210922171500 +0700" channel="da.nang1">
-    <title lang="vi">Chương trình</title>
-    <desc lang="vi">Pops Kids Số 121.(n)</desc>
-  </programme>
-  <programme start="20210922171500 +0700" stop="20210922173000 +0700" channel="da.nang1">
-    <title lang="vi">Trực tiếp xổ số Đà Nẵng</title>
-    <desc lang="vi">Trực tiếp xổ số Đà Nẵng.(n)</desc>
-  </programme>
-  <programme start="20210922173000 +0700" stop="20210922174500 +0700" channel="da.nang1">
-    <title lang="vi">Chuyên mục</title>
-    <desc lang="vi">Văn hóa văn minh đô thị 22\/9.(n)</desc>
-  </programme>
-  <programme start="20210922174500 +0700" stop="20210922180000 +0700" channel="da.nang1">
-    <title lang="vi">Khoa giáo</title>
-    <desc lang="vi">Ga xe lửa Đà Lạt.(n)</desc>
-  </programme>
-  <programme start="20210922180000 +0700" stop="20210922182000 +0700" channel="da.nang1">
-    <title lang="vi">Sạch khỏe mỗi ngày</title>
-    <desc lang="vi">Số 25.(n)</desc>
-  </programme>
-  <programme start="20210922182000 +0700" stop="20210922182500 +0700" channel="da.nang1">
-    <title lang="vi">Dự báo thời tiết – Quảng cáo</title>
-    <desc lang="vi">Dự báo thời tiết – Quảng cáo.(n)</desc>
-  </programme>
-  <programme start="20210922182500 +0700" stop="20210922183000 +0700" channel="da.nang1">
-    <title lang="vi">Bản tin thị trường</title>
-    <desc lang="vi">Bản tin thị trường.(n)</desc>
-  </programme>
-  <programme start="20210922183000 +0700" stop="20210922190000 +0700" channel="da.nang1">
-    <title lang="vi">Thời sự PT-TH Đà Nẵng</title>
-    <desc lang="vi">Thời sự PT-TH Đà Nẵng.(n)</desc>
-  </programme>
-  <programme start="20210922190000 +0700" stop="20210922200000 +0700" channel="da.nang1">
+  <programme start="20210924190000 +0700" stop="20210924200000 +0700" channel="da.nang1">
     <title lang="vi">Phim truyện TQ</title>
-    <desc lang="vi">Niên Đại Cam Hồng Tập 6.(n)</desc>
+    <desc lang="vi">Niên Đại Cam Hồng Tập 8.(n)</desc>
   </programme>
-  <programme start="20210922200000 +0700" stop="20210922210000 +0700" channel="da.nang1">
+  <programme start="20210924200000 +0700" stop="20210924210000 +0700" channel="da.nang1">
     <title lang="vi">Phim truyện TQ</title>
-    <desc lang="vi">Thanh Xà – Bạch Xà Tập 34.(n)</desc>
+    <desc lang="vi">Thanh Xà – Bạch Xà Tập 36.(n)</desc>
   </programme>
-  <programme start="20210922210000 +0700" stop="20210922211500 +0700" channel="da.nang1">
-    <title lang="vi">Phim sitcom</title>
-    <desc lang="vi">Những cô nàng rắc rối Tập 111.(n)</desc>
+  <programme start="20210924210000 +0700" stop="20210924211500 +0700" channel="da.nang1">
+    <title lang="vi">Chương trình</title>
+    <desc lang="vi">Hát vì yêu Số 22.(n)</desc>
   </programme>
-  <programme start="20210922211500 +0700" stop="20210922221500 +0700" channel="da.nang1">
+  <programme start="20210924211500 +0700" stop="20210924221500 +0700" channel="da.nang1">
     <title lang="vi">Phim truyện Singapore</title>
-    <desc lang="vi">Giấc mơ có thật – P2 Tập 32 Hết.(n)</desc>
+    <desc lang="vi">Bóng mát giữa đời Tập 2.(n)</desc>
   </programme>
-  <programme start="20210922221500 +0700" stop="20210922223000 +0700" channel="da.nang1">
+  <programme start="20210924221500 +0700" stop="20210924223000 +0700" channel="da.nang1">
     <title lang="vi">Bản tin tiếng Anh</title>
     <desc lang="vi">Bản tin tiếng Anh.(n)</desc>
   </programme>
-  <programme start="20210922223000 +0700" stop="20210922231500 +0700" channel="da.nang1">
+  <programme start="20210924223000 +0700" stop="20210924231500 +0700" channel="da.nang1">
     <title lang="vi">Phim truyện TQ</title>
-    <desc lang="vi">Xích Hồn Thạch - P2 Tập 1.(n)</desc>
+    <desc lang="vi">Xích Hồn Thạch - P2 Tập 3.(n)</desc>
   </programme>
-  <programme start="20210922231500 +0700" stop="20210922234000 +0700" channel="da.nang1">
+  <programme start="20210924231500 +0700" stop="20210924234000 +0700" channel="da.nang1">
     <title lang="vi">Thời sự PT-TH Đà Nẵng</title>
     <desc lang="vi">Thời sự PT-TH Đà Nẵng.(n)</desc>
   </programme>
