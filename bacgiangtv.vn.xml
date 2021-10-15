@@ -1,0 +1,316 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="bac.giang">
+    <display-name lang="vi">Bắc Giang</display-name>
+    <url>http://www.bacgiangtv.vn</url>
+  </channel>
+  <programme start="20211009053000 +0700" stop="20211009054500 +0700" channel="bac.giang">
+    <title lang="vi">Thể dục buổi sáng</title>
+  </programme>
+  <programme start="20211009054500 +0700" stop="20211009060000 +0700" channel="bac.giang">
+    <title lang="vi">Sống khỏe 360</title>
+  </programme>
+  <programme start="20211009060000 +0700" stop="20211009062500 +0700" channel="bac.giang">
+    <title lang="vi">Bắc Giang ngày mới</title>
+  </programme>
+  <programme start="20211009062500 +0700" stop="20211009063000 +0700" channel="bac.giang">
+    <title lang="vi">Niềm tin cổ tích</title>
+  </programme>
+  <programme start="20211009063000 +0700" stop="20211009064500 +0700" channel="bac.giang">
+    <title lang="vi">Hộp Thư truyền hình</title>
+  </programme>
+  <programme start="20211009064500 +0700" stop="20211009073000 +0700" channel="bac.giang">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Lối thoát nghiệt ngã - tập 27</sub-title>
+  </programme>
+  <programme start="20211009073000 +0700" stop="20211009080000 +0700" channel="bac.giang">
+    <title lang="vi">Phim tài liệu</title>
+    <sub-title lang="vi">Tây Yên Tử - Nơi ghi dấu lịch sử, văn hóa Phật giáo</sub-title>
+  </programme>
+  <programme start="20211009080000 +0700" stop="20211009081500 +0700" channel="bac.giang">
+    <title lang="vi">Quốc phòng toàn dân</title>
+  </programme>
+  <programme start="20211009081500 +0700" stop="20211009083000 +0700" channel="bac.giang">
+    <title lang="vi">Đại đoàn kết toàn dân</title>
+    <sub-title lang="vi">Phát huy vai trò người dân tộc thiểu số có uy tín</sub-title>
+  </programme>
+  <programme start="20211009083000 +0700" stop="20211009090000 +0700" channel="bac.giang">
+    <title lang="vi">Khám phá thế giới</title>
+    <sub-title lang="vi">Những hành trình xuyên Nhật Bản - phần 145</sub-title>
+  </programme>
+  <programme start="20211009090000 +0700" stop="20211009094500 +0700" channel="bac.giang">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Cơn bão trắng - tập 3</sub-title>
+  </programme>
+  <programme start="20211009094500 +0700" stop="20211009103000 +0700" channel="bac.giang">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Cơn bão trắng - tập 4</sub-title>
+  </programme>
+  <programme start="20211009103000 +0700" stop="20211009110000 +0700" channel="bac.giang">
+    <title lang="vi">Ca nhạc</title>
+    <sub-title lang="vi">Tổ quốc nhìn từ biển</sub-title>
+  </programme>
+  <programme start="20211009110000 +0700" stop="20211009111500 +0700" channel="bac.giang">
+    <title lang="vi">Tạp chí thiếu nhi</title>
+    <sub-title lang="vi">Đảm bảo nền nếp dạy và học</sub-title>
+  </programme>
+  <programme start="20211009111500 +0700" stop="20211009113000 +0700" channel="bac.giang">
+    <title lang="vi">Khoảnh khắc hành trình hơn 25 thế kỷ</title>
+    <sub-title lang="vi">Tập 17</sub-title>
+  </programme>
+  <programme start="20211009113000 +0700" stop="20211009114500 +0700" channel="bac.giang">
+    <title lang="vi">Thời sự Bắc Giang</title>
+  </programme>
+  <programme start="20211009114500 +0700" stop="20211009123000 +0700" channel="bac.giang">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Thời gian tươi đẹp của anh và em - tập 37</sub-title>
+  </programme>
+  <programme start="20211009123000 +0700" stop="20211009131500 +0700" channel="bac.giang">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Thời gian tươi đẹp của anh và em - tập 38</sub-title>
+  </programme>
+  <programme start="20211009131500 +0700" stop="20211009134500 +0700" channel="bac.giang">
+    <title lang="vi">Phim tài liệu</title>
+    <sub-title lang="vi">Tây Yên Tử - Nơi ghi dấu lịch sử, văn hóa Phật giáo</sub-title>
+  </programme>
+  <programme start="20211009134500 +0700" stop="20211009143000 +0700" channel="bac.giang">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Em là định mệnh của anh - tập 19</sub-title>
+  </programme>
+  <programme start="20211009143000 +0700" stop="20211009144500 +0700" channel="bac.giang">
+    <title lang="vi">Sống khỏe 360</title>
+  </programme>
+  <programme start="20211009144500 +0700" stop="20211009150000 +0700" channel="bac.giang">
+    <title lang="vi">Truyền hình An ninh Bắc Giang</title>
+  </programme>
+  <programme start="20211009150000 +0700" stop="20211009151500 +0700" channel="bac.giang">
+    <title lang="vi">Truyền hình Thành phố Bắc Giang</title>
+  </programme>
+  <programme start="20211009151500 +0700" stop="20211009153000 +0700" channel="bac.giang">
+    <title lang="vi">Tạp chí xúc tiến Công Thương</title>
+    <sub-title lang="vi">Nâng hạng các sản phẩm OCOP</sub-title>
+  </programme>
+  <programme start="20211009153000 +0700" stop="20211009160000 +0700" channel="bac.giang">
+    <title lang="vi">Thế giới động vật</title>
+    <sub-title lang="vi">Hành tinh băng giá – Phần 2</sub-title>
+  </programme>
+  <programme start="20211009160000 +0700" stop="20211009163000 +0700" channel="bac.giang">
+    <title lang="vi">8 phim</title>
+    <sub-title lang="vi">Tập 42</sub-title>
+  </programme>
+  <programme start="20211009163000 +0700" stop="20211009164500 +0700" channel="bac.giang">
+    <title lang="vi">Thiếu nhi</title>
+    <sub-title lang="vi">Hoạt hình: Cừu vui vẻ và Sói xám - Tập 98</sub-title>
+  </programme>
+  <programme start="20211009164500 +0700" stop="20211009173000 +0700" channel="bac.giang">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Thiết diện ngự sử (phần 1) - tập 7</sub-title>
+  </programme>
+  <programme start="20211009173000 +0700" stop="20211009181500 +0700" channel="bac.giang">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Thiết diện ngự sử (phần 1) - tập 8</sub-title>
+  </programme>
+  <programme start="20211009181500 +0700" stop="20211009183000 +0700" channel="bac.giang">
+    <title lang="vi">Bản tin Dự báo thời tiết</title>
+  </programme>
+  <programme start="20211009183000 +0700" stop="20211009184500 +0700" channel="bac.giang">
+    <title lang="vi">Khoảnh khắc hành trình hơn 25 thế kỷ</title>
+    <sub-title lang="vi">Tập 18</sub-title>
+  </programme>
+  <programme start="20211009184500 +0700" stop="20211009190000 +0700" channel="bac.giang">
+    <title lang="vi">Bản tin Trong nước - Quốc tế</title>
+  </programme>
+  <programme start="20211009190000 +0700" stop="20211009194500 +0700" channel="bac.giang">
+    <title lang="vi">Thời sự Đài truyền hình Việt Nam</title>
+  </programme>
+  <programme start="20211009194500 +0700" stop="20211009201000 +0700" channel="bac.giang">
+    <title lang="vi">Thời sự Bắc Giang</title>
+  </programme>
+  <programme start="20211009201000 +0700" stop="20211009201500 +0700" channel="bac.giang">
+    <title lang="vi">Bản tin dự báo thời tiết</title>
+  </programme>
+  <programme start="20211009201500 +0700" stop="20211009203000 +0700" channel="bac.giang">
+    <title lang="vi">Sống trẻ</title>
+  </programme>
+  <programme start="20211009203000 +0700" stop="20211009204500 +0700" channel="bac.giang">
+    <title lang="vi">Khoa học Công nghệ</title>
+    <sub-title lang="vi">Tăng cường kiểm tra kinh doanh xăng dầu</sub-title>
+  </programme>
+  <programme start="20211009204500 +0700" stop="20211009212500 +0700" channel="bac.giang">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Em là định mệnh của anh - tập 20</sub-title>
+  </programme>
+  <programme start="20211009212500 +0700" stop="20211009213000 +0700" channel="bac.giang">
+    <title lang="vi">Niềm tin cổ tích</title>
+  </programme>
+  <programme start="20211009213000 +0700" stop="20211009214500 +0700" channel="bac.giang">
+    <title lang="vi">Phổ biến kiến thức</title>
+    <sub-title lang="vi">Phòng bệnh về mắt</sub-title>
+  </programme>
+  <programme start="20211009214500 +0700" stop="20211009220000 +0700" channel="bac.giang">
+    <title lang="vi">Sống khỏe 360</title>
+  </programme>
+  <programme start="20211009220000 +0700" stop="20211009223000 +0700" channel="bac.giang">
+    <title lang="vi">Góc nhìn chiến tranh</title>
+    <sub-title lang="vi">Từ bước chân vô định tới hành trình chính nghĩa - phần 1</sub-title>
+  </programme>
+  <programme start="20211009223000 +0700" stop="20211009224500 +0700" channel="bac.giang">
+    <title lang="vi">Thời sự tổng hợp</title>
+  </programme>
+  <programme start="20211009224500 +0700" stop="20211010053000 +0700" channel="bac.giang">
+    <title lang="vi">Ca nhạc Quốc tế</title>
+  </programme>
+  <programme start="20211010053000 +0700" stop="20211010054500 +0700" channel="bac.giang">
+    <title lang="vi">Thể dục buổi sáng</title>
+  </programme>
+  <programme start="20211010054500 +0700" stop="20211010060000 +0700" channel="bac.giang">
+    <title lang="vi">Sống khỏe 360</title>
+  </programme>
+  <programme start="20211010060000 +0700" stop="20211010062500 +0700" channel="bac.giang">
+    <title lang="vi">Bắc Giang ngày mới</title>
+  </programme>
+  <programme start="20211010062500 +0700" stop="20211010063000 +0700" channel="bac.giang">
+    <title lang="vi">Niềm tin cổ tích</title>
+  </programme>
+  <programme start="20211010063000 +0700" stop="20211010064500 +0700" channel="bac.giang">
+    <title lang="vi">Hộp Thư truyền hình</title>
+  </programme>
+  <programme start="20211010064500 +0700" stop="20211010073000 +0700" channel="bac.giang">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Lối thoát nghiệt ngã - tập 27</sub-title>
+  </programme>
+  <programme start="20211010073000 +0700" stop="20211010080000 +0700" channel="bac.giang">
+    <title lang="vi">Phim tài liệu</title>
+    <sub-title lang="vi">Tây Yên Tử - Nơi ghi dấu lịch sử, văn hóa Phật giáo</sub-title>
+  </programme>
+  <programme start="20211010080000 +0700" stop="20211010081500 +0700" channel="bac.giang">
+    <title lang="vi">Quốc phòng toàn dân</title>
+  </programme>
+  <programme start="20211010081500 +0700" stop="20211010083000 +0700" channel="bac.giang">
+    <title lang="vi">Đại đoàn kết toàn dân</title>
+    <sub-title lang="vi">Phát huy vai trò người dân tộc thiểu số có uy tín</sub-title>
+  </programme>
+  <programme start="20211010083000 +0700" stop="20211010090000 +0700" channel="bac.giang">
+    <title lang="vi">Khám phá thế giới</title>
+    <sub-title lang="vi">Những hành trình xuyên Nhật Bản - phần 145</sub-title>
+  </programme>
+  <programme start="20211010090000 +0700" stop="20211010094500 +0700" channel="bac.giang">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Cơn bão trắng - tập 3</sub-title>
+  </programme>
+  <programme start="20211010094500 +0700" stop="20211010103000 +0700" channel="bac.giang">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Cơn bão trắng - tập 4</sub-title>
+  </programme>
+  <programme start="20211010103000 +0700" stop="20211010110000 +0700" channel="bac.giang">
+    <title lang="vi">Ca nhạc</title>
+    <sub-title lang="vi">Tổ quốc nhìn từ biển</sub-title>
+  </programme>
+  <programme start="20211010110000 +0700" stop="20211010111500 +0700" channel="bac.giang">
+    <title lang="vi">Tạp chí thiếu nhi</title>
+    <sub-title lang="vi">Đảm bảo nền nếp dạy và học</sub-title>
+  </programme>
+  <programme start="20211010111500 +0700" stop="20211010113000 +0700" channel="bac.giang">
+    <title lang="vi">Khoảnh khắc hành trình hơn 25 thế kỷ</title>
+    <sub-title lang="vi">Tập 17</sub-title>
+  </programme>
+  <programme start="20211010113000 +0700" stop="20211010114500 +0700" channel="bac.giang">
+    <title lang="vi">Thời sự Bắc Giang</title>
+  </programme>
+  <programme start="20211010114500 +0700" stop="20211010123000 +0700" channel="bac.giang">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Thời gian tươi đẹp của anh và em - tập 37</sub-title>
+  </programme>
+  <programme start="20211010123000 +0700" stop="20211010131500 +0700" channel="bac.giang">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Thời gian tươi đẹp của anh và em - tập 38</sub-title>
+  </programme>
+  <programme start="20211010131500 +0700" stop="20211010134500 +0700" channel="bac.giang">
+    <title lang="vi">Phim tài liệu</title>
+    <sub-title lang="vi">Tây Yên Tử - Nơi ghi dấu lịch sử, văn hóa Phật giáo</sub-title>
+  </programme>
+  <programme start="20211010134500 +0700" stop="20211010143000 +0700" channel="bac.giang">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Em là định mệnh của anh - tập 19</sub-title>
+  </programme>
+  <programme start="20211010143000 +0700" stop="20211010144500 +0700" channel="bac.giang">
+    <title lang="vi">Sống khỏe 360</title>
+  </programme>
+  <programme start="20211010144500 +0700" stop="20211010150000 +0700" channel="bac.giang">
+    <title lang="vi">Truyền hình An ninh Bắc Giang</title>
+  </programme>
+  <programme start="20211010150000 +0700" stop="20211010151500 +0700" channel="bac.giang">
+    <title lang="vi">Truyền hình Thành phố Bắc Giang</title>
+  </programme>
+  <programme start="20211010151500 +0700" stop="20211010153000 +0700" channel="bac.giang">
+    <title lang="vi">Tạp chí xúc tiến Công Thương</title>
+    <sub-title lang="vi">Nâng hạng các sản phẩm OCOP</sub-title>
+  </programme>
+  <programme start="20211010153000 +0700" stop="20211010160000 +0700" channel="bac.giang">
+    <title lang="vi">Thế giới động vật</title>
+    <sub-title lang="vi">Hành tinh băng giá – Phần 2</sub-title>
+  </programme>
+  <programme start="20211010160000 +0700" stop="20211010163000 +0700" channel="bac.giang">
+    <title lang="vi">8 phim</title>
+    <sub-title lang="vi">Tập 42</sub-title>
+  </programme>
+  <programme start="20211010163000 +0700" stop="20211010164500 +0700" channel="bac.giang">
+    <title lang="vi">Thiếu nhi</title>
+    <sub-title lang="vi">Hoạt hình: Cừu vui vẻ và Sói xám - Tập 98</sub-title>
+  </programme>
+  <programme start="20211010164500 +0700" stop="20211010173000 +0700" channel="bac.giang">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Thiết diện ngự sử (phần 1) - tập 7</sub-title>
+  </programme>
+  <programme start="20211010173000 +0700" stop="20211010181500 +0700" channel="bac.giang">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Thiết diện ngự sử (phần 1) - tập 8</sub-title>
+  </programme>
+  <programme start="20211010181500 +0700" stop="20211010183000 +0700" channel="bac.giang">
+    <title lang="vi">Bản tin Dự báo thời tiết</title>
+  </programme>
+  <programme start="20211010183000 +0700" stop="20211010184500 +0700" channel="bac.giang">
+    <title lang="vi">Khoảnh khắc hành trình hơn 25 thế kỷ</title>
+    <sub-title lang="vi">Tập 18</sub-title>
+  </programme>
+  <programme start="20211010184500 +0700" stop="20211010190000 +0700" channel="bac.giang">
+    <title lang="vi">Bản tin Trong nước - Quốc tế</title>
+  </programme>
+  <programme start="20211010190000 +0700" stop="20211010194500 +0700" channel="bac.giang">
+    <title lang="vi">Thời sự Đài truyền hình Việt Nam</title>
+  </programme>
+  <programme start="20211010194500 +0700" stop="20211010201000 +0700" channel="bac.giang">
+    <title lang="vi">Thời sự Bắc Giang</title>
+  </programme>
+  <programme start="20211010201000 +0700" stop="20211010201500 +0700" channel="bac.giang">
+    <title lang="vi">Bản tin dự báo thời tiết</title>
+  </programme>
+  <programme start="20211010201500 +0700" stop="20211010203000 +0700" channel="bac.giang">
+    <title lang="vi">Sống trẻ</title>
+  </programme>
+  <programme start="20211010203000 +0700" stop="20211010204500 +0700" channel="bac.giang">
+    <title lang="vi">Khoa học Công nghệ</title>
+    <sub-title lang="vi">Tăng cường kiểm tra kinh doanh xăng dầu</sub-title>
+  </programme>
+  <programme start="20211010204500 +0700" stop="20211010212500 +0700" channel="bac.giang">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Em là định mệnh của anh - tập 20</sub-title>
+  </programme>
+  <programme start="20211010212500 +0700" stop="20211010213000 +0700" channel="bac.giang">
+    <title lang="vi">Niềm tin cổ tích</title>
+  </programme>
+  <programme start="20211010213000 +0700" stop="20211010214500 +0700" channel="bac.giang">
+    <title lang="vi">Phổ biến kiến thức</title>
+    <sub-title lang="vi">Phòng bệnh về mắt</sub-title>
+  </programme>
+  <programme start="20211010214500 +0700" stop="20211010220000 +0700" channel="bac.giang">
+    <title lang="vi">Sống khỏe 360</title>
+  </programme>
+  <programme start="20211010220000 +0700" stop="20211010223000 +0700" channel="bac.giang">
+    <title lang="vi">Góc nhìn chiến tranh</title>
+    <sub-title lang="vi">Từ bước chân vô định tới hành trình chính nghĩa - phần 1</sub-title>
+  </programme>
+  <programme start="20211010223000 +0700" stop="20211010224500 +0700" channel="bac.giang">
+    <title lang="vi">Thời sự tổng hợp</title>
+  </programme>
+</tv>

@@ -1,0 +1,435 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="da.nang1">
+    <display-name lang="vi">Đà Nẵng 1</display-name>
+    <url>http://www.drt.danang.vn</url>
+  </channel>
+  <programme start="20211003000000 +0700" stop="20211003013000 +0700" channel="da.nang1">
+    <title lang="vi">Phim điện ảnh</title>
+    <sub-title lang="vi">Giết Chết Kane</sub-title>
+  </programme>
+  <programme start="20211003013000 +0700" stop="20211003014500 +0700" channel="da.nang1">
+    <title lang="vi">Ký sự</title>
+    <sub-title lang="vi">Yên tử</sub-title>
+  </programme>
+  <programme start="20211003014500 +0700" stop="20211003020000 +0700" channel="da.nang1">
+    <title lang="vi">Sạch khỏe mỗi ngày</title>
+    <sub-title lang="vi">Số 68</sub-title>
+  </programme>
+  <programme start="20211003020000 +0700" stop="20211003023000 +0700" channel="da.nang1">
+    <title lang="vi">Ca nhạc</title>
+    <sub-title lang="vi">Giai điệu quê hương</sub-title>
+  </programme>
+  <programme start="20211003023000 +0700" stop="20211003030000 +0700" channel="da.nang1">
+    <title lang="vi">Văn hóa dân tộc</title>
+    <sub-title lang="vi">Cách đặt tên cho con của người Mông</sub-title>
+  </programme>
+  <programme start="20211003030000 +0700" stop="20211003031500 +0700" channel="da.nang1">
+    <title lang="vi">Tiểu phẩm hài</title>
+    <sub-title lang="vi">Chợ của ai</sub-title>
+  </programme>
+  <programme start="20211003031500 +0700" stop="20211003033000 +0700" channel="da.nang1">
+    <title lang="vi">Chuyện gia đình vàng</title>
+    <sub-title lang="vi">Tiểu đêm Tập 960</sub-title>
+  </programme>
+  <programme start="20211003033000 +0700" stop="20211003035000 +0700" channel="da.nang1">
+    <title lang="vi">Dọc đường đất nước</title>
+    <sub-title lang="vi">Tìm về dấu xưa Tập 61</sub-title>
+  </programme>
+  <programme start="20211003035000 +0700" stop="20211003040000 +0700" channel="da.nang1">
+    <title lang="vi">Cười để ngẫm</title>
+    <sub-title lang="vi">Chiến tranh lạnh Số 738</sub-title>
+  </programme>
+  <programme start="20211003040000 +0700" stop="20211003043000 +0700" channel="da.nang1">
+    <title lang="vi">Chương trình</title>
+    <sub-title lang="vi">Pops Music Tập 22</sub-title>
+  </programme>
+  <programme start="20211003043000 +0700" stop="20211003044500 +0700" channel="da.nang1">
+    <title lang="vi">Ngon và lành</title>
+    <sub-title lang="vi">Tác dụng của hạt đác</sub-title>
+  </programme>
+  <programme start="20211003044500 +0700" stop="20211003053000 +0700" channel="da.nang1">
+    <title lang="vi">Phim truyện Singapore</title>
+    <sub-title lang="vi">Mái ấm gia đình (P1) Tập 47</sub-title>
+  </programme>
+  <programme start="20211003053000 +0700" stop="20211003060000 +0700" channel="da.nang1">
+    <title lang="vi">Khỏe đẹp mỗi ngày</title>
+    <sub-title lang="vi">Fitness Số 5+6</sub-title>
+  </programme>
+  <programme start="20211003060000 +0700" stop="20211003063000 +0700" channel="da.nang1">
+    <title lang="vi">Ca nhạc</title>
+    <sub-title lang="vi">Trăm nhớ ngàn thương</sub-title>
+  </programme>
+  <programme start="20211003063000 +0700" stop="20211003070000 +0700" channel="da.nang1">
+    <title lang="vi">Chào ngày mới</title>
+    <sub-title lang="vi">Chào ngày mới</sub-title>
+  </programme>
+  <programme start="20211003070000 +0700" stop="20211003071500 +0700" channel="da.nang1">
+    <title lang="vi">360 độ du lịch Đà Nẵng</title>
+    <sub-title lang="vi">Khám phá vẻ đẹp Bãi Rạng Sơn Trà 02/10 PL</sub-title>
+  </programme>
+  <programme start="20211003071500 +0700" stop="20211003073000 +0700" channel="da.nang1">
+    <title lang="vi">Chuyên mục</title>
+    <sub-title lang="vi">Hội đồng nhân dân với cử tri</sub-title>
+  </programme>
+  <programme start="20211003073000 +0700" stop="20211003074500 +0700" channel="da.nang1">
+    <title lang="vi">Bản tin tiếng Anh</title>
+    <sub-title lang="vi">Bản tin tiếng Anh</sub-title>
+  </programme>
+  <programme start="20211003074500 +0700" stop="20211003083000 +0700" channel="da.nang1">
+    <title lang="vi">Phim truyện VN</title>
+    <sub-title lang="vi">Chỉ một con đường Tập 13</sub-title>
+  </programme>
+  <programme start="20211003083000 +0700" stop="20211003090000 +0700" channel="da.nang1">
+    <title lang="vi">Ca nhạc thiếu nhi</title>
+    <sub-title lang="vi">Quê hương tuổi thơ</sub-title>
+  </programme>
+  <programme start="20211003090000 +0700" stop="20211003093000 +0700" channel="da.nang1">
+    <title lang="vi">Chào ngày mới</title>
+    <sub-title lang="vi">PL</sub-title>
+  </programme>
+  <programme start="20211003093000 +0700" stop="20211003100000 +0700" channel="da.nang1">
+    <title lang="vi">Phim tài liệu  Việt Nam thời đại Hồ Chí Minh_Biên niên sử truyền hình Năm 2006</title>
+    <sub-title lang="vi">Phim tài liệu  Việt Nam thời đại Hồ Chí Minh_Biên niên sử truyền hình Năm 2006</sub-title>
+  </programme>
+  <programme start="20211003100000 +0700" stop="20211003101500 +0700" channel="da.nang1">
+    <title lang="vi">Mỗi tuần một cuốn sách</title>
+    <sub-title lang="vi">Nam tước trên cây 2/10 PL</sub-title>
+  </programme>
+  <programme start="20211003101500 +0700" stop="20211003104500 +0700" channel="da.nang1">
+    <title lang="vi">Chương trình</title>
+    <sub-title lang="vi">Pops Music Số 114</sub-title>
+  </programme>
+  <programme start="20211003104500 +0700" stop="20211003110000 +0700" channel="da.nang1">
+    <title lang="vi">Chuyên mục</title>
+    <sub-title lang="vi">Lao động và công đoàn</sub-title>
+  </programme>
+  <programme start="20211003110000 +0700" stop="20211003111500 +0700" channel="da.nang1">
+    <title lang="vi">Chuyên mục</title>
+    <sub-title lang="vi">An ninh Đà Nẵng</sub-title>
+  </programme>
+  <programme start="20211003111500 +0700" stop="20211003112500 +0700" channel="da.nang1">
+    <title lang="vi">Bản tin thể thao</title>
+    <sub-title lang="vi">Bản tin thể thao</sub-title>
+  </programme>
+  <programme start="20211003112500 +0700" stop="20211003113000 +0700" channel="da.nang1">
+    <title lang="vi">Bản tin Tài chính thị trường</title>
+    <sub-title lang="vi">Bản tin Tài chính thị trường</sub-title>
+  </programme>
+  <programme start="20211003113000 +0700" stop="20211003115500 +0700" channel="da.nang1">
+    <title lang="vi">Thời sự Đài PT-TH ĐN</title>
+    <sub-title lang="vi">Thời sự Đài PT-TH ĐN</sub-title>
+  </programme>
+  <programme start="20211003115500 +0700" stop="20211003120000 +0700" channel="da.nang1">
+    <title lang="vi">Thông tin- Thông báo- Quảng cáo</title>
+    <sub-title lang="vi">Thông tin- Thông báo- Quảng cáo</sub-title>
+  </programme>
+  <programme start="20211003120000 +0700" stop="20211003130000 +0700" channel="da.nang1">
+    <title lang="vi">Phim truyện ĐL</title>
+    <sub-title lang="vi">Mái ấm gia đình – P3 Tập 22</sub-title>
+  </programme>
+  <programme start="20211003130000 +0700" stop="20211003140000 +0700" channel="da.nang1">
+    <title lang="vi">Phim truyện ĐL</title>
+    <sub-title lang="vi">Mái ấm gia đình – P3 Tập 23</sub-title>
+  </programme>
+  <programme start="20211003140000 +0700" stop="20211003143000 +0700" channel="da.nang1">
+    <title lang="vi">Thời sự Đài PT-TH Đà Nẵng</title>
+    <sub-title lang="vi">Thời sự Đài PT-TH Đà Nẵng</sub-title>
+  </programme>
+  <programme start="20211003143000 +0700" stop="20211003150000 +0700" channel="da.nang1">
+    <title lang="vi">Chương trình</title>
+    <sub-title lang="vi">Pops Music Số 115</sub-title>
+  </programme>
+  <programme start="20211003150000 +0700" stop="20211003151500 +0700" channel="da.nang1">
+    <title lang="vi">Phóng sự  Hỗ trợ người lao động, doanh nghiệp khó khăn do covid-19</title>
+    <sub-title lang="vi">30/9 PL</sub-title>
+  </programme>
+  <programme start="20211003151500 +0700" stop="20211003153000 +0700" channel="da.nang1">
+    <title lang="vi">Phim hoạt hình</title>
+    <sub-title lang="vi">Vòng quanh thế giới Tập 33</sub-title>
+  </programme>
+  <programme start="20211003153000 +0700" stop="20211003160000 +0700" channel="da.nang1">
+    <title lang="vi">Non nước ngàn dặm</title>
+    <sub-title lang="vi">Kiến trúc độc đáo nhà thờ đá Kim Sơn – Ninh Bình</sub-title>
+  </programme>
+  <programme start="20211003160000 +0700" stop="20211003165000 +0700" channel="da.nang1">
+    <title lang="vi">Phim truyện Singapore</title>
+    <sub-title lang="vi">Giấc mơ có thật – P2 Tập 14</sub-title>
+  </programme>
+  <programme start="20211003165000 +0700" stop="20211003170000 +0700" channel="da.nang1">
+    <title lang="vi">Bản tin thể thao</title>
+    <sub-title lang="vi">Bản tin thể thao</sub-title>
+  </programme>
+  <programme start="20211003170000 +0700" stop="20211003171500 +0700" channel="da.nang1">
+    <title lang="vi">Sắc màu tuổi thơ</title>
+    <sub-title lang="vi">02/10PL</sub-title>
+  </programme>
+  <programme start="20211003171500 +0700" stop="20211003173000 +0700" channel="da.nang1">
+    <title lang="vi">Chuyên mục</title>
+    <sub-title lang="vi">Văn hóa văn minh đô thị</sub-title>
+  </programme>
+  <programme start="20211003173000 +0700" stop="20211003180000 +0700" channel="da.nang1">
+    <title lang="vi">Văn nghệ cuối tuần</title>
+    <sub-title lang="vi">Văn nghệ cuối tuần</sub-title>
+  </programme>
+  <programme start="20211003180000 +0700" stop="20211003182000 +0700" channel="da.nang1">
+    <title lang="vi">Sạch khỏe mỗi ngày</title>
+    <sub-title lang="vi">Số 34</sub-title>
+  </programme>
+  <programme start="20211003182000 +0700" stop="20211003182500 +0700" channel="da.nang1">
+    <title lang="vi">Dự báo thời tiết – Quảng cáo</title>
+    <sub-title lang="vi">Dự báo thời tiết – Quảng cáo</sub-title>
+  </programme>
+  <programme start="20211003182500 +0700" stop="20211003183000 +0700" channel="da.nang1">
+    <title lang="vi">Bản tin thị trường</title>
+    <sub-title lang="vi">Bản tin thị trường</sub-title>
+  </programme>
+  <programme start="20211003183000 +0700" stop="20211003190000 +0700" channel="da.nang1">
+    <title lang="vi">Thời sự PT-TH  Đà Nẵng</title>
+    <sub-title lang="vi">Thời sự PT-TH  Đà Nẵng</sub-title>
+  </programme>
+  <programme start="20211003190000 +0700" stop="20211003200000 +0700" channel="da.nang1">
+    <title lang="vi">Phim truyện TQ</title>
+    <sub-title lang="vi">Niên Đại Cam Hồng Tập 17</sub-title>
+  </programme>
+  <programme start="20211003200000 +0700" stop="20211003210000 +0700" channel="da.nang1">
+    <title lang="vi">Phim điện ảnh</title>
+    <sub-title lang="vi">Chúng ta chưa từng Phần 1</sub-title>
+  </programme>
+  <programme start="20211003210000 +0700" stop="20211003211500 +0700" channel="da.nang1">
+    <title lang="vi">Câu chuyện âm nhạc</title>
+    <sub-title lang="vi">Ca khúc “Giận mà thương” 24/8 PL</sub-title>
+  </programme>
+  <programme start="20211003211500 +0700" stop="20211003221500 +0700" channel="da.nang1">
+    <title lang="vi">Phim điện ảnh</title>
+    <sub-title lang="vi">Chúng ta chưa từng Phần 2</sub-title>
+  </programme>
+  <programme start="20211003221500 +0700" stop="20211003223000 +0700" channel="da.nang1">
+    <title lang="vi">Bản tin tiếng Anh</title>
+    <sub-title lang="vi">Bản tin tiếng Anh</sub-title>
+  </programme>
+  <programme start="20211003223000 +0700" stop="20211003231500 +0700" channel="da.nang1">
+    <title lang="vi">Phim truyện TQ</title>
+    <sub-title lang="vi">Xích Hồn Thạch - P2 Tập 12</sub-title>
+  </programme>
+  <programme start="20211003231500 +0700" stop="20211003234000 +0700" channel="da.nang1">
+    <title lang="vi">Thời sự PT-TH Đà Nẵng</title>
+    <sub-title lang="vi">Thời sự PT-TH Đà Nẵng</sub-title>
+  </programme>
+  <programme start="20211003234000 +0700" stop="20211004000000 +0700" channel="da.nang1">
+    <title lang="vi">Những bước chân khám phá  Đi dọc Hoàng Liên Sơn</title>
+    <sub-title lang="vi">Tập 5</sub-title>
+  </programme>
+  <programme start="20211004000000 +0700" stop="20211004013000 +0700" channel="da.nang1">
+    <title lang="vi">Phim điện ảnh</title>
+    <sub-title lang="vi">Giết Chết Kane</sub-title>
+  </programme>
+  <programme start="20211004013000 +0700" stop="20211004014500 +0700" channel="da.nang1">
+    <title lang="vi">Ký sự</title>
+    <sub-title lang="vi">Yên tử</sub-title>
+  </programme>
+  <programme start="20211004014500 +0700" stop="20211004020000 +0700" channel="da.nang1">
+    <title lang="vi">Sạch khỏe mỗi ngày</title>
+    <sub-title lang="vi">Số 68</sub-title>
+  </programme>
+  <programme start="20211004020000 +0700" stop="20211004023000 +0700" channel="da.nang1">
+    <title lang="vi">Ca nhạc</title>
+    <sub-title lang="vi">Giai điệu quê hương</sub-title>
+  </programme>
+  <programme start="20211004023000 +0700" stop="20211004030000 +0700" channel="da.nang1">
+    <title lang="vi">Văn hóa dân tộc</title>
+    <sub-title lang="vi">Cách đặt tên cho con của người Mông</sub-title>
+  </programme>
+  <programme start="20211004030000 +0700" stop="20211004031500 +0700" channel="da.nang1">
+    <title lang="vi">Tiểu phẩm hài</title>
+    <sub-title lang="vi">Chợ của ai</sub-title>
+  </programme>
+  <programme start="20211004031500 +0700" stop="20211004033000 +0700" channel="da.nang1">
+    <title lang="vi">Chuyện gia đình vàng</title>
+    <sub-title lang="vi">Tiểu đêm Tập 960</sub-title>
+  </programme>
+  <programme start="20211004033000 +0700" stop="20211004035000 +0700" channel="da.nang1">
+    <title lang="vi">Dọc đường đất nước</title>
+    <sub-title lang="vi">Tìm về dấu xưa Tập 61</sub-title>
+  </programme>
+  <programme start="20211004035000 +0700" stop="20211004040000 +0700" channel="da.nang1">
+    <title lang="vi">Cười để ngẫm</title>
+    <sub-title lang="vi">Chiến tranh lạnh Số 738</sub-title>
+  </programme>
+  <programme start="20211004040000 +0700" stop="20211004043000 +0700" channel="da.nang1">
+    <title lang="vi">Chương trình</title>
+    <sub-title lang="vi">Pops Music Tập 22</sub-title>
+  </programme>
+  <programme start="20211004043000 +0700" stop="20211004044500 +0700" channel="da.nang1">
+    <title lang="vi">Ngon và lành</title>
+    <sub-title lang="vi">Tác dụng của hạt đác</sub-title>
+  </programme>
+  <programme start="20211004044500 +0700" stop="20211004053000 +0700" channel="da.nang1">
+    <title lang="vi">Phim truyện Singapore</title>
+    <sub-title lang="vi">Mái ấm gia đình (P1) Tập 47</sub-title>
+  </programme>
+  <programme start="20211004053000 +0700" stop="20211004060000 +0700" channel="da.nang1">
+    <title lang="vi">Khỏe đẹp mỗi ngày</title>
+    <sub-title lang="vi">Fitness Số 5+6</sub-title>
+  </programme>
+  <programme start="20211004060000 +0700" stop="20211004063000 +0700" channel="da.nang1">
+    <title lang="vi">Ca nhạc</title>
+    <sub-title lang="vi">Trăm nhớ ngàn thương</sub-title>
+  </programme>
+  <programme start="20211004063000 +0700" stop="20211004070000 +0700" channel="da.nang1">
+    <title lang="vi">Chào ngày mới</title>
+    <sub-title lang="vi">Chào ngày mới</sub-title>
+  </programme>
+  <programme start="20211004070000 +0700" stop="20211004071500 +0700" channel="da.nang1">
+    <title lang="vi">360 độ du lịch Đà Nẵng</title>
+    <sub-title lang="vi">Khám phá vẻ đẹp Bãi Rạng Sơn Trà 02/10 PL</sub-title>
+  </programme>
+  <programme start="20211004071500 +0700" stop="20211004073000 +0700" channel="da.nang1">
+    <title lang="vi">Chuyên mục</title>
+    <sub-title lang="vi">Hội đồng nhân dân với cử tri</sub-title>
+  </programme>
+  <programme start="20211004073000 +0700" stop="20211004074500 +0700" channel="da.nang1">
+    <title lang="vi">Bản tin tiếng Anh</title>
+    <sub-title lang="vi">Bản tin tiếng Anh</sub-title>
+  </programme>
+  <programme start="20211004074500 +0700" stop="20211004083000 +0700" channel="da.nang1">
+    <title lang="vi">Phim truyện VN</title>
+    <sub-title lang="vi">Chỉ một con đường Tập 13</sub-title>
+  </programme>
+  <programme start="20211004083000 +0700" stop="20211004090000 +0700" channel="da.nang1">
+    <title lang="vi">Ca nhạc thiếu nhi</title>
+    <sub-title lang="vi">Quê hương tuổi thơ</sub-title>
+  </programme>
+  <programme start="20211004090000 +0700" stop="20211004093000 +0700" channel="da.nang1">
+    <title lang="vi">Chào ngày mới</title>
+    <sub-title lang="vi">PL</sub-title>
+  </programme>
+  <programme start="20211004093000 +0700" stop="20211004100000 +0700" channel="da.nang1">
+    <title lang="vi">Phim tài liệu  Việt Nam thời đại Hồ Chí Minh_Biên niên sử truyền hình Năm 2006</title>
+    <sub-title lang="vi">Phim tài liệu  Việt Nam thời đại Hồ Chí Minh_Biên niên sử truyền hình Năm 2006</sub-title>
+  </programme>
+  <programme start="20211004100000 +0700" stop="20211004101500 +0700" channel="da.nang1">
+    <title lang="vi">Mỗi tuần một cuốn sách</title>
+    <sub-title lang="vi">Nam tước trên cây 2/10 PL</sub-title>
+  </programme>
+  <programme start="20211004101500 +0700" stop="20211004104500 +0700" channel="da.nang1">
+    <title lang="vi">Chương trình</title>
+    <sub-title lang="vi">Pops Music Số 114</sub-title>
+  </programme>
+  <programme start="20211004104500 +0700" stop="20211004110000 +0700" channel="da.nang1">
+    <title lang="vi">Chuyên mục</title>
+    <sub-title lang="vi">Lao động và công đoàn</sub-title>
+  </programme>
+  <programme start="20211004110000 +0700" stop="20211004111500 +0700" channel="da.nang1">
+    <title lang="vi">Chuyên mục</title>
+    <sub-title lang="vi">An ninh Đà Nẵng</sub-title>
+  </programme>
+  <programme start="20211004111500 +0700" stop="20211004112500 +0700" channel="da.nang1">
+    <title lang="vi">Bản tin thể thao</title>
+    <sub-title lang="vi">Bản tin thể thao</sub-title>
+  </programme>
+  <programme start="20211004112500 +0700" stop="20211004113000 +0700" channel="da.nang1">
+    <title lang="vi">Bản tin Tài chính thị trường</title>
+    <sub-title lang="vi">Bản tin Tài chính thị trường</sub-title>
+  </programme>
+  <programme start="20211004113000 +0700" stop="20211004115500 +0700" channel="da.nang1">
+    <title lang="vi">Thời sự Đài PT-TH ĐN</title>
+    <sub-title lang="vi">Thời sự Đài PT-TH ĐN</sub-title>
+  </programme>
+  <programme start="20211004115500 +0700" stop="20211004120000 +0700" channel="da.nang1">
+    <title lang="vi">Thông tin- Thông báo- Quảng cáo</title>
+    <sub-title lang="vi">Thông tin- Thông báo- Quảng cáo</sub-title>
+  </programme>
+  <programme start="20211004120000 +0700" stop="20211004130000 +0700" channel="da.nang1">
+    <title lang="vi">Phim truyện ĐL</title>
+    <sub-title lang="vi">Mái ấm gia đình – P3 Tập 22</sub-title>
+  </programme>
+  <programme start="20211004130000 +0700" stop="20211004140000 +0700" channel="da.nang1">
+    <title lang="vi">Phim truyện ĐL</title>
+    <sub-title lang="vi">Mái ấm gia đình – P3 Tập 23</sub-title>
+  </programme>
+  <programme start="20211004140000 +0700" stop="20211004143000 +0700" channel="da.nang1">
+    <title lang="vi">Thời sự Đài PT-TH Đà Nẵng</title>
+    <sub-title lang="vi">Thời sự Đài PT-TH Đà Nẵng</sub-title>
+  </programme>
+  <programme start="20211004143000 +0700" stop="20211004150000 +0700" channel="da.nang1">
+    <title lang="vi">Chương trình</title>
+    <sub-title lang="vi">Pops Music Số 115</sub-title>
+  </programme>
+  <programme start="20211004150000 +0700" stop="20211004151500 +0700" channel="da.nang1">
+    <title lang="vi">Phóng sự  Hỗ trợ người lao động, doanh nghiệp khó khăn do covid-19</title>
+    <sub-title lang="vi">30/9 PL</sub-title>
+  </programme>
+  <programme start="20211004151500 +0700" stop="20211004153000 +0700" channel="da.nang1">
+    <title lang="vi">Phim hoạt hình</title>
+    <sub-title lang="vi">Vòng quanh thế giới Tập 33</sub-title>
+  </programme>
+  <programme start="20211004153000 +0700" stop="20211004160000 +0700" channel="da.nang1">
+    <title lang="vi">Non nước ngàn dặm</title>
+    <sub-title lang="vi">Kiến trúc độc đáo nhà thờ đá Kim Sơn – Ninh Bình</sub-title>
+  </programme>
+  <programme start="20211004160000 +0700" stop="20211004165000 +0700" channel="da.nang1">
+    <title lang="vi">Phim truyện Singapore</title>
+    <sub-title lang="vi">Giấc mơ có thật – P2 Tập 14</sub-title>
+  </programme>
+  <programme start="20211004165000 +0700" stop="20211004170000 +0700" channel="da.nang1">
+    <title lang="vi">Bản tin thể thao</title>
+    <sub-title lang="vi">Bản tin thể thao</sub-title>
+  </programme>
+  <programme start="20211004170000 +0700" stop="20211004171500 +0700" channel="da.nang1">
+    <title lang="vi">Sắc màu tuổi thơ</title>
+    <sub-title lang="vi">02/10PL</sub-title>
+  </programme>
+  <programme start="20211004171500 +0700" stop="20211004173000 +0700" channel="da.nang1">
+    <title lang="vi">Chuyên mục</title>
+    <sub-title lang="vi">Văn hóa văn minh đô thị</sub-title>
+  </programme>
+  <programme start="20211004173000 +0700" stop="20211004180000 +0700" channel="da.nang1">
+    <title lang="vi">Văn nghệ cuối tuần</title>
+    <sub-title lang="vi">Văn nghệ cuối tuần</sub-title>
+  </programme>
+  <programme start="20211004180000 +0700" stop="20211004182000 +0700" channel="da.nang1">
+    <title lang="vi">Sạch khỏe mỗi ngày</title>
+    <sub-title lang="vi">Số 34</sub-title>
+  </programme>
+  <programme start="20211004182000 +0700" stop="20211004182500 +0700" channel="da.nang1">
+    <title lang="vi">Dự báo thời tiết – Quảng cáo</title>
+    <sub-title lang="vi">Dự báo thời tiết – Quảng cáo</sub-title>
+  </programme>
+  <programme start="20211004182500 +0700" stop="20211004183000 +0700" channel="da.nang1">
+    <title lang="vi">Bản tin thị trường</title>
+    <sub-title lang="vi">Bản tin thị trường</sub-title>
+  </programme>
+  <programme start="20211004183000 +0700" stop="20211004190000 +0700" channel="da.nang1">
+    <title lang="vi">Thời sự PT-TH  Đà Nẵng</title>
+    <sub-title lang="vi">Thời sự PT-TH  Đà Nẵng</sub-title>
+  </programme>
+  <programme start="20211004190000 +0700" stop="20211004200000 +0700" channel="da.nang1">
+    <title lang="vi">Phim truyện TQ</title>
+    <sub-title lang="vi">Niên Đại Cam Hồng Tập 17</sub-title>
+  </programme>
+  <programme start="20211004200000 +0700" stop="20211004210000 +0700" channel="da.nang1">
+    <title lang="vi">Phim điện ảnh</title>
+    <sub-title lang="vi">Chúng ta chưa từng Phần 1</sub-title>
+  </programme>
+  <programme start="20211004210000 +0700" stop="20211004211500 +0700" channel="da.nang1">
+    <title lang="vi">Câu chuyện âm nhạc</title>
+    <sub-title lang="vi">Ca khúc “Giận mà thương” 24/8 PL</sub-title>
+  </programme>
+  <programme start="20211004211500 +0700" stop="20211004221500 +0700" channel="da.nang1">
+    <title lang="vi">Phim điện ảnh</title>
+    <sub-title lang="vi">Chúng ta chưa từng Phần 2</sub-title>
+  </programme>
+  <programme start="20211004221500 +0700" stop="20211004223000 +0700" channel="da.nang1">
+    <title lang="vi">Bản tin tiếng Anh</title>
+    <sub-title lang="vi">Bản tin tiếng Anh</sub-title>
+  </programme>
+  <programme start="20211004223000 +0700" stop="20211004231500 +0700" channel="da.nang1">
+    <title lang="vi">Phim truyện TQ</title>
+    <sub-title lang="vi">Xích Hồn Thạch - P2 Tập 12</sub-title>
+  </programme>
+  <programme start="20211004231500 +0700" stop="20211004234000 +0700" channel="da.nang1">
+    <title lang="vi">Thời sự PT-TH Đà Nẵng</title>
+    <sub-title lang="vi">Thời sự PT-TH Đà Nẵng</sub-title>
+  </programme>
+</tv>

@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="tien.giang">
+    <display-name lang="vi">Tiền Giang</display-name>
+    <url>http://www.thtg.vn</url>
+  </channel>
+  <programme start="20211003050000 +0700" stop="20211003050300 +0700" channel="tien.giang">
+    <title lang="vi">Đài hiệu + Giới thiệu chương trình</title>
+  </programme>
+  <programme start="20211003050300 +0700" stop="20211003053000 +0700" channel="tien.giang">
+    <title lang="vi">Thể dục buổi sáng</title>
+  </programme>
+  <programme start="20211003053000 +0700" stop="20211003062000 +0700" channel="tien.giang">
+    <title lang="vi">Phim truyện Trung Quốc  :  Diên Hy công lược  _Tập  23</title>
+  </programme>
+  <programme start="20211003062000 +0700" stop="20211003062500 +0700" channel="tien.giang">
+    <title lang="vi">Tiết mục : An Toàn Giao Thông</title>
+  </programme>
+  <programme start="20211003062500 +0700" stop="20211003063000 +0700" channel="tien.giang">
+    <title lang="vi">Chương trình  : Làm chủ tay lái _Người ngồi vị trí nào trên xe ô tô cần phải thắc dây an toàn</title>
+  </programme>
+  <programme start="20211003063000 +0700" stop="20211003065000 +0700" channel="tien.giang">
+    <title lang="vi">Thời sự Buổi sáng Đài Truyền hình Tiền Giang</title>
+  </programme>
+  <programme start="20211003065000 +0700" stop="20211003072000 +0700" channel="tien.giang">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20211003072000 +0700" stop="20211003080500 +0700" channel="tien.giang">
+    <title lang="vi">Chương trình : Sao nhập ngũ _ Nữ chiến binh    ( Tập 7  ) ( PL )</title>
+  </programme>
+  <programme start="20211003080500 +0700" stop="20211003083500 +0700" channel="tien.giang">
+    <title lang="vi">Phim tài liệu : Gốm Chăm</title>
+  </programme>
+  <programme start="20211003083500 +0700" stop="20211003092000 +0700" channel="tien.giang">
+    <title lang="vi">Phim truyện Việt Nam  : Cơn lốc biển –  Tập  2 ( Hết )</title>
+  </programme>
+  <programme start="20211003092000 +0700" stop="20211003101000 +0700" channel="tien.giang">
+    <title lang="vi">Trực tiếp : Chương trình _ Bạn nhà nông</title>
+  </programme>
+  <programme start="20211003110000 +0700" stop="20211003110100 +0700" channel="tien.giang">
+    <title lang="vi">Xướng ngôn giới thiệu chương trình tiếp theo</title>
+  </programme>
+  <programme start="20211003110100 +0700" stop="20211003111500 +0700" channel="tien.giang">
+    <title lang="vi">Phóng sự tài liệu : Tận diệt cá đồng vì sao chưa dứt</title>
+  </programme>
+  <programme start="20211003111500 +0700" stop="20211003113000 +0700" channel="tien.giang">
+    <title lang="vi">Phim hoạt hình :  Cuộc phiêu lưu của Mia _ Tập  28</title>
+  </programme>
+  <programme start="20211003113000 +0700" stop="20211003115000 +0700" channel="tien.giang">
+    <title lang="vi">Thời sự trưa Đài Truyền hình Tiền Giang</title>
+  </programme>
+  <programme start="20211003115000 +0700" stop="20211003115400 +0700" channel="tien.giang">
+    <title lang="vi">Bản tin thể thao</title>
+  </programme>
+  <programme start="20211003115400 +0700" stop="20211003120000 +0700" channel="tien.giang">
+    <title lang="vi">Bản tin thị trường</title>
+  </programme>
+  <programme start="20211003120000 +0700" stop="20211003124500 +0700" channel="tien.giang">
+    <title lang="vi">Phim truyện Trung Quốc : Cô nàng hoàn hảo – Tập 6</title>
+  </programme>
+  <programme start="20211003124500 +0700" stop="20211003133500 +0700" channel="tien.giang">
+    <title lang="vi">Phim truyện Ấn độ : Chuyện tình lọ lem    –  Tập  13</title>
+  </programme>
+  <programme start="20211003140000 +0700" stop="20211003144000 +0700" channel="tien.giang">
+    <title lang="vi">Phim truyện Việt Nam :  Hoa hồng không dành cho em   _  Tập  25</title>
+  </programme>
+  <programme start="20211003144000 +0700" stop="20211003150000 +0700" channel="tien.giang">
+    <title lang="vi">Phim tài liệu : Món ngon quê nhà – Hương vị ba miền</title>
+  </programme>
+  <programme start="20211003150000 +0700" stop="20211003152000 +0700" channel="tien.giang">
+    <title lang="vi">Thời sự trưa Đài Truyền hình Tiền Giang ( PL )</title>
+  </programme>
+  <programme start="20211003152000 +0700" stop="20211003152500 +0700" channel="tien.giang">
+    <title lang="vi">Bản tin thể thao ( PL )</title>
+  </programme>
+  <programme start="20211003152500 +0700" stop="20211003160000 +0700" channel="tien.giang">
+    <title lang="vi">Chương trình : Quà tặng âm nhạc( PL )</title>
+  </programme>
+  <programme start="20211003160000 +0700" stop="20211003162500 +0700" channel="tien.giang">
+    <title lang="vi">Chương trình : Tôi là đầu bếp</title>
+  </programme>
+  <programme start="20211003162500 +0700" stop="20211003173000 +0700" channel="tien.giang">
+    <title lang="vi">Phim truyện  Hàn Quốc  : Quý cô ưu tú    _Tập   9</title>
+  </programme>
+  <programme start="20211003181200 +0700" stop="20211003182400 +0700" channel="tien.giang">
+    <title lang="vi">Chuyên mục : Người lao động</title>
+  </programme>
+  <programme start="20211003182400 +0700" stop="20211003182900 +0700" channel="tien.giang">
+    <title lang="vi">Tiết mục: An toàn giao thông</title>
+  </programme>
+  <programme start="20211003182900 +0700" stop="20211003183000 +0700" channel="tien.giang">
+    <title lang="vi">Xướng ngôn giới thiệu chương trình tiếp theo</title>
+  </programme>
+  <programme start="20211003183000 +0700" stop="20211003185300 +0700" channel="tien.giang">
+    <title lang="vi">Thời sự tối Đài Truyền hình Tiền Giang  + Tin Thế Giới</title>
+  </programme>
+  <programme start="20211003185300 +0700" stop="20211003190000 +0700" channel="tien.giang">
+    <title lang="vi">Quảng Cáo – Tự giới thiệu + Thông báo</title>
+  </programme>
+  <programme start="20211003190000 +0700" stop="20211003194500 +0700" channel="tien.giang">
+    <title lang="vi">TIẾP SÓNG THỜI SỰ ĐÀI TRUYỀN HÌNH VIỆT NAM</title>
+  </programme>
+  <programme start="20211003194500 +0700" stop="20211003203000 +0700" channel="tien.giang">
+    <title lang="vi">Phim truyện Trung Quốc  :  Diên Hy công lược  _Tập  24</title>
+  </programme>
+  <programme start="20211003203000 +0700" stop="20211003205000 +0700" channel="tien.giang">
+    <title lang="vi">Phóng sự tài liệu : Qua vùng sinh thái</title>
+  </programme>
+  <programme start="20211003205000 +0700" stop="20211003213500 +0700" channel="tien.giang">
+    <title lang="vi">Phim truyện Việt Nam : Chàng khờ mất vợ   _  Tập  31</title>
+  </programme>
+  <programme start="20211003213500 +0700" stop="20211003222000 +0700" channel="tien.giang">
+    <title lang="vi">Chương trình : 8 phim _ Tập  40</title>
+  </programme>
+  <programme start="20211003222000 +0700" stop="20211003224500 +0700" channel="tien.giang">
+    <title lang="vi">Thời sự tối Đài Truyền hình Tiền Giang + Tin thế Giới (PL)</title>
+  </programme>
+  <programme start="20211003224500 +0700" stop="20211003233000 +0700" channel="tien.giang">
+    <title lang="vi">Phim truyện Việt Nam :  Hoa hồng không dành cho em   _  Tập  25</title>
+  </programme>
+  <programme start="20211003233000 +0700" stop="20211004001500 +0700" channel="tien.giang">
+    <title lang="vi">Phim truyện Việt Nam  : Cơn lốc biển –  Tập  2 ( Hết )</title>
+  </programme>
+  <programme start="20211004001500 +0700" stop="20211004003000 +0700" channel="tien.giang">
+    <title lang="vi">Phóng sự tài liệu : Dấu xưa Mỹ Tho đại phố ( Phần 2 )</title>
+  </programme>
+  <programme start="20211004003000 +0700" stop="20211004011000 +0700" channel="tien.giang">
+    <title lang="vi">Phim truyện  Hàn Quốc  : Quý cô ưu tú    _Tập   9</title>
+  </programme>
+  <programme start="20211004011000 +0700" stop="20211004013000 +0700" channel="tien.giang">
+    <title lang="vi">Phim tài liệu : Món ngon quê nhà – Hương vị ba miền  ( PL )</title>
+  </programme>
+  <programme start="20211004013000 +0700" stop="20211004021500 +0700" channel="tien.giang">
+    <title lang="vi">Phim truyện Đài Loan : Chỉ dành cho em    –  Tập  58</title>
+  </programme>
+  <programme start="20211004021500 +0700" stop="20211004030000 +0700" channel="tien.giang">
+    <title lang="vi">Phim truyện Việt Nam : Chàng khờ mất vợ   _  Tập  31</title>
+  </programme>
+  <programme start="20211004030000 +0700" stop="20211004033000 +0700" channel="tien.giang">
+    <title lang="vi">Khám phá thế giới : Vùng đất Tây PaPua ( Phần 4 )</title>
+  </programme>
+  <programme start="20211004033000 +0700" stop="20211004041500 +0700" channel="tien.giang">
+    <title lang="vi">Phim truyện Trung Quốc : Cô nàng hoàn hảo – Tập 6</title>
+  </programme>
+</tv>

@@ -1,0 +1,569 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="binh.phuoc1">
+    <display-name lang="vi">Bình Phước 1</display-name>
+    <url>http://www.bptv.vn</url>
+  </channel>
+  <channel id="binh.phuoc2">
+    <display-name lang="vi">Bình Phước 2</display-name>
+    <url>http://www.bptv.vn</url>
+  </channel>
+  <programme start="20211003050000 +0700" stop="20211003050100 +0700" channel="binh.phuoc1">
+    <title lang="vi">NHẠC HIỆU, GIỚI THIỆU CHƯƠNG TRÌNH</title>
+  </programme>
+  <programme start="20211003050100 +0700" stop="20211003051400 +0700" channel="binh.phuoc1">
+    <title lang="vi">KÝ SỰ KHÁM PHÁ: XUÔI DÒNG ĐỒNG NAI - TẬP 31</title>
+  </programme>
+  <programme start="20211003051400 +0700" stop="20211003052200 +0700" channel="binh.phuoc1">
+    <title lang="vi">CẢ NHÀ TẬP NGAY, ĐÁNH BAY COVID</title>
+  </programme>
+  <programme start="20211003052200 +0700" stop="20211003053700 +0700" channel="binh.phuoc1">
+    <title lang="vi">CÓ THỂ BẠN CHƯA BIẾT</title>
+  </programme>
+  <programme start="20211003053700 +0700" stop="20211003055700 +0700" channel="binh.phuoc1">
+    <title lang="vi">TIẾNG KHMER</title>
+  </programme>
+  <programme start="20211003055700 +0700" stop="20211003061800 +0700" channel="binh.phuoc1">
+    <title lang="vi">CÀ PHÊ SÁNG</title>
+  </programme>
+  <programme start="20211003061800 +0700" stop="20211003063800 +0700" channel="binh.phuoc1">
+    <title lang="vi">KHÚC HÁT TUỔI THƠ: LỜI YÊU GỬI MẸ</title>
+  </programme>
+  <programme start="20211003063800 +0700" stop="20211003065900 +0700" channel="binh.phuoc1">
+    <title lang="vi">KHƠI NGUỒN SÁNG TẠO</title>
+  </programme>
+  <programme start="20211003065900 +0700" stop="20211003071500 +0700" channel="binh.phuoc1">
+    <title lang="vi">PHÁP LUẬT VÀ ĐỜI SỐNG</title>
+  </programme>
+  <programme start="20211003071500 +0700" stop="20211003073500 +0700" channel="binh.phuoc1">
+    <title lang="vi">GIẢI TRÍ NƯỚC NGOÀI</title>
+  </programme>
+  <programme start="20211003073500 +0700" stop="20211003080000 +0700" channel="binh.phuoc1">
+    <title lang="vi">THÔNG ĐIỆP TRÁI ĐẤT</title>
+  </programme>
+  <programme start="20211003080000 +0700" stop="20211003080300 +0700" channel="binh.phuoc1">
+    <title lang="vi">VUI HỌC TIẾNG ANH CÙNG TRUNG TÂM ANH NGỮ ÚC CHÂU</title>
+  </programme>
+  <programme start="20211003080300 +0700" stop="20211003084000 +0700" channel="binh.phuoc1">
+    <title lang="vi">HÀNH TRÌNH KHÁT VỌNG</title>
+  </programme>
+  <programme start="20211003084000 +0700" stop="20211003090000 +0700" channel="binh.phuoc1">
+    <title lang="vi">NHỮNG ĐIỀU KỲ THÚ</title>
+  </programme>
+  <programme start="20211003090000 +0700" stop="20211003091100 +0700" channel="binh.phuoc1">
+    <title lang="vi">BẢN TIN COVID - 19</title>
+  </programme>
+  <programme start="20211003091100 +0700" stop="20211003092800 +0700" channel="binh.phuoc1">
+    <title lang="vi">KẾT NỐI ĐÔNG NAM BỘ</title>
+  </programme>
+  <programme start="20211003092800 +0700" stop="20211003100800 +0700" channel="binh.phuoc1">
+    <title lang="vi">THẾ GIỚI ĐỘNG VẬT</title>
+  </programme>
+  <programme start="20211003100800 +0700" stop="20211003103300 +0700" channel="binh.phuoc1">
+    <title lang="vi">TÌM KIẾM TÀI NĂNG QUỐC TẾ</title>
+  </programme>
+  <programme start="20211003103300 +0700" stop="20211003110200 +0700" channel="binh.phuoc1">
+    <title lang="vi">BÀI HÁT TÔI YÊU</title>
+  </programme>
+  <programme start="20211003110200 +0700" stop="20211003113000 +0700" channel="binh.phuoc1">
+    <title lang="vi">TẠP CHÍ THIẾU NHI</title>
+  </programme>
+  <programme start="20211003113000 +0700" stop="20211003120200 +0700" channel="binh.phuoc1">
+    <title lang="vi">THỜI SỰ TRƯA</title>
+  </programme>
+  <programme start="20211003120200 +0700" stop="20211003130000 +0700" channel="binh.phuoc1">
+    <title lang="vi">PHIM TRUYỆN: HÔN LỄ MÙA THU - TẬP 5</title>
+  </programme>
+  <programme start="20211003130000 +0700" stop="20211003132900 +0700" channel="binh.phuoc1">
+    <title lang="vi">TRUYỀN HÌNH QUÂN KHU 7</title>
+  </programme>
+  <programme start="20211003132900 +0700" stop="20211003135900 +0700" channel="binh.phuoc1">
+    <title lang="vi">NHỮNG ĐIỀU KỲ THÚ</title>
+  </programme>
+  <programme start="20211003135900 +0700" stop="20211003144500 +0700" channel="binh.phuoc1">
+    <title lang="vi">PHIM TRUYỆN: VÙNG VEN MỘT THỜI CON GÁI - TẬP 5</title>
+  </programme>
+  <programme start="20211003144500 +0700" stop="20211003150000 +0700" channel="binh.phuoc1">
+    <title lang="vi">KÝ SỰ: KHÁM PHÁ BIỂN ĐẢO QUÊ HƯƠNG - TẬP 4</title>
+  </programme>
+  <programme start="20211003150000 +0700" stop="20211003151000 +0700" channel="binh.phuoc1">
+    <title lang="vi">BẢN TIN COVID – 19</title>
+  </programme>
+  <programme start="20211003151000 +0700" stop="20211003153000 +0700" channel="binh.phuoc1">
+    <title lang="vi">PHIM NGẮN AN TOÀN THÔNG TIN: HACKER 4.0 - TẬP 2</title>
+  </programme>
+  <programme start="20211003153000 +0700" stop="20211003155800 +0700" channel="binh.phuoc1">
+    <title lang="vi">DÂN CA CỔ NHẠC: TÌNH ĐOÀN KẾT</title>
+  </programme>
+  <programme start="20211003155800 +0700" stop="20211003161900 +0700" channel="binh.phuoc1">
+    <title lang="vi">VĂN HÓA ẨM THỰC THẾ GIỚI</title>
+  </programme>
+  <programme start="20211003161900 +0700" stop="20211003163000 +0700" channel="binh.phuoc1">
+    <title lang="vi">CẢ NHÀ TẬP NGAY, ĐÁNH BAY COVID</title>
+  </programme>
+  <programme start="20211003163000 +0700" stop="20211003172900 +0700" channel="binh.phuoc1">
+    <title lang="vi">PHIM TRUYỆN: TRUYỀN THUYẾT PHƯỢNG HOÀNG - TẬP 35</title>
+  </programme>
+  <programme start="20211003172900 +0700" stop="20211003174500 +0700" channel="binh.phuoc1">
+    <title lang="vi">NÔNG NGHIỆP – NÔNG THÔN</title>
+  </programme>
+  <programme start="20211003174500 +0700" stop="20211003180000 +0700" channel="binh.phuoc1">
+    <title lang="vi">THẾ GIỚI TUẦN QUA</title>
+  </programme>
+  <programme start="20211003180000 +0700" stop="20211003182000 +0700" channel="binh.phuoc1">
+    <title lang="vi">BẢN TIN 100 ĐỘ</title>
+  </programme>
+  <programme start="20211003182000 +0700" stop="20211003183000 +0700" channel="binh.phuoc1">
+    <title lang="vi">DỰ BÁO THỜI TIẾT</title>
+  </programme>
+  <programme start="20211003183000 +0700" stop="20211003190000 +0700" channel="binh.phuoc1">
+    <title lang="vi">THỜI SỰ TỐI</title>
+  </programme>
+  <programme start="20211003190000 +0700" stop="20211003194000 +0700" channel="binh.phuoc1">
+    <title lang="vi">TIẾP SÓNG THỜI SỰ ĐÀI TRUYỀN HÌNH VIỆT NAM</title>
+  </programme>
+  <programme start="20211003194000 +0700" stop="20211003195300 +0700" channel="binh.phuoc1">
+    <title lang="vi">VÌ CHỦ QUYỀN AN NINH BIỂN ĐẢO</title>
+  </programme>
+  <programme start="20211003195300 +0700" stop="20211003205000 +0700" channel="binh.phuoc1">
+    <title lang="vi">PHIM TRUYỆN: LANG Y LỪNG DANH - TẬP 3</title>
+  </programme>
+  <programme start="20211003205000 +0700" stop="20211003210000 +0700" channel="binh.phuoc1">
+    <title lang="vi">CUỘC SỐNG TƯƠI ĐẸP</title>
+  </programme>
+  <programme start="20211003210000 +0700" stop="20211003211000 +0700" channel="binh.phuoc1">
+    <title lang="vi">BẢN TIN COVID – 19</title>
+  </programme>
+  <programme start="20211003211000 +0700" stop="20211003213000 +0700" channel="binh.phuoc1">
+    <title lang="vi">NHỊP ĐIỆU V.POP: CÙNG NHAU KHI TUYẾT RƠI</title>
+  </programme>
+  <programme start="20211003213000 +0700" stop="20211003221500 +0700" channel="binh.phuoc1">
+    <title lang="vi">KHÁT VỌNG SỐNG</title>
+  </programme>
+  <programme start="20211003221500 +0700" stop="20211004050000 +0700" channel="binh.phuoc1">
+    <title lang="vi">SÂN KHẤU CẢI LƯƠNG:  NỖI ĐAU SỢI TƠ ĐỒNG</title>
+  </programme>
+  <programme start="20211004050000 +0700" stop="20211004050300 +0700" channel="binh.phuoc1">
+    <title lang="vi">NHẠC HIỆU, GIỚI THIỆU CHƯƠNG TRÌNH</title>
+  </programme>
+  <programme start="20211004050300 +0700" stop="20211004052000 +0700" channel="binh.phuoc1">
+    <title lang="vi">KÝ SỰ KHÁM PHÁ: XUÔI DÒNG ĐỒNG NAI - TẬP 32</title>
+  </programme>
+  <programme start="20211004052000 +0700" stop="20211004052500 +0700" channel="binh.phuoc1">
+    <title lang="vi">CẢ NHÀ TẬP NGAY, ĐÁNH BAY COVID</title>
+  </programme>
+  <programme start="20211004052500 +0700" stop="20211004054500 +0700" channel="binh.phuoc1">
+    <title lang="vi">KHƠI NGUỒN SÁNG TẠO</title>
+  </programme>
+  <programme start="20211004054500 +0700" stop="20211004060000 +0700" channel="binh.phuoc1">
+    <title lang="vi">NÔNG NGHIỆP – NÔNG THÔN</title>
+  </programme>
+  <programme start="20211004060000 +0700" stop="20211004062000 +0700" channel="binh.phuoc1">
+    <title lang="vi">CÀ PHÊ SÁNG</title>
+  </programme>
+  <programme start="20211004062000 +0700" stop="20211004064000 +0700" channel="binh.phuoc1">
+    <title lang="vi">KHÚC HÁT TUỔI THƠ: THƯƠNG CON MẸ YÊU</title>
+  </programme>
+  <programme start="20211004064000 +0700" stop="20211004070000 +0700" channel="binh.phuoc1">
+    <title lang="vi">IT TODAY</title>
+  </programme>
+  <programme start="20211004070000 +0700" stop="20211004070500 +0700" channel="binh.phuoc1">
+    <title lang="vi">CHÀO CỜ</title>
+  </programme>
+  <programme start="20211004070500 +0700" stop="20211004072000 +0700" channel="binh.phuoc1">
+    <title lang="vi">VÌ CHỦ QUYỀN AN NINH BIỂN ĐẢO</title>
+  </programme>
+  <programme start="20211004072000 +0700" stop="20211004074000 +0700" channel="binh.phuoc1">
+    <title lang="vi">GIẢI TRÍ NƯỚC NGOÀI</title>
+  </programme>
+  <programme start="20211004074000 +0700" stop="20211004075500 +0700" channel="binh.phuoc1">
+    <title lang="vi">CÓ THỂ BẠN CHƯA BIẾT</title>
+  </programme>
+  <programme start="20211004075500 +0700" stop="20211004081500 +0700" channel="binh.phuoc1">
+    <title lang="vi">VĂN HÓA ẨM THỰC THẾ GIỚI</title>
+  </programme>
+  <programme start="20211004081500 +0700" stop="20211004083500 +0700" channel="binh.phuoc1">
+    <title lang="vi">NHỮNG LĂNG HÌNH SỐNG ĐỘNG</title>
+  </programme>
+  <programme start="20211004083500 +0700" stop="20211004090000 +0700" channel="binh.phuoc1">
+    <title lang="vi">MẬT MÃ Y KHOA</title>
+  </programme>
+  <programme start="20211004090000 +0700" stop="20211004091000 +0700" channel="binh.phuoc1">
+    <title lang="vi">BẢN TIN COVID – 19</title>
+  </programme>
+  <programme start="20211004091000 +0700" stop="20211004094000 +0700" channel="binh.phuoc1">
+    <title lang="vi">BÀI HÁT TÔI YÊU</title>
+  </programme>
+  <programme start="20211004094000 +0700" stop="20211004101000 +0700" channel="binh.phuoc1">
+    <title lang="vi">TRUYỀN HÌNH QUÂN KHU 7</title>
+  </programme>
+  <programme start="20211004101000 +0700" stop="20211004110000 +0700" channel="binh.phuoc1">
+    <title lang="vi">HÀNH TRÌNH KHÁM PHÁ</title>
+  </programme>
+  <programme start="20211004110000 +0700" stop="20211004113000 +0700" channel="binh.phuoc1">
+    <title lang="vi">VƯỜN HOA ÂM NHẠC TUỔI THƠ</title>
+  </programme>
+  <programme start="20211004113000 +0700" stop="20211004120000 +0700" channel="binh.phuoc1">
+    <title lang="vi">THỜI SỰ TRƯA</title>
+  </programme>
+  <programme start="20211004120000 +0700" stop="20211004120500 +0700" channel="binh.phuoc1">
+    <title lang="vi">SẮC MÀU KINH TẾ</title>
+  </programme>
+  <programme start="20211004120500 +0700" stop="20211004130000 +0700" channel="binh.phuoc1">
+    <title lang="vi">PHIM TRUYỆN: HÔN LỄ MÙA THU - TẬP 6</title>
+  </programme>
+  <programme start="20211004130000 +0700" stop="20211004132000 +0700" channel="binh.phuoc1">
+    <title lang="vi">KÝ SỰ VÙNG BIÊN - TẬP 49</title>
+  </programme>
+  <programme start="20211004132000 +0700" stop="20211004133000 +0700" channel="binh.phuoc1">
+    <title lang="vi">CÓ THỂ BẠN CHƯA BIẾT</title>
+  </programme>
+  <programme start="20211004133000 +0700" stop="20211004140000 +0700" channel="binh.phuoc1">
+    <title lang="vi">KHÁT VỌNG SỐNG</title>
+  </programme>
+  <programme start="20211004140000 +0700" stop="20211004144500 +0700" channel="binh.phuoc1">
+    <title lang="vi">PHIM TRUYỆN: VÙNG VEN MỘT THỜI CON GÁI</title>
+  </programme>
+  <programme start="20211004144500 +0700" stop="20211004150000 +0700" channel="binh.phuoc1">
+    <title lang="vi">KÝ SỰ:  KHÁM PHÁ BIỂN ĐẢO QUÊ HƯƠNG - TẬP 5</title>
+  </programme>
+  <programme start="20211004150000 +0700" stop="20211004151000 +0700" channel="binh.phuoc1">
+    <title lang="vi">BẢN TIN COVID – 19</title>
+  </programme>
+  <programme start="20211004151000 +0700" stop="20211004153000 +0700" channel="binh.phuoc1">
+    <title lang="vi">PHIM NGẮN AN TOÀN THÔNG TIN: HACKER 4.0 - TẬP 3</title>
+  </programme>
+  <programme start="20211004153000 +0700" stop="20211004160000 +0700" channel="binh.phuoc1">
+    <title lang="vi">DÂN CA CỔ NHẠC: SẺ CHIA TRONG GIAN KHÓ</title>
+  </programme>
+  <programme start="20211004160000 +0700" stop="20211004162000 +0700" channel="binh.phuoc1">
+    <title lang="vi">GIẢI TRÍ TỔNG HỢP</title>
+  </programme>
+  <programme start="20211004162000 +0700" stop="20211004162500 +0700" channel="binh.phuoc1">
+    <title lang="vi">SẮC MÀU KINH TẾ</title>
+  </programme>
+  <programme start="20211004162500 +0700" stop="20211004162500 +0700" channel="binh.phuoc1">
+    <title lang="vi">CHÍNH SÁCH BẢO HIỂM VÀ CUỘC SỐNG</title>
+  </programme>
+  <programme start="20211004162500 +0700" stop="20211004163000 +0700" channel="binh.phuoc1">
+    <title lang="vi">CẢ NHÀ TẬP NGAY, ĐÁNH BAY COVID</title>
+  </programme>
+  <programme start="20211004163000 +0700" stop="20211004173000 +0700" channel="binh.phuoc1">
+    <title lang="vi">PHIM TRUYỆN: TRUYỀN THUYẾT PHƯỢNG HOÀNG - TẬP 36</title>
+  </programme>
+  <programme start="20211004173000 +0700" stop="20211004174500 +0700" channel="binh.phuoc1">
+    <title lang="vi">AN TOÀN GIAO THÔNG</title>
+  </programme>
+  <programme start="20211004174500 +0700" stop="20211004180000 +0700" channel="binh.phuoc1">
+    <title lang="vi">KHUYẾN NÔNG</title>
+  </programme>
+  <programme start="20211004180000 +0700" stop="20211004181000 +0700" channel="binh.phuoc1">
+    <title lang="vi">TIN TỨC 100 ĐỘ</title>
+  </programme>
+  <programme start="20211004181000 +0700" stop="20211004182000 +0700" channel="binh.phuoc1">
+    <title lang="vi">GÓC NHÌN THẲNG</title>
+  </programme>
+  <programme start="20211004182000 +0700" stop="20211004183000 +0700" channel="binh.phuoc1">
+    <title lang="vi">DỰ BÁO THỜI TIẾT</title>
+  </programme>
+  <programme start="20211004183000 +0700" stop="20211004190000 +0700" channel="binh.phuoc1">
+    <title lang="vi">THỜI SỰ TỐI</title>
+  </programme>
+  <programme start="20211004190000 +0700" stop="20211004195000 +0700" channel="binh.phuoc1">
+    <title lang="vi">TIẾP SÓNG THỜI SỰ ĐÀI TRUYỀN HÌNH VIỆT NAM</title>
+  </programme>
+  <programme start="20211004195000 +0700" stop="20211004204500 +0700" channel="binh.phuoc1">
+    <title lang="vi">PHIM TRUYỆN: LANG Y LỪNG DANH - TẬP 4</title>
+  </programme>
+  <programme start="20211004204500 +0700" stop="20211004210000 +0700" channel="binh.phuoc1">
+    <title lang="vi">DIỄN ĐÀN CỬ TRI</title>
+  </programme>
+  <programme start="20211004210000 +0700" stop="20211004211000 +0700" channel="binh.phuoc1">
+    <title lang="vi">BẢN TIN COVID – 19</title>
+  </programme>
+  <programme start="20211004211000 +0700" stop="20211004220000 +0700" channel="binh.phuoc1">
+    <title lang="vi">PHIM TRUYỆN: NỢ ANH MỘT GIẤC MƠ - TẬP 2</title>
+  </programme>
+  <programme start="20211004220000 +0700" stop="20211004224000 +0700" channel="binh.phuoc1">
+    <title lang="vi">BÀI HÁT TÔI YÊU</title>
+  </programme>
+  <programme start="20211004224000 +0700" stop="20211004230000 +0700" channel="binh.phuoc1">
+    <title lang="vi">GIẢI TRÍ TỔNG HỢP</title>
+  </programme>
+  <programme start="20211004230000 +0700" stop="20211004233000 +0700" channel="binh.phuoc1">
+    <title lang="vi">DÂN CA CỔ NHẠC: SẺ CHIA TRONG GIAN KHÓ</title>
+  </programme>
+  <programme start="20211003050000 +0700" stop="20211003053000 +0700" channel="binh.phuoc2">
+    <title lang="vi">NHỊP ĐIỆU V.POP: HÃY Ở LẠI BÊN EM</title>
+  </programme>
+  <programme start="20211003053000 +0700" stop="20211003053500 +0700" channel="binh.phuoc2">
+    <title lang="vi">CẢ NHÀ TẬP NGAY, ĐÁNH BAY COVID (BÀI 7)</title>
+  </programme>
+  <programme start="20211003053500 +0700" stop="20211003055000 +0700" channel="binh.phuoc2">
+    <title lang="vi">MẬT MÃ Y KHOA</title>
+  </programme>
+  <programme start="20211003055000 +0700" stop="20211003060000 +0700" channel="binh.phuoc2">
+    <title lang="vi">CUỘC SỐNG TƯƠI ĐẸP</title>
+  </programme>
+  <programme start="20211003060000 +0700" stop="20211003064500 +0700" channel="binh.phuoc2">
+    <title lang="vi">PHIM TRUYỆN: PHÍA SAU NỤ CƯỜI   -  TẬP 29</title>
+  </programme>
+  <programme start="20211003064500 +0700" stop="20211003070000 +0700" channel="binh.phuoc2">
+    <title lang="vi">SỨC TRẺ HÔM NAY</title>
+  </programme>
+  <programme start="20211003070000 +0700" stop="20211003072000 +0700" channel="binh.phuoc2">
+    <title lang="vi">CÀ PHÊ SÁNG</title>
+  </programme>
+  <programme start="20211003072000 +0700" stop="20211003074000 +0700" channel="binh.phuoc2">
+    <title lang="vi">KHƠI NGUỒN SÁNG TẠO</title>
+  </programme>
+  <programme start="20211003074000 +0700" stop="20211003080000 +0700" channel="binh.phuoc2">
+    <title lang="vi">KHÚC HÁT TUỔI THƠ: TÌNH MẸ</title>
+  </programme>
+  <programme start="20211003080000 +0700" stop="20211003081500 +0700" channel="binh.phuoc2">
+    <title lang="vi">KÝ SỰ BIỂN ĐẢO  -  TẬP 49</title>
+  </programme>
+  <programme start="20211003081500 +0700" stop="20211003083000 +0700" channel="binh.phuoc2">
+    <title lang="vi">PHÁP LUẬT VÀ ĐỜI SỐNG</title>
+  </programme>
+  <programme start="20211003083000 +0700" stop="20211003090000 +0700" channel="binh.phuoc2">
+    <title lang="vi">PHIM TÀI LIỆU: THIÊN NHIÊN VIỆT NAM  -  TẬP 3</title>
+  </programme>
+  <programme start="20211003090000 +0700" stop="20211003094500 +0700" channel="binh.phuoc2">
+    <title lang="vi">PHIM TRUYỆN: ĐỘC THÂN TUỔI 30  -  TẬP 22</title>
+  </programme>
+  <programme start="20211003094500 +0700" stop="20211003100000 +0700" channel="binh.phuoc2">
+    <title lang="vi">SỨC TRẺ HÔM NAY</title>
+  </programme>
+  <programme start="20211003100000 +0700" stop="20211003101000 +0700" channel="binh.phuoc2">
+    <title lang="vi">BẢN TIN COVID – 19</title>
+  </programme>
+  <programme start="20211003101000 +0700" stop="20211003110000 +0700" channel="binh.phuoc2">
+    <title lang="vi">THẾ GIỚI ĐỘNG VẬT</title>
+  </programme>
+  <programme start="20211003110000 +0700" stop="20211003112000 +0700" channel="binh.phuoc2">
+    <title lang="vi">KHƠI NGUỒN SÁNG TẠO</title>
+  </programme>
+  <programme start="20211003112000 +0700" stop="20211003113000 +0700" channel="binh.phuoc2">
+    <title lang="vi">CUỘC SỐNG TƯƠI ĐẸP</title>
+  </programme>
+  <programme start="20211003113000 +0700" stop="20211003120000 +0700" channel="binh.phuoc2">
+    <title lang="vi">PHIM HOẠT HÌNH: CHÚ RỒNG AO AO  -   TẬP 33+34</title>
+  </programme>
+  <programme start="20211003120000 +0700" stop="20211003123000 +0700" channel="binh.phuoc2">
+    <title lang="vi">THỜI SỰ</title>
+  </programme>
+  <programme start="20211003123000 +0700" stop="20211003130000 +0700" channel="binh.phuoc2">
+    <title lang="vi">DÂN CA NHẠC CỔ: ĐỒNG LÒNG ĐÁNH GIẶC CORONA</title>
+  </programme>
+  <programme start="20211003130000 +0700" stop="20211003134500 +0700" channel="binh.phuoc2">
+    <title lang="vi">PHIM TRUYỆN:  PHÍA SAU NỤ CƯỜI   -  TẬP 29</title>
+  </programme>
+  <programme start="20211003134500 +0700" stop="20211003140000 +0700" channel="binh.phuoc2">
+    <title lang="vi">PHÁP LUẬT VÀ ĐỜI SỐNG</title>
+  </programme>
+  <programme start="20211003140000 +0700" stop="20211003141500 +0700" channel="binh.phuoc2">
+    <title lang="vi">KÝ SỰ BIỂN ĐẢO   -  TẬP 49</title>
+  </programme>
+  <programme start="20211003141500 +0700" stop="20211003143000 +0700" channel="binh.phuoc2">
+    <title lang="vi">MẬT MÃ Y KHOA</title>
+  </programme>
+  <programme start="20211003143000 +0700" stop="20211003150000 +0700" channel="binh.phuoc2">
+    <title lang="vi">NHỊP ĐIỆU V.POP: HÃY Ở LẠI BÊN EM</title>
+  </programme>
+  <programme start="20211003150000 +0700" stop="20211003154500 +0700" channel="binh.phuoc2">
+    <title lang="vi">PHIM TRUYỆN: ĐỘC THÂN TUỔI 30  -  TẬP 22</title>
+  </programme>
+  <programme start="20211003154500 +0700" stop="20211003160500 +0700" channel="binh.phuoc2">
+    <title lang="vi">VĂN HÓA ẨM THỰC THẾ GIỚI</title>
+  </programme>
+  <programme start="20211003160500 +0700" stop="20211003162500 +0700" channel="binh.phuoc2">
+    <title lang="vi">GIẢI TRÍ TỔNG HỢP</title>
+  </programme>
+  <programme start="20211003162500 +0700" stop="20211003164000 +0700" channel="binh.phuoc2">
+    <title lang="vi">CÓ THỂ BẠN CHƯA BIẾT</title>
+  </programme>
+  <programme start="20211003164000 +0700" stop="20211003170000 +0700" channel="binh.phuoc2">
+    <title lang="vi">SỨC TRẺ HÔM NAY</title>
+  </programme>
+  <programme start="20211003170000 +0700" stop="20211003174500 +0700" channel="binh.phuoc2">
+    <title lang="vi">PHIM TRUYỆN: CHIÊU DAO  -  TẬP 48</title>
+  </programme>
+  <programme start="20211003174500 +0700" stop="20211003180000 +0700" channel="binh.phuoc2">
+    <title lang="vi">HACKER 4.0 - TẬP 2</title>
+  </programme>
+  <programme start="20211003180000 +0700" stop="20211003183000 +0700" channel="binh.phuoc2">
+    <title lang="vi">PHIM HOẠT HÌNH CHÚ RỒNG AO AO  -  TẬP 33+34</title>
+  </programme>
+  <programme start="20211003183000 +0700" stop="20211003190000 +0700" channel="binh.phuoc2">
+    <title lang="vi">TRỰC TIẾP THỜI SỰ</title>
+  </programme>
+  <programme start="20211003190000 +0700" stop="20211003194500 +0700" channel="binh.phuoc2">
+    <title lang="vi">PHIM TRUYỆN: ĐỘC THÂN TUỔI 30 – TẬP 23</title>
+  </programme>
+  <programme start="20211003194500 +0700" stop="20211003200000 +0700" channel="binh.phuoc2">
+    <title lang="vi">PHÁP LUẬT VÀ ĐỜI SỐNG</title>
+  </programme>
+  <programme start="20211003200000 +0700" stop="20211003204500 +0700" channel="binh.phuoc2">
+    <title lang="vi">PHIM TRUYỆN: PHÍA SAU NỤ CƯỜI  -  TẬP 30</title>
+  </programme>
+  <programme start="20211003204500 +0700" stop="20211003210000 +0700" channel="binh.phuoc2">
+    <title lang="vi">KÝ SỰ BIỂN ĐẢO  -  TẬP 49</title>
+  </programme>
+  <programme start="20211003210000 +0700" stop="20211003214500 +0700" channel="binh.phuoc2">
+    <title lang="vi">PHIM TRUYỆN: BÁC SĨ KHOA CẤP CỨU  -  TẬP 40</title>
+  </programme>
+  <programme start="20211003214500 +0700" stop="20211003220000 +0700" channel="binh.phuoc2">
+    <title lang="vi">CUỘC SỐNG TƯƠI ĐẸP</title>
+  </programme>
+  <programme start="20211003220000 +0700" stop="20211003224500 +0700" channel="binh.phuoc2">
+    <title lang="vi">PHIM TRUYỆN: THẾ GIAN TÌNH – PHẦN 5 – TẬP 156</title>
+  </programme>
+  <programme start="20211003224500 +0700" stop="20211003230000 +0700" channel="binh.phuoc2">
+    <title lang="vi">TIN TỨC 100 ĐỘ</title>
+  </programme>
+  <programme start="20211003230000 +0700" stop="20211003233000 +0700" channel="binh.phuoc2">
+    <title lang="vi">NHỊP ĐIỆU V.POP: HÃY Ở LẠI BÊN EM</title>
+  </programme>
+  <programme start="20211003233000 +0700" stop="20211003234500 +0700" channel="binh.phuoc2">
+    <title lang="vi">KỊCH BẮC SƠN: CON TƯ BẾN TRE</title>
+  </programme>
+  <programme start="20211003234500 +0700" stop="20211004050000 +0700" channel="binh.phuoc2">
+    <title lang="vi">BẢN TIN COVID-19</title>
+  </programme>
+  <programme start="20211004050000 +0700" stop="20211004054000 +0700" channel="binh.phuoc2">
+    <title lang="vi">HÀNH TRÌNH KHÁM PHÁ</title>
+  </programme>
+  <programme start="20211004054000 +0700" stop="20211004054500 +0700" channel="binh.phuoc2">
+    <title lang="vi">CẢ NHÀ TẬP NGAY, ĐÁNH BAY COVID (BÀI 8)</title>
+  </programme>
+  <programme start="20211004054500 +0700" stop="20211004060000 +0700" channel="binh.phuoc2">
+    <title lang="vi">CUỘC SỐNG TƯƠI ĐẸP</title>
+  </programme>
+  <programme start="20211004060000 +0700" stop="20211004064500 +0700" channel="binh.phuoc2">
+    <title lang="vi">PHIM TRUYỆN: PHÍA SAU NỤ CƯỜI  -  TẬP 30</title>
+  </programme>
+  <programme start="20211004064500 +0700" stop="20211004070000 +0700" channel="binh.phuoc2">
+    <title lang="vi">NÔNG NGHIỆP – NÔNG THÔN</title>
+  </programme>
+  <programme start="20211004070000 +0700" stop="20211004072000 +0700" channel="binh.phuoc2">
+    <title lang="vi">CÀ PHÊ SÁNG</title>
+  </programme>
+  <programme start="20211004072000 +0700" stop="20211004074000 +0700" channel="binh.phuoc2">
+    <title lang="vi">NHỮNG ĐIỀU KỲ THÚ</title>
+  </programme>
+  <programme start="20211004074000 +0700" stop="20211004080000 +0700" channel="binh.phuoc2">
+    <title lang="vi">KHÚC HÁT TUỔI THƠ: GIA ĐÌNH YÊU THƯƠNG</title>
+  </programme>
+  <programme start="20211004080000 +0700" stop="20211004081500 +0700" channel="binh.phuoc2">
+    <title lang="vi">KÝ SỰ BIỂN ĐẢO    -  TẬP 50</title>
+  </programme>
+  <programme start="20211004081500 +0700" stop="20211004083000 +0700" channel="binh.phuoc2">
+    <title lang="vi">CÓ THỂ BẠN CHƯA BIẾT</title>
+  </programme>
+  <programme start="20211004083000 +0700" stop="20211004090000 +0700" channel="binh.phuoc2">
+    <title lang="vi">PHIM TÀI LIỆU: THIÊN NHIÊN VIỆT NAM   -  TẬP 4</title>
+  </programme>
+  <programme start="20211004090000 +0700" stop="20211004094500 +0700" channel="binh.phuoc2">
+    <title lang="vi">PHIM TRUYỆN: ĐỘC THÂN TUỔI 30 -  TẬP 23</title>
+  </programme>
+  <programme start="20211004094500 +0700" stop="20211004100000 +0700" channel="binh.phuoc2">
+    <title lang="vi">PHÁP LUẬT VÀ ĐỜI SỐNG</title>
+  </programme>
+  <programme start="20211004100000 +0700" stop="20211004101000 +0700" channel="binh.phuoc2">
+    <title lang="vi">BẢN TIN COVID – 19</title>
+  </programme>
+  <programme start="20211004101000 +0700" stop="20211004103500 +0700" channel="binh.phuoc2">
+    <title lang="vi">CÂU CHUYỆN BỐN PHƯƠNG</title>
+  </programme>
+  <programme start="20211004103500 +0700" stop="20211004110000 +0700" channel="binh.phuoc2">
+    <title lang="vi">THÔNG ĐIỆP TRÁI ĐẤT</title>
+  </programme>
+  <programme start="20211004110000 +0700" stop="20211004112000 +0700" channel="binh.phuoc2">
+    <title lang="vi">TẠP CHÍ THIẾU NHI</title>
+  </programme>
+  <programme start="20211004112000 +0700" stop="20211004113000 +0700" channel="binh.phuoc2">
+    <title lang="vi">CUỘC SỐNG TƯƠI ĐẸP</title>
+  </programme>
+  <programme start="20211004113000 +0700" stop="20211004120000 +0700" channel="binh.phuoc2">
+    <title lang="vi">PHIM HOẠT HÌNH:  CHÚ RỒNG AO AO  -  TẬP 35+36</title>
+  </programme>
+  <programme start="20211004120000 +0700" stop="20211004123000 +0700" channel="binh.phuoc2">
+    <title lang="vi">THỜI SỰ</title>
+  </programme>
+  <programme start="20211004123000 +0700" stop="20211004130000 +0700" channel="binh.phuoc2">
+    <title lang="vi">DÂN CA NHẠC CỔ: NHỮNG TẤM LÒNG SON</title>
+  </programme>
+  <programme start="20211004130000 +0700" stop="20211004134500 +0700" channel="binh.phuoc2">
+    <title lang="vi">PHIM TRUYỆN:  PHÍA SAU NỤ CƯỜI  -  TẬP 30</title>
+  </programme>
+  <programme start="20211004134500 +0700" stop="20211004140000 +0700" channel="binh.phuoc2">
+    <title lang="vi">NÔNG NGHIỆP – NÔNG THÔN</title>
+  </programme>
+  <programme start="20211004140000 +0700" stop="20211004141500 +0700" channel="binh.phuoc2">
+    <title lang="vi">KÝ SỰ BIỂN ĐẢO – TẬP 50</title>
+  </programme>
+  <programme start="20211004141500 +0700" stop="20211004143000 +0700" channel="binh.phuoc2">
+    <title lang="vi">MẬT MÃ Y KHOA</title>
+  </programme>
+  <programme start="20211004143000 +0700" stop="20211004150000 +0700" channel="binh.phuoc2">
+    <title lang="vi">360 ĐỘ CUỘC SỐNG</title>
+  </programme>
+  <programme start="20211004150000 +0700" stop="20211004154500 +0700" channel="binh.phuoc2">
+    <title lang="vi">PHIM TRUYỆN: ĐỘC THÂN TUỔI 30 -  TẬP 23</title>
+  </programme>
+  <programme start="20211004154500 +0700" stop="20211004160000 +0700" channel="binh.phuoc2">
+    <title lang="vi">CÓ THỂ BẠN CHƯA BIẾT</title>
+  </programme>
+  <programme start="20211004160000 +0700" stop="20211004162000 +0700" channel="binh.phuoc2">
+    <title lang="vi">VĂN HÓA ẨM THỰC THẾ GIỚI</title>
+  </programme>
+  <programme start="20211004162000 +0700" stop="20211004164500 +0700" channel="binh.phuoc2">
+    <title lang="vi">SẮC MÀU THỜI TRANG</title>
+  </programme>
+  <programme start="20211004164500 +0700" stop="20211004165500 +0700" channel="binh.phuoc2">
+    <title lang="vi">CUỘC SỐNG TƯƠI ĐẸP</title>
+  </programme>
+  <programme start="20211004165500 +0700" stop="20211004170000 +0700" channel="binh.phuoc2">
+    <title lang="vi">CẢ NHÀ TẬP NGAY, ĐÁNH BAY COVID  (BÀI 8)</title>
+  </programme>
+  <programme start="20211004170000 +0700" stop="20211004174500 +0700" channel="binh.phuoc2">
+    <title lang="vi">PHIM TRUYỆN: CHIÊU DAO   -  TẬP 49</title>
+  </programme>
+  <programme start="20211004174500 +0700" stop="20211004180000 +0700" channel="binh.phuoc2">
+    <title lang="vi">HACKER 4.0 - TẬP 3</title>
+  </programme>
+  <programme start="20211004180000 +0700" stop="20211004183000 +0700" channel="binh.phuoc2">
+    <title lang="vi">PHIM HOẠT HÌNH:  CHÚ RỒNG AO AO  -  TẬP  35+36</title>
+  </programme>
+  <programme start="20211004183000 +0700" stop="20211004190000 +0700" channel="binh.phuoc2">
+    <title lang="vi">TRỰC TIẾP THỜI SỰ</title>
+  </programme>
+  <programme start="20211004190000 +0700" stop="20211004194500 +0700" channel="binh.phuoc2">
+    <title lang="vi">PHIM TRUYỆN: ĐỘC THÂN TUỔI 30  -  TẬP 24</title>
+  </programme>
+  <programme start="20211004194500 +0700" stop="20211004200000 +0700" channel="binh.phuoc2">
+    <title lang="vi">AN TOÀN GIAO THÔNG</title>
+  </programme>
+  <programme start="20211004200000 +0700" stop="20211004204500 +0700" channel="binh.phuoc2">
+    <title lang="vi">PHIM TRUYỆN: PHÍA SAU NỤ CƯỜI  -  TẬP 31</title>
+  </programme>
+  <programme start="20211004204500 +0700" stop="20211004210000 +0700" channel="binh.phuoc2">
+    <title lang="vi">KÝ SỰ BIỂN ĐẢO  -  TẬP  50</title>
+  </programme>
+  <programme start="20211004210000 +0700" stop="20211004214500 +0700" channel="binh.phuoc2">
+    <title lang="vi">PHIM TRUYỆN: BÁC SĨ KHOA CẤP CỨU  -  TẬP 41</title>
+  </programme>
+  <programme start="20211004214500 +0700" stop="20211004220000 +0700" channel="binh.phuoc2">
+    <title lang="vi">CUỘC SỐNG TƯƠI ĐẸP</title>
+  </programme>
+  <programme start="20211004220000 +0700" stop="20211004224500 +0700" channel="binh.phuoc2">
+    <title lang="vi">PHIM TRUYỆN: THẾ GIAN TÌNH – PHẦN 5 – TẬP 157</title>
+  </programme>
+  <programme start="20211004224500 +0700" stop="20211004230000 +0700" channel="binh.phuoc2">
+    <title lang="vi">TIN TỨC 100 ĐỘ</title>
+  </programme>
+  <programme start="20211004230000 +0700" stop="20211004234500 +0700" channel="binh.phuoc2">
+    <title lang="vi">HÀNH TRÌNH KHÁM PHÁ</title>
+  </programme>
+</tv>

@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="quang.ngai">
+    <display-name lang="vi">Quảng Ngãi</display-name>
+    <url>http://www.quangngaitv.vn</url>
+  </channel>
+  <programme start="20211011053000 +0700" stop="20211011053100 +0700" channel="quang.ngai">
+    <title lang="vi">Hình hiệu PTQ</title>
+  </programme>
+  <programme start="20211011053100 +0700" stop="20211011053200 +0700" channel="quang.ngai">
+    <title lang="vi">Lễ Chào cờ</title>
+  </programme>
+  <programme start="20211011053200 +0700" stop="20211011053500 +0700" channel="quang.ngai">
+    <title lang="vi">Giới thiệu chương trình</title>
+  </programme>
+  <programme start="20211011053500 +0700" stop="20211011054500 +0700" channel="quang.ngai">
+    <title lang="vi">Thể dục buổi sáng</title>
+  </programme>
+  <programme start="20211011054500 +0700" stop="20211011063000 +0700" channel="quang.ngai">
+    <title lang="vi">Phim Việt Nam: Giọt nước mắt hận thù - Tập 8</title>
+  </programme>
+  <programme start="20211011063000 +0700" stop="20211011070000 +0700" channel="quang.ngai">
+    <title lang="vi">Thời sự PTQ</title>
+  </programme>
+  <programme start="20211011070000 +0700" stop="20211011083000 +0700" channel="quang.ngai">
+    <title lang="vi">Phim Hàn Quốc: Đêm trắng ở Apgujeong - Tập 101, 102</title>
+  </programme>
+  <programme start="20211011083000 +0700" stop="20211011090000 +0700" channel="quang.ngai">
+    <title lang="vi">Phim tài liệu: Bình tĩnh sống</title>
+  </programme>
+  <programme start="20211011090000 +0700" stop="20211011093000 +0700" channel="quang.ngai">
+    <title lang="vi">Thời sự PTQ</title>
+  </programme>
+  <programme start="20211011093000 +0700" stop="20211011101500 +0700" channel="quang.ngai">
+    <title lang="vi">Phim Việt Nam: Giá của nụ cười - Tập 18</title>
+  </programme>
+  <programme start="20211011101500 +0700" stop="20211011103000 +0700" channel="quang.ngai">
+    <title lang="vi">Ký sự: Qua vùng đầm vịnh - Tập 7</title>
+  </programme>
+  <programme start="20211011103000 +0700" stop="20211011110000 +0700" channel="quang.ngai">
+    <title lang="vi">Khoa giáo: Phòng tránh loãng xương ở người trẻ tuổi</title>
+  </programme>
+  <programme start="20211011110000 +0700" stop="20211011111500 +0700" channel="quang.ngai">
+    <title lang="vi">Chuyển động duyên hải</title>
+  </programme>
+  <programme start="20211011111500 +0700" stop="20211011113000 +0700" channel="quang.ngai">
+    <title lang="vi">Tuổi thơ: Vua hài Sác-lô - Tập 34</title>
+  </programme>
+  <programme start="20211011113000 +0700" stop="20211011120000 +0700" channel="quang.ngai">
+    <title lang="vi">Thời sự PTQ</title>
+  </programme>
+  <programme start="20211011120000 +0700" stop="20211011121500 +0700" channel="quang.ngai">
+    <title lang="vi">Thành phố Quảng Ngãi hôm nay</title>
+  </programme>
+  <programme start="20211011121500 +0700" stop="20211011123000 +0700" channel="quang.ngai">
+    <title lang="vi">Xây dựng nông thôn mới</title>
+  </programme>
+  <programme start="20211011123000 +0700" stop="20211011131500 +0700" channel="quang.ngai">
+    <title lang="vi">Phim Trung Quốc: Bác sĩ khoa sản - Tập 12</title>
+  </programme>
+  <programme start="20211011131500 +0700" stop="20211011133000 +0700" channel="quang.ngai">
+    <title lang="vi">Chuyển động duyên hải</title>
+  </programme>
+  <programme start="20211011133000 +0700" stop="20211011140000 +0700" channel="quang.ngai">
+    <title lang="vi">Khoa giáo: Thay đổi thói quen dinh dưỡng phòng chống dịch bệnh</title>
+  </programme>
+  <programme start="20211011140000 +0700" stop="20211011143000 +0700" channel="quang.ngai">
+    <title lang="vi">Vòng quanh thế giới: Quần đảo Canary - Thiên đường gọi tên - Phần2</title>
+  </programme>
+  <programme start="20211011143000 +0700" stop="20211011151500 +0700" channel="quang.ngai">
+    <title lang="vi">Phim Việt Nam: Chiếc vòng ngọc huyết  - Tập 2</title>
+  </programme>
+  <programme start="20211011151500 +0700" stop="20211011154500 +0700" channel="quang.ngai">
+    <title lang="vi">Phim tài liệu: Tầng thứ 3</title>
+  </programme>
+  <programme start="20211011154500 +0700" stop="20211011160000 +0700" channel="quang.ngai">
+    <title lang="vi">Phóng sự: Thực hiện mục tiêu kép</title>
+  </programme>
+  <programme start="20211011160000 +0700" stop="20211011163000 +0700" channel="quang.ngai">
+    <title lang="vi">Thời sự PTQ</title>
+  </programme>
+  <programme start="20211011163000 +0700" stop="20211011170000 +0700" channel="quang.ngai">
+    <title lang="vi">Nông thôn mới: Nông nghiệp bền vững- Kinh nghiệm từ Hà Lan</title>
+  </programme>
+  <programme start="20211011170000 +0700" stop="20211011171000 +0700" channel="quang.ngai">
+    <title lang="vi">Tuổi thơ: Pháp sư đại tài - Tập 4</title>
+  </programme>
+  <programme start="20211011171000 +0700" stop="20211011180000 +0700" channel="quang.ngai">
+    <title lang="vi">Phim Thái Lan: Em là định mệnh của anh - Tập 15</title>
+  </programme>
+  <programme start="20211011180000 +0700" stop="20211011181500 +0700" channel="quang.ngai">
+    <title lang="vi">Hộp thư truyền hình</title>
+  </programme>
+  <programme start="20211011181500 +0700" stop="20211011182800 +0700" channel="quang.ngai">
+    <title lang="vi">Điện và đời sống</title>
+  </programme>
+  <programme start="20211011182800 +0700" stop="20211011190000 +0700" channel="quang.ngai">
+    <title lang="vi">Chuyển động duyên hải</title>
+  </programme>
+  <programme start="20211011190000 +0700" stop="20211011194500 +0700" channel="quang.ngai">
+    <title lang="vi">Tiếp sóng chương trình thời sự Đài THVN</title>
+  </programme>
+  <programme start="20211011194500 +0700" stop="20211011203000 +0700" channel="quang.ngai">
+    <title lang="vi">Thời sự PTQ</title>
+  </programme>
+  <programme start="20211011203000 +0700" stop="20211011212000 +0700" channel="quang.ngai">
+    <title lang="vi">Phim Việt Nam: Giọt nước mắt hận thù - Tập 9</title>
+  </programme>
+  <programme start="20211011212000 +0700" stop="20211011213000 +0700" channel="quang.ngai">
+    <title lang="vi">Theo dòng cảm xúc</title>
+  </programme>
+  <programme start="20211011213000 +0700" stop="20211011221000 +0700" channel="quang.ngai">
+    <title lang="vi">Chuyển động duyên hải</title>
+  </programme>
+  <programme start="20211011221000 +0700" stop="20211011230000 +0700" channel="quang.ngai">
+    <title lang="vi">Phim Trung Quốc: Tình yêu xuyên thời gian - Tập 9</title>
+  </programme>
+  <programme start="20211011230000 +0700" stop="20211011233000 +0700" channel="quang.ngai">
+    <title lang="vi">Thời sự cuối ngày</title>
+  </programme>
+  <programme start="20211011233000 +0700" stop="20211011235500 +0700" channel="quang.ngai">
+    <title lang="vi">Thế giới động vật: Nữ hoàng của bóng đêm - Phần 2</title>
+  </programme>
+  <programme start="20211011235500 +0700" stop="20211012053000 +0700" channel="quang.ngai">
+    <title lang="vi">Giới thiệu Chương trình ngày mai</title>
+  </programme>
+  <programme start="20211012053000 +0700" stop="20211012053100 +0700" channel="quang.ngai">
+    <title lang="vi">Hình hiệu PTQ</title>
+  </programme>
+  <programme start="20211012053100 +0700" stop="20211012053300 +0700" channel="quang.ngai">
+    <title lang="vi">Giới thiệu chương trình</title>
+  </programme>
+  <programme start="20211012053300 +0700" stop="20211012054500 +0700" channel="quang.ngai">
+    <title lang="vi">Thể dục buổi sáng</title>
+  </programme>
+  <programme start="20211012054500 +0700" stop="20211012063000 +0700" channel="quang.ngai">
+    <title lang="vi">Phim Việt Nam: Giọt nước mắt hận thù - Tập 9</title>
+  </programme>
+  <programme start="20211012063000 +0700" stop="20211012070000 +0700" channel="quang.ngai">
+    <title lang="vi">Thời sự PTQ</title>
+  </programme>
+  <programme start="20211012070000 +0700" stop="20211012083000 +0700" channel="quang.ngai">
+    <title lang="vi">Phim Hàn Quốc: Đêm trắng ở Apgujeong - Tập 103,104</title>
+  </programme>
+  <programme start="20211012083000 +0700" stop="20211012090000 +0700" channel="quang.ngai">
+    <title lang="vi">Phim tài liệu: Người con làng Thạch Đà</title>
+  </programme>
+  <programme start="20211012090000 +0700" stop="20211012093000 +0700" channel="quang.ngai">
+    <title lang="vi">Thời sự PTQ</title>
+  </programme>
+  <programme start="20211012093000 +0700" stop="20211012101500 +0700" channel="quang.ngai">
+    <title lang="vi">Phim Việt Nam: Giá của nụ cười - Tập 19</title>
+  </programme>
+  <programme start="20211012101500 +0700" stop="20211012103000 +0700" channel="quang.ngai">
+    <title lang="vi">Ký sự: Qua vùng đầm vịnh - Tập 8</title>
+  </programme>
+  <programme start="20211012103000 +0700" stop="20211012104500 +0700" channel="quang.ngai">
+    <title lang="vi">Theo dòng cảm xúc</title>
+  </programme>
+  <programme start="20211012104500 +0700" stop="20211012110000 +0700" channel="quang.ngai">
+    <title lang="vi">Nẻo về nguồn cội: Đảo Lý Sơn</title>
+  </programme>
+  <programme start="20211012110000 +0700" stop="20211012111500 +0700" channel="quang.ngai">
+    <title lang="vi">Chuyển động duyên hải</title>
+  </programme>
+  <programme start="20211012111500 +0700" stop="20211012113000 +0700" channel="quang.ngai">
+    <title lang="vi">Tuổi thơ: Vua hài Sác lô - Tập 34</title>
+  </programme>
+  <programme start="20211012113000 +0700" stop="20211012120000 +0700" channel="quang.ngai">
+    <title lang="vi">Thời sự PTQ</title>
+  </programme>
+  <programme start="20211012120000 +0700" stop="20211012121500 +0700" channel="quang.ngai">
+    <title lang="vi">Hộp thư truyền hình</title>
+  </programme>
+  <programme start="20211012121500 +0700" stop="20211012123000 +0700" channel="quang.ngai">
+    <title lang="vi">Điện và đời sống</title>
+  </programme>
+  <programme start="20211012123000 +0700" stop="20211012131500 +0700" channel="quang.ngai">
+    <title lang="vi">Phim Trung Quốc: Bác sĩ khoa sản - Tập 13</title>
+  </programme>
+  <programme start="20211012131500 +0700" stop="20211012133000 +0700" channel="quang.ngai">
+    <title lang="vi">Chuyển động duyên hải</title>
+  </programme>
+  <programme start="20211012133000 +0700" stop="20211012140000 +0700" channel="quang.ngai">
+    <title lang="vi">Khoa giáo : Nâng cao sức khỏe bệnh nhân tim mạch trong mùa dịch</title>
+  </programme>
+  <programme start="20211012140000 +0700" stop="20211012143000 +0700" channel="quang.ngai">
+    <title lang="vi">Thế giới động vật: Đời sống ở vùng biển ven bờ</title>
+  </programme>
+  <programme start="20211012143000 +0700" stop="20211012151500 +0700" channel="quang.ngai">
+    <title lang="vi">Phim Việt Nam: Chiếc vòng ngọc huyết - Tập 3</title>
+  </programme>
+  <programme start="20211012151500 +0700" stop="20211012154500 +0700" channel="quang.ngai">
+    <title lang="vi">Phim tài liệu: Những bữa cơm hạnh phúc</title>
+  </programme>
+  <programme start="20211012154500 +0700" stop="20211012160000 +0700" channel="quang.ngai">
+    <title lang="vi">Phát triển bền vững: Khoa học công nghệ trong phòng chống giảm nhẹ thiên tai</title>
+  </programme>
+  <programme start="20211012160000 +0700" stop="20211012163000 +0700" channel="quang.ngai">
+    <title lang="vi">Thời sự PTQ</title>
+  </programme>
+  <programme start="20211012163000 +0700" stop="20211012164500 +0700" channel="quang.ngai">
+    <title lang="vi">Phóng sự: Duy trì chuỗi cung ứng sản xuất</title>
+  </programme>
+  <programme start="20211012164500 +0700" stop="20211012170000 +0700" channel="quang.ngai">
+    <title lang="vi">Chuyện nhà nông: Ứng dụng Internet trong tiêu thụ nông sản</title>
+  </programme>
+  <programme start="20211012170000 +0700" stop="20211012171000 +0700" channel="quang.ngai">
+    <title lang="vi">Tuổi thơ: Pháp sư đại tài - tập 4</title>
+  </programme>
+  <programme start="20211012171000 +0700" stop="20211012180000 +0700" channel="quang.ngai">
+    <title lang="vi">Phim Thái Lan: Em là định mệnh của anh - Tập 16</title>
+  </programme>
+  <programme start="20211012180000 +0700" stop="20211012181500 +0700" channel="quang.ngai">
+    <title lang="vi">Phóng sự PTQ: Công khai, minh bạch, dân chủ trong công tác rà soát hộ nghèo, hộ cận nghèo</title>
+  </programme>
+  <programme start="20211012181500 +0700" stop="20211012182800 +0700" channel="quang.ngai">
+    <title lang="vi">An ninh Quảng Ngãi</title>
+  </programme>
+  <programme start="20211012182800 +0700" stop="20211012190000 +0700" channel="quang.ngai">
+    <title lang="vi">Chuyển động duyên hải</title>
+  </programme>
+  <programme start="20211012190000 +0700" stop="20211012194500 +0700" channel="quang.ngai">
+    <title lang="vi">Tiếp sóng chương trình Thời sự Đài THVN</title>
+  </programme>
+  <programme start="20211012194500 +0700" stop="20211012203000 +0700" channel="quang.ngai">
+    <title lang="vi">Thời sự PTQ</title>
+  </programme>
+  <programme start="20211012203000 +0700" stop="20211012204000 +0700" channel="quang.ngai">
+    <title lang="vi">Sao OCOP : Thủ công mỹ nghệ</title>
+  </programme>
+  <programme start="20211012204000 +0700" stop="20211012213000 +0700" channel="quang.ngai">
+    <title lang="vi">Phim Việt Nam: Giọt nước mắt hận thù - Tập 10</title>
+  </programme>
+  <programme start="20211012213000 +0700" stop="20211012221000 +0700" channel="quang.ngai">
+    <title lang="vi">Chuyển động duyên hải</title>
+  </programme>
+  <programme start="20211012221000 +0700" stop="20211012230000 +0700" channel="quang.ngai">
+    <title lang="vi">Phim Trung Quốc: Tình yêu xuyên thời gian - Tập 10</title>
+  </programme>
+  <programme start="20211012230000 +0700" stop="20211012233000 +0700" channel="quang.ngai">
+    <title lang="vi">Thời sự cuối ngày</title>
+  </programme>
+  <programme start="20211012233000 +0700" stop="20211012235500 +0700" channel="quang.ngai">
+    <title lang="vi">Vòng quanh thế giới: Tanna- Đảo đá ma thuật</title>
+  </programme>
+</tv>

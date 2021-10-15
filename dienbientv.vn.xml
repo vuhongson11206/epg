@@ -1,0 +1,346 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="dien.bien">
+    <display-name lang="vi">Điện Biên</display-name>
+    <url>http://www.dienbientv.vn</url>
+  </channel>
+  <programme start="20211009055000 +0700" stop="20211009060000 +0700" channel="dien.bien">
+    <title lang="vi">Bảng test tròn</title>
+  </programme>
+  <programme start="20211009060000 +0700" stop="20211009060500 +0700" channel="dien.bien">
+    <title lang="vi">Nhạc hiệu, giới thiệu chương trình</title>
+  </programme>
+  <programme start="20211009060500 +0700" stop="20211009063500 +0700" channel="dien.bien">
+    <title lang="vi">Thời sự sáng ĐTV</title>
+  </programme>
+  <programme start="20211009063500 +0700" stop="20211009064000 +0700" channel="dien.bien">
+    <title lang="vi">Khung đệm - Quảng cáo</title>
+  </programme>
+  <programme start="20211009064000 +0700" stop="20211009065000 +0700" channel="dien.bien">
+    <title lang="vi">Phóng sự: Chủ động công tác phòng cháy chữa cháy</title>
+  </programme>
+  <programme start="20211009065000 +0700" stop="20211009065500 +0700" channel="dien.bien">
+    <title lang="vi">Giá cả thị trường</title>
+  </programme>
+  <programme start="20211009065500 +0700" stop="20211009071500 +0700" channel="dien.bien">
+    <title lang="vi">Nhà nước và Pháp luật: Mường Chà nâng cao chất lượng đội ngũ công chức, viên chức</title>
+  </programme>
+  <programme start="20211009071500 +0700" stop="20211009080000 +0700" channel="dien.bien">
+    <title lang="vi">Phim truyện: Biệt thự Hoa hồng  - Tập 29</title>
+  </programme>
+  <programme start="20211009080000 +0700" stop="20211009082000 +0700" channel="dien.bien">
+    <title lang="vi">Dân tộc và phát triển</title>
+  </programme>
+  <programme start="20211009082000 +0700" stop="20211009083000 +0700" channel="dien.bien">
+    <title lang="vi">An toàn vệ sinh lao động</title>
+  </programme>
+  <programme start="20211009083000 +0700" stop="20211009090000 +0700" channel="dien.bien">
+    <title lang="vi">Truyền hình cơ sở: Đài huyện Mường Lay + Tủa Chùa</title>
+  </programme>
+  <programme start="20211009090000 +0700" stop="20211009090500 +0700" channel="dien.bien">
+    <title lang="vi">Điểm báo</title>
+  </programme>
+  <programme start="20211009090500 +0700" stop="20211009093500 +0700" channel="dien.bien">
+    <title lang="vi">Phát lại thời sự sáng ĐTV</title>
+  </programme>
+  <programme start="20211009093500 +0700" stop="20211009094000 +0700" channel="dien.bien">
+    <title lang="vi">Việc tốt quanh ta</title>
+  </programme>
+  <programme start="20211009094000 +0700" stop="20211009094500 +0700" channel="dien.bien">
+    <title lang="vi">Quảng bá</title>
+  </programme>
+  <programme start="20211009094500 +0700" stop="20211009103000 +0700" channel="dien.bien">
+    <title lang="vi">Phim truyện nước ngoài: Tình yêu trở lại \u2013 tập 29</title>
+  </programme>
+  <programme start="20211009103000 +0700" stop="20211009103500 +0700" channel="dien.bien">
+    <title lang="vi">Quảng bá + Giới thiệu chính sách mới</title>
+  </programme>
+  <programme start="20211009103500 +0700" stop="20211009110500 +0700" channel="dien.bien">
+    <title lang="vi">Phim tài liệu: Việt Nam thời đại Hồ Chí Minh- Biên niên sử truyền hình- Năm 1950</title>
+  </programme>
+  <programme start="20211009110500 +0700" stop="20211009112000 +0700" channel="dien.bien">
+    <title lang="vi">Phóng sự: Dự án nuôi em cho trẻ vùng khó</title>
+  </programme>
+  <programme start="20211009112000 +0700" stop="20211009112500 +0700" channel="dien.bien">
+    <title lang="vi">Việc tốt quanh ta</title>
+  </programme>
+  <programme start="20211009112500 +0700" stop="20211009113000 +0700" channel="dien.bien">
+    <title lang="vi">Quảng bá</title>
+  </programme>
+  <programme start="20211009113000 +0700" stop="20211009120000 +0700" channel="dien.bien">
+    <title lang="vi">Thời sự trưa ĐTV</title>
+  </programme>
+  <programme start="20211009120000 +0700" stop="20211009123000 +0700" channel="dien.bien">
+    <title lang="vi">Tiếp sóng VTV1</title>
+  </programme>
+  <programme start="20211009123000 +0700" stop="20211009123500 +0700" channel="dien.bien">
+    <title lang="vi">Giới thiệu Chương trình tiếp theo</title>
+  </programme>
+  <programme start="20211009123500 +0700" stop="20211009132000 +0700" channel="dien.bien">
+    <title lang="vi">Phim truyện nước ngoài: Rồng tranh bá \u2013 Tập 51</title>
+  </programme>
+  <programme start="20211009132000 +0700" stop="20211009133500 +0700" channel="dien.bien">
+    <title lang="vi">Phóng sự: Dự án nuôi em cho trẻ vùng khó</title>
+  </programme>
+  <programme start="20211009133500 +0700" stop="20211009140500 +0700" channel="dien.bien">
+    <title lang="vi">Phim tài liệu: Việt Nam thời đại Hồ Chí Minh- Biên niên sử truyền hình- Năm 1950</title>
+  </programme>
+  <programme start="20211009140500 +0700" stop="20211009143500 +0700" channel="dien.bien">
+    <title lang="vi">Phát lại thời sự trưa ĐTV</title>
+  </programme>
+  <programme start="20211009143500 +0700" stop="20211009145000 +0700" channel="dien.bien">
+    <title lang="vi">Điện Biên làm theo lời Bác: Phụ nữ Điện Biên làm theo Bác</title>
+  </programme>
+  <programme start="20211009145000 +0700" stop="20211009151000 +0700" channel="dien.bien">
+    <title lang="vi">Bảo hiểm xã hội: Bảo hiểm xã hội Mường Ảng thực hiện chính sách BHXH, BHYT</title>
+  </programme>
+  <programme start="20211009151000 +0700" stop="20211009151500 +0700" channel="dien.bien">
+    <title lang="vi">Quảng bá + Giới thiệu chuyên mục, phóng sự</title>
+  </programme>
+  <programme start="20211009151500 +0700" stop="20211009160000 +0700" channel="dien.bien">
+    <title lang="vi">Phim truyện Việt Nam:Khép lại quá khứ - Tập 23</title>
+  </programme>
+  <programme start="20211009160000 +0700" stop="20211009161500 +0700" channel="dien.bien">
+    <title lang="vi">Bản tin Thời sự chiều ĐTV</title>
+  </programme>
+  <programme start="20211009161500 +0700" stop="20211009163000 +0700" channel="dien.bien">
+    <title lang="vi">Ký sự 54 dân tộc anh em \u2013 Tập 193</title>
+  </programme>
+  <programme start="20211009163000 +0700" stop="20211009165000 +0700" channel="dien.bien">
+    <title lang="vi">Dân tộc và phát triển</title>
+  </programme>
+  <programme start="20211009165000 +0700" stop="20211009165500 +0700" channel="dien.bien">
+    <title lang="vi">Điện Biên hội nhập kinh tế quốc tế</title>
+  </programme>
+  <programme start="20211009165500 +0700" stop="20211009170000 +0700" channel="dien.bien">
+    <title lang="vi">Quảng bá + Giới thiệu chuyên mục, phóng sự</title>
+  </programme>
+  <programme start="20211009170000 +0700" stop="20211009171000 +0700" channel="dien.bien">
+    <title lang="vi">Phóng sự: Chủ động công tác phòng cháy chữa cháy</title>
+  </programme>
+  <programme start="20211009171000 +0700" stop="20211009171500 +0700" channel="dien.bien">
+    <title lang="vi">Đảng trong cuộc sống</title>
+  </programme>
+  <programme start="20211009171500 +0700" stop="20211009180000 +0700" channel="dien.bien">
+    <title lang="vi">Phim truyện Việt Nam: Hạnh phúc của người khác \u2013 Tập 12</title>
+  </programme>
+  <programme start="20211009180000 +0700" stop="20211009181500 +0700" channel="dien.bien">
+    <title lang="vi">Trang THCS: Đài huyện Điện Biên Đông</title>
+  </programme>
+  <programme start="20211009181500 +0700" stop="20211009183000 +0700" channel="dien.bien">
+    <title lang="vi">Ca nhạc thiếu nhi: Hoa mùa Xuân</title>
+  </programme>
+  <programme start="20211009183000 +0700" stop="20211009190000 +0700" channel="dien.bien">
+    <title lang="vi">Chương trình tiếng Thái</title>
+  </programme>
+  <programme start="20211009190000 +0700" stop="20211009195500 +0700" channel="dien.bien">
+    <title lang="vi">Tiếp sóng VTV1</title>
+  </programme>
+  <programme start="20211009195500 +0700" stop="20211009200000 +0700" channel="dien.bien">
+    <title lang="vi">Quảng cáo - Giới thiệu chương trình ĐTV- Nhạc chờ</title>
+  </programme>
+  <programme start="20211009200000 +0700" stop="20211009203000 +0700" channel="dien.bien">
+    <title lang="vi">Thời sự ĐTV</title>
+  </programme>
+  <programme start="20211009203000 +0700" stop="20211009203500 +0700" channel="dien.bien">
+    <title lang="vi">Quảng cáo</title>
+  </programme>
+  <programme start="20211009203500 +0700" stop="20211009204000 +0700" channel="dien.bien">
+    <title lang="vi">Giới thiệu phim</title>
+  </programme>
+  <programme start="20211009204000 +0700" stop="20211009210000 +0700" channel="dien.bien">
+    <title lang="vi">Xây dựng Đảng: Nghị quyết mới, làn gió mới</title>
+  </programme>
+  <programme start="20211009210000 +0700" stop="20211009214500 +0700" channel="dien.bien">
+    <title lang="vi">Phim truyện Việt Nam: Biệt thự Hoa hồng  - Tập 30</title>
+  </programme>
+  <programme start="20211009214500 +0700" stop="20211009221500 +0700" channel="dien.bien">
+    <title lang="vi">Phim tài liệu: Việt Nam thời đại Hồ Chí Minh- Biên niên sử truyền hình năm 1951</title>
+  </programme>
+  <programme start="20211009221500 +0700" stop="20211009222500 +0700" channel="dien.bien">
+    <title lang="vi">Phóng sự: Bữa ăn bán trú thời Covid cho học sinh vùng cao</title>
+  </programme>
+  <programme start="20211009222500 +0700" stop="20211009223000 +0700" channel="dien.bien">
+    <title lang="vi">Nhịp cầu nhân ái</title>
+  </programme>
+  <programme start="20211009223000 +0700" stop="20211009223500 +0700" channel="dien.bien">
+    <title lang="vi">Việc tốt quanh ta</title>
+  </programme>
+  <programme start="20211009223500 +0700" stop="20211009224000 +0700" channel="dien.bien">
+    <title lang="vi">Đảng trong cuộc sống</title>
+  </programme>
+  <programme start="20211009224000 +0700" stop="20211009232500 +0700" channel="dien.bien">
+    <title lang="vi">Phim nước ngoài: Tình yêu trở lại \u2013 tập 30</title>
+  </programme>
+  <programme start="20211009232500 +0700" stop="20211009234000 +0700" channel="dien.bien">
+    <title lang="vi">Phóng sự: Phát huy vai trò tổ Covid cộng đồng</title>
+  </programme>
+  <programme start="20211009234000 +0700" stop="20211009235500 +0700" channel="dien.bien">
+    <title lang="vi">Bản tin quốc tế cuối ngày</title>
+  </programme>
+  <programme start="20211009235500 +0700" stop="20211010055000 +0700" channel="dien.bien">
+    <title lang="vi">Giới thiệu chương trình ngày hôm sau</title>
+  </programme>
+  <programme start="20211010055000 +0700" stop="20211010060000 +0700" channel="dien.bien">
+    <title lang="vi">Bảng test tròn</title>
+  </programme>
+  <programme start="20211010060000 +0700" stop="20211010060500 +0700" channel="dien.bien">
+    <title lang="vi">Nhạc hiệu, giới thiệu chương trình</title>
+  </programme>
+  <programme start="20211010060500 +0700" stop="20211010063500 +0700" channel="dien.bien">
+    <title lang="vi">Thời sự ĐTV</title>
+  </programme>
+  <programme start="20211010063500 +0700" stop="20211010064000 +0700" channel="dien.bien">
+    <title lang="vi">Khung đệm - Quảng cáo - GTP</title>
+  </programme>
+  <programme start="20211010064000 +0700" stop="20211010065500 +0700" channel="dien.bien">
+    <title lang="vi">Phóng sự: Bữa ăn bán trú thời Covid cho học sinh vùng cao</title>
+  </programme>
+  <programme start="20211010065500 +0700" stop="20211010071500 +0700" channel="dien.bien">
+    <title lang="vi">Xây dựng Đảng: Nghị quyết mới, làn gió mới</title>
+  </programme>
+  <programme start="20211010071500 +0700" stop="20211010080000 +0700" channel="dien.bien">
+    <title lang="vi">Phim truyện Việt Nam: Biệt thự Hoa hồng  - Tập 30</title>
+  </programme>
+  <programme start="20211010080000 +0700" stop="20211010083000 +0700" channel="dien.bien">
+    <title lang="vi">Truyền hình tiếng Thái</title>
+  </programme>
+  <programme start="20211010083000 +0700" stop="20211010084500 +0700" channel="dien.bien">
+    <title lang="vi">Trang THCS: Đài Điện Biên Đông</title>
+  </programme>
+  <programme start="20211010084500 +0700" stop="20211010090000 +0700" channel="dien.bien">
+    <title lang="vi">Tọa đàm và trao đổi: Doanh nghiệp Điện Biên vượt khó do dịch bệnh Covid - 19</title>
+  </programme>
+  <programme start="20211010090000 +0700" stop="20211010090500 +0700" channel="dien.bien">
+    <title lang="vi">Điểm báo</title>
+  </programme>
+  <programme start="20211010090500 +0700" stop="20211010093500 +0700" channel="dien.bien">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20211010093500 +0700" stop="20211010094000 +0700" channel="dien.bien">
+    <title lang="vi">Khám phá Điện Biên</title>
+  </programme>
+  <programme start="20211010094000 +0700" stop="20211010094500 +0700" channel="dien.bien">
+    <title lang="vi">Giới thiệu phim</title>
+  </programme>
+  <programme start="20211010094500 +0700" stop="20211010103000 +0700" channel="dien.bien">
+    <title lang="vi">Phim truyện nước ngoài: Tình yêu trở lại \u2013 tập 30</title>
+  </programme>
+  <programme start="20211010103000 +0700" stop="20211010103500 +0700" channel="dien.bien">
+    <title lang="vi">Giới thiệu chính sách mới</title>
+  </programme>
+  <programme start="20211010103500 +0700" stop="20211010110500 +0700" channel="dien.bien">
+    <title lang="vi">Phim tài liệu: Việt Nam thời đại Hồ Chí Minh- Biên niên sử truyền hình năm 1951</title>
+  </programme>
+  <programme start="20211010110500 +0700" stop="20211010112000 +0700" channel="dien.bien">
+    <title lang="vi">Phóng sự: Phát huy vai trò tổ Covid cộng đồng</title>
+  </programme>
+  <programme start="20211010112000 +0700" stop="20211010112500 +0700" channel="dien.bien">
+    <title lang="vi">Phòng chống nham nhũng lãng phí</title>
+  </programme>
+  <programme start="20211010112500 +0700" stop="20211010113000 +0700" channel="dien.bien">
+    <title lang="vi">Quảng cáo \u2013 nhạc chờ</title>
+  </programme>
+  <programme start="20211010113000 +0700" stop="20211010120000 +0700" channel="dien.bien">
+    <title lang="vi">Thời sự ĐTV</title>
+  </programme>
+  <programme start="20211010120000 +0700" stop="20211010123000 +0700" channel="dien.bien">
+    <title lang="vi">Tiếp sóng VTV1</title>
+  </programme>
+  <programme start="20211010123000 +0700" stop="20211010123500 +0700" channel="dien.bien">
+    <title lang="vi">Giới thiệu chương trình tiếp theo</title>
+  </programme>
+  <programme start="20211010123500 +0700" stop="20211010132000 +0700" channel="dien.bien">
+    <title lang="vi">Phim truyện nước ngoài: Rồng tranh bá \u2013 Tập 52</title>
+  </programme>
+  <programme start="20211010132000 +0700" stop="20211010133500 +0700" channel="dien.bien">
+    <title lang="vi">Phóng sự: Bữa ăn bán trú thời Covid cho học sinh vùng cao</title>
+  </programme>
+  <programme start="20211010133500 +0700" stop="20211010140500 +0700" channel="dien.bien">
+    <title lang="vi">Phim tài liệu: Việt Nam thời đại Hồ Chí Minh- Biên niên sử truyền hình năm 1951</title>
+  </programme>
+  <programme start="20211010140500 +0700" stop="20211010143500 +0700" channel="dien.bien">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20211010143500 +0700" stop="20211010145000 +0700" channel="dien.bien">
+    <title lang="vi">Tạp chí thể thao</title>
+  </programme>
+  <programme start="20211010145000 +0700" stop="20211010151000 +0700" channel="dien.bien">
+    <title lang="vi">Y tế Sức khỏe</title>
+  </programme>
+  <programme start="20211010151000 +0700" stop="20211010151500 +0700" channel="dien.bien">
+    <title lang="vi">Giới thiệu chuyên mục, phóng sự</title>
+  </programme>
+  <programme start="20211010151500 +0700" stop="20211010160000 +0700" channel="dien.bien">
+    <title lang="vi">Phim truyện Việt Nam: Lạc lối \u2013 Tập 19</title>
+  </programme>
+  <programme start="20211010160000 +0700" stop="20211010161500 +0700" channel="dien.bien">
+    <title lang="vi">Thời sự ĐTV</title>
+  </programme>
+  <programme start="20211010161500 +0700" stop="20211010163000 +0700" channel="dien.bien">
+    <title lang="vi">Nhà nước &amp; Pháp luật</title>
+  </programme>
+  <programme start="20211010163000 +0700" stop="20211010165000 +0700" channel="dien.bien">
+    <title lang="vi">Chính sách Thuế và cuộc sống</title>
+  </programme>
+  <programme start="20211010165000 +0700" stop="20211010165500 +0700" channel="dien.bien">
+    <title lang="vi">Vị thuốc quanh ta</title>
+  </programme>
+  <programme start="20211010165500 +0700" stop="20211010170000 +0700" channel="dien.bien">
+    <title lang="vi">Quảng bá</title>
+  </programme>
+  <programme start="20211010170000 +0700" stop="20211010171500 +0700" channel="dien.bien">
+    <title lang="vi">Quốc Phòng Điện Biên</title>
+  </programme>
+  <programme start="20211010171500 +0700" stop="20211010180000 +0700" channel="dien.bien">
+    <title lang="vi">Phim truyện Việt Nam: Hạnh phúc của người khác \u2013 Tập 13</title>
+  </programme>
+  <programme start="20211010180000 +0700" stop="20211010183000 +0700" channel="dien.bien">
+    <title lang="vi">Trang THCS: Đài Mường Ảng + Tuần Giáo</title>
+  </programme>
+  <programme start="20211010183000 +0700" stop="20211010184500 +0700" channel="dien.bien">
+    <title lang="vi">Chương trình thiếu nhi: Những tiết học trong Chương trình giao dục phổ thông mới</title>
+  </programme>
+  <programme start="20211010184500 +0700" stop="20211010185500 +0700" channel="dien.bien">
+    <title lang="vi">Phóng sự: Phát huy vai trò tổ Covid cộng đồng</title>
+  </programme>
+  <programme start="20211010185500 +0700" stop="20211010190000 +0700" channel="dien.bien">
+    <title lang="vi">Nói không với rác thải nhựa</title>
+  </programme>
+  <programme start="20211010190000 +0700" stop="20211010195500 +0700" channel="dien.bien">
+    <title lang="vi">Thời sự VTV</title>
+  </programme>
+  <programme start="20211010195500 +0700" stop="20211010200000 +0700" channel="dien.bien">
+    <title lang="vi">Quảng cáo \u2013 Giới thiệu chương trình ĐTV \u2013 Nhạc chờ</title>
+  </programme>
+  <programme start="20211010200000 +0700" stop="20211010203000 +0700" channel="dien.bien">
+    <title lang="vi">Thời sự ĐTV</title>
+  </programme>
+  <programme start="20211010203000 +0700" stop="20211010203500 +0700" channel="dien.bien">
+    <title lang="vi">Quảng cáo</title>
+  </programme>
+  <programme start="20211010203500 +0700" stop="20211010204000 +0700" channel="dien.bien">
+    <title lang="vi">Giới thiệu phim</title>
+  </programme>
+  <programme start="20211010204000 +0700" stop="20211010210000 +0700" channel="dien.bien">
+    <title lang="vi">Lao động và công đoàn: Lan tỏa tinh thần chung tay phòng chống dịch trong đoàn viên công đoàn</title>
+  </programme>
+  <programme start="20211010210000 +0700" stop="20211010214500 +0700" channel="dien.bien">
+    <title lang="vi">Phim truyện Việt Nam: Biệt thự Hoa hồng  - Tập 31</title>
+  </programme>
+  <programme start="20211010214500 +0700" stop="20211010215500 +0700" channel="dien.bien">
+    <title lang="vi">Phóng sự: Tuần Giáo phòng chống bệnh viêm da nổi cục gia súc</title>
+  </programme>
+  <programme start="20211010215500 +0700" stop="20211010220000 +0700" channel="dien.bien">
+    <title lang="vi">Ẩm thực Điện Biên: Món Mọ vịt</title>
+  </programme>
+  <programme start="20211010220000 +0700" stop="20211010220500 +0700" channel="dien.bien">
+    <title lang="vi">Việc tốt quanh ta</title>
+  </programme>
+  <programme start="20211010220500 +0700" stop="20211010234000 +0700" channel="dien.bien">
+    <title lang="vi">Phim cuối tuần: Đường hầm</title>
+  </programme>
+  <programme start="20211010234000 +0700" stop="20211010235500 +0700" channel="dien.bien">
+    <title lang="vi">Bản tin quốc tế cuối ngày</title>
+  </programme>
+</tv>

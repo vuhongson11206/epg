@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="dong.thap1">
+    <display-name lang="vi">Đồng Tháp 1</display-name>
+    <url>http://www.thdt.vn</url>
+  </channel>
+  <channel id="dong.thap2">
+    <display-name lang="vi">Đồng Tháp 2</display-name>
+    <url>http://www.thdt.vn</url>
+  </channel>
+  <programme start="20211003000000 +0700" stop="20211003013000 +0700" channel="dong.thap1">
+    <title lang="vi">Phim NN:  Truyền thuyết phượng hoàng- Tập 7, 8</title>
+  </programme>
+  <programme start="20211003013000 +0700" stop="20211003021500 +0700" channel="dong.thap1">
+    <title lang="vi">Phim VN: Khi người đàn ông trở lại - Tập 21</title>
+  </programme>
+  <programme start="20211003021500 +0700" stop="20211003030000 +0700" channel="dong.thap1">
+    <title lang="vi">Ca cổ</title>
+  </programme>
+  <programme start="20211003030000 +0700" stop="20211003034500 +0700" channel="dong.thap1">
+    <title lang="vi">Phim NN : Anh hùng xạ điêu- Tập 45</title>
+  </programme>
+  <programme start="20211003034500 +0700" stop="20211003043000 +0700" channel="dong.thap1">
+    <title lang="vi">Phim VN: Hồ sơ lửa- Phần 2: Người 3 mặt -Tập 32</title>
+  </programme>
+  <programme start="20211003043000 +0700" stop="20211003053000 +0700" channel="dong.thap1">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20211003053000 +0700" stop="20211003053500 +0700" channel="dong.thap1">
+    <title lang="vi">Đài hiệu, GTCT</title>
+  </programme>
+  <programme start="20211003053500 +0700" stop="20211003055000 +0700" channel="dong.thap1">
+    <title lang="vi">Toàn cảnh nông nghiệp</title>
+  </programme>
+  <programme start="20211003055000 +0700" stop="20211003060000 +0700" channel="dong.thap1">
+    <title lang="vi">Sống chậm</title>
+  </programme>
+  <programme start="20211003060000 +0700" stop="20211003063000 +0700" channel="dong.thap1">
+    <title lang="vi">Sáng Miền Tây</title>
+  </programme>
+  <programme start="20211003063000 +0700" stop="20211003063500 +0700" channel="dong.thap1">
+    <title lang="vi">Thể thao ngày mới</title>
+  </programme>
+  <programme start="20211003063500 +0700" stop="20211003064500 +0700" channel="dong.thap1">
+    <title lang="vi">Sống khỏe</title>
+  </programme>
+  <programme start="20211003064500 +0700" stop="20211003070000 +0700" channel="dong.thap1">
+    <title lang="vi">Cánh đồng hội nhập</title>
+  </programme>
+  <programme start="20211003070000 +0700" stop="20211003071500 +0700" channel="dong.thap1">
+    <title lang="vi">An toàn giao thông</title>
+  </programme>
+  <programme start="20211003071500 +0700" stop="20211003073000 +0700" channel="dong.thap1">
+    <title lang="vi">Văn học nghệ thuật</title>
+  </programme>
+  <programme start="20211003073000 +0700" stop="20211003081500 +0700" channel="dong.thap1">
+    <title lang="vi">Phim VN: Khi người đàn ông trở lại - Tập 23</title>
+  </programme>
+  <programme start="20211003081500 +0700" stop="20211003084500 +0700" channel="dong.thap1">
+    <title lang="vi">Tạp chí thể thao</title>
+  </programme>
+  <programme start="20211003084500 +0700" stop="20211003090000 +0700" channel="dong.thap1">
+    <title lang="vi">Toàn cảnh nông nghiệp</title>
+  </programme>
+  <programme start="20211003090000 +0700" stop="20211003091500 +0700" channel="dong.thap1">
+    <title lang="vi">Ký sự: Côn Đảo: Hai miền Sáng-Tối- Tập 4</title>
+  </programme>
+  <programme start="20211003091500 +0700" stop="20211003110000 +0700" channel="dong.thap1">
+    <title lang="vi">Phim NN: Vạch trần tội ác- Tập 16, 17</title>
+  </programme>
+  <programme start="20211003110000 +0700" stop="20211003113000 +0700" channel="dong.thap1">
+    <title lang="vi">Nhịp sống 24h</title>
+  </programme>
+  <programme start="20211003113000 +0700" stop="20211003131000 +0700" channel="dong.thap1">
+    <title lang="vi">Phim NN:  Truyền thuyết phượng hoàng- Tập 11,12</title>
+  </programme>
+  <programme start="20211003131000 +0700" stop="20211003131500 +0700" channel="dong.thap1">
+    <title lang="vi">Bản tin giá cả thị trường</title>
+  </programme>
+  <programme start="20211003131500 +0700" stop="20211003134500 +0700" channel="dong.thap1">
+    <title lang="vi">Tạp chí thể thao</title>
+  </programme>
+  <programme start="20211003134500 +0700" stop="20211003160000 +0700" channel="dong.thap1">
+    <title lang="vi">Cải lương: Sao trời lại xanh</title>
+  </programme>
+  <programme start="20211003160000 +0700" stop="20211003161500 +0700" channel="dong.thap1">
+    <title lang="vi">Khám phá thế giới</title>
+  </programme>
+  <programme start="20211003161500 +0700" stop="20211003163000 +0700" channel="dong.thap1">
+    <title lang="vi">Đặc sản miền sông nước</title>
+  </programme>
+  <programme start="20211003163000 +0700" stop="20211003180000 +0700" channel="dong.thap1">
+    <title lang="vi">Phim NN : Ban thục truyền kỳ- Tập 36,37</title>
+  </programme>
+  <programme start="20211003180000 +0700" stop="20211003181500 +0700" channel="dong.thap1">
+    <title lang="vi">Khám phá Đồng Tháp</title>
+  </programme>
+  <programme start="20211003181500 +0700" stop="20211003183000 +0700" channel="dong.thap1">
+    <title lang="vi">Tái cơ cấu nông nghiệp- OCOP Đồng Tháp</title>
+  </programme>
+  <programme start="20211003183000 +0700" stop="20211003190000 +0700" channel="dong.thap1">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20211003190000 +0700" stop="20211003191000 +0700" channel="dong.thap1">
+    <title lang="vi">Nhịp sống thể thao</title>
+  </programme>
+  <programme start="20211003191000 +0700" stop="20211003200000 +0700" channel="dong.thap1">
+    <title lang="vi">Phim NN: Bước qua ranh giới- Tập 20</title>
+  </programme>
+  <programme start="20211003200000 +0700" stop="20211003202000 +0700" channel="dong.thap1">
+    <title lang="vi">Phim tài liệu: Những ngày chúng ta đang sống</title>
+  </programme>
+  <programme start="20211003202000 +0700" stop="20211003210000 +0700" channel="dong.thap1">
+    <title lang="vi">Kết nối Tài tử miệt vườn</title>
+  </programme>
+  <programme start="20211003210000 +0700" stop="20211003211500 +0700" channel="dong.thap1">
+    <title lang="vi">Người Đồng Tháp</title>
+  </programme>
+  <programme start="20211003211500 +0700" stop="20211003220000 +0700" channel="dong.thap1">
+    <title lang="vi">Phim VN: Hồ sơ lửa- Phần 2: Người 3 mặt -Tập 34</title>
+  </programme>
+  <programme start="20211003220000 +0700" stop="20211003233000 +0700" channel="dong.thap1">
+    <title lang="vi">Cải lương: Trạng sư Tống Thế Kiệt- Phần 1</title>
+  </programme>
+  <programme start="20211003233000 +0700" stop="20211004000000 +0700" channel="dong.thap1">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20211004000000 +0700" stop="20211004013000 +0700" channel="dong.thap1">
+    <title lang="vi">Phim NN:  Truyền thuyết phượng hoàng- Tập 7, 8</title>
+  </programme>
+  <programme start="20211004013000 +0700" stop="20211004021500 +0700" channel="dong.thap1">
+    <title lang="vi">Phim VN: Khi người đàn ông trở lại - Tập 21</title>
+  </programme>
+  <programme start="20211004021500 +0700" stop="20211004030000 +0700" channel="dong.thap1">
+    <title lang="vi">Ca cổ</title>
+  </programme>
+  <programme start="20211004030000 +0700" stop="20211004034500 +0700" channel="dong.thap1">
+    <title lang="vi">Phim NN : Anh hùng xạ điêu- Tập 45</title>
+  </programme>
+  <programme start="20211004034500 +0700" stop="20211004043000 +0700" channel="dong.thap1">
+    <title lang="vi">Phim VN: Hồ sơ lửa- Phần 2: Người 3 mặt -Tập 32</title>
+  </programme>
+  <programme start="20211004043000 +0700" stop="20211004053000 +0700" channel="dong.thap1">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20211004053000 +0700" stop="20211004053500 +0700" channel="dong.thap1">
+    <title lang="vi">Đài hiệu, GTCT</title>
+  </programme>
+  <programme start="20211004053500 +0700" stop="20211004055000 +0700" channel="dong.thap1">
+    <title lang="vi">Toàn cảnh nông nghiệp</title>
+  </programme>
+  <programme start="20211004055000 +0700" stop="20211004060000 +0700" channel="dong.thap1">
+    <title lang="vi">Sống chậm</title>
+  </programme>
+  <programme start="20211004060000 +0700" stop="20211004063000 +0700" channel="dong.thap1">
+    <title lang="vi">Sáng Miền Tây</title>
+  </programme>
+  <programme start="20211004063000 +0700" stop="20211004063500 +0700" channel="dong.thap1">
+    <title lang="vi">Thể thao ngày mới</title>
+  </programme>
+  <programme start="20211004063500 +0700" stop="20211004064500 +0700" channel="dong.thap1">
+    <title lang="vi">Sống khỏe</title>
+  </programme>
+  <programme start="20211004064500 +0700" stop="20211004070000 +0700" channel="dong.thap1">
+    <title lang="vi">Cánh đồng hội nhập</title>
+  </programme>
+  <programme start="20211004070000 +0700" stop="20211004071500 +0700" channel="dong.thap1">
+    <title lang="vi">An toàn giao thông</title>
+  </programme>
+  <programme start="20211004071500 +0700" stop="20211004073000 +0700" channel="dong.thap1">
+    <title lang="vi">Văn học nghệ thuật</title>
+  </programme>
+  <programme start="20211004073000 +0700" stop="20211004081500 +0700" channel="dong.thap1">
+    <title lang="vi">Phim VN: Khi người đàn ông trở lại - Tập 23</title>
+  </programme>
+  <programme start="20211004081500 +0700" stop="20211004084500 +0700" channel="dong.thap1">
+    <title lang="vi">Tạp chí thể thao</title>
+  </programme>
+  <programme start="20211004084500 +0700" stop="20211004090000 +0700" channel="dong.thap1">
+    <title lang="vi">Toàn cảnh nông nghiệp</title>
+  </programme>
+  <programme start="20211004090000 +0700" stop="20211004091500 +0700" channel="dong.thap1">
+    <title lang="vi">Ký sự: Côn Đảo: Hai miền Sáng-Tối- Tập 4</title>
+  </programme>
+  <programme start="20211004091500 +0700" stop="20211004110000 +0700" channel="dong.thap1">
+    <title lang="vi">Phim NN: Vạch trần tội ác- Tập 16, 17</title>
+  </programme>
+  <programme start="20211004110000 +0700" stop="20211004113000 +0700" channel="dong.thap1">
+    <title lang="vi">Nhịp sống 24h</title>
+  </programme>
+  <programme start="20211004113000 +0700" stop="20211004131000 +0700" channel="dong.thap1">
+    <title lang="vi">Phim NN:  Truyền thuyết phượng hoàng- Tập 11,12</title>
+  </programme>
+  <programme start="20211004131000 +0700" stop="20211004131500 +0700" channel="dong.thap1">
+    <title lang="vi">Bản tin giá cả thị trường</title>
+  </programme>
+  <programme start="20211004131500 +0700" stop="20211004134500 +0700" channel="dong.thap1">
+    <title lang="vi">Tạp chí thể thao</title>
+  </programme>
+  <programme start="20211004134500 +0700" stop="20211004160000 +0700" channel="dong.thap1">
+    <title lang="vi">Cải lương: Sao trời lại xanh</title>
+  </programme>
+  <programme start="20211004160000 +0700" stop="20211004161500 +0700" channel="dong.thap1">
+    <title lang="vi">Khám phá thế giới</title>
+  </programme>
+  <programme start="20211004161500 +0700" stop="20211004163000 +0700" channel="dong.thap1">
+    <title lang="vi">Đặc sản miền sông nước</title>
+  </programme>
+  <programme start="20211004163000 +0700" stop="20211004180000 +0700" channel="dong.thap1">
+    <title lang="vi">Phim NN : Ban thục truyền kỳ- Tập 36,37</title>
+  </programme>
+  <programme start="20211004180000 +0700" stop="20211004181500 +0700" channel="dong.thap1">
+    <title lang="vi">Khám phá Đồng Tháp</title>
+  </programme>
+  <programme start="20211004181500 +0700" stop="20211004183000 +0700" channel="dong.thap1">
+    <title lang="vi">Tái cơ cấu nông nghiệp- OCOP Đồng Tháp</title>
+  </programme>
+  <programme start="20211004183000 +0700" stop="20211004190000 +0700" channel="dong.thap1">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20211004190000 +0700" stop="20211004191000 +0700" channel="dong.thap1">
+    <title lang="vi">Nhịp sống thể thao</title>
+  </programme>
+  <programme start="20211004191000 +0700" stop="20211004200000 +0700" channel="dong.thap1">
+    <title lang="vi">Phim NN: Bước qua ranh giới- Tập 20</title>
+  </programme>
+  <programme start="20211004200000 +0700" stop="20211004202000 +0700" channel="dong.thap1">
+    <title lang="vi">Phim tài liệu: Những ngày chúng ta đang sống</title>
+  </programme>
+  <programme start="20211004202000 +0700" stop="20211004210000 +0700" channel="dong.thap1">
+    <title lang="vi">Kết nối Tài tử miệt vườn</title>
+  </programme>
+  <programme start="20211004210000 +0700" stop="20211004211500 +0700" channel="dong.thap1">
+    <title lang="vi">Người Đồng Tháp</title>
+  </programme>
+  <programme start="20211004211500 +0700" stop="20211004220000 +0700" channel="dong.thap1">
+    <title lang="vi">Phim VN: Hồ sơ lửa- Phần 2: Người 3 mặt -Tập 34</title>
+  </programme>
+  <programme start="20211004220000 +0700" stop="20211004233000 +0700" channel="dong.thap1">
+    <title lang="vi">Cải lương: Trạng sư Tống Thế Kiệt- Phần 1</title>
+  </programme>
+</tv>

@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="kon.tum">
+    <display-name lang="vi">Kon Tum</display-name>
+    <url>http://www.kontumtv.vn</url>
+  </channel>
+  <programme start="20211007113000 +0700" stop="20211007120000 +0700" channel="kon.tum">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20211007120000 +0700" stop="20211007121000 +0700" channel="kon.tum">
+    <title lang="vi">Điểm báo</title>
+  </programme>
+  <programme start="20211007121000 +0700" stop="20211007122000 +0700" channel="kon.tum">
+    <title lang="vi">Vì người nghèo: Đẩy mạnh công tác giảm nghèo</title>
+  </programme>
+  <programme start="20211007122000 +0700" stop="20211007123000 +0700" channel="kon.tum">
+    <title lang="vi">Phút thư giãn: Mượn rượu tỏ tình</title>
+  </programme>
+  <programme start="20211007123000 +0700" stop="20211007125500 +0700" channel="kon.tum">
+    <title lang="vi">Chương trình tiếng Xê Đăng</title>
+  </programme>
+  <programme start="20211007125500 +0700" stop="20211007134000 +0700" channel="kon.tum">
+    <title lang="vi">Phim truyện: Về đất Thăng Long – Tập 2</title>
+  </programme>
+  <programme start="20211007134000 +0700" stop="20211007140500 +0700" channel="kon.tum">
+    <title lang="vi">Phim tài liệu: Việt Nam thời đại Hồ Chí Minh Biên niên sử truyền hình Năm 1968 – Phần 1</title>
+  </programme>
+  <programme start="20211007140500 +0700" stop="20211007141500 +0700" channel="kon.tum">
+    <title lang="vi">Phụ nữ và cuộc sống: Kết quả 5 năm triển khai công tác hội và phong trào phụ nữ</title>
+  </programme>
+  <programme start="20211007141500 +0700" stop="20211007144000 +0700" channel="kon.tum">
+    <title lang="vi">Tổ quốc và người chiến sĩ hải quân</title>
+  </programme>
+  <programme start="20211007144000 +0700" stop="20211007161000 +0700" channel="kon.tum">
+    <title lang="vi">Phim truyện: Nàng Jane can đảm</title>
+  </programme>
+  <programme start="20211007161000 +0700" stop="20211007170000 +0700" channel="kon.tum">
+    <title lang="vi">Khám phá tự nhiên: Sự sống trên trái đất được hình thành như thế nào? Phần 1</title>
+  </programme>
+  <programme start="20211007170000 +0700" stop="20211007175000 +0700" channel="kon.tum">
+    <title lang="vi">Phim truyện: Tân trạng sư Tống Thế Kiệt – Tập 2</title>
+  </programme>
+  <programme start="20211007175000 +0700" stop="20211007181500 +0700" channel="kon.tum">
+    <title lang="vi">Truyền hình tiếng Gia Rai</title>
+  </programme>
+  <programme start="20211007181500 +0700" stop="20211007183000 +0700" channel="kon.tum">
+    <title lang="vi">Ký sự Biển đảo: Chuyện Hoàng Sa</title>
+  </programme>
+  <programme start="20211007183000 +0700" stop="20211007185000 +0700" channel="kon.tum">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20211007185000 +0700" stop="20211007194500 +0700" channel="kon.tum">
+    <title lang="vi">Bản tin thế giới</title>
+  </programme>
+  <programme start="20211007194500 +0700" stop="20211007202500 +0700" channel="kon.tum">
+    <title lang="vi">Chương trình thời sự</title>
+  </programme>
+  <programme start="20211007202500 +0700" stop="20211007203500 +0700" channel="kon.tum">
+    <title lang="vi">Học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh: Đồn Biên phòng Đăk Blô học tập và làm theo Bác</title>
+  </programme>
+  <programme start="20211007203500 +0700" stop="20211007204500 +0700" channel="kon.tum">
+    <title lang="vi">Dịch vụ môi trường rừng: Phát huy vai trò của chính sách chi trả dịch vụ môi trường rừng</title>
+  </programme>
+  <programme start="20211007204500 +0700" stop="20211007205500 +0700" channel="kon.tum">
+    <title lang="vi">Phụ nữ và cuộc sống: Kết quả 5 năm triển khai công tác Hội và phong trào phụ nữ</title>
+  </programme>
+  <programme start="20211007205500 +0700" stop="20211007214000 +0700" channel="kon.tum">
+    <title lang="vi">Phim truyện: Cỏ biếc  - Tập 32</title>
+  </programme>
+  <programme start="20211007214000 +0700" stop="20211007215500 +0700" channel="kon.tum">
+    <title lang="vi">Bản tin cuối ngày</title>
+  </programme>
+  <programme start="20211007215500 +0700" stop="20211007222500 +0700" channel="kon.tum">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20211007222500 +0700" stop="20211007224000 +0700" channel="kon.tum">
+    <title lang="vi">Ký sự Lào: Tập 42</title>
+  </programme>
+  <programme start="20211007224000 +0700" stop="20211007233000 +0700" channel="kon.tum">
+    <title lang="vi">Phim truyện: Hoa thiên cốt – Tập 11</title>
+  </programme>
+</tv>

@@ -1,0 +1,466 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="ba.ria">
+    <display-name lang="vi">Bà Rịa - Vũng Tàu HD</display-name>
+    <url>http://www.brt.vn</url>
+  </channel>
+  <programme start="20211003005000 +0700" stop="20211003010000 +0700" channel="ba.ria">
+    <title lang="vi">Sống đẹp: Những phần rau xanh nghĩa tình</title>
+  </programme>
+  <programme start="20211003010000 +0700" stop="20211003013000 +0700" channel="ba.ria">
+    <title lang="vi">Ca nhạc: Cảm ơn tình yêu ( 25'35")</title>
+  </programme>
+  <programme start="20211003013000 +0700" stop="20211003020000 +0700" channel="ba.ria">
+    <title lang="vi">Truyền hình Quân khu 7 ( Kỳ 39)</title>
+  </programme>
+  <programme start="20211003020000 +0700" stop="20211003025000 +0700" channel="ba.ria">
+    <title lang="vi">Phim truyện Việt Nam: Hồ sơ lửa - Phần 1 - Tập 37 ( 44'14")</title>
+  </programme>
+  <programme start="20211003025000 +0700" stop="20211003030500 +0700" channel="ba.ria">
+    <title lang="vi">Xây dựng Đảng: Phát huy vai trò, trách nhiệm của Đảng viên trong phòng chống dịch Covid -19</title>
+  </programme>
+  <programme start="20211003030500 +0700" stop="20211003033500 +0700" channel="ba.ria">
+    <title lang="vi">Ca cổ: Loài hoa nào tên em - Phần 1 ( 27'02")</title>
+  </programme>
+  <programme start="20211003033500 +0700" stop="20211003040000 +0700" channel="ba.ria">
+    <title lang="vi">Thế giới động vật: Vùng biển Palau - Phần cuối</title>
+  </programme>
+  <programme start="20211003040000 +0700" stop="20211003041000 +0700" channel="ba.ria">
+    <title lang="vi">Pháp luật và cuộc sống: Chính sách hỗ trợ người lao động và người sử dụng lao động bị ảnh hưởng do dịch COVID-19</title>
+  </programme>
+  <programme start="20211003041000 +0700" stop="20211003050500 +0700" channel="ba.ria">
+    <title lang="vi">Gameshow: Sàn đấu danh hài ( Tập 1-45'35")</title>
+  </programme>
+  <programme start="20211003050500 +0700" stop="20211003052000 +0700" channel="ba.ria">
+    <title lang="vi">Sitcom: Tám công sở - Đi tìm soái ca</title>
+  </programme>
+  <programme start="20211003052000 +0700" stop="20211003053500 +0700" channel="ba.ria">
+    <title lang="vi">Ký sự: Nẻo về nguồn cội - Tập 70 ( 12'29")</title>
+  </programme>
+  <programme start="20211003053500 +0700" stop="20211003060000 +0700" channel="ba.ria">
+    <title lang="vi">Ca nhạc: Đường về xứ Thanh - Phần 3 ( 26'22")</title>
+  </programme>
+  <programme start="20211003060000 +0700" stop="20211003072000 +0700" channel="ba.ria">
+    <title lang="vi">Chương trình Thời sự Ngày mới</title>
+  </programme>
+  <programme start="20211003072000 +0700" stop="20211003080500 +0700" channel="ba.ria">
+    <title lang="vi">Phim truyện Hàn Quốc: Khi nhà vua yêu - Tập 12 ( 45'54")</title>
+  </programme>
+  <programme start="20211003080500 +0700" stop="20211003082000 +0700" channel="ba.ria">
+    <title lang="vi">Quốc phòng toàn dân</title>
+  </programme>
+  <programme start="20211003082000 +0700" stop="20211003083500 +0700" channel="ba.ria">
+    <title lang="vi">Giai điệu cuộc sống: Ru con tình cũ</title>
+  </programme>
+  <programme start="20211003083500 +0700" stop="20211003085000 +0700" channel="ba.ria">
+    <title lang="vi">Phim hoạt hình: Ấu trùng Lavar tinh nghịch - Tập 2 ( 12'31")</title>
+  </programme>
+  <programme start="20211003085000 +0700" stop="20211003090000 +0700" channel="ba.ria">
+    <title lang="vi">Bản tin Mảnh ghép cuộc sống</title>
+  </programme>
+  <programme start="20211003090000 +0700" stop="20211003091500 +0700" channel="ba.ria">
+    <title lang="vi">Kết nối Đông Nam Bộ</title>
+  </programme>
+  <programme start="20211003091500 +0700" stop="20211003093000 +0700" channel="ba.ria">
+    <title lang="vi">Bốn phương kỳ cục án - Tập 12: Trúng số phải họa ( 15'07")</title>
+  </programme>
+  <programme start="20211003093000 +0700" stop="20211003100000 +0700" channel="ba.ria">
+    <title lang="vi">Thích ứng an toàn</title>
+  </programme>
+  <programme start="20211003100000 +0700" stop="20211003105500 +0700" channel="ba.ria">
+    <title lang="vi">Phim truyện Việt Nam: Hồ sơ lửa - Phần 1 - Tập 38 ( 45'52")</title>
+  </programme>
+  <programme start="20211003105500 +0700" stop="20211003113000 +0700" channel="ba.ria">
+    <title lang="vi">Tường thuật: Kỳ họp thứ Ba, HDND tỉnh BR- VT khóa VII - Phần 2</title>
+  </programme>
+  <programme start="20211003113000 +0700" stop="20211003120000 +0700" channel="ba.ria">
+    <title lang="vi">Chương trình Thời sự "Hòa nhịp phát triển"</title>
+  </programme>
+  <programme start="20211003120000 +0700" stop="20211003125000 +0700" channel="ba.ria">
+    <title lang="vi">Phim truyện Trung Quốc: Truyền thuyết Bạch Xà - Tập 7 ( 45'32")</title>
+  </programme>
+  <programme start="20211003125000 +0700" stop="20211003130000 +0700" channel="ba.ria">
+    <title lang="vi">Ký sự: Nẻo về nguồn cội - Tập 70 ( 12'29")</title>
+  </programme>
+  <programme start="20211003130000 +0700" stop="20211003133000 +0700" channel="ba.ria">
+    <title lang="vi">Ca nhạc: Đã xa mùa yêu dấu (23'58")</title>
+  </programme>
+  <programme start="20211003133000 +0700" stop="20211003140000 +0700" channel="ba.ria">
+    <title lang="vi">Góc nhìn chiến tranh:nTừ bước chân vô định, tới hành trình chính nghĩa - Phần 1</title>
+  </programme>
+  <programme start="20211003140000 +0700" stop="20211003145000 +0700" channel="ba.ria">
+    <title lang="vi">Phim truyện Việt Nam: Trái tim của sói - Tập 16 ( 44'19")</title>
+  </programme>
+  <programme start="20211003145000 +0700" stop="20211003150000 +0700" channel="ba.ria">
+    <title lang="vi">Bản tin Mảnh ghép cuộc sống</title>
+  </programme>
+  <programme start="20211003150000 +0700" stop="20211003162000 +0700" channel="ba.ria">
+    <title lang="vi">Sân khấu cải lương: Giông tố đêm thu - Phần 2 ( 77'22")</title>
+  </programme>
+  <programme start="20211003162000 +0700" stop="20211003164000 +0700" channel="ba.ria">
+    <title lang="vi">Đại biểu dân cử với cử tri</title>
+  </programme>
+  <programme start="20211003164000 +0700" stop="20211003170000 +0700" channel="ba.ria">
+    <title lang="vi">Nhật Bản kỳ thú: Làng Ogawa</title>
+  </programme>
+  <programme start="20211003170000 +0700" stop="20211003175000 +0700" channel="ba.ria">
+    <title lang="vi">Phim truyện Hàn Quốc: Ranh giới - Tập 28 ( 43'53")</title>
+  </programme>
+  <programme start="20211003175000 +0700" stop="20211003180000 +0700" channel="ba.ria">
+    <title lang="vi">Văn hóa nghệ thuật: Nhạc sỹ Hoàng Lương với những sáng tác phòng chống dịch - Kỳ 2</title>
+  </programme>
+  <programme start="20211003180000 +0700" stop="20211003181000 +0700" channel="ba.ria">
+    <title lang="vi">Bản tin trước ống kính</title>
+  </programme>
+  <programme start="20211003181000 +0700" stop="20211003183000 +0700" channel="ba.ria">
+    <title lang="vi">Phim hoạt hình: Ấu trùng Lavar tinh nghịch - Tập 3 ( 12'31")</title>
+  </programme>
+  <programme start="20211003183000 +0700" stop="20211003190000 +0700" channel="ba.ria">
+    <title lang="vi">Thời sự Đài PT và TH tỉnh Bà Rịa - Vũng Tàu</title>
+  </programme>
+  <programme start="20211003190000 +0700" stop="20211003194500 +0700" channel="ba.ria">
+    <title lang="vi">Tiếp sóng thời sự Đài TH Việt Nam</title>
+  </programme>
+  <programme start="20211003194500 +0700" stop="20211003200000 +0700" channel="ba.ria">
+    <title lang="vi">Sitcom: Tám công sở - Ước mơ đi Hà Nội</title>
+  </programme>
+  <programme start="20211003200000 +0700" stop="20211003205000 +0700" channel="ba.ria">
+    <title lang="vi">Thích ứng an toàn</title>
+  </programme>
+  <programme start="20211003205000 +0700" stop="20211003211000 +0700" channel="ba.ria">
+    <title lang="vi">Sống khỏe mỗi ngày: Bệnh u não</title>
+  </programme>
+  <programme start="20211003211000 +0700" stop="20211003215500 +0700" channel="ba.ria">
+    <title lang="vi">Gameshow: Chung sức tranh tài - Mùa 2 - Tập 4 (48'20")</title>
+  </programme>
+  <programme start="20211003215500 +0700" stop="20211003220500 +0700" channel="ba.ria">
+    <title lang="vi">Bản tin Mảnh ghép cuộc sống</title>
+  </programme>
+  <programme start="20211003220500 +0700" stop="20211003223000 +0700" channel="ba.ria">
+    <title lang="vi">Ca nhạc: Dấu yêu ngày cũ ( 27'47")</title>
+  </programme>
+  <programme start="20211003223000 +0700" stop="20211003232000 +0700" channel="ba.ria">
+    <title lang="vi">Phim truyện Việt Nam: Trái tim của sói - Tập 16 ( 44'19")</title>
+  </programme>
+  <programme start="20211003232000 +0700" stop="20211003233500 +0700" channel="ba.ria">
+    <title lang="vi">Thời sự cuối ngày</title>
+  </programme>
+  <programme start="20211003233500 +0700" stop="20211004010000 +0700" channel="ba.ria">
+    <title lang="vi">Phim truyện Trung Quốc: Truyền thuyết Bạch Xà - Tập 7 ( 45'32")</title>
+  </programme>
+  <programme start="20211004010000 +0700" stop="20211004010000 +0700" channel="ba.ria">
+    <title lang="vi">Nhật Bản kỳ thú: Làng Ogawa</title>
+  </programme>
+  <programme start="20211004010000 +0700" stop="20211004012500 +0700" channel="ba.ria">
+    <title lang="vi">Nhật Bản kỳ thú: Làng Ogawa</title>
+  </programme>
+  <programme start="20211004012500 +0700" stop="20211004012500 +0700" channel="ba.ria">
+    <title lang="vi">Ca cổ: Loài hoa nào tên em - Phần 1 ( 27'02")</title>
+  </programme>
+  <programme start="20211004012500 +0700" stop="20211004020000 +0700" channel="ba.ria">
+    <title lang="vi">Ca cổ: Loài hoa nào tên em - Phần 1 ( 27'02")</title>
+  </programme>
+  <programme start="20211004020000 +0700" stop="20211004020000 +0700" channel="ba.ria">
+    <title lang="vi">Phim truyện Việt Nam: Hồ sơ lửa - Phần 1 - Tập 38 ( 45'52")</title>
+  </programme>
+  <programme start="20211004020000 +0700" stop="20211004025000 +0700" channel="ba.ria">
+    <title lang="vi">Phim truyện Việt Nam: Hồ sơ lửa - Phần 1 - Tập 38 ( 45'52")</title>
+  </programme>
+  <programme start="20211004025000 +0700" stop="20211004025000 +0700" channel="ba.ria">
+    <title lang="vi">An toàn giao thông: Chuẩn bị phương án hoat động khi trở lại trạng thái bình thường mới</title>
+  </programme>
+  <programme start="20211004025000 +0700" stop="20211004030500 +0700" channel="ba.ria">
+    <title lang="vi">An toàn giao thông: Chuẩn bị phương án hoat động khi trở lại trạng thái bình thường mới</title>
+  </programme>
+  <programme start="20211004030500 +0700" stop="20211004030500 +0700" channel="ba.ria">
+    <title lang="vi">Ca nhạc quốc tế: Huyền thoại ABBA ( 23')</title>
+  </programme>
+  <programme start="20211004030500 +0700" stop="20211004033500 +0700" channel="ba.ria">
+    <title lang="vi">Ca nhạc quốc tế: Huyền thoại ABBA ( 23')</title>
+  </programme>
+  <programme start="20211004033500 +0700" stop="20211004033500 +0700" channel="ba.ria">
+    <title lang="vi">Sống đẹp: Những phần rau xanh nghĩa tình</title>
+  </programme>
+  <programme start="20211004033500 +0700" stop="20211004034000 +0700" channel="ba.ria">
+    <title lang="vi">Sống đẹp: Những phần rau xanh nghĩa tình</title>
+  </programme>
+  <programme start="20211004034000 +0700" stop="20211004034000 +0700" channel="ba.ria">
+    <title lang="vi">Bạn học tôi là bố - Tập 13 (29'16")</title>
+  </programme>
+  <programme start="20211004034000 +0700" stop="20211004041000 +0700" channel="ba.ria">
+    <title lang="vi">Bạn học tôi là bố - Tập 13 (29'16")</title>
+  </programme>
+  <programme start="20211004041000 +0700" stop="20211004041000 +0700" channel="ba.ria">
+    <title lang="vi">Cuộc sống xanh: Bùng nổ diện tích trồng bơ tại Bồ Đào Nha - Phần cuối</title>
+  </programme>
+  <programme start="20211004041000 +0700" stop="20211004042000 +0700" channel="ba.ria">
+    <title lang="vi">Cuộc sống xanh: Bùng nổ diện tích trồng bơ tại Bồ Đào Nha - Phần cuối</title>
+  </programme>
+  <programme start="20211004042000 +0700" stop="20211004042000 +0700" channel="ba.ria">
+    <title lang="vi">Tài nguyên - Môi trường: Nhiều quy định mới trong thi hành luật đất đai</title>
+  </programme>
+  <programme start="20211004042000 +0700" stop="20211004043000 +0700" channel="ba.ria">
+    <title lang="vi">Tài nguyên - Môi trường: Nhiều quy định mới trong thi hành luật đất đai</title>
+  </programme>
+  <programme start="20211004043000 +0700" stop="20211004043000 +0700" channel="ba.ria">
+    <title lang="vi">Showbiz 101 ( Số 69)</title>
+  </programme>
+  <programme start="20211004043000 +0700" stop="20211004050500 +0700" channel="ba.ria">
+    <title lang="vi">Showbiz 101 ( Số 69)</title>
+  </programme>
+  <programme start="20211004050500 +0700" stop="20211004050500 +0700" channel="ba.ria">
+    <title lang="vi">Sitcom: Tám công sở - Ước mơ đi Hà Nội</title>
+  </programme>
+  <programme start="20211004050500 +0700" stop="20211004051500 +0700" channel="ba.ria">
+    <title lang="vi">Sitcom: Tám công sở - Ước mơ đi Hà Nội</title>
+  </programme>
+  <programme start="20211004051500 +0700" stop="20211004051500 +0700" channel="ba.ria">
+    <title lang="vi">Ký sự: Nẻo về nguồn cội - Tập 71 ( 12'16")</title>
+  </programme>
+  <programme start="20211004051500 +0700" stop="20211004053000 +0700" channel="ba.ria">
+    <title lang="vi">Ký sự: Nẻo về nguồn cội - Tập 71 ( 12'16")</title>
+  </programme>
+  <programme start="20211004053000 +0700" stop="20211004053000 +0700" channel="ba.ria">
+    <title lang="vi">Ca nhạc: Hà Nội dương cầm đêm ( 24'41")</title>
+  </programme>
+  <programme start="20211004053000 +0700" stop="20211004060000 +0700" channel="ba.ria">
+    <title lang="vi">Ca nhạc: Hà Nội dương cầm đêm ( 24'41")</title>
+  </programme>
+  <programme start="20211004060000 +0700" stop="20211004060000 +0700" channel="ba.ria">
+    <title lang="vi">Chương trình Thời sự Ngày mới</title>
+  </programme>
+  <programme start="20211004060000 +0700" stop="20211004070000 +0700" channel="ba.ria">
+    <title lang="vi">Chương trình Thời sự Ngày mới</title>
+  </programme>
+  <programme start="20211004070000 +0700" stop="20211004070000 +0700" channel="ba.ria">
+    <title lang="vi">Văn hóa nghệ thuật: Nhạc sỹ Hoàng Lương với những sáng tác phòng chống dịch - Kỳ 2</title>
+  </programme>
+  <programme start="20211004070000 +0700" stop="20211004071500 +0700" channel="ba.ria">
+    <title lang="vi">Văn hóa nghệ thuật: Nhạc sỹ Hoàng Lương với những sáng tác phòng chống dịch - Kỳ 2</title>
+  </programme>
+  <programme start="20211004071500 +0700" stop="20211004071500 +0700" channel="ba.ria">
+    <title lang="vi">Phim truyện Hàn Quốc: Khi nhà vua yêu - Tập 13 ( 46'22")</title>
+  </programme>
+  <programme start="20211004071500 +0700" stop="20211004080000 +0700" channel="ba.ria">
+    <title lang="vi">Phim truyện Hàn Quốc: Khi nhà vua yêu - Tập 13 ( 46'22")</title>
+  </programme>
+  <programme start="20211004080000 +0700" stop="20211004080000 +0700" channel="ba.ria">
+    <title lang="vi">Truyền hình vui học: Toán lớp 2 - Số hạng, tổng</title>
+  </programme>
+  <programme start="20211004080000 +0700" stop="20211004083000 +0700" channel="ba.ria">
+    <title lang="vi">Truyền hình vui học: Toán lớp 2 - Số hạng, tổng</title>
+  </programme>
+  <programme start="20211004083000 +0700" stop="20211004083000 +0700" channel="ba.ria">
+    <title lang="vi">Vòng quanh thế giới: Đường cao tốc Karakoram của Pakistan - Phần cuối</title>
+  </programme>
+  <programme start="20211004083000 +0700" stop="20211004085000 +0700" channel="ba.ria">
+    <title lang="vi">Vòng quanh thế giới: Đường cao tốc Karakoram của Pakistan - Phần cuối</title>
+  </programme>
+  <programme start="20211004085000 +0700" stop="20211004085000 +0700" channel="ba.ria">
+    <title lang="vi">Bản tin Mảnh ghép cuộc sống</title>
+  </programme>
+  <programme start="20211004085000 +0700" stop="20211004090000 +0700" channel="ba.ria">
+    <title lang="vi">Bản tin Mảnh ghép cuộc sống</title>
+  </programme>
+  <programme start="20211004090000 +0700" stop="20211004090000 +0700" channel="ba.ria">
+    <title lang="vi">Giai điệu cuộc sống: Đường về hai thôn</title>
+  </programme>
+  <programme start="20211004090000 +0700" stop="20211004091000 +0700" channel="ba.ria">
+    <title lang="vi">Giai điệu cuộc sống: Đường về hai thôn</title>
+  </programme>
+  <programme start="20211004091000 +0700" stop="20211004091000 +0700" channel="ba.ria">
+    <title lang="vi">Câu chuyện tiêu dùng: Vẫn là câu chuyện mở cửa chợ</title>
+  </programme>
+  <programme start="20211004091000 +0700" stop="20211004093000 +0700" channel="ba.ria">
+    <title lang="vi">Câu chuyện tiêu dùng: Vẫn là câu chuyện mở cửa chợ</title>
+  </programme>
+  <programme start="20211004093000 +0700" stop="20211004093000 +0700" channel="ba.ria">
+    <title lang="vi">Thích ứng an toàn</title>
+  </programme>
+  <programme start="20211004093000 +0700" stop="20211004100000 +0700" channel="ba.ria">
+    <title lang="vi">Thích ứng an toàn</title>
+  </programme>
+  <programme start="20211004100000 +0700" stop="20211004100000 +0700" channel="ba.ria">
+    <title lang="vi">Phim truyện Việt Nam: Hồ sơ lửa - Phần 2 - Tập 1 ( 45'03")</title>
+  </programme>
+  <programme start="20211004100000 +0700" stop="20211004105500 +0700" channel="ba.ria">
+    <title lang="vi">Phim truyện Việt Nam: Hồ sơ lửa - Phần 2 - Tập 1 ( 45'03")</title>
+  </programme>
+  <programme start="20211004105500 +0700" stop="20211004105500 +0700" channel="ba.ria">
+    <title lang="vi">Tường thuật: Kỳ họp thứ Ba, HDND tỉnh BR- VT khóa VII - Phần 3</title>
+  </programme>
+  <programme start="20211004105500 +0700" stop="20211004113000 +0700" channel="ba.ria">
+    <title lang="vi">Tường thuật: Kỳ họp thứ Ba, HDND tỉnh BR- VT khóa VII - Phần 3</title>
+  </programme>
+  <programme start="20211004113000 +0700" stop="20211004113000 +0700" channel="ba.ria">
+    <title lang="vi">Chương trình Thời sự "Hòa nhịp phát triển"</title>
+  </programme>
+  <programme start="20211004113000 +0700" stop="20211004120000 +0700" channel="ba.ria">
+    <title lang="vi">Chương trình Thời sự "Hòa nhịp phát triển"</title>
+  </programme>
+  <programme start="20211004120000 +0700" stop="20211004120000 +0700" channel="ba.ria">
+    <title lang="vi">Phim truyện Trung Quốc: Truyền thuyết Bạch Xà - Tập 8 ( 45'41")</title>
+  </programme>
+  <programme start="20211004120000 +0700" stop="20211004125000 +0700" channel="ba.ria">
+    <title lang="vi">Phim truyện Trung Quốc: Truyền thuyết Bạch Xà - Tập 8 ( 45'41")</title>
+  </programme>
+  <programme start="20211004125000 +0700" stop="20211004125000 +0700" channel="ba.ria">
+    <title lang="vi">Ký sự: Nẻo về nguồn cội - Tập 71 ( 12'16")</title>
+  </programme>
+  <programme start="20211004125000 +0700" stop="20211004130000 +0700" channel="ba.ria">
+    <title lang="vi">Ký sự: Nẻo về nguồn cội - Tập 71 ( 12'16")</title>
+  </programme>
+  <programme start="20211004130000 +0700" stop="20211004130000 +0700" channel="ba.ria">
+    <title lang="vi">Ca nhạc: Nhạc sỹ Giao Tiên</title>
+  </programme>
+  <programme start="20211004130000 +0700" stop="20211004133000 +0700" channel="ba.ria">
+    <title lang="vi">Ca nhạc: Nhạc sỹ Giao Tiên</title>
+  </programme>
+  <programme start="20211004133000 +0700" stop="20211004133000 +0700" channel="ba.ria">
+    <title lang="vi">Phim tài liệu: Đối mặt với tử thần</title>
+  </programme>
+  <programme start="20211004133000 +0700" stop="20211004140000 +0700" channel="ba.ria">
+    <title lang="vi">Phim tài liệu: Đối mặt với tử thần</title>
+  </programme>
+  <programme start="20211004140000 +0700" stop="20211004140000 +0700" channel="ba.ria">
+    <title lang="vi">Phim truyện Việt Nam: Trái tim của sói - Tập 17 ( 44'33")</title>
+  </programme>
+  <programme start="20211004140000 +0700" stop="20211004145000 +0700" channel="ba.ria">
+    <title lang="vi">Phim truyện Việt Nam: Trái tim của sói - Tập 17 ( 44'33")</title>
+  </programme>
+  <programme start="20211004145000 +0700" stop="20211004145000 +0700" channel="ba.ria">
+    <title lang="vi">Bản tin Mảnh ghép cuộc sống</title>
+  </programme>
+  <programme start="20211004145000 +0700" stop="20211004150000 +0700" channel="ba.ria">
+    <title lang="vi">Bản tin Mảnh ghép cuộc sống</title>
+  </programme>
+  <programme start="20211004150000 +0700" stop="20211004150000 +0700" channel="ba.ria">
+    <title lang="vi">Truyền hình vui học: Toán lớp 2 - Số hạng, tổng</title>
+  </programme>
+  <programme start="20211004150000 +0700" stop="20211004152500 +0700" channel="ba.ria">
+    <title lang="vi">Truyền hình vui học: Toán lớp 2 - Số hạng, tổng</title>
+  </programme>
+  <programme start="20211004152500 +0700" stop="20211004152500 +0700" channel="ba.ria">
+    <title lang="vi">Ca nhạc quốc tế: Top MVs K.pop có kinh phí sản xuất đắt đỏ nhất từ trước đến nay - Phần 1 ( 27'11")</title>
+  </programme>
+  <programme start="20211004152500 +0700" stop="20211004155500 +0700" channel="ba.ria">
+    <title lang="vi">Ca nhạc quốc tế: Top MVs K.pop có kinh phí sản xuất đắt đỏ nhất từ trước đến nay - Phần 1 ( 27'11")</title>
+  </programme>
+  <programme start="20211004155500 +0700" stop="20211004155500 +0700" channel="ba.ria">
+    <title lang="vi">Kết nối Đông Nam Bộ</title>
+  </programme>
+  <programme start="20211004155500 +0700" stop="20211004161000 +0700" channel="ba.ria">
+    <title lang="vi">Kết nối Đông Nam Bộ</title>
+  </programme>
+  <programme start="20211004161000 +0700" stop="20211004161000 +0700" channel="ba.ria">
+    <title lang="vi">Phim khoa học: Ngôi đền bị lãng quên của Campuchia - Phần 1</title>
+  </programme>
+  <programme start="20211004161000 +0700" stop="20211004163000 +0700" channel="ba.ria">
+    <title lang="vi">Phim khoa học: Ngôi đền bị lãng quên của Campuchia - Phần 1</title>
+  </programme>
+  <programme start="20211004163000 +0700" stop="20211004163000 +0700" channel="ba.ria">
+    <title lang="vi">Bốn phương kỳ cục án - Tập 12: Trúng số phải họa ( 15'07")</title>
+  </programme>
+  <programme start="20211004163000 +0700" stop="20211004165000 +0700" channel="ba.ria">
+    <title lang="vi">Bốn phương kỳ cục án - Tập 12: Trúng số phải họa ( 15'07")</title>
+  </programme>
+  <programme start="20211004165000 +0700" stop="20211004165000 +0700" channel="ba.ria">
+    <title lang="vi">Camera đồng hành: Những ngày sống chậm</title>
+  </programme>
+  <programme start="20211004165000 +0700" stop="20211004170000 +0700" channel="ba.ria">
+    <title lang="vi">Camera đồng hành: Những ngày sống chậm</title>
+  </programme>
+  <programme start="20211004170000 +0700" stop="20211004170000 +0700" channel="ba.ria">
+    <title lang="vi">Phim truyện Hàn Quốc: Ranh giới - Tập 29 ( 43'47")</title>
+  </programme>
+  <programme start="20211004170000 +0700" stop="20211004175000 +0700" channel="ba.ria">
+    <title lang="vi">Phim truyện Hàn Quốc: Ranh giới - Tập 29 ( 43'47")</title>
+  </programme>
+  <programme start="20211004175000 +0700" stop="20211004175000 +0700" channel="ba.ria">
+    <title lang="vi">Kinh tế và hội nhập: Phục hồi kinh tế - Kỳ 2</title>
+  </programme>
+  <programme start="20211004175000 +0700" stop="20211004180000 +0700" channel="ba.ria">
+    <title lang="vi">Kinh tế và hội nhập: Phục hồi kinh tế - Kỳ 2</title>
+  </programme>
+  <programme start="20211004180000 +0700" stop="20211004180000 +0700" channel="ba.ria">
+    <title lang="vi">Bản tin trước ống kính</title>
+  </programme>
+  <programme start="20211004180000 +0700" stop="20211004181000 +0700" channel="ba.ria">
+    <title lang="vi">Bản tin trước ống kính</title>
+  </programme>
+  <programme start="20211004181000 +0700" stop="20211004181000 +0700" channel="ba.ria">
+    <title lang="vi">Phim hoạt hình: Ấu trùng Lavar tinh nghịch - Tập 4 ( 12'32")</title>
+  </programme>
+  <programme start="20211004181000 +0700" stop="20211004183000 +0700" channel="ba.ria">
+    <title lang="vi">Phim hoạt hình: Ấu trùng Lavar tinh nghịch - Tập 4 ( 12'32")</title>
+  </programme>
+  <programme start="20211004183000 +0700" stop="20211004183000 +0700" channel="ba.ria">
+    <title lang="vi">Thời sự Đài PT và TH tỉnh Bà Rịa - Vũng Tàu</title>
+  </programme>
+  <programme start="20211004183000 +0700" stop="20211004190000 +0700" channel="ba.ria">
+    <title lang="vi">Thời sự Đài PT và TH tỉnh Bà Rịa - Vũng Tàu</title>
+  </programme>
+  <programme start="20211004190000 +0700" stop="20211004190000 +0700" channel="ba.ria">
+    <title lang="vi">Tiếp sóng thời sự Đài TH Việt Nam</title>
+  </programme>
+  <programme start="20211004190000 +0700" stop="20211004194500 +0700" channel="ba.ria">
+    <title lang="vi">Tiếp sóng thời sự Đài TH Việt Nam</title>
+  </programme>
+  <programme start="20211004194500 +0700" stop="20211004194500 +0700" channel="ba.ria">
+    <title lang="vi">Sitcom: Oan gia bùm chéo - Tập 48: Sét đánh ngang mày</title>
+  </programme>
+  <programme start="20211004194500 +0700" stop="20211004200000 +0700" channel="ba.ria">
+    <title lang="vi">Sitcom: Oan gia bùm chéo - Tập 48: Sét đánh ngang mày</title>
+  </programme>
+  <programme start="20211004200000 +0700" stop="20211004200000 +0700" channel="ba.ria">
+    <title lang="vi">Thích ứng an toàn</title>
+  </programme>
+  <programme start="20211004200000 +0700" stop="20211004201500 +0700" channel="ba.ria">
+    <title lang="vi">Thích ứng an toàn</title>
+  </programme>
+  <programme start="20211004201500 +0700" stop="20211004201500 +0700" channel="ba.ria">
+    <title lang="vi">Phim truyện Việt Nam: Chuyện tình bà nội trợ - Tập 17 ( 46'43")</title>
+  </programme>
+  <programme start="20211004201500 +0700" stop="20211004210500 +0700" channel="ba.ria">
+    <title lang="vi">Phim truyện Việt Nam: Chuyện tình bà nội trợ - Tập 17 ( 46'43")</title>
+  </programme>
+  <programme start="20211004210500 +0700" stop="20211004210500 +0700" channel="ba.ria">
+    <title lang="vi">An ninh trật tự BR-VT:</title>
+  </programme>
+  <programme start="20211004210500 +0700" stop="20211004212000 +0700" channel="ba.ria">
+    <title lang="vi">An ninh trật tự BR-VT:</title>
+  </programme>
+  <programme start="20211004212000 +0700" stop="20211004212000 +0700" channel="ba.ria">
+    <title lang="vi">Phim truyện Hàn Quốc: Tìm lại chính mình - Tập 7 ( 41'25")</title>
+  </programme>
+  <programme start="20211004212000 +0700" stop="20211004220500 +0700" channel="ba.ria">
+    <title lang="vi">Phim truyện Hàn Quốc: Tìm lại chính mình - Tập 7 ( 41'25")</title>
+  </programme>
+  <programme start="20211004220500 +0700" stop="20211004220500 +0700" channel="ba.ria">
+    <title lang="vi">Bản tin Mảnh ghép cuộc sống</title>
+  </programme>
+  <programme start="20211004220500 +0700" stop="20211004221500 +0700" channel="ba.ria">
+    <title lang="vi">Bản tin Mảnh ghép cuộc sống</title>
+  </programme>
+  <programme start="20211004221500 +0700" stop="20211004221500 +0700" channel="ba.ria">
+    <title lang="vi">Ca nhạc: Tình đẹp muôn thuở</title>
+  </programme>
+  <programme start="20211004221500 +0700" stop="20211004223500 +0700" channel="ba.ria">
+    <title lang="vi">Ca nhạc: Tình đẹp muôn thuở</title>
+  </programme>
+  <programme start="20211004223500 +0700" stop="20211004223500 +0700" channel="ba.ria">
+    <title lang="vi">Phim truyện Việt Nam: Trái tim của sói - Tập 17 ( 44'33")</title>
+  </programme>
+  <programme start="20211004223500 +0700" stop="20211004232000 +0700" channel="ba.ria">
+    <title lang="vi">Phim truyện Việt Nam: Trái tim của sói - Tập 17 ( 44'33")</title>
+  </programme>
+  <programme start="20211004232000 +0700" stop="20211004232000 +0700" channel="ba.ria">
+    <title lang="vi">Thời sự cuối ngày</title>
+  </programme>
+  <programme start="20211004232000 +0700" stop="20211004233500 +0700" channel="ba.ria">
+    <title lang="vi">Thời sự cuối ngày</title>
+  </programme>
+  <programme start="20211004233500 +0700" stop="20211004233500 +0700" channel="ba.ria">
+    <title lang="vi">Phim truyện Trung Quốc: Truyền thuyết Bạch Xà - Tập 8 ( 45'41")</title>
+  </programme>
+</tv>

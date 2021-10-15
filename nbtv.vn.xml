@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="ninh.binh">
+    <display-name lang="vi">Ninh Bình</display-name>
+    <url>http://www.nbtv.vn</url>
+  </channel>
+  <programme start="20210926053000 +0700" stop="20210926053500 +0700" channel="ninh.binh">
+    <title lang="vi">Hình hiệu + GTCT THNB Chủ nhật ngày 26.9.2021</title>
+  </programme>
+  <programme start="20210926053500 +0700" stop="20210926060000 +0700" channel="ninh.binh">
+    <title lang="vi">Khoa học và cuộc sống:</title>
+    <sub-title lang="vi">Giải mã Covid 19 - Phần 2</sub-title>
+  </programme>
+  <programme start="20210926060000 +0700" stop="20210926063000 +0700" channel="ninh.binh">
+    <title lang="vi">Cố Đô ngày mới</title>
+  </programme>
+  <programme start="20210926063000 +0700" stop="20210926064000 +0700" channel="ninh.binh">
+    <title lang="vi">Ninh Bình chuyển đổi số:</title>
+    <sub-title lang="vi">Chuyển đổi số những gì?</sub-title>
+  </programme>
+  <programme start="20210926064000 +0700" stop="20210926072500 +0700" channel="ninh.binh">
+    <title lang="vi">Phim truyện:</title>
+    <sub-title lang="vi">Mùa xuân quanh ta - Tập 55</sub-title>
+  </programme>
+  <programme start="20210926072500 +0700" stop="20210926074000 +0700" channel="ninh.binh">
+    <title lang="vi">Tuyệt chiêu nhà nông:</title>
+    <sub-title lang="vi">Tập 178: Có nên bón phân khi lúa đang trổ bông; Chữa bệnh thương hàn ghép khuẩn ecolli cho gà</sub-title>
+  </programme>
+  <programme start="20210926074000 +0700" stop="20210926083000 +0700" channel="ninh.binh">
+    <title lang="vi">Phim truyện:</title>
+    <sub-title lang="vi">Mùa xuân quanh ta - Tập 56</sub-title>
+  </programme>
+  <programme start="20210926083000 +0700" stop="20210926084000 +0700" channel="ninh.binh">
+    <title lang="vi">Sống khỏe 360:</title>
+    <sub-title lang="vi">Số 63 - Mỏ quạ - Cây thuốc mọc hoang trị nhiều bệnh</sub-title>
+  </programme>
+  <programme start="20210926084000 +0700" stop="20210926085500 +0700" channel="ninh.binh">
+    <title lang="vi">Không gian xanh:</title>
+    <sub-title lang="vi">Khám phá khu dân cư xanh sạch đẹp ở Khánh Nhạc</sub-title>
+  </programme>
+  <programme start="20210926085500 +0700" stop="20210926091000 +0700" channel="ninh.binh">
+    <title lang="vi">Phim tài liệu:</title>
+    <sub-title lang="vi">Về làng sen nhớ Bác</sub-title>
+  </programme>
+  <programme start="20210926091000 +0700" stop="20210926093000 +0700" channel="ninh.binh">
+    <title lang="vi">Thời sự trong nước &amp; Quốc tế sáng</title>
+  </programme>
+  <programme start="20210926093000 +0700" stop="20210926094500 +0700" channel="ninh.binh">
+    <title lang="vi">Quân sự quốc phòng địa phương:</title>
+    <sub-title lang="vi">Những người lính tiên phong trong phòng chống dịch</sub-title>
+  </programme>
+  <programme start="20210926094500 +0700" stop="20210926101500 +0700" channel="ninh.binh">
+    <title lang="vi">Xiếc quốc tế</title>
+  </programme>
+  <programme start="20210926101500 +0700" stop="20210926103000 +0700" channel="ninh.binh">
+    <title lang="vi">Phóng sự:</title>
+    <sub-title lang="vi">Nâng cao năng lực điều trị bệnh nhân Covid - 19</sub-title>
+  </programme>
+  <programme start="20210926103000 +0700" stop="20210926112000 +0700" channel="ninh.binh">
+    <title lang="vi">Phim truyện:</title>
+    <sub-title lang="vi">Sự trả thù ngọt ngào - Tập 27</sub-title>
+  </programme>
+  <programme start="20210926112000 +0700" stop="20210926113500 +0700" channel="ninh.binh">
+    <title lang="vi">Kể chuyện cùng bé:</title>
+    <sub-title lang="vi">Câu chuyện "Chú bé chăn cừu"</sub-title>
+  </programme>
+  <programme start="20210926113500 +0700" stop="20210926115000 +0700" channel="ninh.binh">
+    <title lang="vi">Bản tin Thời sự trưa</title>
+  </programme>
+  <programme start="20210926115000 +0700" stop="20210926115500 +0700" channel="ninh.binh">
+    <title lang="vi">Ninh Bình chuyển đổi số:</title>
+    <sub-title lang="vi">Chuyển đổi số những gì?</sub-title>
+  </programme>
+  <programme start="20210926115500 +0700" stop="20210926124000 +0700" channel="ninh.binh">
+    <title lang="vi">Phim truyện:</title>
+    <sub-title lang="vi">Sự trả thù ngọt ngào - Tập 28</sub-title>
+  </programme>
+  <programme start="20210926124000 +0700" stop="20210926125000 +0700" channel="ninh.binh">
+    <title lang="vi">Sống khỏe 360:</title>
+    <sub-title lang="vi">Số 63 - Mỏ quạ - Cây thuốc mọc hoang trị nhiều bệnh</sub-title>
+  </programme>
+  <programme start="20210926125000 +0700" stop="20210926142500 +0700" channel="ninh.binh">
+    <title lang="vi">Phim truyện:</title>
+    <sub-title lang="vi">Phía sau danh vọng - Tập 72+73</sub-title>
+  </programme>
+  <programme start="20210926142500 +0700" stop="20210926144000 +0700" channel="ninh.binh">
+    <title lang="vi">Tuyệt chiêu nhà nông:</title>
+    <sub-title lang="vi">Tập 178: Có nên bón phân khi lúa đang trổ bông; Chữa bệnh thương hàn ghép khuẩn ecolli cho gà</sub-title>
+  </programme>
+  <programme start="20210926144000 +0700" stop="20210926150500 +0700" channel="ninh.binh">
+    <title lang="vi">Phim tài liệu:</title>
+    <sub-title lang="vi">Lựa chọn của tôi</sub-title>
+  </programme>
+  <programme start="20210926150500 +0700" stop="20210926155500 +0700" channel="ninh.binh">
+    <title lang="vi">Phim truyện:</title>
+    <sub-title lang="vi">Tìm lại tình yêu - Tập 30</sub-title>
+  </programme>
+  <programme start="20210926155500 +0700" stop="20210926160000 +0700" channel="ninh.binh">
+    <title lang="vi">Ninh Bình chuyển đổi số:</title>
+    <sub-title lang="vi">Chuyển đổi số những gì?</sub-title>
+  </programme>
+  <programme start="20210926160000 +0700" stop="20210926161500 +0700" channel="ninh.binh">
+    <title lang="vi">Thời sự Ninh Bình</title>
+  </programme>
+  <programme start="20210926161500 +0700" stop="20210926163000 +0700" channel="ninh.binh">
+    <title lang="vi">Phóng sự:</title>
+    <sub-title lang="vi">Nâng cao năng lực điều trị bệnh nhân Covid - 19</sub-title>
+  </programme>
+  <programme start="20210926163000 +0700" stop="20210926164500 +0700" channel="ninh.binh">
+    <title lang="vi">Không gian xanh:</title>
+    <sub-title lang="vi">Khám phá khu dân cư xanh sạch đẹp ở Khánh Nhạc</sub-title>
+  </programme>
+  <programme start="20210926164500 +0700" stop="20210926170000 +0700" channel="ninh.binh">
+    <title lang="vi">Phim tài liệu:</title>
+    <sub-title lang="vi">Về làng sen nhớ Bác</sub-title>
+  </programme>
+  <programme start="20210926170000 +0700" stop="20210926171000 +0700" channel="ninh.binh">
+    <title lang="vi">Sống khỏe 360:</title>
+    <sub-title lang="vi">Số 64 - Cây thiên môn đông chữa bệnh gì?</sub-title>
+  </programme>
+  <programme start="20210926171000 +0700" stop="20210926172500 +0700" channel="ninh.binh">
+    <title lang="vi">Quân sự quốc phòng địa phương:</title>
+    <sub-title lang="vi">Những người lính tiên phong trong phòng chống dịch</sub-title>
+  </programme>
+  <programme start="20210926172500 +0700" stop="20210926174500 +0700" channel="ninh.binh">
+    <title lang="vi">Thời sự trong nước &amp; Quốc tế chiều</title>
+  </programme>
+  <programme start="20210926174500 +0700" stop="20210926183500 +0700" channel="ninh.binh">
+    <title lang="vi">Phim truyện:</title>
+    <sub-title lang="vi">Tìm lại tình yêu - Tập 31</sub-title>
+  </programme>
+  <programme start="20210926183500 +0700" stop="20210926190000 +0700" channel="ninh.binh">
+    <title lang="vi">Đất và Người Hoa Lư:</title>
+    <sub-title lang="vi">Thượng thư Ninh Tốn</sub-title>
+  </programme>
+  <programme start="20210926190000 +0700" stop="20210926195000 +0700" channel="ninh.binh">
+    <title lang="vi">Tiếp sóng Thời sự VTV</title>
+  </programme>
+  <programme start="20210926195000 +0700" stop="20210926203000 +0700" channel="ninh.binh">
+    <title lang="vi">Thời sự Ninh Bình</title>
+  </programme>
+  <programme start="20210926203000 +0700" stop="20210926203500 +0700" channel="ninh.binh">
+    <title lang="vi">Khám phá cùng NBTV:</title>
+    <sub-title lang="vi">Về Ninh Bình nghe làn điệu quê hương</sub-title>
+  </programme>
+  <programme start="20210926203500 +0700" stop="20210926212000 +0700" channel="ninh.binh">
+    <title lang="vi">Phim truyện:</title>
+    <sub-title lang="vi">Mùa xuân quanh ta - Tập 57</sub-title>
+  </programme>
+  <programme start="20210926212000 +0700" stop="20210926213500 +0700" channel="ninh.binh">
+    <title lang="vi">Đảng trong cuộc sống hôm nay:</title>
+    <sub-title lang="vi">Nâng cao chất lượng đội ngũ cán bộ, công chức cấp xã</sub-title>
+  </programme>
+  <programme start="20210926213500 +0700" stop="20210926215000 +0700" channel="ninh.binh">
+    <title lang="vi">Tuyệt chiêu nhà nông:</title>
+    <sub-title lang="vi">Tập 179 - Su hào bị nứt củ; Cho nhãn ngủ đông để năm nào cũng sai quả</sub-title>
+  </programme>
+  <programme start="20210926215000 +0700" stop="20210926223500 +0700" channel="ninh.binh">
+    <title lang="vi">Phim truyện:</title>
+    <sub-title lang="vi">Mùa xuân quanh ta - Tập 58</sub-title>
+  </programme>
+  <programme start="20210926223500 +0700" stop="20210926230500 +0700" channel="ninh.binh">
+    <title lang="vi">Ca nhạc:</title>
+    <sub-title lang="vi">Thanh Thảo và những bản tình ca</sub-title>
+  </programme>
+  <programme start="20210926230500 +0700" stop="20210927053000 +0700" channel="ninh.binh">
+    <title lang="vi">Thời sự cuối ngày</title>
+  </programme>
+  <programme start="20210927053000 +0700" stop="20210927053500 +0700" channel="ninh.binh">
+    <title lang="vi">Hình hiệu + GTCT THNB Chủ nhật ngày 26.9.2021</title>
+  </programme>
+  <programme start="20210927053500 +0700" stop="20210927060000 +0700" channel="ninh.binh">
+    <title lang="vi">Khoa học và cuộc sống:</title>
+    <sub-title lang="vi">Giải mã Covid 19 - Phần 2</sub-title>
+  </programme>
+  <programme start="20210927060000 +0700" stop="20210927063000 +0700" channel="ninh.binh">
+    <title lang="vi">Cố Đô ngày mới</title>
+  </programme>
+  <programme start="20210927063000 +0700" stop="20210927064000 +0700" channel="ninh.binh">
+    <title lang="vi">Ninh Bình chuyển đổi số:</title>
+    <sub-title lang="vi">Chuyển đổi số những gì?</sub-title>
+  </programme>
+  <programme start="20210927064000 +0700" stop="20210927072500 +0700" channel="ninh.binh">
+    <title lang="vi">Phim truyện:</title>
+    <sub-title lang="vi">Mùa xuân quanh ta - Tập 55</sub-title>
+  </programme>
+  <programme start="20210927072500 +0700" stop="20210927074000 +0700" channel="ninh.binh">
+    <title lang="vi">Tuyệt chiêu nhà nông:</title>
+    <sub-title lang="vi">Tập 178: Có nên bón phân khi lúa đang trổ bông; Chữa bệnh thương hàn ghép khuẩn ecolli cho gà</sub-title>
+  </programme>
+  <programme start="20210927074000 +0700" stop="20210927083000 +0700" channel="ninh.binh">
+    <title lang="vi">Phim truyện:</title>
+    <sub-title lang="vi">Mùa xuân quanh ta - Tập 56</sub-title>
+  </programme>
+  <programme start="20210927083000 +0700" stop="20210927084000 +0700" channel="ninh.binh">
+    <title lang="vi">Sống khỏe 360:</title>
+    <sub-title lang="vi">Số 63 - Mỏ quạ - Cây thuốc mọc hoang trị nhiều bệnh</sub-title>
+  </programme>
+  <programme start="20210927084000 +0700" stop="20210927085500 +0700" channel="ninh.binh">
+    <title lang="vi">Không gian xanh:</title>
+    <sub-title lang="vi">Khám phá khu dân cư xanh sạch đẹp ở Khánh Nhạc</sub-title>
+  </programme>
+  <programme start="20210927085500 +0700" stop="20210927091000 +0700" channel="ninh.binh">
+    <title lang="vi">Phim tài liệu:</title>
+    <sub-title lang="vi">Về làng sen nhớ Bác</sub-title>
+  </programme>
+  <programme start="20210927091000 +0700" stop="20210927093000 +0700" channel="ninh.binh">
+    <title lang="vi">Thời sự trong nước &amp; Quốc tế sáng</title>
+  </programme>
+  <programme start="20210927093000 +0700" stop="20210927094500 +0700" channel="ninh.binh">
+    <title lang="vi">Quân sự quốc phòng địa phương:</title>
+    <sub-title lang="vi">Những người lính tiên phong trong phòng chống dịch</sub-title>
+  </programme>
+  <programme start="20210927094500 +0700" stop="20210927101500 +0700" channel="ninh.binh">
+    <title lang="vi">Xiếc quốc tế</title>
+  </programme>
+  <programme start="20210927101500 +0700" stop="20210927103000 +0700" channel="ninh.binh">
+    <title lang="vi">Phóng sự:</title>
+    <sub-title lang="vi">Nâng cao năng lực điều trị bệnh nhân Covid - 19</sub-title>
+  </programme>
+  <programme start="20210927103000 +0700" stop="20210927112000 +0700" channel="ninh.binh">
+    <title lang="vi">Phim truyện:</title>
+    <sub-title lang="vi">Sự trả thù ngọt ngào - Tập 27</sub-title>
+  </programme>
+  <programme start="20210927112000 +0700" stop="20210927113500 +0700" channel="ninh.binh">
+    <title lang="vi">Kể chuyện cùng bé:</title>
+    <sub-title lang="vi">Câu chuyện "Chú bé chăn cừu"</sub-title>
+  </programme>
+  <programme start="20210927113500 +0700" stop="20210927115000 +0700" channel="ninh.binh">
+    <title lang="vi">Bản tin Thời sự trưa</title>
+  </programme>
+  <programme start="20210927115000 +0700" stop="20210927115500 +0700" channel="ninh.binh">
+    <title lang="vi">Ninh Bình chuyển đổi số:</title>
+    <sub-title lang="vi">Chuyển đổi số những gì?</sub-title>
+  </programme>
+  <programme start="20210927115500 +0700" stop="20210927124000 +0700" channel="ninh.binh">
+    <title lang="vi">Phim truyện:</title>
+    <sub-title lang="vi">Sự trả thù ngọt ngào - Tập 28</sub-title>
+  </programme>
+  <programme start="20210927124000 +0700" stop="20210927125000 +0700" channel="ninh.binh">
+    <title lang="vi">Sống khỏe 360:</title>
+    <sub-title lang="vi">Số 63 - Mỏ quạ - Cây thuốc mọc hoang trị nhiều bệnh</sub-title>
+  </programme>
+  <programme start="20210927125000 +0700" stop="20210927142500 +0700" channel="ninh.binh">
+    <title lang="vi">Phim truyện:</title>
+    <sub-title lang="vi">Phía sau danh vọng - Tập 72+73</sub-title>
+  </programme>
+  <programme start="20210927142500 +0700" stop="20210927144000 +0700" channel="ninh.binh">
+    <title lang="vi">Tuyệt chiêu nhà nông:</title>
+    <sub-title lang="vi">Tập 178: Có nên bón phân khi lúa đang trổ bông; Chữa bệnh thương hàn ghép khuẩn ecolli cho gà</sub-title>
+  </programme>
+  <programme start="20210927144000 +0700" stop="20210927150500 +0700" channel="ninh.binh">
+    <title lang="vi">Phim tài liệu:</title>
+    <sub-title lang="vi">Lựa chọn của tôi</sub-title>
+  </programme>
+  <programme start="20210927150500 +0700" stop="20210927155500 +0700" channel="ninh.binh">
+    <title lang="vi">Phim truyện:</title>
+    <sub-title lang="vi">Tìm lại tình yêu - Tập 30</sub-title>
+  </programme>
+  <programme start="20210927155500 +0700" stop="20210927160000 +0700" channel="ninh.binh">
+    <title lang="vi">Ninh Bình chuyển đổi số:</title>
+    <sub-title lang="vi">Chuyển đổi số những gì?</sub-title>
+  </programme>
+  <programme start="20210927160000 +0700" stop="20210927161500 +0700" channel="ninh.binh">
+    <title lang="vi">Thời sự Ninh Bình</title>
+  </programme>
+  <programme start="20210927161500 +0700" stop="20210927163000 +0700" channel="ninh.binh">
+    <title lang="vi">Phóng sự:</title>
+    <sub-title lang="vi">Nâng cao năng lực điều trị bệnh nhân Covid - 19</sub-title>
+  </programme>
+  <programme start="20210927163000 +0700" stop="20210927164500 +0700" channel="ninh.binh">
+    <title lang="vi">Không gian xanh:</title>
+    <sub-title lang="vi">Khám phá khu dân cư xanh sạch đẹp ở Khánh Nhạc</sub-title>
+  </programme>
+  <programme start="20210927164500 +0700" stop="20210927170000 +0700" channel="ninh.binh">
+    <title lang="vi">Phim tài liệu:</title>
+    <sub-title lang="vi">Về làng sen nhớ Bác</sub-title>
+  </programme>
+  <programme start="20210927170000 +0700" stop="20210927171000 +0700" channel="ninh.binh">
+    <title lang="vi">Sống khỏe 360:</title>
+    <sub-title lang="vi">Số 64 - Cây thiên môn đông chữa bệnh gì?</sub-title>
+  </programme>
+  <programme start="20210927171000 +0700" stop="20210927172500 +0700" channel="ninh.binh">
+    <title lang="vi">Quân sự quốc phòng địa phương:</title>
+    <sub-title lang="vi">Những người lính tiên phong trong phòng chống dịch</sub-title>
+  </programme>
+  <programme start="20210927172500 +0700" stop="20210927174500 +0700" channel="ninh.binh">
+    <title lang="vi">Thời sự trong nước &amp; Quốc tế chiều</title>
+  </programme>
+  <programme start="20210927174500 +0700" stop="20210927183500 +0700" channel="ninh.binh">
+    <title lang="vi">Phim truyện:</title>
+    <sub-title lang="vi">Tìm lại tình yêu - Tập 31</sub-title>
+  </programme>
+  <programme start="20210927183500 +0700" stop="20210927190000 +0700" channel="ninh.binh">
+    <title lang="vi">Đất và Người Hoa Lư:</title>
+    <sub-title lang="vi">Thượng thư Ninh Tốn</sub-title>
+  </programme>
+  <programme start="20210927190000 +0700" stop="20210927195000 +0700" channel="ninh.binh">
+    <title lang="vi">Tiếp sóng Thời sự VTV</title>
+  </programme>
+  <programme start="20210927195000 +0700" stop="20210927203000 +0700" channel="ninh.binh">
+    <title lang="vi">Thời sự Ninh Bình</title>
+  </programme>
+  <programme start="20210927203000 +0700" stop="20210927203500 +0700" channel="ninh.binh">
+    <title lang="vi">Khám phá cùng NBTV:</title>
+    <sub-title lang="vi">Về Ninh Bình nghe làn điệu quê hương</sub-title>
+  </programme>
+  <programme start="20210927203500 +0700" stop="20210927212000 +0700" channel="ninh.binh">
+    <title lang="vi">Phim truyện:</title>
+    <sub-title lang="vi">Mùa xuân quanh ta - Tập 57</sub-title>
+  </programme>
+  <programme start="20210927212000 +0700" stop="20210927213500 +0700" channel="ninh.binh">
+    <title lang="vi">Đảng trong cuộc sống hôm nay:</title>
+    <sub-title lang="vi">Nâng cao chất lượng đội ngũ cán bộ, công chức cấp xã</sub-title>
+  </programme>
+  <programme start="20210927213500 +0700" stop="20210927215000 +0700" channel="ninh.binh">
+    <title lang="vi">Tuyệt chiêu nhà nông:</title>
+    <sub-title lang="vi">Tập 179 - Su hào bị nứt củ; Cho nhãn ngủ đông để năm nào cũng sai quả</sub-title>
+  </programme>
+  <programme start="20210927215000 +0700" stop="20210927223500 +0700" channel="ninh.binh">
+    <title lang="vi">Phim truyện:</title>
+    <sub-title lang="vi">Mùa xuân quanh ta - Tập 58</sub-title>
+  </programme>
+  <programme start="20210927223500 +0700" stop="20210927230500 +0700" channel="ninh.binh">
+    <title lang="vi">Ca nhạc:</title>
+    <sub-title lang="vi">Thanh Thảo và những bản tình ca</sub-title>
+  </programme>
+</tv>

@@ -1,0 +1,509 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="hai.phong">
+    <display-name lang="vi">Hải Phòng</display-name>
+    <url>http://www.thhp.vn</url>
+  </channel>
+  <channel id="hai.phong.plus">
+    <display-name lang="vi">Hải Phòng +</display-name>
+    <url>http://www.thhp.vn</url>
+  </channel>
+  <programme start="20211010002500 +0700" stop="20211010004500 +0700" channel="hai.phong">
+    <title lang="vi">Phim tài liệu: Một chiều</title>
+  </programme>
+  <programme start="20211010004500 +0700" stop="20211010010000 +0700" channel="hai.phong">
+    <title lang="vi">Phóng sự: Thầy “Vàng Anh”</title>
+  </programme>
+  <programme start="20211010010000 +0700" stop="20211010014500 +0700" channel="hai.phong">
+    <title lang="vi">PHIM TRUYỆN HÀN QUỐC: NGÔI SAO KHOAI TÂY (PHẦN 2 - TẬP 8)</title>
+  </programme>
+  <programme start="20211010014500 +0700" stop="20211010021500 +0700" channel="hai.phong">
+    <title lang="vi">Xây dựng Đảng: Dân vận khéo trong giải phóng mặt bằng ở Hải Phòng</title>
+  </programme>
+  <programme start="20211010021500 +0700" stop="20211010030000 +0700" channel="hai.phong">
+    <title lang="vi">PHIM TRUYỆN VIỆT NAM: CHỊ EM NHÀ ĐÔNG CÁC (TẬP 23)</title>
+  </programme>
+  <programme start="20211010030000 +0700" stop="20211010031500 +0700" channel="hai.phong">
+    <title lang="vi">Phim hoạt hình: Tớ không tham gia đâu</title>
+  </programme>
+  <programme start="20211010031500 +0700" stop="20211010033000 +0700" channel="hai.phong">
+    <title lang="vi">Chương trình thiếu nhi: Siêu trí tuệ nhí</title>
+  </programme>
+  <programme start="20211010033000 +0700" stop="20211010045000 +0700" channel="hai.phong">
+    <title lang="vi">Sân khấu: Mùi nhựa đường</title>
+  </programme>
+  <programme start="20211010045000 +0700" stop="20211010051000 +0700" channel="hai.phong">
+    <title lang="vi">Phim tài liệu: Lá thư cuối cùng của người lính xe tăng cảm tử</title>
+  </programme>
+  <programme start="20211010051000 +0700" stop="20211010053000 +0700" channel="hai.phong">
+    <title lang="vi">Ca nhạc: Hành trình theo bước chân những người anh hùng</title>
+  </programme>
+  <programme start="20211010053000 +0700" stop="20211010054500 +0700" channel="hai.phong">
+    <title lang="vi">Giới thiệu Chương trình Truyền hình trong ngày và Thể dục buổi sáng</title>
+  </programme>
+  <programme start="20211010054500 +0700" stop="20211010061500 +0700" channel="hai.phong">
+    <title lang="vi">Nét Hà Thành: Hương cốm trong sắc thu Hà Nội</title>
+  </programme>
+  <programme start="20211010061500 +0700" stop="20211010063000 +0700" channel="hai.phong">
+    <title lang="vi">Thời sự Hải Phòng sáng</title>
+  </programme>
+  <programme start="20211010063000 +0700" stop="20211010071500 +0700" channel="hai.phong">
+    <title lang="vi">PHIM TRUYỆN VIỆT NAM: TẤM LÒNG CỦA BIỂN (TẬP 8)</title>
+  </programme>
+  <programme start="20211010071500 +0700" stop="20211010073000 +0700" channel="hai.phong">
+    <title lang="vi">Phim hoạt hình: Chú gấu Bonnie (Tập 51)</title>
+  </programme>
+  <programme start="20211010073000 +0700" stop="20211010074500 +0700" channel="hai.phong">
+    <title lang="vi">An toàn giao thông: Đẩy nhanh tiến độ tuyến đường xuyên đảo Cát Bà</title>
+  </programme>
+  <programme start="20211010074500 +0700" stop="20211010080500 +0700" channel="hai.phong">
+    <title lang="vi">Chương trình thiếu nhi: Vườn sách bên làng chài</title>
+  </programme>
+  <programme start="20211010080500 +0700" stop="20211010083000 +0700" channel="hai.phong">
+    <title lang="vi">Măng non: Trải nghiệm vẽ tranh đất sét</title>
+  </programme>
+  <programme start="20211010083000 +0700" stop="20211010090000 +0700" channel="hai.phong">
+    <title lang="vi">Live in Hải Phòng (Phiên bản tiếng Nhật)</title>
+  </programme>
+  <programme start="20211010090000 +0700" stop="20211010094500 +0700" channel="hai.phong">
+    <title lang="vi">PHIM TRUYỆN HÀN QUỐC: LỤC LONG TRANH BÁ (PHẦN 2 - TẬP 22)</title>
+  </programme>
+  <programme start="20211010094500 +0700" stop="20211010101500 +0700" channel="hai.phong">
+    <title lang="vi">Hải Phòng những góc nhìn: Trải nghiệm các hang động ở Cát Bà</title>
+  </programme>
+  <programme start="20211010101500 +0700" stop="20211010103000 +0700" channel="hai.phong">
+    <title lang="vi">Xả Xupap (Tập 80)</title>
+  </programme>
+  <programme start="20211010103000 +0700" stop="20211010104500 +0700" channel="hai.phong">
+    <title lang="vi">Phim hoạt hình: Chú gấu Bonnie (Tập 52)</title>
+  </programme>
+  <programme start="20211010104500 +0700" stop="20211010111000 +0700" channel="hai.phong">
+    <title lang="vi">Giáo dục và đào tạo: Đẩy nhanh chuyển đổi số trong giáo dục</title>
+  </programme>
+  <programme start="20211010111000 +0700" stop="20211010113000 +0700" channel="hai.phong">
+    <title lang="vi">Kinh tế và đô thị: Hải Phòng nỗ lực cải thiện chỉ số PCI</title>
+  </programme>
+  <programme start="20211010113000 +0700" stop="20211010120000 +0700" channel="hai.phong">
+    <title lang="vi">Thời sự Hải Phòng</title>
+  </programme>
+  <programme start="20211010120000 +0700" stop="20211010124500 +0700" channel="hai.phong">
+    <title lang="vi">PHIM TRUYỆN HÀN QUỐC: NGÔI SAO KHOAI TÂY (PHẦN 2 - TẬP 9)</title>
+  </programme>
+  <programme start="20211010124500 +0700" stop="20211010130000 +0700" channel="hai.phong">
+    <title lang="vi">Hải Phòng chuyển động và kết nối: Sức hút bất động sản công nghiệp Hải Phòng</title>
+  </programme>
+  <programme start="20211010130000 +0700" stop="20211010134500 +0700" channel="hai.phong">
+    <title lang="vi">PHIM TRUYỆN ĐÀI LOAN (TRUNG QUỐC): NGỌT NGÀO TÌNH CHA (PHẦN 2 - TẬP 31)</title>
+  </programme>
+  <programme start="20211010134500 +0700" stop="20211010141500 +0700" channel="hai.phong">
+    <title lang="vi">Học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh: Cựu chiến binh xung kích trên mặt trận xóa nghèo, làm kinh tế giỏi</title>
+  </programme>
+  <programme start="20211010141500 +0700" stop="20211010143000 +0700" channel="hai.phong">
+    <title lang="vi">Xả Xupap (Tập 83)</title>
+  </programme>
+  <programme start="20211010143000 +0700" stop="20211010150000 +0700" channel="hai.phong">
+    <title lang="vi">Live in Hải Phòng (Phiên bản tiếng Nhật)</title>
+  </programme>
+  <programme start="20211010150000 +0700" stop="20211010154500 +0700" channel="hai.phong">
+    <title lang="vi">PHIM TRUYỆN VIỆT NAM: TẤM LÒNG CỦA BIỂN (TẬP 8)</title>
+  </programme>
+  <programme start="20211010154500 +0700" stop="20211010161000 +0700" channel="hai.phong">
+    <title lang="vi">Khoa học và công nghệ: Ngày hội khởi nghiệp Techfest Hải Phòng 2021</title>
+  </programme>
+  <programme start="20211010161000 +0700" stop="20211010164500 +0700" channel="hai.phong">
+    <title lang="vi">Hải Phòng văn hóa và sự kiện: Giao lưu với nhà thơ Huy Hồng nhân kỷ niệm ngày doanh nhân Việt Nam 13/10</title>
+  </programme>
+  <programme start="20211010164500 +0700" stop="20211010170000 +0700" channel="hai.phong">
+    <title lang="vi">Phim hoạt hình: Chú gấu Bonnie (Tập 52)</title>
+  </programme>
+  <programme start="20211010170000 +0700" stop="20211010171500 +0700" channel="hai.phong">
+    <title lang="vi">Ca nhạc: Bác Hồ một tình yêu bao la</title>
+  </programme>
+  <programme start="20211010171500 +0700" stop="20211010180000 +0700" channel="hai.phong">
+    <title lang="vi">PHIM TRUYỆN HÀN QUỐC: TUYỆT SẮC KHUYNH THÀNH (PHẦN 1 - TẬP 20)</title>
+  </programme>
+  <programme start="20211010180000 +0700" stop="20211010183500 +0700" channel="hai.phong">
+    <title lang="vi">Măng non: Kỹ năng giao tiếp, ứng xử trên mạng xã hội</title>
+  </programme>
+  <programme start="20211010183500 +0700" stop="20211010184500 +0700" channel="hai.phong">
+    <title lang="vi">Bản tin quốc tế</title>
+  </programme>
+  <programme start="20211010184500 +0700" stop="20211010190000 +0700" channel="hai.phong">
+    <title lang="vi">10 phút vàng</title>
+  </programme>
+  <programme start="20211010190000 +0700" stop="20211010194500 +0700" channel="hai.phong">
+    <title lang="vi">Chuyển tiếp Thời sự Đài Truyền hình Việt Nam</title>
+  </programme>
+  <programme start="20211010194500 +0700" stop="20211010203000 +0700" channel="hai.phong">
+    <title lang="vi">Thời sự Hải Phòng</title>
+  </programme>
+  <programme start="20211010203000 +0700" stop="20211010212500 +0700" channel="hai.phong">
+    <title lang="vi">PHIM TRUYỆN TRUNG QUỐC: THIÊN KIM TRỞ VỀ (TẬP 30)</title>
+  </programme>
+  <programme start="20211010212500 +0700" stop="20211010221000 +0700" channel="hai.phong">
+    <title lang="vi">PHIM TRUYỆN TRUNG QUỐC: NGƯỜI THỪA KẾ (TẬP 21)</title>
+  </programme>
+  <programme start="20211010221000 +0700" stop="20211010223000 +0700" channel="hai.phong">
+    <title lang="vi">Xây dựng Đảng: Đảng ủy khối các cơ quan thành phố: đổi mới, nâng cao chất lượng sinh hoạt chi bộ theo chuyên đề</title>
+  </programme>
+  <programme start="20211010223000 +0700" stop="20211010224000 +0700" channel="hai.phong">
+    <title lang="vi">Bản tin tiếng Anh</title>
+  </programme>
+  <programme start="20211010224000 +0700" stop="20211010225000 +0700" channel="hai.phong">
+    <title lang="vi">Bản tin tiếng Trung</title>
+  </programme>
+  <programme start="20211010225000 +0700" stop="20211011002500 +0700" channel="hai.phong">
+    <title lang="vi">PHIM TRUYỆN ẤN ĐỘ: MỐI TÌNH NGHIỆT NGÃ (PHẦN 2 - TẬP 2)</title>
+  </programme>
+  <programme start="20211011002500 +0700" stop="20211011010000 +0700" channel="hai.phong">
+    <title lang="vi">Nét Hà Thành: Hương cốm trong sắc thu Hà Nội</title>
+  </programme>
+  <programme start="20211011010000 +0700" stop="20211011014500 +0700" channel="hai.phong">
+    <title lang="vi">Phim truyện Hàn Quốc: Ngôi sao khoai tây (Phần 2 - Tập 9)</title>
+  </programme>
+  <programme start="20211011014500 +0700" stop="20211011021500 +0700" channel="hai.phong">
+    <title lang="vi">Hải Phòng tăng trưởng: Đảm bảo an ninh an toàn ngân hàng trong xu thế phát triển ngân hàng số</title>
+  </programme>
+  <programme start="20211011021500 +0700" stop="20211011030000 +0700" channel="hai.phong">
+    <title lang="vi">Phim truyện Việt Nam: Chị em nhà Đông Các (Tập 24)</title>
+  </programme>
+  <programme start="20211011030000 +0700" stop="20211011031500 +0700" channel="hai.phong">
+    <title lang="vi">Phim hoạt hình: Tớ không tham gia đâu</title>
+  </programme>
+  <programme start="20211011031500 +0700" stop="20211011033500 +0700" channel="hai.phong">
+    <title lang="vi">Chương trình thiếu nhi: Vườn sách bên làng chài</title>
+  </programme>
+  <programme start="20211011033500 +0700" stop="20211011050500 +0700" channel="hai.phong">
+    <title lang="vi">Sân khấu: Điều không thể mất</title>
+  </programme>
+  <programme start="20211011050500 +0700" stop="20211011053000 +0700" channel="hai.phong">
+    <title lang="vi">Phóng sự: Ẩm thực Tây Bắc giữa lòng Hà Nội</title>
+  </programme>
+  <programme start="20211011053000 +0700" stop="20211011054500 +0700" channel="hai.phong">
+    <title lang="vi">Giới thiệu Chương trình Truyền hình trong ngày và Thể dục buổi sáng</title>
+  </programme>
+  <programme start="20211011054500 +0700" stop="20211011061500 +0700" channel="hai.phong">
+    <title lang="vi">Phim tài liệu : Hành trình khát vọng</title>
+  </programme>
+  <programme start="20211011061500 +0700" stop="20211011063000 +0700" channel="hai.phong">
+    <title lang="vi">Thời sự Hải Phòng</title>
+  </programme>
+  <programme start="20211011063000 +0700" stop="20211011071500 +0700" channel="hai.phong">
+    <title lang="vi">Phim truyện Việt Nam: Tấm lòng của biển (Tập 9)</title>
+  </programme>
+  <programme start="20211011071500 +0700" stop="20211011073000 +0700" channel="hai.phong">
+    <title lang="vi">Phim hoạt hình: Chú gấu Bonnie (Tập 52)</title>
+  </programme>
+  <programme start="20211011073000 +0700" stop="20211011080000 +0700" channel="hai.phong">
+    <title lang="vi">Xây dựng Đảng: Đảng ủy khối các cơ quan thành phố: đổi mới, nâng cao chất lượng sinh hoạt chi bộ theo chuyên đề</title>
+  </programme>
+  <programme start="20211011080000 +0700" stop="20211011082000 +0700" channel="hai.phong">
+    <title lang="vi">Măng non: Kỹ năng giao tiếp, ứng xử trên mạng xã hội</title>
+  </programme>
+  <programme start="20211011082000 +0700" stop="20211011103000 +0700" channel="hai.phong">
+    <title lang="vi">Khoa giáo: Đa dạng sinh học khu hệ cá sông Mê Kông - Việt Nam</title>
+  </programme>
+  <programme start="20211011103000 +0700" stop="20211011104500 +0700" channel="hai.phong">
+    <title lang="vi">Phim hoạt hình : Chú gấu Bonnie (Tập 52)</title>
+  </programme>
+  <programme start="20211011104500 +0700" stop="20211011111000 +0700" channel="hai.phong">
+    <title lang="vi">Hải Phòng tăng trưởng : Văn hóa kinh doanh - nền tảng phát triển bền vững của doanh nghiệp</title>
+  </programme>
+  <programme start="20211011111000 +0700" stop="20211011113000 +0700" channel="hai.phong">
+    <title lang="vi">Quốc phòng địa phương: Bộ chỉ huy quân sự huyện An Dương nắm nguồn thanh niên sẵn sàng nhập ngũ</title>
+  </programme>
+  <programme start="20211011113000 +0700" stop="20211011120000 +0700" channel="hai.phong">
+    <title lang="vi">Thời sự Hải Phòng</title>
+  </programme>
+  <programme start="20211011120000 +0700" stop="20211011124500 +0700" channel="hai.phong">
+    <title lang="vi">Phim truyện Hàn Quốc: Ngôi sao khoai tây (Phần 2 - Tập 10)</title>
+  </programme>
+  <programme start="20211011124500 +0700" stop="20211011130000 +0700" channel="hai.phong">
+    <title lang="vi">Khoa học và công nghệ : Ứng dụng công nghệ mới trong quy trình sản xuất tại doanh nghiệp</title>
+  </programme>
+  <programme start="20211011130000 +0700" stop="20211011134500 +0700" channel="hai.phong">
+    <title lang="vi">Phim truyện Đài Loan (Trung Quốc): Ngọt ngào tình cha (Phần 2 - Tập 32)</title>
+  </programme>
+  <programme start="20211011134500 +0700" stop="20211011141500 +0700" channel="hai.phong">
+    <title lang="vi">Kinh tế và đô thị : Hải Phòng nỗ lực cải thiện chỉ số PCI</title>
+  </programme>
+  <programme start="20211011141500 +0700" stop="20211011150000 +0700" channel="hai.phong">
+    <title lang="vi">Xả Xupap (Tập 83)</title>
+  </programme>
+  <programme start="20211011150000 +0700" stop="20211011154500 +0700" channel="hai.phong">
+    <title lang="vi">Phim truyện Việt Nam: Tấm lòng của biển (Tập 9)</title>
+  </programme>
+  <programme start="20211011154500 +0700" stop="20211011161000 +0700" channel="hai.phong">
+    <title lang="vi">Giáo dục và đào tạo: Đẩy nhanh chuyển đổi số trong giáo dục</title>
+  </programme>
+  <programme start="20211011161000 +0700" stop="20211011164500 +0700" channel="hai.phong">
+    <title lang="vi">Hải Phòng văn hóa và sự kiện:  Giao lưu với nhà thơ Huy Hồng (Phó chủ nhiệm CLB Thơ, văn học doanh nhân Hải Phòng) nhân kỷ niệm ngày doanh nhân Việt Nam 13/10</title>
+  </programme>
+  <programme start="20211011164500 +0700" stop="20211011171500 +0700" channel="hai.phong">
+    <title lang="vi">Phim hoạt hình : Chú gấu Bonnie (Tập 52)</title>
+  </programme>
+  <programme start="20211011171500 +0700" stop="20211011180000 +0700" channel="hai.phong">
+    <title lang="vi">Phim truyện Trung Quốc: Tuyệt sắc khuynh thành  ( Phần 1 - Tập 21 )</title>
+  </programme>
+  <programme start="20211011180000 +0700" stop="20211011183000 +0700" channel="hai.phong">
+    <title lang="vi">Măng non: Actions Word</title>
+  </programme>
+  <programme start="20211011183000 +0700" stop="20211011184500 +0700" channel="hai.phong">
+    <title lang="vi">Bản tin quốc tế</title>
+  </programme>
+  <programme start="20211011184500 +0700" stop="20211011190000 +0700" channel="hai.phong">
+    <title lang="vi">Bản tin 10 phút vàng</title>
+  </programme>
+  <programme start="20211011190000 +0700" stop="20211011194500 +0700" channel="hai.phong">
+    <title lang="vi">Chuyển tiếp Thời sự Đài Truyền hình Việt Nam</title>
+  </programme>
+  <programme start="20211011194500 +0700" stop="20211011202000 +0700" channel="hai.phong">
+    <title lang="vi">Thời sự Hải Phòng</title>
+  </programme>
+  <programme start="20211011202000 +0700" stop="20211011203000 +0700" channel="hai.phong">
+    <title lang="vi">Xả Xupap ( Tập 84 )</title>
+  </programme>
+  <programme start="20211011203000 +0700" stop="20211011212500 +0700" channel="hai.phong">
+    <title lang="vi">Phim truyện Trung Quốc : Thiên kim trở về (Tập 31)</title>
+  </programme>
+  <programme start="20211011212500 +0700" stop="20211011221000 +0700" channel="hai.phong">
+    <title lang="vi">Phim truyện Trung Quốc: Người thừa kế ( Tập 22 )</title>
+  </programme>
+  <programme start="20211011221000 +0700" stop="20211011223000 +0700" channel="hai.phong">
+    <title lang="vi">Dân hỏi Giám đốc Sở trả lời: Đối thoại với công an Thành phố</title>
+  </programme>
+  <programme start="20211011223000 +0700" stop="20211011224000 +0700" channel="hai.phong">
+    <title lang="vi">Bản tin tiếng Anh</title>
+  </programme>
+  <programme start="20211011224000 +0700" stop="20211011225000 +0700" channel="hai.phong">
+    <title lang="vi">Bản tin tiếng Trung</title>
+  </programme>
+  <programme start="20211011225000 +0700" stop="20211011234000 +0700" channel="hai.phong">
+    <title lang="vi">Phim truyện Ấn Độ : Mối tình nghiệt ngã ( Phần 2 - Tập 4 )</title>
+  </programme>
+  <programme start="20211010053000 +0700" stop="20211010054500 +0700" channel="hai.phong.plus">
+    <title lang="vi">Hình hiệu THP+ - Giới thiệu Chương trình Truyền hình trong ngày và Thể dục buổi sáng</title>
+  </programme>
+  <programme start="20211010054500 +0700" stop="20211010061500 +0700" channel="hai.phong.plus">
+    <title lang="vi">Di sản văn hóa: Giấy dó xưa và nay</title>
+  </programme>
+  <programme start="20211010061500 +0700" stop="20211010070000 +0700" channel="hai.phong.plus">
+    <title lang="vi">Nét Hà thành: Khúc biến tấu từ thiên nhiên</title>
+  </programme>
+  <programme start="20211010070000 +0700" stop="20211010071500 +0700" channel="hai.phong.plus">
+    <title lang="vi">Ca nhạc: Cùng nhau đi qua thời gian</title>
+  </programme>
+  <programme start="20211010071500 +0700" stop="20211010080000 +0700" channel="hai.phong.plus">
+    <title lang="vi">Văn hóa văn nghệ: Mùa vàng Tam Cốc trong các tác phẩm nghệ thuật</title>
+  </programme>
+  <programme start="20211010080000 +0700" stop="20211010084500 +0700" channel="hai.phong.plus">
+    <title lang="vi">PHIM TRUYỆN VIỆT NAM: CHỊ EM NHÀ ĐÔNG CÁC (TẬP 24)</title>
+  </programme>
+  <programme start="20211010084500 +0700" stop="20211010091500 +0700" channel="hai.phong.plus">
+    <title lang="vi">Hải Phòng những góc nhìn: Trải nghiệm các hang động ở Cát Bà</title>
+  </programme>
+  <programme start="20211010091500 +0700" stop="20211010093000 +0700" channel="hai.phong.plus">
+    <title lang="vi">Phim hoạt hình: Chú gấu Boonie (Phần 52)</title>
+  </programme>
+  <programme start="20211010093000 +0700" stop="20211010100000 +0700" channel="hai.phong.plus">
+    <title lang="vi">Phim tài liệu: Chiếu dời đô tầm nhìn thiên niên kỷ</title>
+  </programme>
+  <programme start="20211010100000 +0700" stop="20211010104500 +0700" channel="hai.phong.plus">
+    <title lang="vi">Khách mời văn nghệ sỹ: NSND Tố Uyên</title>
+  </programme>
+  <programme start="20211010104500 +0700" stop="20211010110500 +0700" channel="hai.phong.plus">
+    <title lang="vi">Nông thôn mới Hải Phòng: Xã Đồng Thái, huyện An Dương đẩy nhanh tiến độ xây dựng nông thôn mới kiểu mẫu</title>
+  </programme>
+  <programme start="20211010110500 +0700" stop="20211010113000 +0700" channel="hai.phong.plus">
+    <title lang="vi">Khoa giáo: Giải pháp mới - Thiết bị sấy động ứng dụng năng lượng mặt trời</title>
+  </programme>
+  <programme start="20211010113000 +0700" stop="20211010121500 +0700" channel="hai.phong.plus">
+    <title lang="vi">PHIM TRUYỆN HÀN QUỐC: NGÔI SAO KHOAI TÂY (PHẦN 2 - TẬP 7)</title>
+  </programme>
+  <programme start="20211010121500 +0700" stop="20211010123000 +0700" channel="hai.phong.plus">
+    <title lang="vi">Phim hoạt hình: Chú gấu Boonie (Phần 51)</title>
+  </programme>
+  <programme start="20211010123000 +0700" stop="20211010130000 +0700" channel="hai.phong.plus">
+    <title lang="vi">Phim tài liệu: Hoa trên đá</title>
+  </programme>
+  <programme start="20211010130000 +0700" stop="20211010133000 +0700" channel="hai.phong.plus">
+    <title lang="vi">Phong và Thủy: Nhà ống</title>
+  </programme>
+  <programme start="20211010133000 +0700" stop="20211010135000 +0700" channel="hai.phong.plus">
+    <title lang="vi">Khoa giáo: Đa dạng sinh học khu hệ cá sông Mê Kông - Việt Nam</title>
+  </programme>
+  <programme start="20211010135000 +0700" stop="20211010140000 +0700" channel="hai.phong.plus">
+    <title lang="vi">Bánh ngon miền Tây: Bắp hầm</title>
+  </programme>
+  <programme start="20211010140000 +0700" stop="20211010144500 +0700" channel="hai.phong.plus">
+    <title lang="vi">PHIM TRUYỆN TRUNG QUỐC: TUYỆT SẮC KHUYNH THÀNH (PHẦN 1 - TẬP 19)</title>
+  </programme>
+  <programme start="20211010144500 +0700" stop="20211010151500 +0700" channel="hai.phong.plus">
+    <title lang="vi">Ca nhạc: Cùng nhau đi qua thời gian</title>
+  </programme>
+  <programme start="20211010151500 +0700" stop="20211010153000 +0700" channel="hai.phong.plus">
+    <title lang="vi">Ký sự làng nghề ven sông: Làng mỳ Kế</title>
+  </programme>
+  <programme start="20211010153000 +0700" stop="20211010154000 +0700" channel="hai.phong.plus">
+    <title lang="vi">Phóng sự: Mang cây mới trồng trên đất cũ</title>
+  </programme>
+  <programme start="20211010154000 +0700" stop="20211010160000 +0700" channel="hai.phong.plus">
+    <title lang="vi">Măng non (Số 282): Trải nghiệm vẽ tranh đất sét</title>
+  </programme>
+  <programme start="20211010160000 +0700" stop="20211010164500 +0700" channel="hai.phong.plus">
+    <title lang="vi">PHIM TRUYỆN VIỆT NAM: CHỊ EM NHÀ ĐÔNG CÁC (TẬP 18)</title>
+  </programme>
+  <programme start="20211010164500 +0700" stop="20211010171500 +0700" channel="hai.phong.plus">
+    <title lang="vi">Y tế sức khỏe: Đẩy mạnh độ bao phủ của vắc xin Covid-19</title>
+  </programme>
+  <programme start="20211010171500 +0700" stop="20211010173000 +0700" channel="hai.phong.plus">
+    <title lang="vi">Phim hoạt hình: Chú gấu Boonie (Phần 52)</title>
+  </programme>
+  <programme start="20211010173000 +0700" stop="20211010175000 +0700" channel="hai.phong.plus">
+    <title lang="vi">Chân dung Việt Nam: Nghệ sỹ dương cầm Trang Trịnh</title>
+  </programme>
+  <programme start="20211010175000 +0700" stop="20211010180000 +0700" channel="hai.phong.plus">
+    <title lang="vi">Chương trình 10 phút vàng</title>
+  </programme>
+  <programme start="20211010180000 +0700" stop="20211010185000 +0700" channel="hai.phong.plus">
+    <title lang="vi">PHIM TRUYỆN TRUNG QUỐC: MINH LAN TRUYỆN (TẬP 16)</title>
+  </programme>
+  <programme start="20211010185000 +0700" stop="20211010190000 +0700" channel="hai.phong.plus">
+    <title lang="vi">Bản tin thời sự quốc tế</title>
+  </programme>
+  <programme start="20211010190000 +0700" stop="20211010194500 +0700" channel="hai.phong.plus">
+    <title lang="vi">Chuyển tiếp Thời sự Đài Truyền hình Việt Nam</title>
+  </programme>
+  <programme start="20211010194500 +0700" stop="20211010201500 +0700" channel="hai.phong.plus">
+    <title lang="vi">Thời sự Hải Phòng</title>
+  </programme>
+  <programme start="20211010201500 +0700" stop="20211010202500 +0700" channel="hai.phong.plus">
+    <title lang="vi">Xả Xupap (Tập 80)</title>
+  </programme>
+  <programme start="20211010202500 +0700" stop="20211010204500 +0700" channel="hai.phong.plus">
+    <title lang="vi">Xây dựng Đảng: Đảng ủy khối các cơ quan thành phố: Đổi mới, nâng cao chất lượng sinh hoạt chi bộ theo chuyên đề</title>
+  </programme>
+  <programme start="20211010204500 +0700" stop="20211010214500 +0700" channel="hai.phong.plus">
+    <title lang="vi">PHIM TRUYỆN HÀN QUỐC: RANH GIỚI (PHẦN 2 - TẬP 17)</title>
+  </programme>
+  <programme start="20211010214500 +0700" stop="20211010223000 +0700" channel="hai.phong.plus">
+    <title lang="vi">PHIM TRUYỆN VIỆT NAM: ĐÔI MẮT CỦA TRÁI TIM (TẬP 7)</title>
+  </programme>
+  <programme start="20211010223000 +0700" stop="20211011053000 +0700" channel="hai.phong.plus">
+    <title lang="vi">Khách mời văn nghệ sỹ: Ca sỹ Thu Hà</title>
+  </programme>
+  <programme start="20211011053000 +0700" stop="20211011054500 +0700" channel="hai.phong.plus">
+    <title lang="vi">Hình hiệu THP+, Giới thiệu Chương trình Truyền hình trong ngày và Thể dục buổi sáng</title>
+  </programme>
+  <programme start="20211011054500 +0700" stop="20211011061500 +0700" channel="hai.phong.plus">
+    <title lang="vi">Khám phá Việt Nam: Khám phá làng gốm cổ bên sông Hồng</title>
+  </programme>
+  <programme start="20211011061500 +0700" stop="20211011070000 +0700" channel="hai.phong.plus">
+    <title lang="vi">Phim truyện Trung Quốc: Thiên Kim trở về ( Tập 30 )</title>
+  </programme>
+  <programme start="20211011070000 +0700" stop="20211011071500 +0700" channel="hai.phong.plus">
+    <title lang="vi">Ký sự làng nghề ven sông: Tập 10 - Làng nghề mây tre đan Tăng Tiến</title>
+  </programme>
+  <programme start="20211011071500 +0700" stop="20211011074000 +0700" channel="hai.phong.plus">
+    <title lang="vi">Ca nhạc:Nơi ấy là mặt trời</title>
+  </programme>
+  <programme start="20211011074000 +0700" stop="20211011075000 +0700" channel="hai.phong.plus">
+    <title lang="vi">Hạt cát diệu kỳ: Thói quen xấu</title>
+  </programme>
+  <programme start="20211011075000 +0700" stop="20211011080000 +0700" channel="hai.phong.plus">
+    <title lang="vi">Xả Xupap (Tập 80)</title>
+  </programme>
+  <programme start="20211011080000 +0700" stop="20211011084500 +0700" channel="hai.phong.plus">
+    <title lang="vi">Phim truyện Việt Nam: Chị em nhà Đông Các ( Tập 25 )</title>
+  </programme>
+  <programme start="20211011084500 +0700" stop="20211011091000 +0700" channel="hai.phong.plus">
+    <title lang="vi">Live in Hai Phong ( Tiếng Hàn Quốc )</title>
+  </programme>
+  <programme start="20211011091000 +0700" stop="20211011092500 +0700" channel="hai.phong.plus">
+    <title lang="vi">Phim hoạt hình : Chú gấu Boonie ( Phần 52 )</title>
+  </programme>
+  <programme start="20211011092500 +0700" stop="20211011100000 +0700" channel="hai.phong.plus">
+    <title lang="vi">Phim tài liệu : Hành trình theo dấu chân cha</title>
+  </programme>
+  <programme start="20211011100000 +0700" stop="20211011104500 +0700" channel="hai.phong.plus">
+    <title lang="vi">Phim truyện Trung Quốc: Người thừa kế ( Tập 21 )</title>
+  </programme>
+  <programme start="20211011104500 +0700" stop="20211011110000 +0700" channel="hai.phong.plus">
+    <title lang="vi">An toàn giao thông : Đẩy nhanh tiến độ tuyến đường xuyên đảo Cát Bà</title>
+  </programme>
+  <programme start="20211011110000 +0700" stop="20211011113000 +0700" channel="hai.phong.plus">
+    <title lang="vi">Nét Hà thành : Khúc biến tấu từ thiên nhiên</title>
+  </programme>
+  <programme start="20211011113000 +0700" stop="20211011121500 +0700" channel="hai.phong.plus">
+    <title lang="vi">Phim truyện Hàn Quốc: Ngôi sao khoai tây ( Phần 2 - Tập 8 )</title>
+  </programme>
+  <programme start="20211011121500 +0700" stop="20211011123000 +0700" channel="hai.phong.plus">
+    <title lang="vi">Phim hoạt hình: Chú gấu Boonie ( Phần 51 )</title>
+  </programme>
+  <programme start="20211011123000 +0700" stop="20211011130000 +0700" channel="hai.phong.plus">
+    <title lang="vi">Thiên nhiên Việt Nam: Ngọt ngào bàu trắng nước trong</title>
+  </programme>
+  <programme start="20211011130000 +0700" stop="20211011135000 +0700" channel="hai.phong.plus">
+    <title lang="vi">Khách mời văn nghệ sỹ: NSND Trung Đức</title>
+  </programme>
+  <programme start="20211011135000 +0700" stop="20211011140000 +0700" channel="hai.phong.plus">
+    <title lang="vi">Xả Xupap ( Tập 80 )</title>
+  </programme>
+  <programme start="20211011140000 +0700" stop="20211011144500 +0700" channel="hai.phong.plus">
+    <title lang="vi">Phim truyện Trung Quốc: Tuyệt sắc khuynh thành ( Phần 1 - Tập 20 )</title>
+  </programme>
+  <programme start="20211011144500 +0700" stop="20211011150500 +0700" channel="hai.phong.plus">
+    <title lang="vi">Phim tài liệu : Hành trình khát vọng</title>
+  </programme>
+  <programme start="20211011150500 +0700" stop="20211011152500 +0700" channel="hai.phong.plus">
+    <title lang="vi">Phóng sự: Cô giáo Mường toàn cầu</title>
+  </programme>
+  <programme start="20211011152500 +0700" stop="20211011154000 +0700" channel="hai.phong.plus">
+    <title lang="vi">Đất và Người Hoa Lư : Thiền sư Nguyễn Minh Không và vườn sinh dược quý</title>
+  </programme>
+  <programme start="20211011154000 +0700" stop="20211011160000 +0700" channel="hai.phong.plus">
+    <title lang="vi">Măng non: Số  283 - Tham gia công tác Đoàn - Đội hiệu quả</title>
+  </programme>
+  <programme start="20211011160000 +0700" stop="20211011164500 +0700" channel="hai.phong.plus">
+    <title lang="vi">PHIM TRUYỆN VIỆT NAM: Chị em nhà Đông Các (Tập 19)</title>
+  </programme>
+  <programme start="20211011164500 +0700" stop="20211011170500 +0700" channel="hai.phong.plus">
+    <title lang="vi">Ngày nữa để yêu thương : Hoàn cảnh của chị Nguyễn Thị Đảm ở thôn 5, xã Tam Cường, huyện Vĩnh Bảo, thành phố Hải Phòng</title>
+  </programme>
+  <programme start="20211011170500 +0700" stop="20211011171500 +0700" channel="hai.phong.plus">
+    <title lang="vi">Trang du lịch : Xuôi dòng Đăk Rông</title>
+  </programme>
+  <programme start="20211011171500 +0700" stop="20211011173000 +0700" channel="hai.phong.plus">
+    <title lang="vi">Phim hoạt hình: Chú gấu Boonie ( Phần 52 )</title>
+  </programme>
+  <programme start="20211011173000 +0700" stop="20211011175000 +0700" channel="hai.phong.plus">
+    <title lang="vi">Ký sự làng nghề ven sông: Đặc sản Tương La</title>
+  </programme>
+  <programme start="20211011175000 +0700" stop="20211011180000 +0700" channel="hai.phong.plus">
+    <title lang="vi">Bản tin thời sự quốc tế</title>
+  </programme>
+  <programme start="20211011180000 +0700" stop="20211011184500 +0700" channel="hai.phong.plus">
+    <title lang="vi">Phim truyện Trung Quốc: Minh Lan truyện ( Tập 17 )</title>
+  </programme>
+  <programme start="20211011184500 +0700" stop="20211011190000 +0700" channel="hai.phong.plus">
+    <title lang="vi">Chương trình 10 phút vàng</title>
+  </programme>
+  <programme start="20211011190000 +0700" stop="20211011194500 +0700" channel="hai.phong.plus">
+    <title lang="vi">Chuyển tiếp Thời sự Đài Truyền hình Việt Nam</title>
+  </programme>
+  <programme start="20211011194500 +0700" stop="20211011202500 +0700" channel="hai.phong.plus">
+    <title lang="vi">Thời sự Hải Phòng</title>
+  </programme>
+  <programme start="20211011202500 +0700" stop="20211011204500 +0700" channel="hai.phong.plus">
+    <title lang="vi">Dân hỏi Giám đốc sở trả lời</title>
+  </programme>
+  <programme start="20211011204500 +0700" stop="20211011214500 +0700" channel="hai.phong.plus">
+    <title lang="vi">Phim truyện Hàn Quốc: Ranh giới ( Tập 18 )</title>
+  </programme>
+  <programme start="20211011214500 +0700" stop="20211011223000 +0700" channel="hai.phong.plus">
+    <title lang="vi">Phim truyện Việt Nam: Đôi mắt của trái tim ( Tập 8 )</title>
+  </programme>
+  <programme start="20211011223000 +0700" stop="20211011230000 +0700" channel="hai.phong.plus">
+    <title lang="vi">Thiên nhiên Việt Nam : Suối hoa lan</title>
+  </programme>
+</tv>

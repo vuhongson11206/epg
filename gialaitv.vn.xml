@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="gia.lai">
+    <display-name lang="vi">Gia Lai</display-name>
+    <url>http://www.gialaitv.vn</url>
+  </channel>
+  <programme start="20211007061500 +0700" stop="20211007063000 +0700" channel="gia.lai">
+    <title lang="vi">Khuyến nông</title>
+  </programme>
+  <programme start="20211007063000 +0700" stop="20211007064500 +0700" channel="gia.lai">
+    <title lang="vi">Thời sự Jrai</title>
+  </programme>
+  <programme start="20211007064500 +0700" stop="20211007070000 +0700" channel="gia.lai">
+    <title lang="vi">Thời sự Bahnar</title>
+  </programme>
+  <programme start="20211007070000 +0700" stop="20211007074500 +0700" channel="gia.lai">
+    <title lang="vi">Phim: Vạch trần tội ác (Tập 8)</title>
+  </programme>
+  <programme start="20211007074500 +0700" stop="20211007080000 +0700" channel="gia.lai">
+    <title lang="vi">Trang địa phương Chư Păh</title>
+  </programme>
+  <programme start="20211007080000 +0700" stop="20211007081500 +0700" channel="gia.lai">
+    <title lang="vi">Thông tin truyền thông</title>
+  </programme>
+  <programme start="20211007081500 +0700" stop="20211007083500 +0700" channel="gia.lai">
+    <title lang="vi">Ca nhạc Việt Nam</title>
+  </programme>
+  <programme start="20211007083500 +0700" stop="20211007091000 +0700" channel="gia.lai">
+    <title lang="vi">Chào ngày mới</title>
+  </programme>
+  <programme start="20211007091000 +0700" stop="20211007094000 +0700" channel="gia.lai">
+    <title lang="vi">Chương trình Tổng hợp Jrai</title>
+  </programme>
+  <programme start="20211007094000 +0700" stop="20211007104500 +0700" channel="gia.lai">
+    <title lang="vi">Phim: Ngôi sao khoai tây (Tập 36)</title>
+  </programme>
+  <programme start="20211007104500 +0700" stop="20211007113000 +0700" channel="gia.lai">
+    <title lang="vi">Phim:  Thượng cổ tình ca  (Tập 8)</title>
+  </programme>
+  <programme start="20211007113000 +0700" stop="20211007120000 +0700" channel="gia.lai">
+    <title lang="vi">Thời sự THGL</title>
+  </programme>
+  <programme start="20211007120000 +0700" stop="20211007130000 +0700" channel="gia.lai">
+    <title lang="vi">Phim  Thượng cổ tình ca  (Tập 9)</title>
+  </programme>
+  <programme start="20211007130000 +0700" stop="20211007133000 +0700" channel="gia.lai">
+    <title lang="vi">Ca nhạc Quốc tế</title>
+  </programme>
+  <programme start="20211007133000 +0700" stop="20211007140000 +0700" channel="gia.lai">
+    <title lang="vi">Chương trình tổng hợp Bahnar</title>
+  </programme>
+  <programme start="20211007140000 +0700" stop="20211007145000 +0700" channel="gia.lai">
+    <title lang="vi">Phim:  Mỹ vị kỳ duyên  (Tập 15)</title>
+  </programme>
+  <programme start="20211007145000 +0700" stop="20211007151000 +0700" channel="gia.lai">
+    <title lang="vi">Ca nhạc Việt Nam</title>
+  </programme>
+  <programme start="20211007151000 +0700" stop="20211007153500 +0700" channel="gia.lai">
+    <title lang="vi">Kỹ năng sinh tồn</title>
+  </programme>
+  <programme start="20211007153500 +0700" stop="20211007160000 +0700" channel="gia.lai">
+    <title lang="vi">Ẩm thực đó đây</title>
+  </programme>
+  <programme start="20211007160000 +0700" stop="20211007162500 +0700" channel="gia.lai">
+    <title lang="vi">Thời sự THGL</title>
+  </programme>
+  <programme start="20211007162500 +0700" stop="20211007164000 +0700" channel="gia.lai">
+    <title lang="vi">Văn hóa- Thể thao</title>
+  </programme>
+  <programme start="20211007164000 +0700" stop="20211007170000 +0700" channel="gia.lai">
+    <title lang="vi">Ca nhạc Việt Nam</title>
+  </programme>
+  <programme start="20211007170000 +0700" stop="20211007180000 +0700" channel="gia.lai">
+    <title lang="vi">Phim  Nơi này có em  (Tập  12)</title>
+  </programme>
+  <programme start="20211007180000 +0700" stop="20211007181500 +0700" channel="gia.lai">
+    <title lang="vi">Thời sự Jrai</title>
+  </programme>
+  <programme start="20211007181500 +0700" stop="20211007183000 +0700" channel="gia.lai">
+    <title lang="vi">Thời sự Bahnar</title>
+  </programme>
+  <programme start="20211007183000 +0700" stop="20211007184500 +0700" channel="gia.lai">
+    <title lang="vi">Giảm nghèo bền vững</title>
+  </programme>
+  <programme start="20211007184500 +0700" stop="20211007190000 +0700" channel="gia.lai">
+    <title lang="vi">Sức khỏe cộng đồng</title>
+  </programme>
+  <programme start="20211007190000 +0700" stop="20211007194500 +0700" channel="gia.lai">
+    <title lang="vi">Tiếp sóng Thời sự Đài THVN</title>
+  </programme>
+  <programme start="20211007194500 +0700" stop="20211007203000 +0700" channel="gia.lai">
+    <title lang="vi">Thời sự THGL</title>
+  </programme>
+  <programme start="20211007203000 +0700" stop="20211007213000 +0700" channel="gia.lai">
+    <title lang="vi">Phim  Khoảng trống diệu kỳ của thời gian ( Tập 16)</title>
+  </programme>
+  <programme start="20211007213000 +0700" stop="20211007214500 +0700" channel="gia.lai">
+    <title lang="vi">Khuyến nông</title>
+  </programme>
+  <programme start="20211007214500 +0700" stop="20211007223500 +0700" channel="gia.lai">
+    <title lang="vi">Phim: Vạch trần tội ác ( Tập 21)</title>
+  </programme>
+  <programme start="20211007223500 +0700" stop="20211007224000 +0700" channel="gia.lai">
+    <title lang="vi">Bản tin cuối ngày</title>
+  </programme>
+  <programme start="20211007224000 +0700" stop="20211007225500 +0700" channel="gia.lai">
+    <title lang="vi">Văn hóa thể thao</title>
+  </programme>
+  <programme start="20211008061500 +0700" stop="20211008063000 +0700" channel="gia.lai">
+    <title lang="vi">Giảm nghèo bền vững</title>
+  </programme>
+  <programme start="20211008063000 +0700" stop="20211008064500 +0700" channel="gia.lai">
+    <title lang="vi">Thời sự Jrai</title>
+  </programme>
+  <programme start="20211008064500 +0700" stop="20211008070000 +0700" channel="gia.lai">
+    <title lang="vi">Thời sự Bahnar</title>
+  </programme>
+  <programme start="20211008070000 +0700" stop="20211008074500 +0700" channel="gia.lai">
+    <title lang="vi">Phim: Đời không như là mơ (Tập 34)</title>
+  </programme>
+  <programme start="20211008074500 +0700" stop="20211008080000 +0700" channel="gia.lai">
+    <title lang="vi">Trang địa phương Chư Păh</title>
+  </programme>
+  <programme start="20211008080000 +0700" stop="20211008081500 +0700" channel="gia.lai">
+    <title lang="vi">Sức khỏe cộng đồng</title>
+  </programme>
+  <programme start="20211008081500 +0700" stop="20211008083500 +0700" channel="gia.lai">
+    <title lang="vi">Ca nhạc Việt Nam</title>
+  </programme>
+  <programme start="20211008083500 +0700" stop="20211008090500 +0700" channel="gia.lai">
+    <title lang="vi">Chào ngày mới</title>
+  </programme>
+  <programme start="20211008090500 +0700" stop="20211008093500 +0700" channel="gia.lai">
+    <title lang="vi">Chương trình Tổng hợp Jrai</title>
+  </programme>
+  <programme start="20211008093500 +0700" stop="20211008104000 +0700" channel="gia.lai">
+    <title lang="vi">Phim: Ngôi sao khoai tây  (Tập 37)</title>
+  </programme>
+  <programme start="20211008104000 +0700" stop="20211008113000 +0700" channel="gia.lai">
+    <title lang="vi">Phim  Thượng cổ tình ca  (Tập 10)</title>
+  </programme>
+  <programme start="20211008113000 +0700" stop="20211008120000 +0700" channel="gia.lai">
+    <title lang="vi">Thời sự THGL</title>
+  </programme>
+  <programme start="20211008120000 +0700" stop="20211008130000 +0700" channel="gia.lai">
+    <title lang="vi">Phim  Thượng cổ tình ca  (Tập 11)</title>
+  </programme>
+  <programme start="20211008130000 +0700" stop="20211008133000 +0700" channel="gia.lai">
+    <title lang="vi">Ca nhạc Quốc tế</title>
+  </programme>
+  <programme start="20211008133000 +0700" stop="20211008140000 +0700" channel="gia.lai">
+    <title lang="vi">Chương trình tổng hợp Bahnar</title>
+  </programme>
+  <programme start="20211008140000 +0700" stop="20211008145000 +0700" channel="gia.lai">
+    <title lang="vi">Phim  Mỹ vị kỳ duyên  (Tập 16)</title>
+  </programme>
+  <programme start="20211008145000 +0700" stop="20211008151000 +0700" channel="gia.lai">
+    <title lang="vi">Ca nhạc Việt Nam</title>
+  </programme>
+  <programme start="20211008151000 +0700" stop="20211008153500 +0700" channel="gia.lai">
+    <title lang="vi">Ẩm thực đó đây</title>
+  </programme>
+  <programme start="20211008153500 +0700" stop="20211008160000 +0700" channel="gia.lai">
+    <title lang="vi">Thiếu nhi tổng hợp</title>
+  </programme>
+  <programme start="20211008160000 +0700" stop="20211008162500 +0700" channel="gia.lai">
+    <title lang="vi">Thời sự THGL</title>
+  </programme>
+  <programme start="20211008162500 +0700" stop="20211008164000 +0700" channel="gia.lai">
+    <title lang="vi">Văn hóa- Thể thao</title>
+  </programme>
+  <programme start="20211008164000 +0700" stop="20211008170000 +0700" channel="gia.lai">
+    <title lang="vi">Ca nhạc Việt nam</title>
+  </programme>
+  <programme start="20211008170000 +0700" stop="20211008180000 +0700" channel="gia.lai">
+    <title lang="vi">Phim Nơi này có em  (Tập  13)</title>
+  </programme>
+  <programme start="20211008180000 +0700" stop="20211008181500 +0700" channel="gia.lai">
+    <title lang="vi">Thời sự Jrai</title>
+  </programme>
+  <programme start="20211008181500 +0700" stop="20211008183000 +0700" channel="gia.lai">
+    <title lang="vi">Thời sự Bahnar</title>
+  </programme>
+  <programme start="20211008183000 +0700" stop="20211008184500 +0700" channel="gia.lai">
+    <title lang="vi">Trang địa phương Pleiku</title>
+  </programme>
+  <programme start="20211008184500 +0700" stop="20211008190000 +0700" channel="gia.lai">
+    <title lang="vi">Nhịp sống nông thôn</title>
+  </programme>
+  <programme start="20211008190000 +0700" stop="20211008194500 +0700" channel="gia.lai">
+    <title lang="vi">Tiếp sóng Thời sự Đài THVN</title>
+  </programme>
+  <programme start="20211008194500 +0700" stop="20211008203000 +0700" channel="gia.lai">
+    <title lang="vi">Thời sự THGL</title>
+  </programme>
+  <programme start="20211008203000 +0700" stop="20211008213000 +0700" channel="gia.lai">
+    <title lang="vi">Phim  Con đường hạnh phúc ( Tập 19)</title>
+  </programme>
+  <programme start="20211008213000 +0700" stop="20211008214500 +0700" channel="gia.lai">
+    <title lang="vi">Giảm nghèo bền vững</title>
+  </programme>
+  <programme start="20211008214500 +0700" stop="20211008223500 +0700" channel="gia.lai">
+    <title lang="vi">Phim  Vòng tròn tội lỗi ( Tập 13)</title>
+  </programme>
+  <programme start="20211008223500 +0700" stop="20211008224000 +0700" channel="gia.lai">
+    <title lang="vi">:       Bản tin cuối ngày</title>
+  </programme>
+  <programme start="20211008224000 +0700" stop="20211008225500 +0700" channel="gia.lai">
+    <title lang="vi">:       Văn hóa thể thao</title>
+  </programme>
+</tv>

@@ -1,0 +1,342 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="cao.bang">
+    <display-name lang="vi">Cao Bằng</display-name>
+    <url>http://www.caobangtv.vn</url>
+  </channel>
+  <programme start="20211009070500 +0700" stop="20211009073500 +0700" channel="cao.bang">
+    <title lang="vi">Cao Bằng ngày mới</title>
+  </programme>
+  <programme start="20211009073500 +0700" stop="20211009074000 +0700" channel="cao.bang">
+    <title lang="vi">Giới thiệu Văn bản mới, chính sách mới</title>
+    <sub-title lang="vi">Luật Thủy sản</sub-title>
+  </programme>
+  <programme start="20211009074000 +0700" stop="20211009081000 +0700" channel="cao.bang">
+    <title lang="vi">Dân ca</title>
+    <sub-title lang="vi">Lời then nhớ Bác</sub-title>
+  </programme>
+  <programme start="20211009081000 +0700" stop="20211009081500 +0700" channel="cao.bang">
+    <title lang="vi">Giao thông 24/7</title>
+    <sub-title lang="vi">Hỏi đáp về ATGT - Xử lý vi phạm hành chính về TTATGT đối với người chưa thành niên</sub-title>
+  </programme>
+  <programme start="20211009081500 +0700" stop="20211009090000 +0700" channel="cao.bang">
+    <title lang="vi">Phim truyện nước ngoài</title>
+    <sub-title lang="vi">Bà trùm - Tập 10</sub-title>
+  </programme>
+  <programme start="20211009090000 +0700" stop="20211009091000 +0700" channel="cao.bang">
+    <title lang="vi">Người cao tuổi</title>
+    <sub-title lang="vi">Nhân lên những nghĩa cử cao đẹp trong phòng chống dịch Coviđ-19</sub-title>
+  </programme>
+  <programme start="20211009091000 +0700" stop="20211009092500 +0700" channel="cao.bang">
+    <title lang="vi">Bản tin thời sự  9h10</title>
+  </programme>
+  <programme start="20211009092500 +0700" stop="20211009095000 +0700" channel="cao.bang">
+    <title lang="vi">Phóng sự</title>
+    <sub-title lang="vi">Lực lượng Cảnh sát PCCC và CNCH: 60 năm vì bình yên cuộc sống của Nhân dân</sub-title>
+  </programme>
+  <programme start="20211009095000 +0700" stop="20211009102000 +0700" channel="cao.bang">
+    <title lang="vi">Phim tài liệu</title>
+    <sub-title lang="vi">Tướng Nam Long</sub-title>
+  </programme>
+  <programme start="20211009102000 +0700" stop="20211009105000 +0700" channel="cao.bang">
+    <title lang="vi">Di sản văn hóa</title>
+    <sub-title lang="vi">Sắc màu thổ cẩm</sub-title>
+  </programme>
+  <programme start="20211009105000 +0700" stop="20211009110000 +0700" channel="cao.bang">
+    <title lang="vi">Vì Môi trường phát triển</title>
+    <sub-title lang="vi">Thị trấn Bảo Lạc- điểm sáng về bảo vệ môi trường</sub-title>
+  </programme>
+  <programme start="20211009110000 +0700" stop="20211009113000 +0700" channel="cao.bang">
+    <title lang="vi">Chương trình Thời sự CRTV</title>
+  </programme>
+  <programme start="20211009113000 +0700" stop="20211009114500 +0700" channel="cao.bang">
+    <title lang="vi">Pháp luật và đời sống</title>
+    <sub-title lang="vi">Tìm hiểu những quy định chung về phòng chống bạo lực gia đình</sub-title>
+  </programme>
+  <programme start="20211009114500 +0700" stop="20211009115000 +0700" channel="cao.bang">
+    <title lang="vi">Clip</title>
+    <sub-title lang="vi">Thông điệp 5K</sub-title>
+  </programme>
+  <programme start="20211009115000 +0700" stop="20211009120000 +0700" channel="cao.bang">
+    <title lang="vi">Quảng cáo</title>
+  </programme>
+  <programme start="20211009120000 +0700" stop="20211009122000 +0700" channel="cao.bang">
+    <title lang="vi">Tiếp sóng VTV</title>
+  </programme>
+  <programme start="20211009122000 +0700" stop="20211009123000 +0700" channel="cao.bang">
+    <title lang="vi">Thiếu nhi</title>
+    <sub-title lang="vi">Voi vỏi vòi voi cái vòi đi trước</sub-title>
+  </programme>
+  <programme start="20211009123000 +0700" stop="20211009124000 +0700" channel="cao.bang">
+    <title lang="vi">Sắc núi</title>
+    <sub-title lang="vi">Vươn lên từ rừng</sub-title>
+  </programme>
+  <programme start="20211009124000 +0700" stop="20211009125000 +0700" channel="cao.bang">
+    <title lang="vi">Tiếp sức em đến trường</title>
+    <sub-title lang="vi">Nghị lực của cậu học trò mồ côi cha</sub-title>
+  </programme>
+  <programme start="20211009125000 +0700" stop="20211009133500 +0700" channel="cao.bang">
+    <title lang="vi">Phim truyện Việt Nam</title>
+    <sub-title lang="vi">Bữa tối của diều hâu - Tập 31</sub-title>
+  </programme>
+  <programme start="20211009133500 +0700" stop="20211009140500 +0700" channel="cao.bang">
+    <title lang="vi">Truyền hình dân tộc</title>
+    <sub-title lang="vi">Truyền hình tiếng Dao</sub-title>
+  </programme>
+  <programme start="20211009140500 +0700" stop="20211009143500 +0700" channel="cao.bang">
+    <title lang="vi">Du lịch khám phá</title>
+    <sub-title lang="vi">Du lịch Bồ Đào Nha</sub-title>
+  </programme>
+  <programme start="20211009143500 +0700" stop="20211009150500 +0700" channel="cao.bang">
+    <title lang="vi">Ca nhạc</title>
+    <sub-title lang="vi">Hồ Chí Minh - Hành trình khát vọng</sub-title>
+  </programme>
+  <programme start="20211009150500 +0700" stop="20211009160000 +0700" channel="cao.bang">
+    <title lang="vi">Khám phá thế giới</title>
+    <sub-title lang="vi">Di chuyển những ngôi nhà lâu đời</sub-title>
+  </programme>
+  <programme start="20211009160000 +0700" stop="20211009161500 +0700" channel="cao.bang">
+    <title lang="vi">Bản tin thời sự 16h00</title>
+  </programme>
+  <programme start="20211009161500 +0700" stop="20211009163500 +0700" channel="cao.bang">
+    <title lang="vi">Ký sự</title>
+    <sub-title lang="vi">Hồ Chí Minh chân dung một con người</sub-title>
+  </programme>
+  <programme start="20211009163500 +0700" stop="20211009171000 +0700" channel="cao.bang">
+    <title lang="vi">Phim tài liệu</title>
+    <sub-title lang="vi">Cao Bằng – Nơi cội nguồn cách mạng</sub-title>
+  </programme>
+  <programme start="20211009171000 +0700" stop="20211009171500 +0700" channel="cao.bang">
+    <title lang="vi">Giới thiệu Văn bản mới, chính sách mới</title>
+    <sub-title lang="vi">Luật Thủy sản</sub-title>
+  </programme>
+  <programme start="20211009171500 +0700" stop="20211009173000 +0700" channel="cao.bang">
+    <title lang="vi">Ẩm thực Việt Nam</title>
+    <sub-title lang="vi">Ẩm thực phố Núi</sub-title>
+  </programme>
+  <programme start="20211009173000 +0700" stop="20211009174500 +0700" channel="cao.bang">
+    <title lang="vi">Phóng sự</title>
+    <sub-title lang="vi">Giá trị còn mãi</sub-title>
+  </programme>
+  <programme start="20211009174500 +0700" stop="20211009175500 +0700" channel="cao.bang">
+    <title lang="vi">Du lịch Non nước Cao Bằng</title>
+    <sub-title lang="vi">Chiến lược quảng bá Công viên địa chất toàn cầu</sub-title>
+  </programme>
+  <programme start="20211009175500 +0700" stop="20211009180000 +0700" channel="cao.bang">
+    <title lang="vi">Vui giao thông</title>
+    <sub-title lang="vi">An toàn khi ngồi trên ô tô</sub-title>
+  </programme>
+  <programme start="20211009180000 +0700" stop="20211009180500 +0700" channel="cao.bang">
+    <title lang="vi">Giao thông 24/7</title>
+    <sub-title lang="vi">Hỏi đáp về ATGT - Mức phạt vi phạm tự ý thay đổi kích thước thành thùng xe</sub-title>
+  </programme>
+  <programme start="20211009180500 +0700" stop="20211009181500 +0700" channel="cao.bang">
+    <title lang="vi">Thiếu nhi</title>
+    <sub-title lang="vi">Voi vỏi vòi voi cái vòi đi trước</sub-title>
+  </programme>
+  <programme start="20211009181500 +0700" stop="20211009190000 +0700" channel="cao.bang">
+    <title lang="vi">Phim truyện nước ngoài</title>
+    <sub-title lang="vi">Bà Trùm - Tập 11</sub-title>
+  </programme>
+  <programme start="20211009190000 +0700" stop="20211009194500 +0700" channel="cao.bang">
+    <title lang="vi">Tiếp sóng VTV</title>
+  </programme>
+  <programme start="20211009194500 +0700" stop="20211009201500 +0700" channel="cao.bang">
+    <title lang="vi">Chương trình Thời sự CRTV</title>
+  </programme>
+  <programme start="20211009201500 +0700" stop="20211009202000 +0700" channel="cao.bang">
+    <title lang="vi">Dự báo thời tiết</title>
+  </programme>
+  <programme start="20211009202000 +0700" stop="20211009202500 +0700" channel="cao.bang">
+    <title lang="vi">Quảng cáo</title>
+  </programme>
+  <programme start="20211009202500 +0700" stop="20211009204000 +0700" channel="cao.bang">
+    <title lang="vi">Cao Bằng Non nước ngàn năm</title>
+    <sub-title lang="vi">Chủ tịch Hồ Chí Minh với Chiến dịch Biên giới Thu Đông 1950</sub-title>
+  </programme>
+  <programme start="20211009204000 +0700" stop="20211009205500 +0700" channel="cao.bang">
+    <title lang="vi">Nông nghiệp, Nông dân Nông thôn</title>
+    <sub-title lang="vi">Tín dụng CSXH kích cầu cho vay hộ nghèo và xây dựng NTM</sub-title>
+  </programme>
+  <programme start="20211009205500 +0700" stop="20211009211000 +0700" channel="cao.bang">
+    <title lang="vi">Văn hóa thể thao</title>
+    <sub-title lang="vi">Sôi nổi hội thao nghiệp vụ phòng cháy chữa cháy và cứu nạn cứu hộ</sub-title>
+  </programme>
+  <programme start="20211009211000 +0700" stop="20211009215500 +0700" channel="cao.bang">
+    <title lang="vi">Phim truyện Việt Nam</title>
+    <sub-title lang="vi">Bữa tối của Diều Hâu - Tập 32</sub-title>
+  </programme>
+  <programme start="20211009215500 +0700" stop="20211009222500 +0700" channel="cao.bang">
+    <title lang="vi">Ca nhạc</title>
+    <sub-title lang="vi">Âm nhạc kết nối - Tình khúc Phú Quang</sub-title>
+  </programme>
+  <programme start="20211009222500 +0700" stop="20211010070500 +0700" channel="cao.bang">
+    <title lang="vi">Giới thiệu chương trình ngày 10/10/2021</title>
+  </programme>
+  <programme start="20211010070500 +0700" stop="20211010073500 +0700" channel="cao.bang">
+    <title lang="vi">Cao Bằng ngày mới</title>
+  </programme>
+  <programme start="20211010073500 +0700" stop="20211010074000 +0700" channel="cao.bang">
+    <title lang="vi">Giới thiệu Văn bản mới, chính sách mới</title>
+    <sub-title lang="vi">Luật Thủy sản</sub-title>
+  </programme>
+  <programme start="20211010074000 +0700" stop="20211010081000 +0700" channel="cao.bang">
+    <title lang="vi">Dân ca</title>
+    <sub-title lang="vi">Lời then nhớ Bác</sub-title>
+  </programme>
+  <programme start="20211010081000 +0700" stop="20211010081500 +0700" channel="cao.bang">
+    <title lang="vi">Giao thông 24/7</title>
+    <sub-title lang="vi">Hỏi đáp về ATGT - Xử lý vi phạm hành chính về TTATGT đối với người chưa thành niên</sub-title>
+  </programme>
+  <programme start="20211010081500 +0700" stop="20211010090000 +0700" channel="cao.bang">
+    <title lang="vi">Phim truyện nước ngoài</title>
+    <sub-title lang="vi">Bà trùm - Tập 10</sub-title>
+  </programme>
+  <programme start="20211010090000 +0700" stop="20211010091000 +0700" channel="cao.bang">
+    <title lang="vi">Người cao tuổi</title>
+    <sub-title lang="vi">Nhân lên những nghĩa cử cao đẹp trong phòng chống dịch Coviđ-19</sub-title>
+  </programme>
+  <programme start="20211010091000 +0700" stop="20211010092500 +0700" channel="cao.bang">
+    <title lang="vi">Bản tin thời sự  9h10</title>
+  </programme>
+  <programme start="20211010092500 +0700" stop="20211010095000 +0700" channel="cao.bang">
+    <title lang="vi">Phóng sự</title>
+    <sub-title lang="vi">Lực lượng Cảnh sát PCCC và CNCH: 60 năm vì bình yên cuộc sống của Nhân dân</sub-title>
+  </programme>
+  <programme start="20211010095000 +0700" stop="20211010102000 +0700" channel="cao.bang">
+    <title lang="vi">Phim tài liệu</title>
+    <sub-title lang="vi">Tướng Nam Long</sub-title>
+  </programme>
+  <programme start="20211010102000 +0700" stop="20211010105000 +0700" channel="cao.bang">
+    <title lang="vi">Di sản văn hóa</title>
+    <sub-title lang="vi">Sắc màu thổ cẩm</sub-title>
+  </programme>
+  <programme start="20211010105000 +0700" stop="20211010110000 +0700" channel="cao.bang">
+    <title lang="vi">Vì Môi trường phát triển</title>
+    <sub-title lang="vi">Thị trấn Bảo Lạc- điểm sáng về bảo vệ môi trường</sub-title>
+  </programme>
+  <programme start="20211010110000 +0700" stop="20211010113000 +0700" channel="cao.bang">
+    <title lang="vi">Chương trình Thời sự CRTV</title>
+  </programme>
+  <programme start="20211010113000 +0700" stop="20211010114500 +0700" channel="cao.bang">
+    <title lang="vi">Pháp luật và đời sống</title>
+    <sub-title lang="vi">Tìm hiểu những quy định chung về phòng chống bạo lực gia đình</sub-title>
+  </programme>
+  <programme start="20211010114500 +0700" stop="20211010115000 +0700" channel="cao.bang">
+    <title lang="vi">Clip</title>
+    <sub-title lang="vi">Thông điệp 5K</sub-title>
+  </programme>
+  <programme start="20211010115000 +0700" stop="20211010120000 +0700" channel="cao.bang">
+    <title lang="vi">Quảng cáo</title>
+  </programme>
+  <programme start="20211010120000 +0700" stop="20211010122000 +0700" channel="cao.bang">
+    <title lang="vi">Tiếp sóng VTV</title>
+  </programme>
+  <programme start="20211010122000 +0700" stop="20211010123000 +0700" channel="cao.bang">
+    <title lang="vi">Thiếu nhi</title>
+    <sub-title lang="vi">Voi vỏi vòi voi cái vòi đi trước</sub-title>
+  </programme>
+  <programme start="20211010123000 +0700" stop="20211010124000 +0700" channel="cao.bang">
+    <title lang="vi">Sắc núi</title>
+    <sub-title lang="vi">Vươn lên từ rừng</sub-title>
+  </programme>
+  <programme start="20211010124000 +0700" stop="20211010125000 +0700" channel="cao.bang">
+    <title lang="vi">Tiếp sức em đến trường</title>
+    <sub-title lang="vi">Nghị lực của cậu học trò mồ côi cha</sub-title>
+  </programme>
+  <programme start="20211010125000 +0700" stop="20211010133500 +0700" channel="cao.bang">
+    <title lang="vi">Phim truyện Việt Nam</title>
+    <sub-title lang="vi">Bữa tối của diều hâu - Tập 31</sub-title>
+  </programme>
+  <programme start="20211010133500 +0700" stop="20211010140500 +0700" channel="cao.bang">
+    <title lang="vi">Truyền hình dân tộc</title>
+    <sub-title lang="vi">Truyền hình tiếng Dao</sub-title>
+  </programme>
+  <programme start="20211010140500 +0700" stop="20211010143500 +0700" channel="cao.bang">
+    <title lang="vi">Du lịch khám phá</title>
+    <sub-title lang="vi">Du lịch Bồ Đào Nha</sub-title>
+  </programme>
+  <programme start="20211010143500 +0700" stop="20211010150500 +0700" channel="cao.bang">
+    <title lang="vi">Ca nhạc</title>
+    <sub-title lang="vi">Hồ Chí Minh - Hành trình khát vọng</sub-title>
+  </programme>
+  <programme start="20211010150500 +0700" stop="20211010160000 +0700" channel="cao.bang">
+    <title lang="vi">Khám phá thế giới</title>
+    <sub-title lang="vi">Di chuyển những ngôi nhà lâu đời</sub-title>
+  </programme>
+  <programme start="20211010160000 +0700" stop="20211010161500 +0700" channel="cao.bang">
+    <title lang="vi">Bản tin thời sự 16h00</title>
+  </programme>
+  <programme start="20211010161500 +0700" stop="20211010163500 +0700" channel="cao.bang">
+    <title lang="vi">Ký sự</title>
+    <sub-title lang="vi">Hồ Chí Minh chân dung một con người</sub-title>
+  </programme>
+  <programme start="20211010163500 +0700" stop="20211010171000 +0700" channel="cao.bang">
+    <title lang="vi">Phim tài liệu</title>
+    <sub-title lang="vi">Cao Bằng – Nơi cội nguồn cách mạng</sub-title>
+  </programme>
+  <programme start="20211010171000 +0700" stop="20211010171500 +0700" channel="cao.bang">
+    <title lang="vi">Giới thiệu Văn bản mới, chính sách mới</title>
+    <sub-title lang="vi">Luật Thủy sản</sub-title>
+  </programme>
+  <programme start="20211010171500 +0700" stop="20211010173000 +0700" channel="cao.bang">
+    <title lang="vi">Ẩm thực Việt Nam</title>
+    <sub-title lang="vi">Ẩm thực phố Núi</sub-title>
+  </programme>
+  <programme start="20211010173000 +0700" stop="20211010174500 +0700" channel="cao.bang">
+    <title lang="vi">Phóng sự</title>
+    <sub-title lang="vi">Giá trị còn mãi</sub-title>
+  </programme>
+  <programme start="20211010174500 +0700" stop="20211010175500 +0700" channel="cao.bang">
+    <title lang="vi">Du lịch Non nước Cao Bằng</title>
+    <sub-title lang="vi">Chiến lược quảng bá Công viên địa chất toàn cầu</sub-title>
+  </programme>
+  <programme start="20211010175500 +0700" stop="20211010180000 +0700" channel="cao.bang">
+    <title lang="vi">Vui giao thông</title>
+    <sub-title lang="vi">An toàn khi ngồi trên ô tô</sub-title>
+  </programme>
+  <programme start="20211010180000 +0700" stop="20211010180500 +0700" channel="cao.bang">
+    <title lang="vi">Giao thông 24/7</title>
+    <sub-title lang="vi">Hỏi đáp về ATGT - Mức phạt vi phạm tự ý thay đổi kích thước thành thùng xe</sub-title>
+  </programme>
+  <programme start="20211010180500 +0700" stop="20211010181500 +0700" channel="cao.bang">
+    <title lang="vi">Thiếu nhi</title>
+    <sub-title lang="vi">Voi vỏi vòi voi cái vòi đi trước</sub-title>
+  </programme>
+  <programme start="20211010181500 +0700" stop="20211010190000 +0700" channel="cao.bang">
+    <title lang="vi">Phim truyện nước ngoài</title>
+    <sub-title lang="vi">Bà Trùm - Tập 11</sub-title>
+  </programme>
+  <programme start="20211010190000 +0700" stop="20211010194500 +0700" channel="cao.bang">
+    <title lang="vi">Tiếp sóng VTV</title>
+  </programme>
+  <programme start="20211010194500 +0700" stop="20211010201500 +0700" channel="cao.bang">
+    <title lang="vi">Chương trình Thời sự CRTV</title>
+  </programme>
+  <programme start="20211010201500 +0700" stop="20211010202000 +0700" channel="cao.bang">
+    <title lang="vi">Dự báo thời tiết</title>
+  </programme>
+  <programme start="20211010202000 +0700" stop="20211010202500 +0700" channel="cao.bang">
+    <title lang="vi">Quảng cáo</title>
+  </programme>
+  <programme start="20211010202500 +0700" stop="20211010204000 +0700" channel="cao.bang">
+    <title lang="vi">Cao Bằng Non nước ngàn năm</title>
+    <sub-title lang="vi">Chủ tịch Hồ Chí Minh với Chiến dịch Biên giới Thu Đông 1950</sub-title>
+  </programme>
+  <programme start="20211010204000 +0700" stop="20211010205500 +0700" channel="cao.bang">
+    <title lang="vi">Nông nghiệp, Nông dân Nông thôn</title>
+    <sub-title lang="vi">Tín dụng CSXH kích cầu cho vay hộ nghèo và xây dựng NTM</sub-title>
+  </programme>
+  <programme start="20211010205500 +0700" stop="20211010211000 +0700" channel="cao.bang">
+    <title lang="vi">Văn hóa thể thao</title>
+    <sub-title lang="vi">Sôi nổi hội thao nghiệp vụ phòng cháy chữa cháy và cứu nạn cứu hộ</sub-title>
+  </programme>
+  <programme start="20211010211000 +0700" stop="20211010215500 +0700" channel="cao.bang">
+    <title lang="vi">Phim truyện Việt Nam</title>
+    <sub-title lang="vi">Bữa tối của Diều Hâu - Tập 32</sub-title>
+  </programme>
+  <programme start="20211010215500 +0700" stop="20211010222500 +0700" channel="cao.bang">
+    <title lang="vi">Ca nhạc</title>
+    <sub-title lang="vi">Âm nhạc kết nối - Tình khúc Phú Quang</sub-title>
+  </programme>
+</tv>

@@ -1,0 +1,786 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="quang.ninh1">
+    <display-name lang="vi">Quảng Ninh 1</display-name>
+    <url>http://www.baoquangninh.com.vn</url>
+  </channel>
+  <channel id="quang.ninh3">
+    <display-name lang="vi">Quảng Ninh 3</display-name>
+    <url>http://www.baoquangninh.com.vn</url>
+  </channel>
+  <programme start="20211011235900 +0700" stop="20211012002100 +0700" channel="quang.ninh1">
+    <title lang="vi">Phim tài liệu</title>
+    <sub-title lang="vi">Hạc vàng trong mây</sub-title>
+  </programme>
+  <programme start="20211012002100 +0700" stop="20211012003200 +0700" channel="quang.ninh1">
+    <title lang="vi">Trang văn hóa</title>
+    <sub-title lang="vi">Bảo tồn nét văn hóa dân tộc Sán Chỉ tại Đại Dực</sub-title>
+  </programme>
+  <programme start="20211012003200 +0700" stop="20211012010000 +0700" channel="quang.ninh1">
+    <title lang="vi">Ca nhạc</title>
+    <sub-title lang="vi">Gieo</sub-title>
+  </programme>
+  <programme start="20211012010000 +0700" stop="20211012014500 +0700" channel="quang.ninh1">
+    <title lang="vi">Sân khấu</title>
+    <sub-title lang="vi">Ngoảnh lại và bước đi. P2</sub-title>
+  </programme>
+  <programme start="20211012014500 +0700" stop="20211012015900 +0700" channel="quang.ninh1">
+    <title lang="vi">Cuộc sống quanh ta</title>
+    <sub-title lang="vi">Mãnh liệt Australia. P5</sub-title>
+  </programme>
+  <programme start="20211012015900 +0700" stop="20211012021400 +0700" channel="quang.ninh1">
+    <title lang="vi">Giáo dục và Phát triển</title>
+    <sub-title lang="vi">Diện mạo mới của giáo dục Đông Triều</sub-title>
+  </programme>
+  <programme start="20211012021400 +0700" stop="20211012022700 +0700" channel="quang.ninh1">
+    <title lang="vi">Phóng sự</title>
+    <sub-title lang="vi">Nhiều giải pháp đảm bảo ATGT cuối năm</sub-title>
+  </programme>
+  <programme start="20211012022700 +0700" stop="20211012025700 +0700" channel="quang.ninh1">
+    <title lang="vi">Phim tài liệu</title>
+    <sub-title lang="vi">Thầy!</sub-title>
+  </programme>
+  <programme start="20211012025700 +0700" stop="20211012032500 +0700" channel="quang.ninh1">
+    <title lang="vi">Khoa giáo</title>
+    <sub-title lang="vi">Căn bệnh bị lãng quên</sub-title>
+  </programme>
+  <programme start="20211012032500 +0700" stop="20211012034200 +0700" channel="quang.ninh1">
+    <title lang="vi">Xây dựng nông thôn mới</title>
+    <sub-title lang="vi">Bình Liêu thực hiện tiêu chí môi trường trong xây dựng nông thôn mới</sub-title>
+  </programme>
+  <programme start="20211012034200 +0700" stop="20211012040000 +0700" channel="quang.ninh1">
+    <title lang="vi">Du lịch vòng quanh thế giới</title>
+    <sub-title lang="vi">Châu Âu - Điểm đến của những giấc mơ. P101</sub-title>
+  </programme>
+  <programme start="20211012040000 +0700" stop="20211012042800 +0700" channel="quang.ninh1">
+    <title lang="vi">Ca nhạc quốc tế</title>
+  </programme>
+  <programme start="20211012042800 +0700" stop="20211012045800 +0700" channel="quang.ninh1">
+    <title lang="vi">Ô cửa tuổi xanh</title>
+    <sub-title lang="vi">Sự nhẫn nại</sub-title>
+  </programme>
+  <programme start="20211012045800 +0700" stop="20211012051100 +0700" channel="quang.ninh1">
+    <title lang="vi">Thế giới động vật</title>
+    <sub-title lang="vi">Chúa tể rừng xanh. P45</sub-title>
+  </programme>
+  <programme start="20211012051100 +0700" stop="20211012060000 +0700" channel="quang.ninh1">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Giọt nước mắt hận thù. T5</sub-title>
+  </programme>
+  <programme start="20211012060000 +0700" stop="20211012063000 +0700" channel="quang.ninh1">
+    <title lang="vi">Chào ngày mới.</title>
+  </programme>
+  <programme start="20211012063000 +0700" stop="20211012064000 +0700" channel="quang.ninh1">
+    <title lang="vi">Tiếp sức mỗi ngày</title>
+    <sub-title lang="vi">Sử dụng máy giặt đúng cách và hiệu quả</sub-title>
+  </programme>
+  <programme start="20211012064000 +0700" stop="20211012064500 +0700" channel="quang.ninh1">
+    <title lang="vi">Ẩm thực Quảng Ninh</title>
+    <sub-title lang="vi">Cua om miến</sub-title>
+  </programme>
+  <programme start="20211012064500 +0700" stop="20211012070100 +0700" channel="quang.ninh1">
+    <title lang="vi">Cải cách hành chính</title>
+    <sub-title lang="vi">Đông Triều đẩy mạnh ứng dụng công nghệ thông tin trong cải cách hành chính</sub-title>
+  </programme>
+  <programme start="20211012070100 +0700" stop="20211012071500 +0700" channel="quang.ninh1">
+    <title lang="vi">Vì chủ quyền an ninh biên giới</title>
+    <sub-title lang="vi">Bộ đội Biên phòng Quảng Ninh nâng cao chất lượng công tác kỹ thuật</sub-title>
+  </programme>
+  <programme start="20211012071500 +0700" stop="20211012072900 +0700" channel="quang.ninh1">
+    <title lang="vi">Chuyện cùng bác sĩ</title>
+    <sub-title lang="vi">Những điều cần biết về bệnh tâm thần phân liệt</sub-title>
+  </programme>
+  <programme start="20211012072900 +0700" stop="20211012074000 +0700" channel="quang.ninh1">
+    <title lang="vi">Cuộc sống quanh ta</title>
+    <sub-title lang="vi">Mãnh liệt Australia. P5</sub-title>
+  </programme>
+  <programme start="20211012074000 +0700" stop="20211012075900 +0700" channel="quang.ninh1">
+    <title lang="vi">Khoa giáo</title>
+    <sub-title lang="vi">Kỹ thuật nuôi thương phẩm ngao giá</sub-title>
+  </programme>
+  <programme start="20211012075900 +0700" stop="20211012084300 +0700" channel="quang.ninh1">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Phía sau nụ cười. T23</sub-title>
+  </programme>
+  <programme start="20211012084300 +0700" stop="20211012085800 +0700" channel="quang.ninh1">
+    <title lang="vi">Tận hưởng cuộc sống</title>
+    <sub-title lang="vi">Gà tiềm ớt hiểm</sub-title>
+  </programme>
+  <programme start="20211012085800 +0700" stop="20211012092000 +0700" channel="quang.ninh1">
+    <title lang="vi">Phim tài liệu</title>
+    <sub-title lang="vi">Hạc vàng trong mây</sub-title>
+  </programme>
+  <programme start="20211012092000 +0700" stop="20211012093100 +0700" channel="quang.ninh1">
+    <title lang="vi">Trang văn hóa</title>
+    <sub-title lang="vi">Bảo tồn nét văn hóa dân tộc Sán Chỉ tại Đại Dực</sub-title>
+  </programme>
+  <programme start="20211012093100 +0700" stop="20211012095900 +0700" channel="quang.ninh1">
+    <title lang="vi">Ca nhạc quốc tế</title>
+  </programme>
+  <programme start="20211012095900 +0700" stop="20211012100700 +0700" channel="quang.ninh1">
+    <title lang="vi">Bản tin 5 phút</title>
+  </programme>
+  <programme start="20211012100700 +0700" stop="20211012102500 +0700" channel="quang.ninh1">
+    <title lang="vi">Đảng trong cuộc sống hôm nay</title>
+    <sub-title lang="vi">Những đảng viên vững vàng nơi đầu sóng</sub-title>
+  </programme>
+  <programme start="20211012102500 +0700" stop="20211012102900 +0700" channel="quang.ninh1">
+    <title lang="vi">Quảng Ninh xưa và nay</title>
+    <sub-title lang="vi">Trên quê hương Đệ tứ chiến khu</sub-title>
+  </programme>
+  <programme start="20211012102900 +0700" stop="20211012110100 +0700" channel="quang.ninh1">
+    <title lang="vi">Giao lưu - Đối thoại</title>
+    <sub-title lang="vi">Thành phố Hạ Long phát triển giao thông tĩnh</sub-title>
+  </programme>
+  <programme start="20211012110100 +0700" stop="20211012111200 +0700" channel="quang.ninh1">
+    <title lang="vi">Hoạt hình</title>
+    <sub-title lang="vi">Vương quốc tí hon của Ben và Holly. T78</sub-title>
+  </programme>
+  <programme start="20211012111200 +0700" stop="20211012112900 +0700" channel="quang.ninh1">
+    <title lang="vi">Phụ nữ và thời đại</title>
+    <sub-title lang="vi">Phụ nữ Vân Đồn chung tay nỗ lực thực hiện \"Mục tiêu kép\"</sub-title>
+  </programme>
+  <programme start="20211012112900 +0700" stop="20211012114500 +0700" channel="quang.ninh1">
+    <title lang="vi">Bản tin 10 phút</title>
+  </programme>
+  <programme start="20211012114500 +0700" stop="20211012115100 +0700" channel="quang.ninh1">
+    <title lang="vi">Thời sự quốc tế.</title>
+  </programme>
+  <programme start="20211012115100 +0700" stop="20211012120200 +0700" channel="quang.ninh1">
+    <title lang="vi">Đất và người Quảng Ninh</title>
+    <sub-title lang="vi">Niềm đam mê văn nghệ của một doanh nhân</sub-title>
+  </programme>
+  <programme start="20211012120200 +0700" stop="20211012125100 +0700" channel="quang.ninh1">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Giọng nói. P1. T15</sub-title>
+  </programme>
+  <programme start="20211012125100 +0700" stop="20211012130400 +0700" channel="quang.ninh1">
+    <title lang="vi">Du lịch vòng quanh thế giới</title>
+    <sub-title lang="vi">Châu Âu - Điểm đến của những giấc mơ. P101</sub-title>
+  </programme>
+  <programme start="20211012130400 +0700" stop="20211012131900 +0700" channel="quang.ninh1">
+    <title lang="vi">Giáo dục và Phát triển</title>
+    <sub-title lang="vi">Diện mạo mới của giáo dục Đông Triều</sub-title>
+  </programme>
+  <programme start="20211012131900 +0700" stop="20211012133300 +0700" channel="quang.ninh1">
+    <title lang="vi">Tận hưởng cuộc sống</title>
+    <sub-title lang="vi">Gà tiềm ớt hiểm</sub-title>
+  </programme>
+  <programme start="20211012133300 +0700" stop="20211012135700 +0700" channel="quang.ninh1">
+    <title lang="vi">Chương trình thiếu nhi</title>
+    <sub-title lang="vi">Nhạc sĩ của tuổi thơ</sub-title>
+  </programme>
+  <programme start="20211012135700 +0700" stop="20211012140200 +0700" channel="quang.ninh1">
+    <title lang="vi">Bản tin tiếng Trung.</title>
+  </programme>
+  <programme start="20211012140200 +0700" stop="20211012143000 +0700" channel="quang.ninh1">
+    <title lang="vi">Phim tài liệu</title>
+    <sub-title lang="vi">Thầy!</sub-title>
+  </programme>
+  <programme start="20211012143000 +0700" stop="20211012144500 +0700" channel="quang.ninh1">
+    <title lang="vi">Cuộc sống quanh ta</title>
+    <sub-title lang="vi">Mãnh liệt Australia. P5</sub-title>
+  </programme>
+  <programme start="20211012144500 +0700" stop="20211012145000 +0700" channel="quang.ninh1">
+    <title lang="vi">Quảng Ninh xưa và nay</title>
+    <sub-title lang="vi">Trên quê hương Đệ tứ chiến khu</sub-title>
+  </programme>
+  <programme start="20211012145000 +0700" stop="20211012145000 +0700" channel="quang.ninh1">
+    <title lang="vi">Thời sự quốc tế.</title>
+  </programme>
+  <programme start="20211012145000 +0700" stop="20211012150800 +0700" channel="quang.ninh1">
+    <title lang="vi">Bản tin 10 phút</title>
+  </programme>
+  <programme start="20211012150800 +0700" stop="20211012155500 +0700" channel="quang.ninh1">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Sứ mạng song sinh. T18</sub-title>
+  </programme>
+  <programme start="20211012155500 +0700" stop="20211012160800 +0700" channel="quang.ninh1">
+    <title lang="vi">Thế giới động vật</title>
+    <sub-title lang="vi">Chúa tể rừng xanh. P45</sub-title>
+  </programme>
+  <programme start="20211012160800 +0700" stop="20211012161900 +0700" channel="quang.ninh1">
+    <title lang="vi">Tiếp sức mỗi ngày</title>
+    <sub-title lang="vi">Sử dụng máy giặt đúng cách và hiệu quả</sub-title>
+  </programme>
+  <programme start="20211012161900 +0700" stop="20211012162900 +0700" channel="quang.ninh1">
+    <title lang="vi">Tin mới</title>
+  </programme>
+  <programme start="20211012162900 +0700" stop="20211012164200 +0700" channel="quang.ninh1">
+    <title lang="vi">Phóng sự</title>
+    <sub-title lang="vi">Nhiều giải pháp đảm bảo ATGT cuối năm</sub-title>
+  </programme>
+  <programme start="20211012164200 +0700" stop="20211012165500 +0700" channel="quang.ninh1">
+    <title lang="vi">Hoạt hình</title>
+    <sub-title lang="vi">Cuộc xâm lăng của người ngoài hành tinh. Tập 27. P1</sub-title>
+  </programme>
+  <programme start="20211012165500 +0700" stop="20211012171400 +0700" channel="quang.ninh1">
+    <title lang="vi">Tạp chí du lịch</title>
+  </programme>
+  <programme start="20211012171400 +0700" stop="20211012172500 +0700" channel="quang.ninh1">
+    <title lang="vi">Nhịp sống thể thao.</title>
+  </programme>
+  <programme start="20211012172500 +0700" stop="20211012172900 +0700" channel="quang.ninh1">
+    <title lang="vi">Ẩm thực Quảng Ninh</title>
+    <sub-title lang="vi">Cua om miến</sub-title>
+  </programme>
+  <programme start="20211012172900 +0700" stop="20211012175000 +0700" channel="quang.ninh1">
+    <title lang="vi">Nhịp sống 365</title>
+  </programme>
+  <programme start="20211012175000 +0700" stop="20211012180100 +0700" channel="quang.ninh1">
+    <title lang="vi">Thế giới 24h.</title>
+  </programme>
+  <programme start="20211012180100 +0700" stop="20211012184500 +0700" channel="quang.ninh1">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Dù ghét vẫn yêu. T34</sub-title>
+  </programme>
+  <programme start="20211012184500 +0700" stop="20211012190000 +0700" channel="quang.ninh1">
+    <title lang="vi">Chuyện cùng bác sĩ</title>
+    <sub-title lang="vi">Những điều cần biết về răng khôn</sub-title>
+  </programme>
+  <programme start="20211012190000 +0700" stop="20211012194500 +0700" channel="quang.ninh1">
+    <title lang="vi">Thời sự truyền hình Việt Nam</title>
+  </programme>
+  <programme start="20211012194500 +0700" stop="20211012202300 +0700" channel="quang.ninh1">
+    <title lang="vi">Thời sự Quảng Ninh</title>
+  </programme>
+  <programme start="20211012202300 +0700" stop="20211012203800 +0700" channel="quang.ninh1">
+    <title lang="vi">Truyền hình TP Hạ Long</title>
+  </programme>
+  <programme start="20211012203800 +0700" stop="20211012212500 +0700" channel="quang.ninh1">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Bất khả xâm phạm. T4</sub-title>
+  </programme>
+  <programme start="20211012212500 +0700" stop="20211012214000 +0700" channel="quang.ninh1">
+    <title lang="vi">Quốc phòng toàn dân</title>
+  </programme>
+  <programme start="20211012214000 +0700" stop="20211012215500 +0700" channel="quang.ninh1">
+    <title lang="vi">Khoa học và Công nghệ</title>
+  </programme>
+  <programme start="20211012215500 +0700" stop="20211012224000 +0700" channel="quang.ninh1">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Nợ anh một giấc mơ. T34</sub-title>
+  </programme>
+  <programme start="20211012224000 +0700" stop="20211012230500 +0700" channel="quang.ninh1">
+    <title lang="vi">Thời sự Quảng Ninh</title>
+  </programme>
+  <programme start="20211012230500 +0700" stop="20211012235500 +0700" channel="quang.ninh1">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Tạm biệt quá khứ. T10</sub-title>
+  </programme>
+  <programme start="20211012235500 +0700" stop="20211013000000 +0700" channel="quang.ninh1">
+    <title lang="vi">Bản tin tiếng Anh.</title>
+  </programme>
+  <programme start="20211011000000 +0700" stop="20211011004500 +0700" channel="quang.ninh3">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Sứ mạng song sinh. Tập 11/32</sub-title>
+  </programme>
+  <programme start="20211011004500 +0700" stop="20211011010000 +0700" channel="quang.ninh3">
+    <title lang="vi">Thế giới 24h</title>
+  </programme>
+  <programme start="20211011010000 +0700" stop="20211011013000 +0700" channel="quang.ninh3">
+    <title lang="vi">Ca nhạc quốc tế</title>
+  </programme>
+  <programme start="20211011013000 +0700" stop="20211011014000 +0700" channel="quang.ninh3">
+    <title lang="vi">Du lịch vòng quanh thế giới</title>
+    <sub-title lang="vi">Châu Âu - Điểm đến của những giấc mơ. P101</sub-title>
+  </programme>
+  <programme start="20211011014000 +0700" stop="20211011023000 +0700" channel="quang.ninh3">
+    <title lang="vi">Sân khấu</title>
+    <sub-title lang="vi">Sông và Núi.P1</sub-title>
+  </programme>
+  <programme start="20211011023000 +0700" stop="20211011024500 +0700" channel="quang.ninh3">
+    <title lang="vi">Đảng trong cuộc sống</title>
+    <sub-title lang="vi">Đảng bộ Khối các cơ quan tỉnh đưa Nghị quyết vào cuộc sống</sub-title>
+  </programme>
+  <programme start="20211011024500 +0700" stop="20211011025500 +0700" channel="quang.ninh3">
+    <title lang="vi">Cuộc sống quanh ta</title>
+    <sub-title lang="vi">Mãnh liệt Australia</sub-title>
+  </programme>
+  <programme start="20211011025500 +0700" stop="20211011032500 +0700" channel="quang.ninh3">
+    <title lang="vi">Ca nhạc</title>
+    <sub-title lang="vi">Tình cha</sub-title>
+  </programme>
+  <programme start="20211011032500 +0700" stop="20211011034000 +0700" channel="quang.ninh3">
+    <title lang="vi">Chuyện nghề</title>
+    <sub-title lang="vi">Nghề phòng cháy chữa cháy</sub-title>
+  </programme>
+  <programme start="20211011034000 +0700" stop="20211011041500 +0700" channel="quang.ninh3">
+    <title lang="vi">Giao lưu - Đối thoại</title>
+    <sub-title lang="vi">Ứng phó với khủng hoảng tâm lý trong đại dịch Covid-19</sub-title>
+  </programme>
+  <programme start="20211011041500 +0700" stop="20211011043000 +0700" channel="quang.ninh3">
+    <title lang="vi">Thế giới động vật</title>
+    <sub-title lang="vi">Chúa tể rừng xanh. P45</sub-title>
+  </programme>
+  <programme start="20211011043000 +0700" stop="20211011050000 +0700" channel="quang.ninh3">
+    <title lang="vi">Phim tài liệu</title>
+    <sub-title lang="vi">Một chiều</sub-title>
+  </programme>
+  <programme start="20211011050000 +0700" stop="20211011051000 +0700" channel="quang.ninh3">
+    <title lang="vi">Doanh nghiệp doanh nhân Quảng Ninh</title>
+    <sub-title lang="vi">Các địa phương đồng hành cùng doanh nghiệp</sub-title>
+  </programme>
+  <programme start="20211011051000 +0700" stop="20211011052500 +0700" channel="quang.ninh3">
+    <title lang="vi">Công nghiệp mỏ</title>
+    <sub-title lang="vi">TKV đẩy mạnh cơ giới hóa đào lò</sub-title>
+  </programme>
+  <programme start="20211011052500 +0700" stop="20211011055000 +0700" channel="quang.ninh3">
+    <title lang="vi">Khoa giáo</title>
+    <sub-title lang="vi">Quy trình ủ phân theo phương pháp Nhật bản</sub-title>
+  </programme>
+  <programme start="20211011055000 +0700" stop="20211011060000 +0700" channel="quang.ninh3">
+    <title lang="vi">Đất và người Quảng Ninh</title>
+    <sub-title lang="vi">Những nghệ nhân của bản làng</sub-title>
+  </programme>
+  <programme start="20211011060000 +0700" stop="20211011063000 +0700" channel="quang.ninh3">
+    <title lang="vi">Ca nhạc</title>
+    <sub-title lang="vi">Về đất mỏ cùng anh</sub-title>
+  </programme>
+  <programme start="20211011063000 +0700" stop="20211011064500 +0700" channel="quang.ninh3">
+    <title lang="vi">Hoạt hình</title>
+    <sub-title lang="vi">Thế giới huyền ảo của Darwin. Tập 39</sub-title>
+  </programme>
+  <programme start="20211011064500 +0700" stop="20211011070000 +0700" channel="quang.ninh3">
+    <title lang="vi">Trang văn hóa</title>
+    <sub-title lang="vi">Hoa Lư ngàn năm vang mãi-T1</sub-title>
+  </programme>
+  <programme start="20211011070000 +0700" stop="20211011072000 +0700" channel="quang.ninh3">
+    <title lang="vi">Chào ngày mới</title>
+  </programme>
+  <programme start="20211011072000 +0700" stop="20211011073500 +0700" channel="quang.ninh3">
+    <title lang="vi">Dân tộc miền núi</title>
+    <sub-title lang="vi">Thoát nghèo làm giàu từ nuôi gà Tiên Yên</sub-title>
+  </programme>
+  <programme start="20211011073500 +0700" stop="20211011074500 +0700" channel="quang.ninh3">
+    <title lang="vi">Du lịch vòng quanh thế giới</title>
+    <sub-title lang="vi">Châu Âu - Điểm đến của những giấc mơ. P101</sub-title>
+  </programme>
+  <programme start="20211011074500 +0700" stop="20211011081500 +0700" channel="quang.ninh3">
+    <title lang="vi">Ô cửa tuổi xanh</title>
+    <sub-title lang="vi">Bảo thủ</sub-title>
+  </programme>
+  <programme start="20211011081500 +0700" stop="20211011082000 +0700" channel="quang.ninh3">
+    <title lang="vi">Quảng Ninh xưa và nay</title>
+    <sub-title lang="vi">Những di tích thời Pháp ở Hải Hà</sub-title>
+  </programme>
+  <programme start="20211011082000 +0700" stop="20211011084500 +0700" channel="quang.ninh3">
+    <title lang="vi">Khoa giáo</title>
+    <sub-title lang="vi">Quy trình ủ phân theo phương pháp Nhật bản</sub-title>
+  </programme>
+  <programme start="20211011084500 +0700" stop="20211011090000 +0700" channel="quang.ninh3">
+    <title lang="vi">Đại đoàn kết</title>
+    <sub-title lang="vi">Động lực để người nghèo vươn lên</sub-title>
+  </programme>
+  <programme start="20211011090000 +0700" stop="20211011095000 +0700" channel="quang.ninh3">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Ký ức tình yêu. Tập 9/29</sub-title>
+  </programme>
+  <programme start="20211011095000 +0700" stop="20211011100500 +0700" channel="quang.ninh3">
+    <title lang="vi">Sắc màu điện ảnh</title>
+  </programme>
+  <programme start="20211011100500 +0700" stop="20211011101500 +0700" channel="quang.ninh3">
+    <title lang="vi">Thế giới động vật</title>
+    <sub-title lang="vi">Chúa tể rừng xanh. P46</sub-title>
+  </programme>
+  <programme start="20211011101500 +0700" stop="20211011103000 +0700" channel="quang.ninh3">
+    <title lang="vi">Đại biểu dân cử với cử tri</title>
+    <sub-title lang="vi">Cần giải quyết dứt điểm kiến nghị của cử tri Móng Cái</sub-title>
+  </programme>
+  <programme start="20211011103000 +0700" stop="20211011104000 +0700" channel="quang.ninh3">
+    <title lang="vi">Bản tin 5 phút</title>
+  </programme>
+  <programme start="20211011104000 +0700" stop="20211011110000 +0700" channel="quang.ninh3">
+    <title lang="vi">Phim tài liệu</title>
+    <sub-title lang="vi">Nước trời</sub-title>
+  </programme>
+  <programme start="20211011110000 +0700" stop="20211011114500 +0700" channel="quang.ninh3">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Tổ ấm. Tập 25/45</sub-title>
+  </programme>
+  <programme start="20211011114500 +0700" stop="20211011120000 +0700" channel="quang.ninh3">
+    <title lang="vi">Tiếp sức mỗi ngày</title>
+    <sub-title lang="vi">Giữ vững tinh thần thời dịch bệnh</sub-title>
+  </programme>
+  <programme start="20211011120000 +0700" stop="20211011121000 +0700" channel="quang.ninh3">
+    <title lang="vi">Bản tin 10 phút</title>
+  </programme>
+  <programme start="20211011121000 +0700" stop="20211011122500 +0700" channel="quang.ninh3">
+    <title lang="vi">Chuyện cùng bác sĩ</title>
+    <sub-title lang="vi">Những lưu ý đối với phụ nữ mang thai khi tiêm vắc xin phòng Covid-19</sub-title>
+  </programme>
+  <programme start="20211011122500 +0700" stop="20211011125500 +0700" channel="quang.ninh3">
+    <title lang="vi">Chương trình thiếu nhi</title>
+    <sub-title lang="vi">Thiếu nhi Quảng Ninh ca hát</sub-title>
+  </programme>
+  <programme start="20211011125500 +0700" stop="20211011130000 +0700" channel="quang.ninh3">
+    <title lang="vi">Thời sự quốc tế</title>
+  </programme>
+  <programme start="20211011130000 +0700" stop="20211011134500 +0700" channel="quang.ninh3">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Sứ mạng song sinh. Tập 11/32</sub-title>
+  </programme>
+  <programme start="20211011134500 +0700" stop="20211011140000 +0700" channel="quang.ninh3">
+    <title lang="vi">Giáo dục và phát triển</title>
+    <sub-title lang="vi">Diện mạo mới của giáo dục Đông Triều</sub-title>
+  </programme>
+  <programme start="20211011140000 +0700" stop="20211011143000 +0700" channel="quang.ninh3">
+    <title lang="vi">Ca nhạc</title>
+    <sub-title lang="vi">Về đất mỏ cùng anh</sub-title>
+  </programme>
+  <programme start="20211011143000 +0700" stop="20211011143500 +0700" channel="quang.ninh3">
+    <title lang="vi">Bản tin tiếng Trung</title>
+  </programme>
+  <programme start="20211011143500 +0700" stop="20211011151500 +0700" channel="quang.ninh3">
+    <title lang="vi">Phim tài liệu</title>
+    <sub-title lang="vi">Một chiều</sub-title>
+  </programme>
+  <programme start="20211011151500 +0700" stop="20211011160000 +0700" channel="quang.ninh3">
+    <title lang="vi">Sân khấu</title>
+    <sub-title lang="vi">Sông và Núi.P1</sub-title>
+  </programme>
+  <programme start="20211011160000 +0700" stop="20211011161000 +0700" channel="quang.ninh3">
+    <title lang="vi">Bản tin 10 phút</title>
+  </programme>
+  <programme start="20211011161000 +0700" stop="20211011162000 +0700" channel="quang.ninh3">
+    <title lang="vi">Tận hưởng cuộc sống</title>
+    <sub-title lang="vi">Pho mai que Ý</sub-title>
+  </programme>
+  <programme start="20211011162000 +0700" stop="20211011163000 +0700" channel="quang.ninh3">
+    <title lang="vi">Thời sự quốc tế</title>
+  </programme>
+  <programme start="20211011163000 +0700" stop="20211011171000 +0700" channel="quang.ninh3">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Bà trùm.  Tập 22/32</sub-title>
+  </programme>
+  <programme start="20211011171000 +0700" stop="20211011172000 +0700" channel="quang.ninh3">
+    <title lang="vi">Tin mới</title>
+  </programme>
+  <programme start="20211011172000 +0700" stop="20211011173500 +0700" channel="quang.ninh3">
+    <title lang="vi">Hoạt hình</title>
+    <sub-title lang="vi">Thế giới diệu kỳ của Chloe. Tập 43</sub-title>
+  </programme>
+  <programme start="20211011173500 +0700" stop="20211011175000 +0700" channel="quang.ninh3">
+    <title lang="vi">Đảng trong cuộc sống</title>
+    <sub-title lang="vi">Đảng bộ Khối các cơ quan tỉnh đưa Nghị quyết vào cuộc sống</sub-title>
+  </programme>
+  <programme start="20211011175000 +0700" stop="20211011180000 +0700" channel="quang.ninh3">
+    <title lang="vi">Nhịp sống thể thao</title>
+  </programme>
+  <programme start="20211011180000 +0700" stop="20211011183000 +0700" channel="quang.ninh3">
+    <title lang="vi">Nhịp sống 365</title>
+  </programme>
+  <programme start="20211011183000 +0700" stop="20211011184500 +0700" channel="quang.ninh3">
+    <title lang="vi">Câu chuyện đô thị</title>
+    <sub-title lang="vi">Giữ vững địa bàn xanh an toàn</sub-title>
+  </programme>
+  <programme start="20211011184500 +0700" stop="20211011190000 +0700" channel="quang.ninh3">
+    <title lang="vi">Ẩm thực Quảng Ninh</title>
+    <sub-title lang="vi">Tôm hoàng bào về tổ</sub-title>
+  </programme>
+  <programme start="20211011190000 +0700" stop="20211011194500 +0700" channel="quang.ninh3">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Phía sau nụ cười. Tập 9/48</sub-title>
+  </programme>
+  <programme start="20211011194500 +0700" stop="20211011200000 +0700" channel="quang.ninh3">
+    <title lang="vi">Chuyện nghề</title>
+    <sub-title lang="vi">Chuyện của những người làm nghề bảo tàng</sub-title>
+  </programme>
+  <programme start="20211011200000 +0700" stop="20211011204500 +0700" channel="quang.ninh3">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Vòng tròn tội lỗi. Tập 15/30</sub-title>
+  </programme>
+  <programme start="20211011204500 +0700" stop="20211011210000 +0700" channel="quang.ninh3">
+    <title lang="vi">Nhịp sống thể thao</title>
+  </programme>
+  <programme start="20211011210000 +0700" stop="20211011213000 +0700" channel="quang.ninh3">
+    <title lang="vi">Thời sự Quảng Ninh</title>
+  </programme>
+  <programme start="20211011213000 +0700" stop="20211011214000 +0700" channel="quang.ninh3">
+    <title lang="vi">Chuyện cùng bác sỹ</title>
+    <sub-title lang="vi">Những điều cần biết về răng khôn</sub-title>
+  </programme>
+  <programme start="20211011214000 +0700" stop="20211011214500 +0700" channel="quang.ninh3">
+    <title lang="vi">Ẩm thực Quảng Ninh</title>
+    <sub-title lang="vi">Cua om miến</sub-title>
+  </programme>
+  <programme start="20211011214500 +0700" stop="20211011220000 +0700" channel="quang.ninh3">
+    <title lang="vi">Phóng sự</title>
+    <sub-title lang="vi">Nhiều giải pháp đảm bảo ATGT cuối năm</sub-title>
+  </programme>
+  <programme start="20211011220000 +0700" stop="20211011221500 +0700" channel="quang.ninh3">
+    <title lang="vi">Sắc màu điện ảnh</title>
+  </programme>
+  <programme start="20211011221500 +0700" stop="20211011230000 +0700" channel="quang.ninh3">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Thiết diện ngự sử. P2 Tập 36/40</sub-title>
+  </programme>
+  <programme start="20211011230000 +0700" stop="20211011233000 +0700" channel="quang.ninh3">
+    <title lang="vi">Thời sự Quảng Ninh</title>
+  </programme>
+  <programme start="20211011233000 +0700" stop="20211012000000 +0700" channel="quang.ninh3">
+    <title lang="vi">Phim tài liệu</title>
+    <sub-title lang="vi">Nước trời</sub-title>
+  </programme>
+  <programme start="20211012000000 +0700" stop="20211012004500 +0700" channel="quang.ninh3">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Sứ mạng song sinh. Tập 12/32</sub-title>
+  </programme>
+  <programme start="20211012004500 +0700" stop="20211012005500 +0700" channel="quang.ninh3">
+    <title lang="vi">Thế giới 24h</title>
+  </programme>
+  <programme start="20211012005500 +0700" stop="20211012010000 +0700" channel="quang.ninh3">
+    <title lang="vi">Bản tin tiếng Anh</title>
+  </programme>
+  <programme start="20211012010000 +0700" stop="20211012013000 +0700" channel="quang.ninh3">
+    <title lang="vi">Ca nhạc quốc tế</title>
+  </programme>
+  <programme start="20211012013000 +0700" stop="20211012014000 +0700" channel="quang.ninh3">
+    <title lang="vi">Du lịch vòng quanh thế giới</title>
+    <sub-title lang="vi">Châu Âu - Điểm đến của những giấc mơ. P101</sub-title>
+  </programme>
+  <programme start="20211012014000 +0700" stop="20211012023000 +0700" channel="quang.ninh3">
+    <title lang="vi">Sân khấu</title>
+    <sub-title lang="vi">Sông và Núi.P2</sub-title>
+  </programme>
+  <programme start="20211012023000 +0700" stop="20211012024500 +0700" channel="quang.ninh3">
+    <title lang="vi">Dân tộc miền núi</title>
+    <sub-title lang="vi">Thoát nghèo làm giàu từ nuôi gà Tiên Yên</sub-title>
+  </programme>
+  <programme start="20211012024500 +0700" stop="20211012025500 +0700" channel="quang.ninh3">
+    <title lang="vi">Cuộc sống quanh ta</title>
+    <sub-title lang="vi">Mãnh liệt Australia</sub-title>
+  </programme>
+  <programme start="20211012025500 +0700" stop="20211012032000 +0700" channel="quang.ninh3">
+    <title lang="vi">Ca nhạc</title>
+    <sub-title lang="vi">Tiếng ca thầm lặng</sub-title>
+  </programme>
+  <programme start="20211012032000 +0700" stop="20211012034000 +0700" channel="quang.ninh3">
+    <title lang="vi">Chuyện nghề</title>
+    <sub-title lang="vi">Nghề kỹ thuật viễn thông- Nốt lặng trầm trên bản nhạc</sub-title>
+  </programme>
+  <programme start="20211012034000 +0700" stop="20211012041000 +0700" channel="quang.ninh3">
+    <title lang="vi">Ô cửa tuổi xanh</title>
+    <sub-title lang="vi">Sống tiết kiệm</sub-title>
+  </programme>
+  <programme start="20211012041000 +0700" stop="20211012042000 +0700" channel="quang.ninh3">
+    <title lang="vi">Thế giới động vật</title>
+    <sub-title lang="vi">Chúa tể rừng xanh. P46</sub-title>
+  </programme>
+  <programme start="20211012042000 +0700" stop="20211012044500 +0700" channel="quang.ninh3">
+    <title lang="vi">Phim tài liệu</title>
+    <sub-title lang="vi">Sống mãi người con gái Việt Nam</sub-title>
+  </programme>
+  <programme start="20211012044500 +0700" stop="20211012051000 +0700" channel="quang.ninh3">
+    <title lang="vi">Công nghiệp mỏ</title>
+    <sub-title lang="vi">TKV đẩy mạnh cơ giới hóa đào lò</sub-title>
+  </programme>
+  <programme start="20211012051000 +0700" stop="20211012052000 +0700" channel="quang.ninh3">
+    <title lang="vi">Xây dựng nông thôn mới</title>
+    <sub-title lang="vi">An toàn phòng chống dịch ở khu vực nông nghiệp nông thôn</sub-title>
+  </programme>
+  <programme start="20211012052000 +0700" stop="20211012054500 +0700" channel="quang.ninh3">
+    <title lang="vi">Khoa giáo</title>
+    <sub-title lang="vi">Quân đội nhân dân Việt Nam –sức mạnh bảo vệ Tổ quốc</sub-title>
+  </programme>
+  <programme start="20211012054500 +0700" stop="20211012060000 +0700" channel="quang.ninh3">
+    <title lang="vi">Đất và người Quảng Ninh</title>
+    <sub-title lang="vi">Thanh niên 9X khởi nghiệp từ nuôi gà</sub-title>
+  </programme>
+  <programme start="20211012060000 +0700" stop="20211012063000 +0700" channel="quang.ninh3">
+    <title lang="vi">Ca nhạc quốc tế</title>
+  </programme>
+  <programme start="20211012063000 +0700" stop="20211012064500 +0700" channel="quang.ninh3">
+    <title lang="vi">Hoạt hình</title>
+    <sub-title lang="vi">Thế giới huyền ảo của Darwin. Tập 40</sub-title>
+  </programme>
+  <programme start="20211012064500 +0700" stop="20211012070000 +0700" channel="quang.ninh3">
+    <title lang="vi">Trang văn hóa</title>
+    <sub-title lang="vi">Hoa Lư ngàn năm vang mãi-T2</sub-title>
+  </programme>
+  <programme start="20211012070000 +0700" stop="20211012072000 +0700" channel="quang.ninh3">
+    <title lang="vi">Chào ngày mới</title>
+  </programme>
+  <programme start="20211012072000 +0700" stop="20211012073500 +0700" channel="quang.ninh3">
+    <title lang="vi">Doanh nghiệp, doanh nhân Quảng Ninh</title>
+    <sub-title lang="vi">Các địa phương đồng hành cùng doanh nghiệp</sub-title>
+  </programme>
+  <programme start="20211012073500 +0700" stop="20211012074500 +0700" channel="quang.ninh3">
+    <title lang="vi">Du lịch vòng quanh thế giới</title>
+    <sub-title lang="vi">Châu Âu- Điểm đến của những giấc mơ. P102</sub-title>
+  </programme>
+  <programme start="20211012074500 +0700" stop="20211012081500 +0700" channel="quang.ninh3">
+    <title lang="vi">Giao lưu - Đối thoại</title>
+    <sub-title lang="vi">Ứng phó với khủng hoảng tâm lý trong đại dịch Covid-19</sub-title>
+  </programme>
+  <programme start="20211012081500 +0700" stop="20211012082000 +0700" channel="quang.ninh3">
+    <title lang="vi">Quảng Ninh xưa và nay</title>
+    <sub-title lang="vi">Cụm di tích Đình - Nghè Cẩm Hải ở thành phố mỏ</sub-title>
+  </programme>
+  <programme start="20211012082000 +0700" stop="20211012084000 +0700" channel="quang.ninh3">
+    <title lang="vi">Khoa giáo</title>
+    <sub-title lang="vi">Kỹ thuật trồng rau vụ đông theo tiêu chuẩn Việt Gap</sub-title>
+  </programme>
+  <programme start="20211012084000 +0700" stop="20211012090000 +0700" channel="quang.ninh3">
+    <title lang="vi">Phóng sự</title>
+    <sub-title lang="vi">Cuộc thi sáng tạo thanh thiếu niên, nhi đồng: Bệ phóng cho các nhà khoa học trẻ</sub-title>
+  </programme>
+  <programme start="20211012090000 +0700" stop="20211012095000 +0700" channel="quang.ninh3">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Ký ức tình yêu. Tập 10/29</sub-title>
+  </programme>
+  <programme start="20211012095000 +0700" stop="20211012100000 +0700" channel="quang.ninh3">
+    <title lang="vi">Cuộc sống quanh ta</title>
+    <sub-title lang="vi">Mãnh liệt Australia</sub-title>
+  </programme>
+  <programme start="20211012100000 +0700" stop="20211012101000 +0700" channel="quang.ninh3">
+    <title lang="vi">Thế giới động vật</title>
+    <sub-title lang="vi">Chúa tể rừng xanh. P46</sub-title>
+  </programme>
+  <programme start="20211012101000 +0700" stop="20211012103000 +0700" channel="quang.ninh3">
+    <title lang="vi">Đảng trong cuộc sống hôm nay</title>
+    <sub-title lang="vi">Phát huy vai trò nêu gương của đảng viên</sub-title>
+  </programme>
+  <programme start="20211012103000 +0700" stop="20211012103500 +0700" channel="quang.ninh3">
+    <title lang="vi">Bản tin 5 phút</title>
+  </programme>
+  <programme start="20211012103500 +0700" stop="20211012110000 +0700" channel="quang.ninh3">
+    <title lang="vi">Phim tài liệu</title>
+    <sub-title lang="vi">Tôi còn sống</sub-title>
+  </programme>
+  <programme start="20211012110000 +0700" stop="20211012114500 +0700" channel="quang.ninh3">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Tổ ấm. Tập 26/45</sub-title>
+  </programme>
+  <programme start="20211012114500 +0700" stop="20211012120000 +0700" channel="quang.ninh3">
+    <title lang="vi">Đất và người Quảng Ninh</title>
+    <sub-title lang="vi">Thanh niên 9X khởi nghiệp từ nuôi gà</sub-title>
+  </programme>
+  <programme start="20211012120000 +0700" stop="20211012121000 +0700" channel="quang.ninh3">
+    <title lang="vi">Bản tin 10 phút</title>
+  </programme>
+  <programme start="20211012121000 +0700" stop="20211012122500 +0700" channel="quang.ninh3">
+    <title lang="vi">Chuyện cùng bác sỹ</title>
+    <sub-title lang="vi">Những điều cần biết về răng khôn</sub-title>
+  </programme>
+  <programme start="20211012122500 +0700" stop="20211012123000 +0700" channel="quang.ninh3">
+    <title lang="vi">Trang văn hóa</title>
+    <sub-title lang="vi">Bảo tồn nét văn hóa dân tộc Sán Chỉ tại Đại Dực</sub-title>
+  </programme>
+  <programme start="20211012123000 +0700" stop="20211012125500 +0700" channel="quang.ninh3">
+    <title lang="vi">Thiếu nhi</title>
+    <sub-title lang="vi">Nhạc sỹ của tuổi thơ</sub-title>
+  </programme>
+  <programme start="20211012125500 +0700" stop="20211012130000 +0700" channel="quang.ninh3">
+    <title lang="vi">Thời sự quốc tế</title>
+  </programme>
+  <programme start="20211012130000 +0700" stop="20211012134500 +0700" channel="quang.ninh3">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Sứ mạng song sinh. Tập 12/32</sub-title>
+  </programme>
+  <programme start="20211012134500 +0700" stop="20211012140000 +0700" channel="quang.ninh3">
+    <title lang="vi">Chuyện nghề</title>
+    <sub-title lang="vi">Chuyện của những người làm nghề bảo tàng</sub-title>
+  </programme>
+  <programme start="20211012140000 +0700" stop="20211012143000 +0700" channel="quang.ninh3">
+    <title lang="vi">Ca nhạc quốc tế</title>
+  </programme>
+  <programme start="20211012143000 +0700" stop="20211012143500 +0700" channel="quang.ninh3">
+    <title lang="vi">Bản tin tiếng Trung</title>
+  </programme>
+  <programme start="20211012143500 +0700" stop="20211012150500 +0700" channel="quang.ninh3">
+    <title lang="vi">Phim tài liệu</title>
+    <sub-title lang="vi">Sống mãi người con gái Việt Nam</sub-title>
+  </programme>
+  <programme start="20211012150500 +0700" stop="20211012160000 +0700" channel="quang.ninh3">
+    <title lang="vi">Sân khấu</title>
+    <sub-title lang="vi">Sông và Núi.P2</sub-title>
+  </programme>
+  <programme start="20211012160000 +0700" stop="20211012161000 +0700" channel="quang.ninh3">
+    <title lang="vi">Bản tin 10 phút</title>
+  </programme>
+  <programme start="20211012161000 +0700" stop="20211012162000 +0700" channel="quang.ninh3">
+    <title lang="vi">Tận hưởng cuộc sống</title>
+    <sub-title lang="vi">Cánh gà xốt me</sub-title>
+  </programme>
+  <programme start="20211012162000 +0700" stop="20211012163000 +0700" channel="quang.ninh3">
+    <title lang="vi">Thời sự quốc tế</title>
+  </programme>
+  <programme start="20211012163000 +0700" stop="20211012171000 +0700" channel="quang.ninh3">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Bà trùm. Tập 23/32</sub-title>
+  </programme>
+  <programme start="20211012171000 +0700" stop="20211012172000 +0700" channel="quang.ninh3">
+    <title lang="vi">Tin mới</title>
+  </programme>
+  <programme start="20211012172000 +0700" stop="20211012173000 +0700" channel="quang.ninh3">
+    <title lang="vi">Hoạt hình</title>
+    <sub-title lang="vi">Thế giới diệu kỳ của Chloe. Tập 44</sub-title>
+  </programme>
+  <programme start="20211012173000 +0700" stop="20211012175000 +0700" channel="quang.ninh3">
+    <title lang="vi">Dân tộc miền núi</title>
+    <sub-title lang="vi">Thoát nghèo làm giàu từ nuôi gà Tiên Yên</sub-title>
+  </programme>
+  <programme start="20211012175000 +0700" stop="20211012180000 +0700" channel="quang.ninh3">
+    <title lang="vi">Nhịp sống thể thao</title>
+  </programme>
+  <programme start="20211012180000 +0700" stop="20211012182000 +0700" channel="quang.ninh3">
+    <title lang="vi">Nhịp sống 365</title>
+  </programme>
+  <programme start="20211012182000 +0700" stop="20211012183000 +0700" channel="quang.ninh3">
+    <title lang="vi">Thế giới 24h</title>
+  </programme>
+  <programme start="20211012183000 +0700" stop="20211012184500 +0700" channel="quang.ninh3">
+    <title lang="vi">Phóng sự</title>
+    <sub-title lang="vi">Nhiều giải pháp đảm bảo ATGT cuối năm</sub-title>
+  </programme>
+  <programme start="20211012184500 +0700" stop="20211012185000 +0700" channel="quang.ninh3">
+    <title lang="vi">Quảng Ninh xưa và nay</title>
+    <sub-title lang="vi">Cụm di tích Đình - Nghè Cẩm Hải ở thành phố mỏ</sub-title>
+  </programme>
+  <programme start="20211012185000 +0700" stop="20211012190000 +0700" channel="quang.ninh3">
+    <title lang="vi">Ẩm thực Quảng Ninh</title>
+    <sub-title lang="vi">Cua om miến</sub-title>
+  </programme>
+  <programme start="20211012190000 +0700" stop="20211012194500 +0700" channel="quang.ninh3">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Phía sau nụ cười. Tập 10/48</sub-title>
+  </programme>
+  <programme start="20211012194500 +0700" stop="20211012200000 +0700" channel="quang.ninh3">
+    <title lang="vi">Cải cách hành chính</title>
+    <sub-title lang="vi">Đông Triều đẩy mạnh ứng dụng CNTT trong cải cách hành chính</sub-title>
+  </programme>
+  <programme start="20211012200000 +0700" stop="20211012204500 +0700" channel="quang.ninh3">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Vòng tròn tội lỗi. Tập 16/30</sub-title>
+  </programme>
+  <programme start="20211012204500 +0700" stop="20211012210000 +0700" channel="quang.ninh3">
+    <title lang="vi">Nhịp sống thể thao</title>
+  </programme>
+  <programme start="20211012210000 +0700" stop="20211012213000 +0700" channel="quang.ninh3">
+    <title lang="vi">Thời sự Quảng Ninh</title>
+  </programme>
+  <programme start="20211012213000 +0700" stop="20211012214500 +0700" channel="quang.ninh3">
+    <title lang="vi">Chuyện cùng bác sỹ</title>
+    <sub-title lang="vi">Dự phòng sâu răng ở trẻ</sub-title>
+  </programme>
+  <programme start="20211012214500 +0700" stop="20211012214500 +0700" channel="quang.ninh3">
+    <title lang="vi">Công nghiệp mỏ</title>
+    <sub-title lang="vi">TKV tăng sản lượng khai thác than, đồng hành cùng mục tiêu kép của Quảng Ninh</sub-title>
+  </programme>
+  <programme start="20211012214500 +0700" stop="20211012220000 +0700" channel="quang.ninh3">
+    <title lang="vi">Ẩm thực Quảng Ninh</title>
+    <sub-title lang="vi">Ốc nhồi hấp bỗng</sub-title>
+  </programme>
+  <programme start="20211012220000 +0700" stop="20211012221500 +0700" channel="quang.ninh3">
+    <title lang="vi">Cuộc sống quanh ta</title>
+    <sub-title lang="vi">Mãnh liệt Australia</sub-title>
+  </programme>
+  <programme start="20211012221500 +0700" stop="20211012230000 +0700" channel="quang.ninh3">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Thiết diện ngự sử. P2 Tập 37/40</sub-title>
+  </programme>
+  <programme start="20211012230000 +0700" stop="20211012233000 +0700" channel="quang.ninh3">
+    <title lang="vi">Thời sự Quảng Ninh</title>
+  </programme>
+</tv>

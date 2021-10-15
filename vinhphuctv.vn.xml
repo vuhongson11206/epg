@@ -1,0 +1,466 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="vinh.phuc">
+    <display-name lang="vi">Vĩnh Phúc</display-name>
+    <url>http://www.vinhphuctv.vn</url>
+  </channel>
+  <programme start="20211007000000 +0700" stop="20211007004500 +0700" channel="vinh.phuc">
+    <title lang="vi">Phim truyện: Lấy chồng sớm làm gì (Tập 40  Phim Việt Nam)</title>
+  </programme>
+  <programme start="20211007004500 +0700" stop="20211007011500 +0700" channel="vinh.phuc">
+    <title lang="vi">Vĩnh Phúc ngày mới</title>
+  </programme>
+  <programme start="20211007011500 +0700" stop="20211007014500 +0700" channel="vinh.phuc">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20211007014500 +0700" stop="20211007023000 +0700" channel="vinh.phuc">
+    <title lang="vi">Phim truyện: Kẻ thù ngọt ngào (Tập 17  Phim Hàn Quốc)</title>
+  </programme>
+  <programme start="20211007023000 +0700" stop="20211007025000 +0700" channel="vinh.phuc">
+    <title lang="vi">Kết nối 24h</title>
+  </programme>
+  <programme start="20211007025000 +0700" stop="20211007025500 +0700" channel="vinh.phuc">
+    <title lang="vi">Khám phá Vĩnh Phúc</title>
+  </programme>
+  <programme start="20211007025500 +0700" stop="20211007031500 +0700" channel="vinh.phuc">
+    <title lang="vi">Cuộc sống thường ngày</title>
+  </programme>
+  <programme start="20211007031500 +0700" stop="20211007032000 +0700" channel="vinh.phuc">
+    <title lang="vi">Thông tin nông nghiệp</title>
+  </programme>
+  <programme start="20211007032000 +0700" stop="20211007035000 +0700" channel="vinh.phuc">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20211007035000 +0700" stop="20211007040000 +0700" channel="vinh.phuc">
+    <title lang="vi">Giống tốt bội thu</title>
+  </programme>
+  <programme start="20211007040000 +0700" stop="20211007044500 +0700" channel="vinh.phuc">
+    <title lang="vi">Phim truyện: Nợ anh một giấc mơ ( Tập 26  Phim Việt Nam)</title>
+  </programme>
+  <programme start="20211007044500 +0700" stop="20211007050000 +0700" channel="vinh.phuc">
+    <title lang="vi">An ninh Vĩnh Phúc</title>
+  </programme>
+  <programme start="20211007050000 +0700" stop="20211007053000 +0700" channel="vinh.phuc">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20211007053000 +0700" stop="20211007053500 +0700" channel="vinh.phuc">
+    <title lang="vi">Nhạc hiệu, hình hiệu Đài VP</title>
+  </programme>
+  <programme start="20211007053500 +0700" stop="20211007054000 +0700" channel="vinh.phuc">
+    <title lang="vi">Thể dục buổi sáng ( Nhảy dân vũ 1000 học sinh 2019)</title>
+  </programme>
+  <programme start="20211007054000 +0700" stop="20211007054500 +0700" channel="vinh.phuc">
+    <title lang="vi">Tài chính doanh nghiệp</title>
+  </programme>
+  <programme start="20211007054500 +0700" stop="20211007060000 +0700" channel="vinh.phuc">
+    <title lang="vi">Trang địa phương</title>
+  </programme>
+  <programme start="20211007060000 +0700" stop="20211007063000 +0700" channel="vinh.phuc">
+    <title lang="vi">Vĩnh Phúc ngày mới</title>
+  </programme>
+  <programme start="20211007063000 +0700" stop="20211007064500 +0700" channel="vinh.phuc">
+    <title lang="vi">Tuyệt chiêu nhà nông. Số 36</title>
+  </programme>
+  <programme start="20211007064500 +0700" stop="20211007070500 +0700" channel="vinh.phuc">
+    <title lang="vi">Kết nối 24h</title>
+  </programme>
+  <programme start="20211007070500 +0700" stop="20211007072000 +0700" channel="vinh.phuc">
+    <title lang="vi">Nhận diện sự thật</title>
+  </programme>
+  <programme start="20211007072000 +0700" stop="20211007072500 +0700" channel="vinh.phuc">
+    <title lang="vi">Khám phá Vĩnh Phúc</title>
+  </programme>
+  <programme start="20211007072500 +0700" stop="20211007074000 +0700" channel="vinh.phuc">
+    <title lang="vi">Phụ nữ Vĩnh Phúc</title>
+  </programme>
+  <programme start="20211007074000 +0700" stop="20211007075000 +0700" channel="vinh.phuc">
+    <title lang="vi">Lý luận cuộc sống</title>
+  </programme>
+  <programme start="20211007075000 +0700" stop="20211007075500 +0700" channel="vinh.phuc">
+    <title lang="vi">Thông tin nông nghiệp</title>
+  </programme>
+  <programme start="20211007075500 +0700" stop="20211007080500 +0700" channel="vinh.phuc">
+    <title lang="vi">Dành cho thiếu nhi</title>
+  </programme>
+  <programme start="20211007080500 +0700" stop="20211007081000 +0700" channel="vinh.phuc">
+    <title lang="vi">Thư viện Quốc phòng</title>
+  </programme>
+  <programme start="20211007081000 +0700" stop="20211007082000 +0700" channel="vinh.phuc">
+    <title lang="vi">Giống tốt bội thu</title>
+  </programme>
+  <programme start="20211007082000 +0700" stop="20211007083000 +0700" channel="vinh.phuc">
+    <title lang="vi">Sống khỏe mỗi ngày</title>
+  </programme>
+  <programme start="20211007083000 +0700" stop="20211007090000 +0700" channel="vinh.phuc">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20211007090000 +0700" stop="20211007093000 +0700" channel="vinh.phuc">
+    <title lang="vi">Vĩnh Phúc ngày mới</title>
+  </programme>
+  <programme start="20211007093000 +0700" stop="20211007093500 +0700" channel="vinh.phuc">
+    <title lang="vi">Điểm báo trong ngày</title>
+  </programme>
+  <programme start="20211007093500 +0700" stop="20211007095500 +0700" channel="vinh.phuc">
+    <title lang="vi">Cuộc sống thường ngày</title>
+  </programme>
+  <programme start="20211007095500 +0700" stop="20211007100000 +0700" channel="vinh.phuc">
+    <title lang="vi">Ống kính phóng viên</title>
+  </programme>
+  <programme start="20211007100000 +0700" stop="20211007104500 +0700" channel="vinh.phuc">
+    <title lang="vi">Phim truyện: Tình yêu màu trắng (Tập 62  Phim Ấn Độ)</title>
+  </programme>
+  <programme start="20211007104500 +0700" stop="20211007110000 +0700" channel="vinh.phuc">
+    <title lang="vi">Dành cho thiếu nhi: Nông dân nhỏ. Tập 7</title>
+  </programme>
+  <programme start="20211007110000 +0700" stop="20211007112000 +0700" channel="vinh.phuc">
+    <title lang="vi">Kết nối 24h</title>
+  </programme>
+  <programme start="20211007112000 +0700" stop="20211007112500 +0700" channel="vinh.phuc">
+    <title lang="vi">Bản tin thể thao</title>
+  </programme>
+  <programme start="20211007112500 +0700" stop="20211007113000 +0700" channel="vinh.phuc">
+    <title lang="vi">Điểm báo trong ngày</title>
+  </programme>
+  <programme start="20211007113000 +0700" stop="20211007115500 +0700" channel="vinh.phuc">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20211007115500 +0700" stop="20211007120000 +0700" channel="vinh.phuc">
+    <title lang="vi">Nói không với thực phẩm bẩn</title>
+  </programme>
+  <programme start="20211007120000 +0700" stop="20211007124500 +0700" channel="vinh.phuc">
+    <title lang="vi">Phim truyện: Định luật tình yêu (Tập 1  Phim  Đài Loan)</title>
+  </programme>
+  <programme start="20211007124500 +0700" stop="20211007130000 +0700" channel="vinh.phuc">
+    <title lang="vi">Sống khỏe 360</title>
+  </programme>
+  <programme start="20211007130000 +0700" stop="20211007133000 +0700" channel="vinh.phuc">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20211007133000 +0700" stop="20211007141500 +0700" channel="vinh.phuc">
+    <title lang="vi">Phim truyện: Kẻ thù ngọt ngào (Tập 18  Phim Hàn Quốc)</title>
+  </programme>
+  <programme start="20211007141500 +0700" stop="20211007142500 +0700" channel="vinh.phuc">
+    <title lang="vi">Vệ sinh an toàn thực phẩm</title>
+  </programme>
+  <programme start="20211007142500 +0700" stop="20211007144000 +0700" channel="vinh.phuc">
+    <title lang="vi">Bắt mạch tình yêu. Tập 30</title>
+  </programme>
+  <programme start="20211007144000 +0700" stop="20211007145500 +0700" channel="vinh.phuc">
+    <title lang="vi">An ninh Vĩnh Phúc</title>
+  </programme>
+  <programme start="20211007145500 +0700" stop="20211007150000 +0700" channel="vinh.phuc">
+    <title lang="vi">Ống kính phóng viên</title>
+  </programme>
+  <programme start="20211007150000 +0700" stop="20211007151000 +0700" channel="vinh.phuc">
+    <title lang="vi">Tứ phương tám hướng. Số 10</title>
+  </programme>
+  <programme start="20211007151000 +0700" stop="20211007151500 +0700" channel="vinh.phuc">
+    <title lang="vi">Thư viện Quốc phòng (Luật Cảnh sát biển Việt Nam, số 13)</title>
+  </programme>
+  <programme start="20211007151500 +0700" stop="20211007152000 +0700" channel="vinh.phuc">
+    <title lang="vi">Thông tin nông nghiệp</title>
+  </programme>
+  <programme start="20211007152000 +0700" stop="20211007155000 +0700" channel="vinh.phuc">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20211007155000 +0700" stop="20211007160000 +0700" channel="vinh.phuc">
+    <title lang="vi">Sống khỏe mỗi ngày</title>
+  </programme>
+  <programme start="20211007160000 +0700" stop="20211007164500 +0700" channel="vinh.phuc">
+    <title lang="vi">Phim truyện: Định luật tình yêu (Tập 1  Phim  Đài Loan)</title>
+  </programme>
+  <programme start="20211007164500 +0700" stop="20211007165500 +0700" channel="vinh.phuc">
+    <title lang="vi">Dành cho thiếu nhi: Niềm tin cổ tích. Tập 36</title>
+  </programme>
+  <programme start="20211007165500 +0700" stop="20211007170000 +0700" channel="vinh.phuc">
+    <title lang="vi">Người Việt Nam ưu tiên dùng hàng Việt Nam</title>
+  </programme>
+  <programme start="20211007170000 +0700" stop="20211007172000 +0700" channel="vinh.phuc">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20211007172000 +0700" stop="20211007173500 +0700" channel="vinh.phuc">
+    <title lang="vi">Phim Sitcom Sống chung với em chồng. Số 8</title>
+  </programme>
+  <programme start="20211007173500 +0700" stop="20211007175000 +0700" channel="vinh.phuc">
+    <title lang="vi">Giống tốt bội thu</title>
+  </programme>
+  <programme start="20211007175000 +0700" stop="20211007180000 +0700" channel="vinh.phuc">
+    <title lang="vi">Dành cho thiếu nhi: Thành phố xe hơi. Tập 76</title>
+  </programme>
+  <programme start="20211007180000 +0700" stop="20211007182000 +0700" channel="vinh.phuc">
+    <title lang="vi">Kết nối 24h</title>
+  </programme>
+  <programme start="20211007182000 +0700" stop="20211007184000 +0700" channel="vinh.phuc">
+    <title lang="vi">Cuộc sống thường ngày</title>
+  </programme>
+  <programme start="20211007184000 +0700" stop="20211007185500 +0700" channel="vinh.phuc">
+    <title lang="vi">Thời sự Trong nước +Quốc tế.</title>
+  </programme>
+  <programme start="20211007185500 +0700" stop="20211007194500 +0700" channel="vinh.phuc">
+    <title lang="vi">Tài chính doanh nghiệp</title>
+  </programme>
+  <programme start="20211007194500 +0700" stop="20211007201000 +0700" channel="vinh.phuc">
+    <title lang="vi">Thời sự Vĩnh Phúc.</title>
+  </programme>
+  <programme start="20211007201000 +0700" stop="20211007201500 +0700" channel="vinh.phuc">
+    <title lang="vi">Phổ biến kiến thức y tế</title>
+  </programme>
+  <programme start="20211007201500 +0700" stop="20211007210000 +0700" channel="vinh.phuc">
+    <title lang="vi">Phim truyện: Nợ anh một giấc mơ ( Tập 27  Phim Việt Nam)</title>
+  </programme>
+  <programme start="20211007210000 +0700" stop="20211007211000 +0700" channel="vinh.phuc">
+    <title lang="vi">Lợi ích của người dân, doanh nghiếp sử dụng dịch vụ công</title>
+  </programme>
+  <programme start="20211007211000 +0700" stop="20211007213000 +0700" channel="vinh.phuc">
+    <title lang="vi">Sitscomn Công sở kỳ truyện. Số 26</title>
+  </programme>
+  <programme start="20211007213000 +0700" stop="20211007221500 +0700" channel="vinh.phuc">
+    <title lang="vi">Phim truyện: Tình yêu màu trắng (Tập 63  Phim Ấn Độ)</title>
+  </programme>
+  <programme start="20211007221500 +0700" stop="20211007223500 +0700" channel="vinh.phuc">
+    <title lang="vi">Kết nối 24h</title>
+  </programme>
+  <programme start="20211007223500 +0700" stop="20211007224500 +0700" channel="vinh.phuc">
+    <title lang="vi">Hành trình văn hóa.</title>
+  </programme>
+  <programme start="20211007224500 +0700" stop="20211007230000 +0700" channel="vinh.phuc">
+    <title lang="vi">Nhận diện sự thật</title>
+  </programme>
+  <programme start="20211007230000 +0700" stop="20211007233000 +0700" channel="vinh.phuc">
+    <title lang="vi">Bản tin cuối ngày.</title>
+  </programme>
+  <programme start="20211007233000 +0700" stop="20211007233500 +0700" channel="vinh.phuc">
+    <title lang="vi">Bản tin thể thao</title>
+  </programme>
+  <programme start="20211007233500 +0700" stop="20211008000000 +0700" channel="vinh.phuc">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20211008000000 +0700" stop="20211008004500 +0700" channel="vinh.phuc">
+    <title lang="vi">Phim truyện: Lấy chồng sớm làm gì (Tập 40  Phim Việt Nam)</title>
+  </programme>
+  <programme start="20211008004500 +0700" stop="20211008011500 +0700" channel="vinh.phuc">
+    <title lang="vi">Vĩnh Phúc ngày mới</title>
+  </programme>
+  <programme start="20211008011500 +0700" stop="20211008014500 +0700" channel="vinh.phuc">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20211008014500 +0700" stop="20211008023000 +0700" channel="vinh.phuc">
+    <title lang="vi">Phim truyện: Kẻ thù ngọt ngào (Tập 17  Phim Hàn Quốc)</title>
+  </programme>
+  <programme start="20211008023000 +0700" stop="20211008025000 +0700" channel="vinh.phuc">
+    <title lang="vi">Kết nối 24h</title>
+  </programme>
+  <programme start="20211008025000 +0700" stop="20211008025500 +0700" channel="vinh.phuc">
+    <title lang="vi">Khám phá Vĩnh Phúc</title>
+  </programme>
+  <programme start="20211008025500 +0700" stop="20211008031500 +0700" channel="vinh.phuc">
+    <title lang="vi">Cuộc sống thường ngày</title>
+  </programme>
+  <programme start="20211008031500 +0700" stop="20211008032000 +0700" channel="vinh.phuc">
+    <title lang="vi">Thông tin nông nghiệp</title>
+  </programme>
+  <programme start="20211008032000 +0700" stop="20211008035000 +0700" channel="vinh.phuc">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20211008035000 +0700" stop="20211008040000 +0700" channel="vinh.phuc">
+    <title lang="vi">Giống tốt bội thu</title>
+  </programme>
+  <programme start="20211008040000 +0700" stop="20211008044500 +0700" channel="vinh.phuc">
+    <title lang="vi">Phim truyện: Nợ anh một giấc mơ ( Tập 26  Phim Việt Nam)</title>
+  </programme>
+  <programme start="20211008044500 +0700" stop="20211008050000 +0700" channel="vinh.phuc">
+    <title lang="vi">An ninh Vĩnh Phúc</title>
+  </programme>
+  <programme start="20211008050000 +0700" stop="20211008053000 +0700" channel="vinh.phuc">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20211008053000 +0700" stop="20211008053500 +0700" channel="vinh.phuc">
+    <title lang="vi">Nhạc hiệu, hình hiệu Đài VP</title>
+  </programme>
+  <programme start="20211008053500 +0700" stop="20211008054000 +0700" channel="vinh.phuc">
+    <title lang="vi">Thể dục buổi sáng ( Nhảy dân vũ 1000 học sinh 2019)</title>
+  </programme>
+  <programme start="20211008054000 +0700" stop="20211008054500 +0700" channel="vinh.phuc">
+    <title lang="vi">Tài chính doanh nghiệp</title>
+  </programme>
+  <programme start="20211008054500 +0700" stop="20211008060000 +0700" channel="vinh.phuc">
+    <title lang="vi">Trang địa phương</title>
+  </programme>
+  <programme start="20211008060000 +0700" stop="20211008063000 +0700" channel="vinh.phuc">
+    <title lang="vi">Vĩnh Phúc ngày mới</title>
+  </programme>
+  <programme start="20211008063000 +0700" stop="20211008064500 +0700" channel="vinh.phuc">
+    <title lang="vi">Tuyệt chiêu nhà nông. Số 36</title>
+  </programme>
+  <programme start="20211008064500 +0700" stop="20211008070500 +0700" channel="vinh.phuc">
+    <title lang="vi">Kết nối 24h</title>
+  </programme>
+  <programme start="20211008070500 +0700" stop="20211008072000 +0700" channel="vinh.phuc">
+    <title lang="vi">Nhận diện sự thật</title>
+  </programme>
+  <programme start="20211008072000 +0700" stop="20211008072500 +0700" channel="vinh.phuc">
+    <title lang="vi">Khám phá Vĩnh Phúc</title>
+  </programme>
+  <programme start="20211008072500 +0700" stop="20211008074000 +0700" channel="vinh.phuc">
+    <title lang="vi">Phụ nữ Vĩnh Phúc</title>
+  </programme>
+  <programme start="20211008074000 +0700" stop="20211008075000 +0700" channel="vinh.phuc">
+    <title lang="vi">Lý luận cuộc sống</title>
+  </programme>
+  <programme start="20211008075000 +0700" stop="20211008075500 +0700" channel="vinh.phuc">
+    <title lang="vi">Thông tin nông nghiệp</title>
+  </programme>
+  <programme start="20211008075500 +0700" stop="20211008080500 +0700" channel="vinh.phuc">
+    <title lang="vi">Dành cho thiếu nhi</title>
+  </programme>
+  <programme start="20211008080500 +0700" stop="20211008081000 +0700" channel="vinh.phuc">
+    <title lang="vi">Thư viện Quốc phòng</title>
+  </programme>
+  <programme start="20211008081000 +0700" stop="20211008082000 +0700" channel="vinh.phuc">
+    <title lang="vi">Giống tốt bội thu</title>
+  </programme>
+  <programme start="20211008082000 +0700" stop="20211008083000 +0700" channel="vinh.phuc">
+    <title lang="vi">Sống khỏe mỗi ngày</title>
+  </programme>
+  <programme start="20211008083000 +0700" stop="20211008090000 +0700" channel="vinh.phuc">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20211008090000 +0700" stop="20211008093000 +0700" channel="vinh.phuc">
+    <title lang="vi">Vĩnh Phúc ngày mới</title>
+  </programme>
+  <programme start="20211008093000 +0700" stop="20211008093500 +0700" channel="vinh.phuc">
+    <title lang="vi">Điểm báo trong ngày</title>
+  </programme>
+  <programme start="20211008093500 +0700" stop="20211008095500 +0700" channel="vinh.phuc">
+    <title lang="vi">Cuộc sống thường ngày</title>
+  </programme>
+  <programme start="20211008095500 +0700" stop="20211008100000 +0700" channel="vinh.phuc">
+    <title lang="vi">Ống kính phóng viên</title>
+  </programme>
+  <programme start="20211008100000 +0700" stop="20211008104500 +0700" channel="vinh.phuc">
+    <title lang="vi">Phim truyện: Tình yêu màu trắng (Tập 62  Phim Ấn Độ)</title>
+  </programme>
+  <programme start="20211008104500 +0700" stop="20211008110000 +0700" channel="vinh.phuc">
+    <title lang="vi">Dành cho thiếu nhi: Nông dân nhỏ. Tập 7</title>
+  </programme>
+  <programme start="20211008110000 +0700" stop="20211008112000 +0700" channel="vinh.phuc">
+    <title lang="vi">Kết nối 24h</title>
+  </programme>
+  <programme start="20211008112000 +0700" stop="20211008112500 +0700" channel="vinh.phuc">
+    <title lang="vi">Bản tin thể thao</title>
+  </programme>
+  <programme start="20211008112500 +0700" stop="20211008113000 +0700" channel="vinh.phuc">
+    <title lang="vi">Điểm báo trong ngày</title>
+  </programme>
+  <programme start="20211008113000 +0700" stop="20211008115500 +0700" channel="vinh.phuc">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20211008115500 +0700" stop="20211008120000 +0700" channel="vinh.phuc">
+    <title lang="vi">Nói không với thực phẩm bẩn</title>
+  </programme>
+  <programme start="20211008120000 +0700" stop="20211008124500 +0700" channel="vinh.phuc">
+    <title lang="vi">Phim truyện: Định luật tình yêu (Tập 1  Phim  Đài Loan)</title>
+  </programme>
+  <programme start="20211008124500 +0700" stop="20211008130000 +0700" channel="vinh.phuc">
+    <title lang="vi">Sống khỏe 360</title>
+  </programme>
+  <programme start="20211008130000 +0700" stop="20211008133000 +0700" channel="vinh.phuc">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20211008133000 +0700" stop="20211008141500 +0700" channel="vinh.phuc">
+    <title lang="vi">Phim truyện: Kẻ thù ngọt ngào (Tập 18  Phim Hàn Quốc)</title>
+  </programme>
+  <programme start="20211008141500 +0700" stop="20211008142500 +0700" channel="vinh.phuc">
+    <title lang="vi">Vệ sinh an toàn thực phẩm</title>
+  </programme>
+  <programme start="20211008142500 +0700" stop="20211008144000 +0700" channel="vinh.phuc">
+    <title lang="vi">Bắt mạch tình yêu. Tập 30</title>
+  </programme>
+  <programme start="20211008144000 +0700" stop="20211008145500 +0700" channel="vinh.phuc">
+    <title lang="vi">An ninh Vĩnh Phúc</title>
+  </programme>
+  <programme start="20211008145500 +0700" stop="20211008150000 +0700" channel="vinh.phuc">
+    <title lang="vi">Ống kính phóng viên</title>
+  </programme>
+  <programme start="20211008150000 +0700" stop="20211008151000 +0700" channel="vinh.phuc">
+    <title lang="vi">Tứ phương tám hướng. Số 10</title>
+  </programme>
+  <programme start="20211008151000 +0700" stop="20211008151500 +0700" channel="vinh.phuc">
+    <title lang="vi">Thư viện Quốc phòng (Luật Cảnh sát biển Việt Nam, số 13)</title>
+  </programme>
+  <programme start="20211008151500 +0700" stop="20211008152000 +0700" channel="vinh.phuc">
+    <title lang="vi">Thông tin nông nghiệp</title>
+  </programme>
+  <programme start="20211008152000 +0700" stop="20211008155000 +0700" channel="vinh.phuc">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20211008155000 +0700" stop="20211008160000 +0700" channel="vinh.phuc">
+    <title lang="vi">Sống khỏe mỗi ngày</title>
+  </programme>
+  <programme start="20211008160000 +0700" stop="20211008164500 +0700" channel="vinh.phuc">
+    <title lang="vi">Phim truyện: Định luật tình yêu (Tập 1  Phim  Đài Loan)</title>
+  </programme>
+  <programme start="20211008164500 +0700" stop="20211008165500 +0700" channel="vinh.phuc">
+    <title lang="vi">Dành cho thiếu nhi: Niềm tin cổ tích. Tập 36</title>
+  </programme>
+  <programme start="20211008165500 +0700" stop="20211008170000 +0700" channel="vinh.phuc">
+    <title lang="vi">Người Việt Nam ưu tiên dùng hàng Việt Nam</title>
+  </programme>
+  <programme start="20211008170000 +0700" stop="20211008172000 +0700" channel="vinh.phuc">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20211008172000 +0700" stop="20211008173500 +0700" channel="vinh.phuc">
+    <title lang="vi">Phim Sitcom Sống chung với em chồng. Số 8</title>
+  </programme>
+  <programme start="20211008173500 +0700" stop="20211008175000 +0700" channel="vinh.phuc">
+    <title lang="vi">Giống tốt bội thu</title>
+  </programme>
+  <programme start="20211008175000 +0700" stop="20211008180000 +0700" channel="vinh.phuc">
+    <title lang="vi">Dành cho thiếu nhi: Thành phố xe hơi. Tập 76</title>
+  </programme>
+  <programme start="20211008180000 +0700" stop="20211008182000 +0700" channel="vinh.phuc">
+    <title lang="vi">Kết nối 24h</title>
+  </programme>
+  <programme start="20211008182000 +0700" stop="20211008184000 +0700" channel="vinh.phuc">
+    <title lang="vi">Cuộc sống thường ngày</title>
+  </programme>
+  <programme start="20211008184000 +0700" stop="20211008185500 +0700" channel="vinh.phuc">
+    <title lang="vi">Thời sự Trong nước +Quốc tế.</title>
+  </programme>
+  <programme start="20211008185500 +0700" stop="20211008194500 +0700" channel="vinh.phuc">
+    <title lang="vi">Tài chính doanh nghiệp</title>
+  </programme>
+  <programme start="20211008194500 +0700" stop="20211008201000 +0700" channel="vinh.phuc">
+    <title lang="vi">Thời sự Vĩnh Phúc.</title>
+  </programme>
+  <programme start="20211008201000 +0700" stop="20211008201500 +0700" channel="vinh.phuc">
+    <title lang="vi">Phổ biến kiến thức y tế</title>
+  </programme>
+  <programme start="20211008201500 +0700" stop="20211008210000 +0700" channel="vinh.phuc">
+    <title lang="vi">Phim truyện: Nợ anh một giấc mơ ( Tập 27  Phim Việt Nam)</title>
+  </programme>
+  <programme start="20211008210000 +0700" stop="20211008211000 +0700" channel="vinh.phuc">
+    <title lang="vi">Lợi ích của người dân, doanh nghiếp sử dụng dịch vụ công</title>
+  </programme>
+  <programme start="20211008211000 +0700" stop="20211008213000 +0700" channel="vinh.phuc">
+    <title lang="vi">Sitscomn Công sở kỳ truyện. Số 26</title>
+  </programme>
+  <programme start="20211008213000 +0700" stop="20211008221500 +0700" channel="vinh.phuc">
+    <title lang="vi">Phim truyện: Tình yêu màu trắng (Tập 63  Phim Ấn Độ)</title>
+  </programme>
+  <programme start="20211008221500 +0700" stop="20211008223500 +0700" channel="vinh.phuc">
+    <title lang="vi">Kết nối 24h</title>
+  </programme>
+  <programme start="20211008223500 +0700" stop="20211008224500 +0700" channel="vinh.phuc">
+    <title lang="vi">Hành trình văn hóa.</title>
+  </programme>
+  <programme start="20211008224500 +0700" stop="20211008230000 +0700" channel="vinh.phuc">
+    <title lang="vi">Nhận diện sự thật</title>
+  </programme>
+  <programme start="20211008230000 +0700" stop="20211008233000 +0700" channel="vinh.phuc">
+    <title lang="vi">Bản tin cuối ngày.</title>
+  </programme>
+  <programme start="20211008233000 +0700" stop="20211008233500 +0700" channel="vinh.phuc">
+    <title lang="vi">Bản tin thể thao</title>
+  </programme>
+</tv>

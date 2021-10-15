@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="lam.dong">
+    <display-name lang="vi">Lâm Đồng</display-name>
+    <url>http://www.lamdongtv.vn</url>
+  </channel>
+  <programme start="20211011052500 +0700" stop="20211011053000 +0700" channel="lam.dong">
+    <title lang="vi">Giới thiệu chương trình thứ Hai</title>
+  </programme>
+  <programme start="20211011053000 +0700" stop="20211011054500 +0700" channel="lam.dong">
+    <title lang="vi">Thể dục buổi sáng</title>
+  </programme>
+  <programme start="20211011054500 +0700" stop="20211011060000 +0700" channel="lam.dong">
+    <title lang="vi">Hương vị cuộc sống: Ẩm thực từ Venice đến Istabul</title>
+  </programme>
+  <programme start="20211011060000 +0700" stop="20211011062500 +0700" channel="lam.dong">
+    <title lang="vi">Chương trình Thời sự sáng Đài Phát thanh Truyền hình Lâm Đồng</title>
+  </programme>
+  <programme start="20211011062500 +0700" stop="20211011063000 +0700" channel="lam.dong">
+    <title lang="vi">Theo dòng sử Việt</title>
+  </programme>
+  <programme start="20211011063000 +0700" stop="20211011063500 +0700" channel="lam.dong">
+    <title lang="vi">Tìm hiểu chính sách Bảo hiểm Y tế - Bảo hiểm xã hội</title>
+  </programme>
+  <programme start="20211011063500 +0700" stop="20211011070000 +0700" channel="lam.dong">
+    <title lang="vi">Câu lạc bộ văn nghệ: Những ban nhạc đồng quê - Ngày ấy, bây giờ?</title>
+  </programme>
+  <programme start="20211011070000 +0700" stop="20211011074500 +0700" channel="lam.dong">
+    <title lang="vi">Phim truyện Việt Nam: Hoa hồng thép - Tập 13</title>
+  </programme>
+  <programme start="20211011074500 +0700" stop="20211011080000 +0700" channel="lam.dong">
+    <title lang="vi">Nông nghiệp thế giới: Tìm hiểu về trà xanh Nhật Bản</title>
+  </programme>
+  <programme start="20211011080000 +0700" stop="20211011083000 +0700" channel="lam.dong">
+    <title lang="vi">Việt Nam - Thời đại Hồ Chí Minh biên niên sử truyền hình</title>
+  </programme>
+  <programme start="20211011083000 +0700" stop="20211011090000 +0700" channel="lam.dong">
+    <title lang="vi">Giải trí nước ngoài</title>
+  </programme>
+  <programme start="20211011090000 +0700" stop="20211011094500 +0700" channel="lam.dong">
+    <title lang="vi">Phim truyện Thái Lan: Tình trong lửa hận - Tập 14</title>
+  </programme>
+  <programme start="20211011094500 +0700" stop="20211011101500 +0700" channel="lam.dong">
+    <title lang="vi">Gameshow: \Mẹ chồng nàng dâu\</title>
+  </programme>
+  <programme start="20211011101500 +0700" stop="20211011110000 +0700" channel="lam.dong">
+    <title lang="vi">Phim truyện Việt Nam: Hôn lễ mùa thu - Tập 32</title>
+  </programme>
+  <programme start="20211011110000 +0700" stop="20211011111500 +0700" channel="lam.dong">
+    <title lang="vi">Thể thao mạo hiểm</title>
+  </programme>
+  <programme start="20211011111500 +0700" stop="20211011113000 +0700" channel="lam.dong">
+    <title lang="vi">365 ngày chuyển động</title>
+  </programme>
+  <programme start="20211011113000 +0700" stop="20211011120000 +0700" channel="lam.dong">
+    <title lang="vi">Bản tin Thời sự LTV 11h30</title>
+  </programme>
+  <programme start="20211011120000 +0700" stop="20211011124500 +0700" channel="lam.dong">
+    <title lang="vi">Phim truyện Trung Quốc: Chân Hoàn truyện - Tập 42</title>
+  </programme>
+  <programme start="20211011124500 +0700" stop="20211011130000 +0700" channel="lam.dong">
+    <title lang="vi">Chuyện gia đình vàng</title>
+  </programme>
+  <programme start="20211011130000 +0700" stop="20211011133000 +0700" channel="lam.dong">
+    <title lang="vi">Chương trình Thời sự tiếng K'Ho</title>
+  </programme>
+  <programme start="20211011133000 +0700" stop="20211011141500 +0700" channel="lam.dong">
+    <title lang="vi">Phim truyện Hàn Quốc: Họa mi trong mưa - Tập 41</title>
+  </programme>
+  <programme start="20211011141500 +0700" stop="20211011143000 +0700" channel="lam.dong">
+    <title lang="vi">Nông thôn mới: Dấu ấn thanh niên trong xây dựng nông thôn mới</title>
+  </programme>
+  <programme start="20211011143000 +0700" stop="20211011144500 +0700" channel="lam.dong">
+    <title lang="vi">Những huyền thoại thế giới: Nữ hoàng Cleopatra</title>
+  </programme>
+  <programme start="20211011144500 +0700" stop="20211011150000 +0700" channel="lam.dong">
+    <title lang="vi">Phim tài liệu: Đóa hoa Chan Nên ở Phum Kà Ốt</title>
+  </programme>
+  <programme start="20211011150000 +0700" stop="20211011153000 +0700" channel="lam.dong">
+    <title lang="vi">Lời yêu thương: Hướng về Hà Nội</title>
+  </programme>
+  <programme start="20211011153000 +0700" stop="20211011161500 +0700" channel="lam.dong">
+    <title lang="vi">Phim truyện Trung Quốc: Chân Hoàn truyện - Tập 42</title>
+  </programme>
+  <programme start="20211011161500 +0700" stop="20211011164500 +0700" channel="lam.dong">
+    <title lang="vi">Gameshow: \Mẹ chồng nàng dâu\</title>
+  </programme>
+  <programme start="20211011164500 +0700" stop="20211011170000 +0700" channel="lam.dong">
+    <title lang="vi">Nhịp sống quanh ta</title>
+  </programme>
+  <programme start="20211011170000 +0700" stop="20211011171500 +0700" channel="lam.dong">
+    <title lang="vi">Chương trình thiếu nhi: Tích xưa đất Việt</title>
+  </programme>
+  <programme start="20211011171500 +0700" stop="20211011174000 +0700" channel="lam.dong">
+    <title lang="vi">Tạp chí nghệ thuật thứ bảy</title>
+  </programme>
+  <programme start="20211011174000 +0700" stop="20211011180000 +0700" channel="lam.dong">
+    <title lang="vi">Hương vị cuộc sống: Ẩm thực từ Venice đến Istabul</title>
+  </programme>
+  <programme start="20211011180000 +0700" stop="20211011181500 +0700" channel="lam.dong">
+    <title lang="vi">Nhịp sống Tây Nguyên</title>
+  </programme>
+  <programme start="20211011181500 +0700" stop="20211011183000 +0700" channel="lam.dong">
+    <title lang="vi">Đại đoàn kết: Toàn dân đoàn kết quyết tâm phòng chống dịch Covid-19</title>
+  </programme>
+  <programme start="20211011183000 +0700" stop="20211011184500 +0700" channel="lam.dong">
+    <title lang="vi">Sức khỏe cho mọi người: Thoái hóa khớp gối</title>
+  </programme>
+  <programme start="20211011184500 +0700" stop="20211011190000 +0700" channel="lam.dong">
+    <title lang="vi">Trang địa phương Bảo Lâm</title>
+  </programme>
+  <programme start="20211011190000 +0700" stop="20211011194500 +0700" channel="lam.dong">
+    <title lang="vi">Chương trình Thời sự Đài Truyền hình Việt Nam</title>
+  </programme>
+  <programme start="20211011194500 +0700" stop="20211011201000 +0700" channel="lam.dong">
+    <title lang="vi">Chương trình Thời sự Đài Phát thanh Truyền hình Lâm Đồng</title>
+  </programme>
+  <programme start="20211011201000 +0700" stop="20211011201500 +0700" channel="lam.dong">
+    <title lang="vi">Dự báo thời tiết Lâm Đồng</title>
+  </programme>
+  <programme start="20211011201500 +0700" stop="20211011203000 +0700" channel="lam.dong">
+    <title lang="vi">365 ngày chuyển động</title>
+  </programme>
+  <programme start="20211011203000 +0700" stop="20211011211500 +0700" channel="lam.dong">
+    <title lang="vi">Phim truyện Thái Lan: Tình trong lửa hận - Tập 15</title>
+  </programme>
+  <programme start="20211011211500 +0700" stop="20211011214500 +0700" channel="lam.dong">
+    <title lang="vi">Gameshow: Nhà chung</title>
+  </programme>
+  <programme start="20211011214500 +0700" stop="20211011223500 +0700" channel="lam.dong">
+    <title lang="vi">Phim truyện Việt Nam: Hôn lễ mùa thu - Tập 33</title>
+  </programme>
+  <programme start="20211011223500 +0700" stop="20211011230000 +0700" channel="lam.dong">
+    <title lang="vi">Thế giới động vật: Động vật hoang dã núi Alps</title>
+  </programme>
+  <programme start="20211011230000 +0700" stop="20211011232500 +0700" channel="lam.dong">
+    <title lang="vi">Phim tài liệu: Đóa hoa Chan Nên ở Phum Kà Ốt</title>
+  </programme>
+  <programme start="20211011232500 +0700" stop="20211011234500 +0700" channel="lam.dong">
+    <title lang="vi">Giải trí nước ngoài</title>
+  </programme>
+  <programme start="20211011234500 +0700" stop="20211012052500 +0700" channel="lam.dong">
+    <title lang="vi">Giới thiệu chương trình ngày mai</title>
+  </programme>
+  <programme start="20211012052500 +0700" stop="20211012053000 +0700" channel="lam.dong">
+    <title lang="vi">Giới thiệu chương trình thứ Ba</title>
+  </programme>
+  <programme start="20211012053000 +0700" stop="20211012054500 +0700" channel="lam.dong">
+    <title lang="vi">Thể dục buổi sáng</title>
+  </programme>
+  <programme start="20211012054500 +0700" stop="20211012060000 +0700" channel="lam.dong">
+    <title lang="vi">Hương vị cuộc sống: Ẩm thực từ Venice đến Istabul</title>
+  </programme>
+  <programme start="20211012060000 +0700" stop="20211012062500 +0700" channel="lam.dong">
+    <title lang="vi">Chương trình Thời sự sáng Đài Phát thanh Truyền hình Lâm Đồng</title>
+  </programme>
+  <programme start="20211012062500 +0700" stop="20211012063500 +0700" channel="lam.dong">
+    <title lang="vi">Theo dòng sử Việt</title>
+  </programme>
+  <programme start="20211012063500 +0700" stop="20211012065000 +0700" channel="lam.dong">
+    <title lang="vi">Sức khỏe cho mọi người: Thoái hóa khớp gối</title>
+  </programme>
+  <programme start="20211012065000 +0700" stop="20211012070000 +0700" channel="lam.dong">
+    <title lang="vi">Chương trình thiếu nhi: Tích xưa đất Việt</title>
+  </programme>
+  <programme start="20211012070000 +0700" stop="20211012074500 +0700" channel="lam.dong">
+    <title lang="vi">Phim truyện Việt Nam: Hoa hồng thép - Tập 14</title>
+  </programme>
+  <programme start="20211012074500 +0700" stop="20211012080000 +0700" channel="lam.dong">
+    <title lang="vi">Trang địa phương Bảo Lâm</title>
+  </programme>
+  <programme start="20211012080000 +0700" stop="20211012081500 +0700" channel="lam.dong">
+    <title lang="vi">Đại đoàn kết: Toàn dân đoàn kết quyết tâm phòng chống dịch Covid-19</title>
+  </programme>
+  <programme start="20211012081500 +0700" stop="20211012083000 +0700" channel="lam.dong">
+    <title lang="vi">Nông thôn mới: Dấu ấn thanh niên trong xây dựng nông thôn mới</title>
+  </programme>
+  <programme start="20211012083000 +0700" stop="20211012090000 +0700" channel="lam.dong">
+    <title lang="vi">Thế giới động vật: Động vật hoang dã núi Alps</title>
+  </programme>
+  <programme start="20211012090000 +0700" stop="20211012094500 +0700" channel="lam.dong">
+    <title lang="vi">Phim truyện Thái Lan: Tình trong lửa hận - Tập 15</title>
+  </programme>
+  <programme start="20211012094500 +0700" stop="20211012101500 +0700" channel="lam.dong">
+    <title lang="vi">Gameshow: Nhà chung</title>
+  </programme>
+  <programme start="20211012101500 +0700" stop="20211012110000 +0700" channel="lam.dong">
+    <title lang="vi">Phim truyện Việt Nam: Hôn lễ mùa thu - Tập 33</title>
+  </programme>
+  <programme start="20211012110000 +0700" stop="20211012111500 +0700" channel="lam.dong">
+    <title lang="vi">Thể thao mạo hiểm</title>
+  </programme>
+  <programme start="20211012111500 +0700" stop="20211012113000 +0700" channel="lam.dong">
+    <title lang="vi">365 ngày chuyển động</title>
+  </programme>
+  <programme start="20211012113000 +0700" stop="20211012120000 +0700" channel="lam.dong">
+    <title lang="vi">Bản tin Thời sự LTV 11h30</title>
+  </programme>
+  <programme start="20211012120000 +0700" stop="20211012124500 +0700" channel="lam.dong">
+    <title lang="vi">Phim truyện Trung Quốc: Chân Hoàn truyện - Tập 43</title>
+  </programme>
+  <programme start="20211012124500 +0700" stop="20211012130000 +0700" channel="lam.dong">
+    <title lang="vi">Chuyện gia đình vàng</title>
+  </programme>
+  <programme start="20211012130000 +0700" stop="20211012133000 +0700" channel="lam.dong">
+    <title lang="vi">Chương trình Thời sự tiếng Chu ru</title>
+  </programme>
+  <programme start="20211012133000 +0700" stop="20211012141500 +0700" channel="lam.dong">
+    <title lang="vi">Phim truyện Hàn Quốc: Họa mi trong mưa - Tập 42</title>
+  </programme>
+  <programme start="20211012141500 +0700" stop="20211012143000 +0700" channel="lam.dong">
+    <title lang="vi">Nông nghiệp thế giới: Tìm hiểu về trà xanh Nhật Bản</title>
+  </programme>
+  <programme start="20211012143000 +0700" stop="20211012150000 +0700" channel="lam.dong">
+    <title lang="vi">Phim tài liệu: Phụng ký</title>
+  </programme>
+  <programme start="20211012150000 +0700" stop="20211012151500 +0700" channel="lam.dong">
+    <title lang="vi">Hương vị cuộc sống: Ẩm thực từ Venice đến Istabul</title>
+  </programme>
+  <programme start="20211012151500 +0700" stop="20211012153000 +0700" channel="lam.dong">
+    <title lang="vi">Nhịp sống quanh ta</title>
+  </programme>
+  <programme start="20211012153000 +0700" stop="20211012161500 +0700" channel="lam.dong">
+    <title lang="vi">Phim truyện Trung Quốc: Chân Hoàn truyện - Tập 43</title>
+  </programme>
+  <programme start="20211012161500 +0700" stop="20211012164000 +0700" channel="lam.dong">
+    <title lang="vi">Gameshow: Nhà chung</title>
+  </programme>
+  <programme start="20211012164000 +0700" stop="20211012170000 +0700" channel="lam.dong">
+    <title lang="vi">Cuộc sống xanh</title>
+  </programme>
+  <programme start="20211012170000 +0700" stop="20211012171500 +0700" channel="lam.dong">
+    <title lang="vi">Chương trình thiếu nhi: Tích xưa đất Việt</title>
+  </programme>
+  <programme start="20211012171500 +0700" stop="20211012173000 +0700" channel="lam.dong">
+    <title lang="vi">Đại đoàn kết: Toàn dân đoàn kết quyết tâm phòng chống dịch Covid-19</title>
+  </programme>
+  <programme start="20211012173000 +0700" stop="20211012174500 +0700" channel="lam.dong">
+    <title lang="vi">Sức khỏe cho mọi người: Thoái hóa khớp gối</title>
+  </programme>
+  <programme start="20211012174500 +0700" stop="20211012180000 +0700" channel="lam.dong">
+    <title lang="vi">Thế giới kỳ thú</title>
+  </programme>
+  <programme start="20211012180000 +0700" stop="20211012181500 +0700" channel="lam.dong">
+    <title lang="vi">Nhịp sống Tây Nguyên</title>
+  </programme>
+  <programme start="20211012181500 +0700" stop="20211012182500 +0700" channel="lam.dong">
+    <title lang="vi">Chuyên mục: Vòng tay nhân ái</title>
+  </programme>
+  <programme start="20211012182500 +0700" stop="20211012184000 +0700" channel="lam.dong">
+    <title lang="vi">Chuyên mục: Đảng trong cuộc sống</title>
+  </programme>
+  <programme start="20211012184000 +0700" stop="20211012185500 +0700" channel="lam.dong">
+    <title lang="vi">Chuyên mục: Hộp thư truyền hình</title>
+  </programme>
+  <programme start="20211012185500 +0700" stop="20211012190000 +0700" channel="lam.dong">
+    <title lang="vi">Tìm hiểu chính sách Bảo hiểm Y tế - Bảo hiểm xã hội</title>
+  </programme>
+  <programme start="20211012190000 +0700" stop="20211012194500 +0700" channel="lam.dong">
+    <title lang="vi">Chương trình Thời sự Đài Truyền hình Việt Nam</title>
+  </programme>
+  <programme start="20211012194500 +0700" stop="20211012201000 +0700" channel="lam.dong">
+    <title lang="vi">Chương trình Thời sự Đài Phát thanh Truyền hình Lâm Đồng</title>
+  </programme>
+  <programme start="20211012201000 +0700" stop="20211012201500 +0700" channel="lam.dong">
+    <title lang="vi">Dự báo thời tiết Lâm Đồng</title>
+  </programme>
+  <programme start="20211012201500 +0700" stop="20211012203000 +0700" channel="lam.dong">
+    <title lang="vi">365 ngày chuyển động</title>
+  </programme>
+  <programme start="20211012203000 +0700" stop="20211012211500 +0700" channel="lam.dong">
+    <title lang="vi">Phim truyện Thái Lan: Tình trong lửa hận - Tập 16</title>
+  </programme>
+  <programme start="20211012211500 +0700" stop="20211012214500 +0700" channel="lam.dong">
+    <title lang="vi">Gameshow: Du lịch kỳ thú</title>
+  </programme>
+  <programme start="20211012214500 +0700" stop="20211012223000 +0700" channel="lam.dong">
+    <title lang="vi">Phim truyện Việt Nam: Hôn lễ mùa thu - Tập 34</title>
+  </programme>
+  <programme start="20211012223000 +0700" stop="20211012230000 +0700" channel="lam.dong">
+    <title lang="vi">Tạp chí nghệ thuật thứ bảy</title>
+  </programme>
+  <programme start="20211012230000 +0700" stop="20211012232000 +0700" channel="lam.dong">
+    <title lang="vi">Hành trình văn hóa thế giới: Croatia</title>
+  </programme>
+  <programme start="20211012232000 +0700" stop="20211012235000 +0700" channel="lam.dong">
+    <title lang="vi">Phim tài liệu: Phụng ký</title>
+  </programme>
+</tv>

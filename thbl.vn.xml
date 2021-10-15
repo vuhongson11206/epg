@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="bac.lieu">
+    <display-name lang="vi">Bạc Liêu</display-name>
+    <url>http://www.thbl.vn</url>
+  </channel>
+  <programme start="20211009000000 +0700" stop="20211009002500 +0700" channel="bac.lieu">
+    <title lang="vi">Phim tài liệu: Cuộc đời và sự nghiệp của Chủ tịch Tôn Đức Thắng</title>
+  </programme>
+  <programme start="20211009002500 +0700" stop="20211009015500 +0700" channel="bac.lieu">
+    <title lang="vi">Sân khấu cải lương: Tình lặng - phần 1</title>
+  </programme>
+  <programme start="20211009015500 +0700" stop="20211009023000 +0700" channel="bac.lieu">
+    <title lang="vi">Ca nhạc: Thả vào mưa</title>
+  </programme>
+  <programme start="20211009023000 +0700" stop="20211009040000 +0700" channel="bac.lieu">
+    <title lang="vi">Phim truyện Việt Nam: Sông trôi muôn hướng - Tập 15 &amp; 16</title>
+  </programme>
+  <programme start="20211009040000 +0700" stop="20211009050800 +0700" channel="bac.lieu">
+    <title lang="vi">Tin nóng 24h</title>
+  </programme>
+  <programme start="20211009050800 +0700" stop="20211009053000 +0700" channel="bac.lieu">
+    <title lang="vi">Thể dục buổi sáng</title>
+  </programme>
+  <programme start="20211009053000 +0700" stop="20211009060000 +0700" channel="bac.lieu">
+    <title lang="vi">Ca nhạc: Ánh nắng của anh</title>
+  </programme>
+  <programme start="20211009060000 +0700" stop="20211009061500 +0700" channel="bac.lieu">
+    <title lang="vi">Chào ngày mới</title>
+  </programme>
+  <programme start="20211009061500 +0700" stop="20211009063000 +0700" channel="bac.lieu">
+    <title lang="vi">Chuyên mục: Quốc phòng toàn dân</title>
+  </programme>
+  <programme start="20211009063000 +0700" stop="20211009065000 +0700" channel="bac.lieu">
+    <title lang="vi">Sống khỏe mỗi ngày: Giải pháp dinh dưỡng dành cho người cao tuổi</title>
+  </programme>
+  <programme start="20211009065000 +0700" stop="20211009071000 +0700" channel="bac.lieu">
+    <title lang="vi">Phim hoạt hình: Mèo Oggy và những chú gián tinh nghịch – Tập 6</title>
+  </programme>
+  <programme start="20211009071000 +0700" stop="20211009074000 +0700" channel="bac.lieu">
+    <title lang="vi">Phim tài liệu: Thư gửi mai sau</title>
+  </programme>
+  <programme start="20211009074000 +0700" stop="20211009081000 +0700" channel="bac.lieu">
+    <title lang="vi">Chương trình Kh’mer</title>
+  </programme>
+  <programme start="20211009081000 +0700" stop="20211009083000 +0700" channel="bac.lieu">
+    <title lang="vi">Chào ngày mới</title>
+  </programme>
+  <programme start="20211009083000 +0700" stop="20211009100000 +0700" channel="bac.lieu">
+    <title lang="vi">Sân khấu cải lương: Cơn mê cuối cùng</title>
+  </programme>
+  <programme start="20211009100000 +0700" stop="20211009103000 +0700" channel="bac.lieu">
+    <title lang="vi">Ca nhạc theo yêu cầu</title>
+  </programme>
+  <programme start="20211009103000 +0700" stop="20211009105500 +0700" channel="bac.lieu">
+    <title lang="vi">Vua đầu bếp miệt vườn: Đậu hủ sốt nấm</title>
+  </programme>
+  <programme start="20211009105500 +0700" stop="20211009110500 +0700" channel="bac.lieu">
+    <title lang="vi">Giá cả thị trường</title>
+  </programme>
+  <programme start="20211009110500 +0700" stop="20211009113000 +0700" channel="bac.lieu">
+    <title lang="vi">Bản tin</title>
+  </programme>
+  <programme start="20211009113000 +0700" stop="20211009121500 +0700" channel="bac.lieu">
+    <title lang="vi">Phim truyện Trung Quốc: Thượng cổ tình ca- Tập 43</title>
+  </programme>
+  <programme start="20211009121500 +0700" stop="20211009130000 +0700" channel="bac.lieu">
+    <title lang="vi">Phim truyện Singapore: Thanh xà Bạch xà – Tập 39</title>
+  </programme>
+  <programme start="20211009130000 +0700" stop="20211009132000 +0700" channel="bac.lieu">
+    <title lang="vi">Chuyên mục: Nhân đạo và đời sống</title>
+  </programme>
+  <programme start="20211009132000 +0700" stop="20211009135000 +0700" channel="bac.lieu">
+    <title lang="vi">Chương trình Khmer</title>
+  </programme>
+  <programme start="20211009135000 +0700" stop="20211009142500 +0700" channel="bac.lieu">
+    <title lang="vi">Top ca khúc yêu thích</title>
+  </programme>
+  <programme start="20211009142500 +0700" stop="20211009145500 +0700" channel="bac.lieu">
+    <title lang="vi">Tiểu phẩm: Chữ G ma thuật</title>
+  </programme>
+  <programme start="20211009145500 +0700" stop="20211009151000 +0700" channel="bac.lieu">
+    <title lang="vi">Bản tin</title>
+  </programme>
+  <programme start="20211009151000 +0700" stop="20211009152000 +0700" channel="bac.lieu">
+    <title lang="vi">Sitcom: Cao ốc ảo diệu - Tập 70</title>
+  </programme>
+  <programme start="20211009152000 +0700" stop="20211009155000 +0700" channel="bac.lieu">
+    <title lang="vi">Khám phá Việt Nam: Hầm Hô - chốn thiên nhiên kỳ ảo</title>
+  </programme>
+  <programme start="20211009155000 +0700" stop="20211009162000 +0700" channel="bac.lieu">
+    <title lang="vi">Kinh tế nông nghiệp cuối tuần</title>
+  </programme>
+  <programme start="20211009162000 +0700" stop="20211009175000 +0700" channel="bac.lieu">
+    <title lang="vi">Phim truyện Việt Nam: Sông trôi muôn hướng - Tập 17 &amp; 18</title>
+  </programme>
+  <programme start="20211009175000 +0700" stop="20211009181000 +0700" channel="bac.lieu">
+    <title lang="vi">Chuyên mục: Pháp luật &amp; Đời sống</title>
+  </programme>
+  <programme start="20211009181000 +0700" stop="20211009183000 +0700" channel="bac.lieu">
+    <title lang="vi">Tin nóng 24h</title>
+  </programme>
+  <programme start="20211009183000 +0700" stop="20211009190000 +0700" channel="bac.lieu">
+    <title lang="vi">Thời sự Đài Truyền hình Bạc Liêu</title>
+  </programme>
+  <programme start="20211009190000 +0700" stop="20211009194500 +0700" channel="bac.lieu">
+    <title lang="vi">Tiếp chuyển Thời sự Đài Truyền hình Việt Nam</title>
+  </programme>
+  <programme start="20211009194500 +0700" stop="20211009200000 +0700" channel="bac.lieu">
+    <title lang="vi">Bản tin giá cả thị trường</title>
+  </programme>
+  <programme start="20211009200000 +0700" stop="20211009205000 +0700" channel="bac.lieu">
+    <title lang="vi">Phim truyện Ấn Độ: Ngày mới bắt đầu - Tập 94</title>
+  </programme>
+  <programme start="20211009205000 +0700" stop="20211009213500 +0700" channel="bac.lieu">
+    <title lang="vi">Phim truyện Đài Loan: Mái ấm gia đình - Tập 98</title>
+  </programme>
+  <programme start="20211009213500 +0700" stop="20211009220000 +0700" channel="bac.lieu">
+    <title lang="vi">Chuyên mục: Kinh tế</title>
+  </programme>
+  <programme start="20211009220000 +0700" stop="20211009223000 +0700" channel="bac.lieu">
+    <title lang="vi">Thời sự Đài Truyền hình Bạc Liêu</title>
+  </programme>
+  <programme start="20211009223000 +0700" stop="20211009230000 +0700" channel="bac.lieu">
+    <title lang="vi">Tin nóng 24h</title>
+  </programme>
+  <programme start="20211009230000 +0700" stop="20211009234500 +0700" channel="bac.lieu">
+    <title lang="vi">Phim truyện Việt Nam: Sóng gió gia đình - Tập 28</title>
+  </programme>
+</tv>

@@ -28,244 +28,1468 @@
     <display-name lang="vi">HTV4</display-name>
     <url>http://www.htv.com.vn</url>
   </channel>
-  <programme start="20210924193300 +0700" stop="20210924195500 +0700" channel="htv7">
-    <title lang="vi">Phim sitcom: Mẹ trùm</title>
+  <programme start="20211015003000 +0700" stop="20211015011000 +0700" channel="htv7">
+    <title lang="vi">Muôn màu thể thao</title>
   </programme>
-  <programme start="20210924193300 +0700" stop="20210924195500 +0700" channel="htv7">
-    <title lang="vi">Phim sitcom: Mẹ trùm</title>
+  <programme start="20211015011000 +0700" stop="20211015013000 +0700" channel="htv7">
+    <title lang="vi">Bí kíp vàng</title>
   </programme>
-  <programme start="20210924195500 +0700" stop="20210924202500 +0700" channel="htv7">
+  <programme start="20211015013000 +0700" stop="20211015021500 +0700" channel="htv7">
+    <title lang="vi">Phim truyện Việt Nam: Rau muống tháng 9</title>
+  </programme>
+  <programme start="20211015021500 +0700" stop="20211015023000 +0700" channel="htv7">
+    <title lang="vi">Tạp chí sức khỏe: Cân bằng dinh dưỡng - Nâng cao sức đề kháng</title>
+  </programme>
+  <programme start="20211015023000 +0700" stop="20211015031500 +0700" channel="htv7">
+    <title lang="vi">Phim truyện Việt Nam: Mặn hơn muối</title>
+  </programme>
+  <programme start="20211015031500 +0700" stop="20211015034500 +0700" channel="htv7">
+    <title lang="vi">Đồng hành hàng Việt</title>
+  </programme>
+  <programme start="20211015034500 +0700" stop="20211015050500 +0700" channel="htv7">
+    <title lang="vi">Bạn thân nhất của chó</title>
+  </programme>
+  <programme start="20211015050500 +0700" stop="20211015053000 +0700" channel="htv7">
+    <title lang="vi">Thể dục Aerobic</title>
+  </programme>
+  <programme start="20211015053000 +0700" stop="20211015060000 +0700" channel="htv7">
+    <title lang="vi">Tạp chí bóng đá Đức</title>
+  </programme>
+  <programme start="20211015060000 +0700" stop="20211015061500 +0700" channel="htv7">
+    <title lang="vi">Mua gì? Ở đâu?</title>
+  </programme>
+  <programme start="20211015061500 +0700" stop="20211015063000 +0700" channel="htv7">
+    <title lang="vi">Thảnh thơi vui sống</title>
+  </programme>
+  <programme start="20211015063000 +0700" stop="20211015070000 +0700" channel="htv7">
+    <title lang="vi">Chương trình 60 giây</title>
+  </programme>
+  <programme start="20211015070000 +0700" stop="20211015073000 +0700" channel="htv7">
+    <title lang="vi">Alo, phim nghe</title>
+  </programme>
+  <programme start="20211015073000 +0700" stop="20211015080000 +0700" channel="htv7">
+    <title lang="vi">Nụ cười ngày mới</title>
+  </programme>
+  <programme start="20211015080000 +0700" stop="20211015083000 +0700" channel="htv7">
+    <title lang="vi">Du lịch kỳ thú "Gõ cửa thăm nhà"</title>
+  </programme>
+  <programme start="20211015083000 +0700" stop="20211015090000 +0700" channel="htv7">
+    <title lang="vi">Tạp chí thể thao Đức</title>
+  </programme>
+  <programme start="20211015090000 +0700" stop="20211015094500 +0700" channel="htv7">
+    <title lang="vi">Phim truyện Ấn Độ: Tình yêu điên dại</title>
+  </programme>
+  <programme start="20211015094500 +0700" stop="20211015100000 +0700" channel="htv7">
+    <title lang="vi">Phim sitcom: Nailbiz đại chiến</title>
+  </programme>
+  <programme start="20211015100000 +0700" stop="20211015105500 +0700" channel="htv7">
+    <title lang="vi">Tạp chí giáo dục: An ninh mạng cho học sinh THCS</title>
+  </programme>
+  <programme start="20211015105500 +0700" stop="20211015110000 +0700" channel="htv7">
+    <title lang="vi">Vitamin xanh</title>
+  </programme>
+  <programme start="20211015110000 +0700" stop="20211015115000 +0700" channel="htv7">
+    <title lang="vi">Phim truyện Đài Loan: Tình yêu muôn màu</title>
+  </programme>
+  <programme start="20211015115000 +0700" stop="20211015120000 +0700" channel="htv7">
+    <title lang="vi">Món ngon mỗi ngày</title>
+  </programme>
+  <programme start="20211015120000 +0700" stop="20211015123000 +0700" channel="htv7">
+    <title lang="vi">Chuyện trưa 12 giờ</title>
+  </programme>
+  <programme start="20211015123000 +0700" stop="20211015130000 +0700" channel="htv7">
+    <title lang="vi">Phim truyện Trung Quốc: Thiên kim háo sắc</title>
+  </programme>
+  <programme start="20211015130000 +0700" stop="20211015135000 +0700" channel="htv7">
+    <title lang="vi">Phim truyện Trung Quốc: Diên Hy công lược</title>
+  </programme>
+  <programme start="20211015135000 +0700" stop="20211015140000 +0700" channel="htv7">
+    <title lang="vi">Thị trường 365</title>
+  </programme>
+  <programme start="20211015140000 +0700" stop="20211015142500 +0700" channel="htv7">
+    <title lang="vi">Những thiết kế sáng tạo của Australia</title>
+  </programme>
+  <programme start="20211015142500 +0700" stop="20211015154000 +0700" channel="htv7">
+    <title lang="vi">Hai mùa mưa nắng: Ngôi nhà cổ trong lòng thành phố</title>
+  </programme>
+  <programme start="20211015154000 +0700" stop="20211015165000 +0700" channel="htv7">
+    <title lang="vi">Cầu vồng đa sắc: Bánh gấu bơ đậu phộng</title>
+  </programme>
+  <programme start="20211015165000 +0700" stop="20211015170000 +0700" channel="htv7">
+    <title lang="vi">Bữa cơm gia đình</title>
+  </programme>
+  <programme start="20211015170000 +0700" stop="20211015174500 +0700" channel="htv7">
+    <title lang="vi">Phim truyện Trung Quốc: Minh Lan truyện</title>
+  </programme>
+  <programme start="20211015174500 +0700" stop="20211015183000 +0700" channel="htv7">
+    <title lang="vi">Phim truyện Trung Quốc: Võ Đang nhất kiếm</title>
+  </programme>
+  <programme start="20211015183000 +0700" stop="20211015190100 +0700" channel="htv7">
+    <title lang="vi">Chương trình 60 giây</title>
+  </programme>
+  <programme start="20211015190100 +0700" stop="20211015193300 +0700" channel="htv7">
+    <title lang="vi">A! Đúng rồi</title>
+  </programme>
+  <programme start="20211015193300 +0700" stop="20211015195500 +0700" channel="htv7">
+    <title lang="vi">Phim sitcom: Mẹ Trùm</title>
+  </programme>
+  <programme start="20211015195500 +0700" stop="20211015202500 +0700" channel="htv7">
     <title lang="vi">Sức sống thanh xuân</title>
   </programme>
-  <programme start="20210924195500 +0700" stop="20210924202500 +0700" channel="htv7">
+  <programme start="20211015202500 +0700" stop="20211015213500 +0700" channel="htv7">
+    <title lang="vi">Ở nhà vui mà</title>
+  </programme>
+  <programme start="20211015213500 +0700" stop="20211015223000 +0700" channel="htv7">
+    <title lang="vi">Tần số 15</title>
+  </programme>
+  <programme start="20211015223000 +0700" stop="20211015231000 +0700" channel="htv7">
+    <title lang="vi">Việt Nam du ký "Người Việt bốn phương"</title>
+  </programme>
+  <programme start="20211015231000 +0700" stop="20211015233000 +0700" channel="htv7">
+    <title lang="vi">Xanh tươi mỗi ngày</title>
+  </programme>
+  <programme start="20211016003000 +0700" stop="20211016011000 +0700" channel="htv7">
+    <title lang="vi">Muôn màu thể thao</title>
+  </programme>
+  <programme start="20211016011000 +0700" stop="20211016013000 +0700" channel="htv7">
+    <title lang="vi">Bí kíp vàng</title>
+  </programme>
+  <programme start="20211016013000 +0700" stop="20211016021500 +0700" channel="htv7">
+    <title lang="vi">Phim truyện Việt Nam: Rau muống tháng 9</title>
+  </programme>
+  <programme start="20211016021500 +0700" stop="20211016023000 +0700" channel="htv7">
+    <title lang="vi">Tạp chí sức khỏe: Cân bằng dinh dưỡng - Nâng cao sức đề kháng</title>
+  </programme>
+  <programme start="20211016023000 +0700" stop="20211016031500 +0700" channel="htv7">
+    <title lang="vi">Phim truyện Việt Nam: Mặn hơn muối</title>
+  </programme>
+  <programme start="20211016031500 +0700" stop="20211016034500 +0700" channel="htv7">
+    <title lang="vi">Đồng hành hàng Việt</title>
+  </programme>
+  <programme start="20211016034500 +0700" stop="20211016050500 +0700" channel="htv7">
+    <title lang="vi">Bạn thân nhất của chó</title>
+  </programme>
+  <programme start="20211016050500 +0700" stop="20211016053000 +0700" channel="htv7">
+    <title lang="vi">Thể dục Aerobic</title>
+  </programme>
+  <programme start="20211016053000 +0700" stop="20211016060000 +0700" channel="htv7">
+    <title lang="vi">Tạp chí bóng đá Đức</title>
+  </programme>
+  <programme start="20211016060000 +0700" stop="20211016061500 +0700" channel="htv7">
+    <title lang="vi">Mua gì? Ở đâu?</title>
+  </programme>
+  <programme start="20211016061500 +0700" stop="20211016063000 +0700" channel="htv7">
+    <title lang="vi">Thảnh thơi vui sống</title>
+  </programme>
+  <programme start="20211016063000 +0700" stop="20211016070000 +0700" channel="htv7">
+    <title lang="vi">Chương trình 60 giây</title>
+  </programme>
+  <programme start="20211016070000 +0700" stop="20211016073000 +0700" channel="htv7">
+    <title lang="vi">Alo, phim nghe</title>
+  </programme>
+  <programme start="20211016073000 +0700" stop="20211016080000 +0700" channel="htv7">
+    <title lang="vi">Nụ cười ngày mới</title>
+  </programme>
+  <programme start="20211016080000 +0700" stop="20211016083000 +0700" channel="htv7">
+    <title lang="vi">Du lịch kỳ thú "Gõ cửa thăm nhà"</title>
+  </programme>
+  <programme start="20211016083000 +0700" stop="20211016090000 +0700" channel="htv7">
+    <title lang="vi">Tạp chí thể thao Đức</title>
+  </programme>
+  <programme start="20211016090000 +0700" stop="20211016094500 +0700" channel="htv7">
+    <title lang="vi">Phim truyện Ấn Độ: Tình yêu điên dại</title>
+  </programme>
+  <programme start="20211016094500 +0700" stop="20211016100000 +0700" channel="htv7">
+    <title lang="vi">Phim sitcom: Nailbiz đại chiến</title>
+  </programme>
+  <programme start="20211016100000 +0700" stop="20211016105500 +0700" channel="htv7">
+    <title lang="vi">Tạp chí giáo dục: An ninh mạng cho học sinh THCS</title>
+  </programme>
+  <programme start="20211016105500 +0700" stop="20211016110000 +0700" channel="htv7">
+    <title lang="vi">Vitamin xanh</title>
+  </programme>
+  <programme start="20211016110000 +0700" stop="20211016115000 +0700" channel="htv7">
+    <title lang="vi">Phim truyện Đài Loan: Tình yêu muôn màu</title>
+  </programme>
+  <programme start="20211016115000 +0700" stop="20211016120000 +0700" channel="htv7">
+    <title lang="vi">Món ngon mỗi ngày</title>
+  </programme>
+  <programme start="20211016120000 +0700" stop="20211016123000 +0700" channel="htv7">
+    <title lang="vi">Chuyện trưa 12 giờ</title>
+  </programme>
+  <programme start="20211016123000 +0700" stop="20211016130000 +0700" channel="htv7">
+    <title lang="vi">Phim truyện Trung Quốc: Thiên kim háo sắc</title>
+  </programme>
+  <programme start="20211016130000 +0700" stop="20211016135000 +0700" channel="htv7">
+    <title lang="vi">Phim truyện Trung Quốc: Diên Hy công lược</title>
+  </programme>
+  <programme start="20211016135000 +0700" stop="20211016140000 +0700" channel="htv7">
+    <title lang="vi">Thị trường 365</title>
+  </programme>
+  <programme start="20211016140000 +0700" stop="20211016142500 +0700" channel="htv7">
+    <title lang="vi">Những thiết kế sáng tạo của Australia</title>
+  </programme>
+  <programme start="20211016142500 +0700" stop="20211016154000 +0700" channel="htv7">
+    <title lang="vi">Hai mùa mưa nắng: Ngôi nhà cổ trong lòng thành phố</title>
+  </programme>
+  <programme start="20211016154000 +0700" stop="20211016165000 +0700" channel="htv7">
+    <title lang="vi">Cầu vồng đa sắc: Bánh gấu bơ đậu phộng</title>
+  </programme>
+  <programme start="20211016165000 +0700" stop="20211016170000 +0700" channel="htv7">
+    <title lang="vi">Bữa cơm gia đình</title>
+  </programme>
+  <programme start="20211016170000 +0700" stop="20211016174500 +0700" channel="htv7">
+    <title lang="vi">Phim truyện Trung Quốc: Minh Lan truyện</title>
+  </programme>
+  <programme start="20211016174500 +0700" stop="20211016183000 +0700" channel="htv7">
+    <title lang="vi">Phim truyện Trung Quốc: Võ Đang nhất kiếm</title>
+  </programme>
+  <programme start="20211016183000 +0700" stop="20211016190100 +0700" channel="htv7">
+    <title lang="vi">Chương trình 60 giây</title>
+  </programme>
+  <programme start="20211016190100 +0700" stop="20211016193300 +0700" channel="htv7">
+    <title lang="vi">A! Đúng rồi</title>
+  </programme>
+  <programme start="20211016193300 +0700" stop="20211016195500 +0700" channel="htv7">
+    <title lang="vi">Phim sitcom: Mẹ Trùm</title>
+  </programme>
+  <programme start="20211016195500 +0700" stop="20211016202500 +0700" channel="htv7">
     <title lang="vi">Sức sống thanh xuân</title>
   </programme>
-  <programme start="20210924202500 +0700" stop="20210924213500 +0700" channel="htv7">
+  <programme start="20211016202500 +0700" stop="20211016213500 +0700" channel="htv7">
     <title lang="vi">Ở nhà vui mà</title>
   </programme>
-  <programme start="20210924202500 +0700" stop="20210924213500 +0700" channel="htv7">
-    <title lang="vi">Ở nhà vui mà</title>
-  </programme>
-  <programme start="20210924213500 +0700" stop="20210924223000 +0700" channel="htv7">
+  <programme start="20211016213500 +0700" stop="20211016223000 +0700" channel="htv7">
     <title lang="vi">Tần số 15</title>
   </programme>
-  <programme start="20210924213500 +0700" stop="20210924223000 +0700" channel="htv7">
-    <title lang="vi">Tần số 15</title>
-  </programme>
-  <programme start="20210924223000 +0700" stop="20210924231000 +0700" channel="htv7">
+  <programme start="20211016223000 +0700" stop="20211016231000 +0700" channel="htv7">
     <title lang="vi">Việt Nam du ký "Người Việt bốn phương"</title>
   </programme>
-  <programme start="20210924223000 +0700" stop="20210924231000 +0700" channel="htv7">
-    <title lang="vi">Việt Nam du ký "Người Việt bốn phương"</title>
+  <programme start="20211016231000 +0700" stop="20211016233000 +0700" channel="htv7">
+    <title lang="vi">Xanh tươi mỗi ngày</title>
   </programme>
-  <programme start="20210924231000 +0700" stop="20210924233000 +0700" channel="htv7">
-    <title lang="vi">Xanh tươi mối ngày</title>
+  <programme start="20211015000000 +0700" stop="20211015003000 +0700" channel="htv9">
+    <title lang="vi">Tạp chí cầu lông</title>
   </programme>
-  <programme start="20210924231000 +0700" stop="20210924233000 +0700" channel="htv7">
-    <title lang="vi">Xanh tươi mối ngày</title>
+  <programme start="20211015003000 +0700" stop="20211015020000 +0700" channel="htv9">
+    <title lang="vi">Câu lạc bộ thể thao</title>
   </programme>
-  <programme start="20210924194500 +0700" stop="20210924200000 +0700" channel="htv9">
+  <programme start="20211015020000 +0700" stop="20211015022000 +0700" channel="htv9">
+    <title lang="vi">Giáo dục &amp; hướng nghiệp: Mô hình đào tạo kép</title>
+  </programme>
+  <programme start="20211015022000 +0700" stop="20211015024000 +0700" channel="htv9">
+    <title lang="vi">Trong thế giới xe</title>
+  </programme>
+  <programme start="20211015024000 +0700" stop="20211015030000 +0700" channel="htv9">
+    <title lang="vi">Phim tài liệu: Ký sự 20 năm trưởng thành cùng TFS</title>
+  </programme>
+  <programme start="20211015030000 +0700" stop="20211015033000 +0700" channel="htv9">
+    <title lang="vi">Siêu thị cười</title>
+  </programme>
+  <programme start="20211015033000 +0700" stop="20211015050200 +0700" channel="htv9">
+    <title lang="vi">Phim truyện Singapore: Bông hồng thép</title>
+  </programme>
+  <programme start="20211015050200 +0700" stop="20211015051200 +0700" channel="htv9">
+    <title lang="vi">Thể dục cơ bản</title>
+  </programme>
+  <programme start="20211015051200 +0700" stop="20211015052200 +0700" channel="htv9">
+    <title lang="vi">Bài tập dưỡng sinh nâng cao sức khỏe</title>
+  </programme>
+  <programme start="20211015052200 +0700" stop="20211015055000 +0700" channel="htv9">
+    <title lang="vi">Muôn màu thể thao</title>
+  </programme>
+  <programme start="20211015055000 +0700" stop="20211015060000 +0700" channel="htv9">
+    <title lang="vi">Cẩm nang phòng chống Covid tại nhà</title>
+  </programme>
+  <programme start="20211015060000 +0700" stop="20211015063000 +0700" channel="htv9">
+    <title lang="vi">Tin buổi sáng</title>
+  </programme>
+  <programme start="20211015063000 +0700" stop="20211015070000 +0700" channel="htv9">
+    <title lang="vi">Chương trình 60 giây</title>
+  </programme>
+  <programme start="20211015070000 +0700" stop="20211015071500 +0700" channel="htv9">
+    <title lang="vi">Bác sĩ của bạn</title>
+  </programme>
+  <programme start="20211015071500 +0700" stop="20211015073000 +0700" channel="htv9">
+    <title lang="vi">Chuyện 4 phương</title>
+  </programme>
+  <programme start="20211015073000 +0700" stop="20211015074000 +0700" channel="htv9">
+    <title lang="vi">Nhìn ra thế giới</title>
+  </programme>
+  <programme start="20211015074000 +0700" stop="20211015075500 +0700" channel="htv9">
+    <title lang="vi">Góc nhìn HTV</title>
+  </programme>
+  <programme start="20211015075500 +0700" stop="20211015080000 +0700" channel="htv9">
+    <title lang="vi">Những câu chuyện đẹp</title>
+  </programme>
+  <programme start="20211015080000 +0700" stop="20211015082000 +0700" channel="htv9">
+    <title lang="vi">Phim tài liệu: Nguyễn Văn Trỗi - Tình yêu cuộc sống</title>
+  </programme>
+  <programme start="20211015082000 +0700" stop="20211015091000 +0700" channel="htv9">
+    <title lang="vi">Tạp chí văn nghệ</title>
+  </programme>
+  <programme start="20211015091000 +0700" stop="20211015093500 +0700" channel="htv9">
+    <title lang="vi">Camera thành phố: Tập 4</title>
+  </programme>
+  <programme start="20211015093500 +0700" stop="20211015110000 +0700" channel="htv9">
+    <title lang="vi">Phim truyện Nga: Mát-xcơ-va không tin vào những giọt nước mắt</title>
+  </programme>
+  <programme start="20211015110000 +0700" stop="20211015113000 +0700" channel="htv9">
+    <title lang="vi">Tiêu điểm 247</title>
+  </programme>
+  <programme start="20211015113000 +0700" stop="20211015120000 +0700" channel="htv9">
+    <title lang="vi">Bản tin trưa</title>
+  </programme>
+  <programme start="20211015120000 +0700" stop="20211015123000 +0700" channel="htv9">
+    <title lang="vi">Chuyện trưa 12 giờ</title>
+  </programme>
+  <programme start="20211015123000 +0700" stop="20211015124500 +0700" channel="htv9">
+    <title lang="vi">Son môi đỏ</title>
+  </programme>
+  <programme start="20211015124500 +0700" stop="20211015132500 +0700" channel="htv9">
+    <title lang="vi">Phim truyện Bồ Đào Nha: Mặt nạ ký ức</title>
+  </programme>
+  <programme start="20211015132500 +0700" stop="20211015134000 +0700" channel="htv9">
+    <title lang="vi">Phim Sitcom: Nơi yêu thương bắt đầu</title>
+  </programme>
+  <programme start="20211015134000 +0700" stop="20211015141000 +0700" channel="htv9">
+    <title lang="vi">Muôn màu thể thao</title>
+  </programme>
+  <programme start="20211015141000 +0700" stop="20211015142500 +0700" channel="htv9">
+    <title lang="vi">Nghệ thuật &amp; cuộc sống</title>
+  </programme>
+  <programme start="20211015142500 +0700" stop="20211015144000 +0700" channel="htv9">
+    <title lang="vi">Nghề của bạn</title>
+  </programme>
+  <programme start="20211015144000 +0700" stop="20211015145500 +0700" channel="htv9">
+    <title lang="vi">Người trong cuộc</title>
+  </programme>
+  <programme start="20211015145500 +0700" stop="20211015151700 +0700" channel="htv9">
+    <title lang="vi">Phim tài liệu: Cây lấn biển</title>
+  </programme>
+  <programme start="20211015151700 +0700" stop="20211015154000 +0700" channel="htv9">
+    <title lang="vi">Câu chuyện kinh doanh</title>
+  </programme>
+  <programme start="20211015154000 +0700" stop="20211015155500 +0700" channel="htv9">
+    <title lang="vi">Sống xanh: Áo mới cho thủy tinh cũ</title>
+  </programme>
+  <programme start="20211015155500 +0700" stop="20211015161500 +0700" channel="htv9">
+    <title lang="vi">Nơi yêu thương ở lại</title>
+  </programme>
+  <programme start="20211015161500 +0700" stop="20211015162000 +0700" channel="htv9">
+    <title lang="vi">Cẩm nang phòng chống Covid tại nhà</title>
+  </programme>
+  <programme start="20211015162000 +0700" stop="20211015164500 +0700" channel="htv9">
+    <title lang="vi">Phim Sitcom: Biệt đội se duyên</title>
+  </programme>
+  <programme start="20211015164500 +0700" stop="20211015171000 +0700" channel="htv9">
+    <title lang="vi">Sitcom: Về phía cầu vồng</title>
+  </programme>
+  <programme start="20211015171000 +0700" stop="20211015172500 +0700" channel="htv9">
+    <title lang="vi">Bếp 8</title>
+  </programme>
+  <programme start="20211015172500 +0700" stop="20211015173500 +0700" channel="htv9">
+    <title lang="vi">Kỳ Lân và Cô Tiên Thợ: Bookmark</title>
+  </programme>
+  <programme start="20211015173500 +0700" stop="20211015174000 +0700" channel="htv9">
+    <title lang="vi">Tiêu điểm y tế</title>
+  </programme>
+  <programme start="20211015174000 +0700" stop="20211015183000 +0700" channel="htv9">
+    <title lang="vi">Phim cuối tuần: Cán cân công lý</title>
+  </programme>
+  <programme start="20211015183000 +0700" stop="20211015190000 +0700" channel="htv9">
+    <title lang="vi">Chương trình 60 giây</title>
+  </programme>
+  <programme start="20211015190000 +0700" stop="20211015194500 +0700" channel="htv9">
+    <title lang="vi">Tiếp sóng VTV</title>
+  </programme>
+  <programme start="20211015194500 +0700" stop="20211015200000 +0700" channel="htv9">
     <title lang="vi">Thể thao 365</title>
   </programme>
-  <programme start="20210924194500 +0700" stop="20210924200000 +0700" channel="htv9">
+  <programme start="20211015200000 +0700" stop="20211015202300 +0700" channel="htv9">
+    <title lang="vi">Chương trình thời sự HTV</title>
+  </programme>
+  <programme start="20211015202300 +0700" stop="20211015202600 +0700" channel="htv9">
+    <title lang="vi">Thời tiết du ký</title>
+  </programme>
+  <programme start="20211015202600 +0700" stop="20211015203300 +0700" channel="htv9">
+    <title lang="vi">Ăn sạch sống khỏe</title>
+  </programme>
+  <programme start="20211015203300 +0700" stop="20211015204500 +0700" channel="htv9">
+    <title lang="vi">Thế giới 24 giờ</title>
+  </programme>
+  <programme start="20211015204500 +0700" stop="20211015220000 +0700" channel="htv9">
+    <title lang="vi">Gương mặt điện ảnh</title>
+  </programme>
+  <programme start="20211015220000 +0700" stop="20211015225000 +0700" channel="htv9">
+    <title lang="vi">1 giờ hoán đổi</title>
+  </programme>
+  <programme start="20211015225000 +0700" stop="20211015230500 +0700" channel="htv9">
+    <title lang="vi">Khoảnh khắc cuộc đời</title>
+  </programme>
+  <programme start="20211015230500 +0700" stop="20211015232000 +0700" channel="htv9">
+    <title lang="vi">Không gian sống: Căn hộ cho thuê</title>
+  </programme>
+  <programme start="20211016000000 +0700" stop="20211016003000 +0700" channel="htv9">
+    <title lang="vi">Tạp chí cầu lông</title>
+  </programme>
+  <programme start="20211016003000 +0700" stop="20211016020000 +0700" channel="htv9">
+    <title lang="vi">Câu lạc bộ thể thao</title>
+  </programme>
+  <programme start="20211016020000 +0700" stop="20211016022000 +0700" channel="htv9">
+    <title lang="vi">Giáo dục &amp; hướng nghiệp: Mô hình đào tạo kép</title>
+  </programme>
+  <programme start="20211016022000 +0700" stop="20211016024000 +0700" channel="htv9">
+    <title lang="vi">Trong thế giới xe</title>
+  </programme>
+  <programme start="20211016024000 +0700" stop="20211016030000 +0700" channel="htv9">
+    <title lang="vi">Phim tài liệu: Ký sự 20 năm trưởng thành cùng TFS</title>
+  </programme>
+  <programme start="20211016030000 +0700" stop="20211016033000 +0700" channel="htv9">
+    <title lang="vi">Siêu thị cười</title>
+  </programme>
+  <programme start="20211016033000 +0700" stop="20211016050200 +0700" channel="htv9">
+    <title lang="vi">Phim truyện Singapore: Bông hồng thép</title>
+  </programme>
+  <programme start="20211016050200 +0700" stop="20211016051200 +0700" channel="htv9">
+    <title lang="vi">Thể dục cơ bản</title>
+  </programme>
+  <programme start="20211016051200 +0700" stop="20211016052200 +0700" channel="htv9">
+    <title lang="vi">Bài tập dưỡng sinh nâng cao sức khỏe</title>
+  </programme>
+  <programme start="20211016052200 +0700" stop="20211016055000 +0700" channel="htv9">
+    <title lang="vi">Muôn màu thể thao</title>
+  </programme>
+  <programme start="20211016055000 +0700" stop="20211016060000 +0700" channel="htv9">
+    <title lang="vi">Cẩm nang phòng chống Covid tại nhà</title>
+  </programme>
+  <programme start="20211016060000 +0700" stop="20211016063000 +0700" channel="htv9">
+    <title lang="vi">Tin buổi sáng</title>
+  </programme>
+  <programme start="20211016063000 +0700" stop="20211016070000 +0700" channel="htv9">
+    <title lang="vi">Chương trình 60 giây</title>
+  </programme>
+  <programme start="20211016070000 +0700" stop="20211016071500 +0700" channel="htv9">
+    <title lang="vi">Bác sĩ của bạn</title>
+  </programme>
+  <programme start="20211016071500 +0700" stop="20211016073000 +0700" channel="htv9">
+    <title lang="vi">Chuyện 4 phương</title>
+  </programme>
+  <programme start="20211016073000 +0700" stop="20211016074000 +0700" channel="htv9">
+    <title lang="vi">Nhìn ra thế giới</title>
+  </programme>
+  <programme start="20211016074000 +0700" stop="20211016075500 +0700" channel="htv9">
+    <title lang="vi">Góc nhìn HTV</title>
+  </programme>
+  <programme start="20211016075500 +0700" stop="20211016080000 +0700" channel="htv9">
+    <title lang="vi">Những câu chuyện đẹp</title>
+  </programme>
+  <programme start="20211016080000 +0700" stop="20211016082000 +0700" channel="htv9">
+    <title lang="vi">Phim tài liệu: Nguyễn Văn Trỗi - Tình yêu cuộc sống</title>
+  </programme>
+  <programme start="20211016082000 +0700" stop="20211016091000 +0700" channel="htv9">
+    <title lang="vi">Tạp chí văn nghệ</title>
+  </programme>
+  <programme start="20211016091000 +0700" stop="20211016093500 +0700" channel="htv9">
+    <title lang="vi">Camera thành phố: Tập 4</title>
+  </programme>
+  <programme start="20211016093500 +0700" stop="20211016110000 +0700" channel="htv9">
+    <title lang="vi">Phim truyện Nga: Mát-xcơ-va không tin vào những giọt nước mắt</title>
+  </programme>
+  <programme start="20211016110000 +0700" stop="20211016113000 +0700" channel="htv9">
+    <title lang="vi">Tiêu điểm 247</title>
+  </programme>
+  <programme start="20211016113000 +0700" stop="20211016120000 +0700" channel="htv9">
+    <title lang="vi">Bản tin trưa</title>
+  </programme>
+  <programme start="20211016120000 +0700" stop="20211016123000 +0700" channel="htv9">
+    <title lang="vi">Chuyện trưa 12 giờ</title>
+  </programme>
+  <programme start="20211016123000 +0700" stop="20211016124500 +0700" channel="htv9">
+    <title lang="vi">Son môi đỏ</title>
+  </programme>
+  <programme start="20211016124500 +0700" stop="20211016132500 +0700" channel="htv9">
+    <title lang="vi">Phim truyện Bồ Đào Nha: Mặt nạ ký ức</title>
+  </programme>
+  <programme start="20211016132500 +0700" stop="20211016134000 +0700" channel="htv9">
+    <title lang="vi">Phim Sitcom: Nơi yêu thương bắt đầu</title>
+  </programme>
+  <programme start="20211016134000 +0700" stop="20211016141000 +0700" channel="htv9">
+    <title lang="vi">Muôn màu thể thao</title>
+  </programme>
+  <programme start="20211016141000 +0700" stop="20211016142500 +0700" channel="htv9">
+    <title lang="vi">Nghệ thuật &amp; cuộc sống</title>
+  </programme>
+  <programme start="20211016142500 +0700" stop="20211016144000 +0700" channel="htv9">
+    <title lang="vi">Nghề của bạn</title>
+  </programme>
+  <programme start="20211016144000 +0700" stop="20211016145500 +0700" channel="htv9">
+    <title lang="vi">Người trong cuộc</title>
+  </programme>
+  <programme start="20211016145500 +0700" stop="20211016151700 +0700" channel="htv9">
+    <title lang="vi">Phim tài liệu: Cây lấn biển</title>
+  </programme>
+  <programme start="20211016151700 +0700" stop="20211016154000 +0700" channel="htv9">
+    <title lang="vi">Câu chuyện kinh doanh</title>
+  </programme>
+  <programme start="20211016154000 +0700" stop="20211016155500 +0700" channel="htv9">
+    <title lang="vi">Sống xanh: Áo mới cho thủy tinh cũ</title>
+  </programme>
+  <programme start="20211016155500 +0700" stop="20211016161500 +0700" channel="htv9">
+    <title lang="vi">Nơi yêu thương ở lại</title>
+  </programme>
+  <programme start="20211016161500 +0700" stop="20211016162000 +0700" channel="htv9">
+    <title lang="vi">Cẩm nang phòng chống Covid tại nhà</title>
+  </programme>
+  <programme start="20211016162000 +0700" stop="20211016164500 +0700" channel="htv9">
+    <title lang="vi">Phim Sitcom: Biệt đội se duyên</title>
+  </programme>
+  <programme start="20211016164500 +0700" stop="20211016171000 +0700" channel="htv9">
+    <title lang="vi">Sitcom: Về phía cầu vồng</title>
+  </programme>
+  <programme start="20211016171000 +0700" stop="20211016172500 +0700" channel="htv9">
+    <title lang="vi">Bếp 8</title>
+  </programme>
+  <programme start="20211016172500 +0700" stop="20211016173500 +0700" channel="htv9">
+    <title lang="vi">Kỳ Lân và Cô Tiên Thợ: Bookmark</title>
+  </programme>
+  <programme start="20211016173500 +0700" stop="20211016174000 +0700" channel="htv9">
+    <title lang="vi">Tiêu điểm y tế</title>
+  </programme>
+  <programme start="20211016174000 +0700" stop="20211016183000 +0700" channel="htv9">
+    <title lang="vi">Phim cuối tuần: Cán cân công lý</title>
+  </programme>
+  <programme start="20211016183000 +0700" stop="20211016190000 +0700" channel="htv9">
+    <title lang="vi">Chương trình 60 giây</title>
+  </programme>
+  <programme start="20211016190000 +0700" stop="20211016194500 +0700" channel="htv9">
+    <title lang="vi">Tiếp sóng VTV</title>
+  </programme>
+  <programme start="20211016194500 +0700" stop="20211016200000 +0700" channel="htv9">
     <title lang="vi">Thể thao 365</title>
   </programme>
-  <programme start="20210924200000 +0700" stop="20210924202300 +0700" channel="htv9">
+  <programme start="20211016200000 +0700" stop="20211016202300 +0700" channel="htv9">
     <title lang="vi">Chương trình thời sự HTV</title>
   </programme>
-  <programme start="20210924200000 +0700" stop="20210924202300 +0700" channel="htv9">
-    <title lang="vi">Chương trình thời sự HTV</title>
-  </programme>
-  <programme start="20210924202300 +0700" stop="20210924202600 +0700" channel="htv9">
+  <programme start="20211016202300 +0700" stop="20211016202600 +0700" channel="htv9">
     <title lang="vi">Thời tiết du ký</title>
   </programme>
-  <programme start="20210924202300 +0700" stop="20210924202600 +0700" channel="htv9">
-    <title lang="vi">Thời tiết du ký</title>
-  </programme>
-  <programme start="20210924202600 +0700" stop="20210924203300 +0700" channel="htv9">
+  <programme start="20211016202600 +0700" stop="20211016203300 +0700" channel="htv9">
     <title lang="vi">Ăn sạch sống khỏe</title>
   </programme>
-  <programme start="20210924202600 +0700" stop="20210924203300 +0700" channel="htv9">
-    <title lang="vi">Ăn sạch sống khỏe</title>
-  </programme>
-  <programme start="20210924203300 +0700" stop="20210924205500 +0700" channel="htv9">
+  <programme start="20211016203300 +0700" stop="20211016204500 +0700" channel="htv9">
     <title lang="vi">Thế giới 24 giờ</title>
   </programme>
-  <programme start="20210924203300 +0700" stop="20210924205500 +0700" channel="htv9">
-    <title lang="vi">Thế giới 24 giờ</title>
+  <programme start="20211016204500 +0700" stop="20211016220000 +0700" channel="htv9">
+    <title lang="vi">Gương mặt điện ảnh</title>
   </programme>
-  <programme start="20210924205500 +0700" stop="20210924212500 +0700" channel="htv9">
-    <title lang="vi">Cùng xây ngôi nhà mơ ước</title>
-  </programme>
-  <programme start="20210924205500 +0700" stop="20210924212500 +0700" channel="htv9">
-    <title lang="vi">Cùng xây ngôi nhà mơ ước</title>
-  </programme>
-  <programme start="20210924212500 +0700" stop="20210924220000 +0700" channel="htv9">
-    <title lang="vi">HTV giải trí</title>
-  </programme>
-  <programme start="20210924212500 +0700" stop="20210924220000 +0700" channel="htv9">
-    <title lang="vi">HTV giải trí</title>
-  </programme>
-  <programme start="20210924220000 +0700" stop="20210924225000 +0700" channel="htv9">
+  <programme start="20211016220000 +0700" stop="20211016225000 +0700" channel="htv9">
     <title lang="vi">1 giờ hoán đổi</title>
   </programme>
-  <programme start="20210924220000 +0700" stop="20210924225000 +0700" channel="htv9">
-    <title lang="vi">1 giờ hoán đổi</title>
-  </programme>
-  <programme start="20210924225000 +0700" stop="20210924230500 +0700" channel="htv9">
+  <programme start="20211016225000 +0700" stop="20211016230500 +0700" channel="htv9">
     <title lang="vi">Khoảnh khắc cuộc đời</title>
   </programme>
-  <programme start="20210924225000 +0700" stop="20210924230500 +0700" channel="htv9">
-    <title lang="vi">Khoảnh khắc cuộc đời</title>
+  <programme start="20211016230500 +0700" stop="20211016232000 +0700" channel="htv9">
+    <title lang="vi">Không gian sống: Căn hộ cho thuê</title>
   </programme>
-  <programme start="20210924230500 +0700" stop="20210924232000 +0700" channel="htv9">
-    <title lang="vi">Tạp chí bí quyết đẹp</title>
+  <programme start="20211015080000 +0700" stop="20211015083000 +0700" channel="htv.the.thao">
+    <title lang="vi">Tạp chí võ thuật</title>
   </programme>
-  <programme start="20210924230500 +0700" stop="20210924232000 +0700" channel="htv9">
-    <title lang="vi">Tạp chí bí quyết đẹp</title>
+  <programme start="20211015083000 +0700" stop="20211015100500 +0700" channel="htv.the.thao">
+    <title lang="vi">Tường thuật giải bóng đá vô địch quốc gia Italia</title>
   </programme>
-  <programme start="20210924220000 +0700" stop="20210924221500 +0700" channel="htv.the.thao">
-    <title lang="vi">Bản tin 365</title>
-  </programme>
-  <programme start="20210924220000 +0700" stop="20210924221500 +0700" channel="htv.the.thao">
-    <title lang="vi">Bản tin 365</title>
-  </programme>
-  <programme start="20210924221500 +0700" stop="20210924224500 +0700" channel="htv.the.thao">
-    <title lang="vi">Tạp chí thể thao Đức</title>
-  </programme>
-  <programme start="20210924221500 +0700" stop="20210924224500 +0700" channel="htv.the.thao">
-    <title lang="vi">Tạp chí thể thao Đức</title>
-  </programme>
-  <programme start="20210924224500 +0700" stop="20210924231500 +0700" channel="htv.the.thao">
+  <programme start="20211015100500 +0700" stop="20211015103000 +0700" channel="htv.the.thao">
     <title lang="vi">Tạp chí bóng rổ Fiba</title>
   </programme>
-  <programme start="20210924224500 +0700" stop="20210924231500 +0700" channel="htv.the.thao">
+  <programme start="20211015103000 +0700" stop="20211015120500 +0700" channel="htv.the.thao">
+    <title lang="vi">Tường thuật giải võ thuật ONE Championships</title>
+  </programme>
+  <programme start="20211015120500 +0700" stop="20211015123000 +0700" channel="htv.the.thao">
+    <title lang="vi">Tạp chí bóng đá Đức</title>
+  </programme>
+  <programme start="20211015123000 +0700" stop="20211015140000 +0700" channel="htv.the.thao">
+    <title lang="vi">Tường thuật giải cầu lông Thomas&amp;Uber Cup</title>
+  </programme>
+  <programme start="20211015140000 +0700" stop="20211015143000 +0700" channel="htv.the.thao">
+    <title lang="vi">Muôn màu thể thao</title>
+  </programme>
+  <programme start="20211015143000 +0700" stop="20211015150000 +0700" channel="htv.the.thao">
+    <title lang="vi">Tạp chí điền kinh</title>
+  </programme>
+  <programme start="20211015150000 +0700" stop="20211015164000 +0700" channel="htv.the.thao">
+    <title lang="vi">Tường thuật giải bóng đá vô địch quốc gia Italia</title>
+  </programme>
+  <programme start="20211015164000 +0700" stop="20211015170000 +0700" channel="htv.the.thao">
+    <title lang="vi">Khỏe đẹp</title>
+  </programme>
+  <programme start="20211015170000 +0700" stop="20211015190000 +0700" channel="htv.the.thao">
+    <title lang="vi">Tường thuật giải võ thuật ONE Championships</title>
+  </programme>
+  <programme start="20211015190000 +0700" stop="20211015193000 +0700" channel="htv.the.thao">
+    <title lang="vi">Tạp chí cầu lông</title>
+  </programme>
+  <programme start="20211015193000 +0700" stop="20211015220000 +0700" channel="htv.the.thao">
+    <title lang="vi">Trực tiếp giải võ thuật ONE Championship</title>
+  </programme>
+  <programme start="20211015220000 +0700" stop="20211015221500 +0700" channel="htv.the.thao">
+    <title lang="vi">Bản tin 365</title>
+  </programme>
+  <programme start="20211015221500 +0700" stop="20211015224500 +0700" channel="htv.the.thao">
+    <title lang="vi">Tổng quan Seri A</title>
+  </programme>
+  <programme start="20211015224500 +0700" stop="20211015231000 +0700" channel="htv.the.thao">
+    <title lang="vi">Tạp chí thể thao Đức</title>
+  </programme>
+  <programme start="20211016080000 +0700" stop="20211016083000 +0700" channel="htv.the.thao">
+    <title lang="vi">Tạp chí võ thuật</title>
+  </programme>
+  <programme start="20211016083000 +0700" stop="20211016100500 +0700" channel="htv.the.thao">
+    <title lang="vi">Tường thuật giải bóng đá vô địch quốc gia Italia</title>
+  </programme>
+  <programme start="20211016100500 +0700" stop="20211016103000 +0700" channel="htv.the.thao">
     <title lang="vi">Tạp chí bóng rổ Fiba</title>
   </programme>
-  <programme start="20210924231500 +0700" stop="20210924233000 +0700" channel="htv.the.thao">
+  <programme start="20211016103000 +0700" stop="20211016120500 +0700" channel="htv.the.thao">
+    <title lang="vi">Tường thuật giải võ thuật ONE Championships</title>
+  </programme>
+  <programme start="20211016120500 +0700" stop="20211016123000 +0700" channel="htv.the.thao">
+    <title lang="vi">Tạp chí bóng đá Đức</title>
+  </programme>
+  <programme start="20211016123000 +0700" stop="20211016140000 +0700" channel="htv.the.thao">
+    <title lang="vi">Tường thuật giải cầu lông Thomas&amp;Uber Cup</title>
+  </programme>
+  <programme start="20211016140000 +0700" stop="20211016143000 +0700" channel="htv.the.thao">
+    <title lang="vi">Muôn màu thể thao</title>
+  </programme>
+  <programme start="20211016143000 +0700" stop="20211016150000 +0700" channel="htv.the.thao">
+    <title lang="vi">Tạp chí điền kinh</title>
+  </programme>
+  <programme start="20211016150000 +0700" stop="20211016164000 +0700" channel="htv.the.thao">
+    <title lang="vi">Tường thuật giải bóng đá vô địch quốc gia Italia</title>
+  </programme>
+  <programme start="20211016164000 +0700" stop="20211016170000 +0700" channel="htv.the.thao">
+    <title lang="vi">Khỏe đẹp</title>
+  </programme>
+  <programme start="20211016170000 +0700" stop="20211016190000 +0700" channel="htv.the.thao">
+    <title lang="vi">Tường thuật giải võ thuật ONE Championships</title>
+  </programme>
+  <programme start="20211016190000 +0700" stop="20211016193000 +0700" channel="htv.the.thao">
+    <title lang="vi">Tạp chí cầu lông</title>
+  </programme>
+  <programme start="20211016193000 +0700" stop="20211016220000 +0700" channel="htv.the.thao">
+    <title lang="vi">Trực tiếp giải võ thuật ONE Championship</title>
+  </programme>
+  <programme start="20211016220000 +0700" stop="20211016221500 +0700" channel="htv.the.thao">
     <title lang="vi">Bản tin 365</title>
   </programme>
-  <programme start="20210924231500 +0700" stop="20210924233000 +0700" channel="htv.the.thao">
-    <title lang="vi">Bản tin 365</title>
+  <programme start="20211016221500 +0700" stop="20211016224500 +0700" channel="htv.the.thao">
+    <title lang="vi">Tổng quan Seri A</title>
   </programme>
-  <programme start="20210924200000 +0700" stop="20210924203000 +0700" channel="htv1">
-    <title lang="vi">Phóng sự tài liệu</title>
+  <programme start="20211016224500 +0700" stop="20211016231000 +0700" channel="htv.the.thao">
+    <title lang="vi">Tạp chí thể thao Đức</title>
   </programme>
-  <programme start="20210924200000 +0700" stop="20210924203000 +0700" channel="htv1">
-    <title lang="vi">Phóng sự tài liệu</title>
+  <programme start="20211015000000 +0700" stop="20211015003000 +0700" channel="htv1">
+    <title lang="vi">An toàn giao thông TP</title>
   </programme>
-  <programme start="20210924203000 +0700" stop="20210924210000 +0700" channel="htv1">
-    <title lang="vi">Chương trình ca nhạc</title>
+  <programme start="20211015003000 +0700" stop="20211015010000 +0700" channel="htv1">
+    <title lang="vi">Khoa học công nghệ</title>
   </programme>
-  <programme start="20210924203000 +0700" stop="20210924210000 +0700" channel="htv1">
-    <title lang="vi">Chương trình ca nhạc</title>
+  <programme start="20211015010000 +0700" stop="20211015012000 +0700" channel="htv1">
+    <title lang="vi">Chương trình tổng hợp</title>
   </programme>
-  <programme start="20210924210000 +0700" stop="20210924213000 +0700" channel="htv1">
+  <programme start="20211015012000 +0700" stop="20211015015000 +0700" channel="htv1">
+    <title lang="vi">Chương trình VHNTTG</title>
+  </programme>
+  <programme start="20211015015000 +0700" stop="20211015021500 +0700" channel="htv1">
     <title lang="vi">Bản tin thời sự tổng hợp</title>
   </programme>
-  <programme start="20210924210000 +0700" stop="20210924213000 +0700" channel="htv1">
+  <programme start="20211015021500 +0700" stop="20211015030000 +0700" channel="htv1">
+    <title lang="vi">Chương trình văn nghệ</title>
+  </programme>
+  <programme start="20211015030000 +0700" stop="20211015032500 +0700" channel="htv1">
+    <title lang="vi">Chương trình thiếu nhi</title>
+  </programme>
+  <programme start="20211015032500 +0700" stop="20211015035500 +0700" channel="htv1">
+    <title lang="vi">Thông tin y tế</title>
+  </programme>
+  <programme start="20211015035500 +0700" stop="20211015042500 +0700" channel="htv1">
+    <title lang="vi">Phóng sự tài liệu</title>
+  </programme>
+  <programme start="20211015042500 +0700" stop="20211015045000 +0700" channel="htv1">
+    <title lang="vi">Phóng sự</title>
+  </programme>
+  <programme start="20211015045000 +0700" stop="20211015052000 +0700" channel="htv1">
+    <title lang="vi">Thể thao tổng hợp</title>
+  </programme>
+  <programme start="20211015052000 +0700" stop="20211015060500 +0700" channel="htv1">
+    <title lang="vi">Chương trình ca nhạc</title>
+  </programme>
+  <programme start="20211015060500 +0700" stop="20211015063500 +0700" channel="htv1">
+    <title lang="vi">Chương trình 60 giây</title>
+  </programme>
+  <programme start="20211015063500 +0700" stop="20211015070000 +0700" channel="htv1">
+    <title lang="vi">Thể thao tổng hợp</title>
+  </programme>
+  <programme start="20211015070000 +0700" stop="20211015071500 +0700" channel="htv1">
+    <title lang="vi">Bản tin buổi sáng - HTV9</title>
+  </programme>
+  <programme start="20211015071500 +0700" stop="20211015074500 +0700" channel="htv1">
+    <title lang="vi">An toàn giao thông TP</title>
+  </programme>
+  <programme start="20211015074500 +0700" stop="20211015081500 +0700" channel="htv1">
+    <title lang="vi">Chương trình 60 giây</title>
+  </programme>
+  <programme start="20211015081500 +0700" stop="20211015084500 +0700" channel="htv1">
+    <title lang="vi">Khoa học công nghệ</title>
+  </programme>
+  <programme start="20211015084500 +0700" stop="20211015091500 +0700" channel="htv1">
+    <title lang="vi">Phóng sự Liên hoan phim</title>
+  </programme>
+  <programme start="20211015091500 +0700" stop="20211015094000 +0700" channel="htv1">
+    <title lang="vi">Phóng sự liên hoan phim - Kết nối người và việc</title>
+  </programme>
+  <programme start="20211015094000 +0700" stop="20211015100500 +0700" channel="htv1">
+    <title lang="vi">Chương trình VHNTTG</title>
+  </programme>
+  <programme start="20211015100500 +0700" stop="20211015103500 +0700" channel="htv1">
+    <title lang="vi">Chương trình thiếu nhi</title>
+  </programme>
+  <programme start="20211015103500 +0700" stop="20211015105500 +0700" channel="htv1">
+    <title lang="vi">Chương trình tổng hợp</title>
+  </programme>
+  <programme start="20211015105500 +0700" stop="20211015111500 +0700" channel="htv1">
+    <title lang="vi">Thông tin công cộng</title>
+  </programme>
+  <programme start="20211015111500 +0700" stop="20211015120000 +0700" channel="htv1">
+    <title lang="vi">Chương trình văn nghệ</title>
+  </programme>
+  <programme start="20211015120000 +0700" stop="20211015123000 +0700" channel="htv1">
+    <title lang="vi">Phóng sự tài liệu</title>
+  </programme>
+  <programme start="20211015123000 +0700" stop="20211015130000 +0700" channel="htv1">
+    <title lang="vi">Chương trình ca nhạc</title>
+  </programme>
+  <programme start="20211015130000 +0700" stop="20211015131500 +0700" channel="htv1">
+    <title lang="vi">Bản tin trưa - HTV9</title>
+  </programme>
+  <programme start="20211015131500 +0700" stop="20211015141500 +0700" channel="htv1">
+    <title lang="vi">Chương trình “Chuyện 12 giờ”</title>
+  </programme>
+  <programme start="20211015141500 +0700" stop="20211015151000 +0700" channel="htv1">
+    <title lang="vi">Chương trình văn nghệ</title>
+  </programme>
+  <programme start="20211015151000 +0700" stop="20211015153500 +0700" channel="htv1">
+    <title lang="vi">Phóng sự</title>
+  </programme>
+  <programme start="20211015153500 +0700" stop="20211015160500 +0700" channel="htv1">
+    <title lang="vi">Khoa học công nghệ</title>
+  </programme>
+  <programme start="20211015160500 +0700" stop="20211015162500 +0700" channel="htv1">
+    <title lang="vi">Phóng sự Liên hoan phim</title>
+  </programme>
+  <programme start="20211015162500 +0700" stop="20211015170000 +0700" channel="htv1">
+    <title lang="vi">Chương trình tổng hợp</title>
+  </programme>
+  <programme start="20211015170000 +0700" stop="20211015170500 +0700" channel="htv1">
+    <title lang="vi">Thông tin dân sự - Rao vặt</title>
+  </programme>
+  <programme start="20211015170500 +0700" stop="20211015173500 +0700" channel="htv1">
+    <title lang="vi">An toàn giao thông TP</title>
+  </programme>
+  <programme start="20211015173500 +0700" stop="20211015180000 +0700" channel="htv1">
+    <title lang="vi">Kết nối người và việc</title>
+  </programme>
+  <programme start="20211015180000 +0700" stop="20211015183000 +0700" channel="htv1">
+    <title lang="vi">Chương trình thiếu nhi</title>
+  </programme>
+  <programme start="20211015183000 +0700" stop="20211015190000 +0700" channel="htv1">
+    <title lang="vi">Thể thao tổng hợp</title>
+  </programme>
+  <programme start="20211015190000 +0700" stop="20211015191500 +0700" channel="htv1">
+    <title lang="vi">Thông tin y tế</title>
+  </programme>
+  <programme start="20211015191500 +0700" stop="20211015193000 +0700" channel="htv1">
+    <title lang="vi">Rao vặt</title>
+  </programme>
+  <programme start="20211015193000 +0700" stop="20211015200000 +0700" channel="htv1">
+    <title lang="vi">Chương trình VHNTTG</title>
+  </programme>
+  <programme start="20211015200000 +0700" stop="20211015203000 +0700" channel="htv1">
+    <title lang="vi">Phóng sự tài liệu</title>
+  </programme>
+  <programme start="20211015203000 +0700" stop="20211015210000 +0700" channel="htv1">
+    <title lang="vi">Chương trình ca nhạc</title>
+  </programme>
+  <programme start="20211015210000 +0700" stop="20211015213000 +0700" channel="htv1">
     <title lang="vi">Bản tin thời sự tổng hợp</title>
   </programme>
-  <programme start="20210924213000 +0700" stop="20210924220500 +0700" channel="htv1">
+  <programme start="20211015213000 +0700" stop="20211015220500 +0700" channel="htv1">
     <title lang="vi">Chương trình thời sự - HTV9</title>
   </programme>
-  <programme start="20210924213000 +0700" stop="20210924220500 +0700" channel="htv1">
+  <programme start="20211015220500 +0700" stop="20211015230000 +0700" channel="htv1">
+    <title lang="vi">Chương trình văn nghệ</title>
+  </programme>
+  <programme start="20211015230000 +0700" stop="20211015233000 +0700" channel="htv1">
+    <title lang="vi">Thế giới 24G - HTV7 - Thông tin y tế</title>
+  </programme>
+  <programme start="20211016000000 +0700" stop="20211016003000 +0700" channel="htv1">
+    <title lang="vi">An toàn giao thông TP</title>
+  </programme>
+  <programme start="20211016003000 +0700" stop="20211016010000 +0700" channel="htv1">
+    <title lang="vi">Khoa học công nghệ</title>
+  </programme>
+  <programme start="20211016010000 +0700" stop="20211016012000 +0700" channel="htv1">
+    <title lang="vi">Chương trình tổng hợp</title>
+  </programme>
+  <programme start="20211016012000 +0700" stop="20211016015000 +0700" channel="htv1">
+    <title lang="vi">Chương trình VHNTTG</title>
+  </programme>
+  <programme start="20211016015000 +0700" stop="20211016021500 +0700" channel="htv1">
+    <title lang="vi">Bản tin thời sự tổng hợp</title>
+  </programme>
+  <programme start="20211016021500 +0700" stop="20211016030000 +0700" channel="htv1">
+    <title lang="vi">Chương trình văn nghệ</title>
+  </programme>
+  <programme start="20211016030000 +0700" stop="20211016032500 +0700" channel="htv1">
+    <title lang="vi">Chương trình thiếu nhi</title>
+  </programme>
+  <programme start="20211016032500 +0700" stop="20211016035500 +0700" channel="htv1">
+    <title lang="vi">Thông tin y tế</title>
+  </programme>
+  <programme start="20211016035500 +0700" stop="20211016042500 +0700" channel="htv1">
+    <title lang="vi">Phóng sự tài liệu</title>
+  </programme>
+  <programme start="20211016042500 +0700" stop="20211016045000 +0700" channel="htv1">
+    <title lang="vi">Phóng sự</title>
+  </programme>
+  <programme start="20211016045000 +0700" stop="20211016052000 +0700" channel="htv1">
+    <title lang="vi">Thể thao tổng hợp</title>
+  </programme>
+  <programme start="20211016052000 +0700" stop="20211016060500 +0700" channel="htv1">
+    <title lang="vi">Chương trình ca nhạc</title>
+  </programme>
+  <programme start="20211016060500 +0700" stop="20211016063500 +0700" channel="htv1">
+    <title lang="vi">Chương trình 60 giây</title>
+  </programme>
+  <programme start="20211016063500 +0700" stop="20211016070000 +0700" channel="htv1">
+    <title lang="vi">Thể thao tổng hợp</title>
+  </programme>
+  <programme start="20211016070000 +0700" stop="20211016071500 +0700" channel="htv1">
+    <title lang="vi">Bản tin buổi sáng - HTV9</title>
+  </programme>
+  <programme start="20211016071500 +0700" stop="20211016074500 +0700" channel="htv1">
+    <title lang="vi">An toàn giao thông TP</title>
+  </programme>
+  <programme start="20211016074500 +0700" stop="20211016081500 +0700" channel="htv1">
+    <title lang="vi">Chương trình 60 giây</title>
+  </programme>
+  <programme start="20211016081500 +0700" stop="20211016084500 +0700" channel="htv1">
+    <title lang="vi">Khoa học công nghệ</title>
+  </programme>
+  <programme start="20211016084500 +0700" stop="20211016091500 +0700" channel="htv1">
+    <title lang="vi">Phóng sự Liên hoan phim</title>
+  </programme>
+  <programme start="20211016091500 +0700" stop="20211016094000 +0700" channel="htv1">
+    <title lang="vi">Phóng sự liên hoan phim - Kết nối người và việc</title>
+  </programme>
+  <programme start="20211016094000 +0700" stop="20211016100500 +0700" channel="htv1">
+    <title lang="vi">Chương trình VHNTTG</title>
+  </programme>
+  <programme start="20211016100500 +0700" stop="20211016103500 +0700" channel="htv1">
+    <title lang="vi">Chương trình thiếu nhi</title>
+  </programme>
+  <programme start="20211016103500 +0700" stop="20211016105500 +0700" channel="htv1">
+    <title lang="vi">Chương trình tổng hợp</title>
+  </programme>
+  <programme start="20211016105500 +0700" stop="20211016111500 +0700" channel="htv1">
+    <title lang="vi">Thông tin công cộng</title>
+  </programme>
+  <programme start="20211016111500 +0700" stop="20211016120000 +0700" channel="htv1">
+    <title lang="vi">Chương trình văn nghệ</title>
+  </programme>
+  <programme start="20211016120000 +0700" stop="20211016123000 +0700" channel="htv1">
+    <title lang="vi">Phóng sự tài liệu</title>
+  </programme>
+  <programme start="20211016123000 +0700" stop="20211016130000 +0700" channel="htv1">
+    <title lang="vi">Chương trình ca nhạc</title>
+  </programme>
+  <programme start="20211016130000 +0700" stop="20211016131500 +0700" channel="htv1">
+    <title lang="vi">Bản tin trưa - HTV9</title>
+  </programme>
+  <programme start="20211016131500 +0700" stop="20211016141500 +0700" channel="htv1">
+    <title lang="vi">Chương trình “Chuyện 12 giờ”</title>
+  </programme>
+  <programme start="20211016141500 +0700" stop="20211016151000 +0700" channel="htv1">
+    <title lang="vi">Chương trình văn nghệ</title>
+  </programme>
+  <programme start="20211016151000 +0700" stop="20211016153500 +0700" channel="htv1">
+    <title lang="vi">Phóng sự</title>
+  </programme>
+  <programme start="20211016153500 +0700" stop="20211016160500 +0700" channel="htv1">
+    <title lang="vi">Khoa học công nghệ</title>
+  </programme>
+  <programme start="20211016160500 +0700" stop="20211016162500 +0700" channel="htv1">
+    <title lang="vi">Phóng sự Liên hoan phim</title>
+  </programme>
+  <programme start="20211016162500 +0700" stop="20211016170000 +0700" channel="htv1">
+    <title lang="vi">Chương trình tổng hợp</title>
+  </programme>
+  <programme start="20211016170000 +0700" stop="20211016170500 +0700" channel="htv1">
+    <title lang="vi">Thông tin dân sự - Rao vặt</title>
+  </programme>
+  <programme start="20211016170500 +0700" stop="20211016173500 +0700" channel="htv1">
+    <title lang="vi">An toàn giao thông TP</title>
+  </programme>
+  <programme start="20211016173500 +0700" stop="20211016180000 +0700" channel="htv1">
+    <title lang="vi">Kết nối người và việc</title>
+  </programme>
+  <programme start="20211016180000 +0700" stop="20211016183000 +0700" channel="htv1">
+    <title lang="vi">Chương trình thiếu nhi</title>
+  </programme>
+  <programme start="20211016183000 +0700" stop="20211016190000 +0700" channel="htv1">
+    <title lang="vi">Thể thao tổng hợp</title>
+  </programme>
+  <programme start="20211016190000 +0700" stop="20211016191500 +0700" channel="htv1">
+    <title lang="vi">Thông tin y tế</title>
+  </programme>
+  <programme start="20211016191500 +0700" stop="20211016193000 +0700" channel="htv1">
+    <title lang="vi">Rao vặt</title>
+  </programme>
+  <programme start="20211016193000 +0700" stop="20211016200000 +0700" channel="htv1">
+    <title lang="vi">Chương trình VHNTTG</title>
+  </programme>
+  <programme start="20211016200000 +0700" stop="20211016203000 +0700" channel="htv1">
+    <title lang="vi">Phóng sự tài liệu</title>
+  </programme>
+  <programme start="20211016203000 +0700" stop="20211016210000 +0700" channel="htv1">
+    <title lang="vi">Chương trình ca nhạc</title>
+  </programme>
+  <programme start="20211016210000 +0700" stop="20211016213000 +0700" channel="htv1">
+    <title lang="vi">Bản tin thời sự tổng hợp</title>
+  </programme>
+  <programme start="20211016213000 +0700" stop="20211016220500 +0700" channel="htv1">
     <title lang="vi">Chương trình thời sự - HTV9</title>
   </programme>
-  <programme start="20210924220500 +0700" stop="20210924230000 +0700" channel="htv1">
+  <programme start="20211016220500 +0700" stop="20211016230000 +0700" channel="htv1">
     <title lang="vi">Chương trình văn nghệ</title>
   </programme>
-  <programme start="20210924220500 +0700" stop="20210924230000 +0700" channel="htv1">
-    <title lang="vi">Chương trình văn nghệ</title>
-  </programme>
-  <programme start="20210924230000 +0700" stop="20210924233000 +0700" channel="htv1">
+  <programme start="20211016230000 +0700" stop="20211016233000 +0700" channel="htv1">
     <title lang="vi">Thế giới 24G - HTV7 - Thông tin y tế</title>
   </programme>
-  <programme start="20210924230000 +0700" stop="20210924233000 +0700" channel="htv1">
-    <title lang="vi">Thế giới 24G - HTV7 - Thông tin y tế</title>
+  <programme start="20211015001500 +0700" stop="20211015010000 +0700" channel="htv2">
+    <title lang="vi">Giải trí Mỹ - Tìm kiếm tài năng Mỹ: Mùa 15</title>
   </programme>
-  <programme start="20210924200000 +0700" stop="20210924210000 +0700" channel="htv2">
-    <title lang="vi">Phim truyện Hàn Quốc - Người yêu truyền kiếp</title>
+  <programme start="20211015010000 +0700" stop="20211015014500 +0700" channel="htv2">
+    <title lang="vi">Phim truyện Hàn Quốc - Hoàng hậu Ki</title>
   </programme>
-  <programme start="20210924200000 +0700" stop="20210924210000 +0700" channel="htv2">
-    <title lang="vi">Phim truyện Hàn Quốc - Người yêu truyền kiếp</title>
+  <programme start="20211015014500 +0700" stop="20211015023000 +0700" channel="htv2">
+    <title lang="vi">Phim truyện Trung Quốc - Lục phiến môn</title>
   </programme>
-  <programme start="20210924210000 +0700" stop="20210924220000 +0700" channel="htv2">
-    <title lang="vi">Phim truyện Hàn Quốc - Vì con mà sống</title>
+  <programme start="20211015023000 +0700" stop="20211015031500 +0700" channel="htv2">
+    <title lang="vi">Giải trí - Vitamin cười 2015 mới</title>
   </programme>
-  <programme start="20210924210000 +0700" stop="20210924220000 +0700" channel="htv2">
-    <title lang="vi">Phim truyện Hàn Quốc - Vì con mà sống</title>
+  <programme start="20211015031500 +0700" stop="20211015040000 +0700" channel="htv2">
+    <title lang="vi">Phim truyện Hàn Quốc - Yêu đến tận cùng</title>
   </programme>
-  <programme start="20210924220000 +0700" stop="20210924230000 +0700" channel="htv2">
-    <title lang="vi">Phim truyện Hàn Quốc - Người vợ thân quen</title>
+  <programme start="20211015040000 +0700" stop="20211015044500 +0700" channel="htv2">
+    <title lang="vi">Giải trí Mỹ - Tìm kiếm tài năng Mỹ: Mùa 15</title>
   </programme>
-  <programme start="20210924220000 +0700" stop="20210924230000 +0700" channel="htv2">
-    <title lang="vi">Phim truyện Hàn Quốc - Người vợ thân quen</title>
+  <programme start="20211015044500 +0700" stop="20211015054500 +0700" channel="htv2">
+    <title lang="vi">Giải trí Việt Nam - Siêu trí tuệ Việt Nam: Mùa 2</title>
   </programme>
-  <programme start="20210924230000 +0700" stop="20210924233000 +0700" channel="htv2">
+  <programme start="20211015054500 +0700" stop="20211015062500 +0700" channel="htv2">
+    <title lang="vi">Thời sự Việt Nam  - Tiếp sóng Bản tin buổi sáng</title>
+  </programme>
+  <programme start="20211015062500 +0700" stop="20211015071500 +0700" channel="htv2">
+    <title lang="vi">Giải trí - Kỳ án Đông Tây kim cổ</title>
+  </programme>
+  <programme start="20211015071500 +0700" stop="20211015080000 +0700" channel="htv2">
+    <title lang="vi">Phim truyện Thái Lan - Ngọn lửa đức hạnh</title>
+  </programme>
+  <programme start="20211015080000 +0700" stop="20211015090000 +0700" channel="htv2">
+    <title lang="vi">Giải trí - Vitamin cười 2015 mới</title>
+  </programme>
+  <programme start="20211015090000 +0700" stop="20211015100000 +0700" channel="htv2">
+    <title lang="vi">Phim truyện Hàn Quốc - Khi em say giấc</title>
+  </programme>
+  <programme start="20211015100000 +0700" stop="20211015110000 +0700" channel="htv2">
+    <title lang="vi">Phim truyện Trung Quốc - Diên Hy công lược</title>
+  </programme>
+  <programme start="20211015110000 +0700" stop="20211015114500 +0700" channel="htv2">
+    <title lang="vi">Phim truyện Hàn Quốc - Yêu đến tận cùng</title>
+  </programme>
+  <programme start="20211015114500 +0700" stop="20211015124500 +0700" channel="htv2">
+    <title lang="vi">Phim truyện Hàn Quốc - Cơn gió tình yêu</title>
+  </programme>
+  <programme start="20211015124500 +0700" stop="20211015134500 +0700" channel="htv2">
+    <title lang="vi">Phim truyện Hàn Quốc - Hoàng hậu Ki</title>
+  </programme>
+  <programme start="20211015134500 +0700" stop="20211015144500 +0700" channel="htv2">
+    <title lang="vi">Phim truyện Trung Quốc - Lục phiến môn</title>
+  </programme>
+  <programme start="20211015144500 +0700" stop="20211015151500 +0700" channel="htv2">
+    <title lang="vi">Chương trình cộng đồng - Kiến tạo nhịp cầu: Mùa 7</title>
+  </programme>
+  <programme start="20211015151500 +0700" stop="20211015162500 +0700" channel="htv2">
+    <title lang="vi">Giải trí Việt Nam - Tài tiếu tuyệt: Mùa 6</title>
+  </programme>
+  <programme start="20211015162500 +0700" stop="20211015170000 +0700" channel="htv2">
+    <title lang="vi">Phim tài liệu Hàn Quốc - Trà mã huyền bí</title>
+  </programme>
+  <programme start="20211015170000 +0700" stop="20211015180000 +0700" channel="htv2">
+    <title lang="vi">Phim truyện Thái Lan - Ngọn lửa đức hạnh</title>
+  </programme>
+  <programme start="20211015180000 +0700" stop="20211015190000 +0700" channel="htv2">
+    <title lang="vi">Phim truyện Trung Quốc - Tú lệ giang sơn</title>
+  </programme>
+  <programme start="20211015190000 +0700" stop="20211015200000 +0700" channel="htv2">
+    <title lang="vi">Phim truyện Thái Lan - Tráo mặt</title>
+  </programme>
+  <programme start="20211015200000 +0700" stop="20211015210000 +0700" channel="htv2">
+    <title lang="vi">Phim truyện Hàn Quốc - Chuyện nhà Poong Sang</title>
+  </programme>
+  <programme start="20211015210000 +0700" stop="20211015220000 +0700" channel="htv2">
+    <title lang="vi">Phim truyện Hàn Quốc - Bữa tiệc báo thù</title>
+  </programme>
+  <programme start="20211015220000 +0700" stop="20211015230000 +0700" channel="htv2">
+    <title lang="vi">Phim truyện Hàn Quốc - Tim anh nơi đâu</title>
+  </programme>
+  <programme start="20211015230000 +0700" stop="20211015233000 +0700" channel="htv2">
     <title lang="vi">Thời sự Việt Nam - Bản tin buổi tối</title>
   </programme>
-  <programme start="20210924230000 +0700" stop="20210924233000 +0700" channel="htv2">
+  <programme start="20211016001500 +0700" stop="20211016010000 +0700" channel="htv2">
+    <title lang="vi">Giải trí Mỹ - Tìm kiếm tài năng Mỹ: Mùa 15</title>
+  </programme>
+  <programme start="20211016010000 +0700" stop="20211016014500 +0700" channel="htv2">
+    <title lang="vi">Phim truyện Hàn Quốc - Hoàng hậu Ki</title>
+  </programme>
+  <programme start="20211016014500 +0700" stop="20211016023000 +0700" channel="htv2">
+    <title lang="vi">Phim truyện Trung Quốc - Lục phiến môn</title>
+  </programme>
+  <programme start="20211016023000 +0700" stop="20211016031500 +0700" channel="htv2">
+    <title lang="vi">Giải trí - Vitamin cười 2015 mới</title>
+  </programme>
+  <programme start="20211016031500 +0700" stop="20211016040000 +0700" channel="htv2">
+    <title lang="vi">Phim truyện Hàn Quốc - Yêu đến tận cùng</title>
+  </programme>
+  <programme start="20211016040000 +0700" stop="20211016044500 +0700" channel="htv2">
+    <title lang="vi">Giải trí Mỹ - Tìm kiếm tài năng Mỹ: Mùa 15</title>
+  </programme>
+  <programme start="20211016044500 +0700" stop="20211016054500 +0700" channel="htv2">
+    <title lang="vi">Giải trí Việt Nam - Siêu trí tuệ Việt Nam: Mùa 2</title>
+  </programme>
+  <programme start="20211016054500 +0700" stop="20211016062500 +0700" channel="htv2">
+    <title lang="vi">Thời sự Việt Nam  - Tiếp sóng Bản tin buổi sáng</title>
+  </programme>
+  <programme start="20211016062500 +0700" stop="20211016071500 +0700" channel="htv2">
+    <title lang="vi">Giải trí - Kỳ án Đông Tây kim cổ</title>
+  </programme>
+  <programme start="20211016071500 +0700" stop="20211016080000 +0700" channel="htv2">
+    <title lang="vi">Phim truyện Thái Lan - Ngọn lửa đức hạnh</title>
+  </programme>
+  <programme start="20211016080000 +0700" stop="20211016090000 +0700" channel="htv2">
+    <title lang="vi">Giải trí - Vitamin cười 2015 mới</title>
+  </programme>
+  <programme start="20211016090000 +0700" stop="20211016100000 +0700" channel="htv2">
+    <title lang="vi">Phim truyện Hàn Quốc - Khi em say giấc</title>
+  </programme>
+  <programme start="20211016100000 +0700" stop="20211016110000 +0700" channel="htv2">
+    <title lang="vi">Phim truyện Trung Quốc - Diên Hy công lược</title>
+  </programme>
+  <programme start="20211016110000 +0700" stop="20211016114500 +0700" channel="htv2">
+    <title lang="vi">Phim truyện Hàn Quốc - Yêu đến tận cùng</title>
+  </programme>
+  <programme start="20211016114500 +0700" stop="20211016124500 +0700" channel="htv2">
+    <title lang="vi">Phim truyện Hàn Quốc - Cơn gió tình yêu</title>
+  </programme>
+  <programme start="20211016124500 +0700" stop="20211016134500 +0700" channel="htv2">
+    <title lang="vi">Phim truyện Hàn Quốc - Hoàng hậu Ki</title>
+  </programme>
+  <programme start="20211016134500 +0700" stop="20211016144500 +0700" channel="htv2">
+    <title lang="vi">Phim truyện Trung Quốc - Lục phiến môn</title>
+  </programme>
+  <programme start="20211016144500 +0700" stop="20211016151500 +0700" channel="htv2">
+    <title lang="vi">Chương trình cộng đồng - Kiến tạo nhịp cầu: Mùa 7</title>
+  </programme>
+  <programme start="20211016151500 +0700" stop="20211016162500 +0700" channel="htv2">
+    <title lang="vi">Giải trí Việt Nam - Tài tiếu tuyệt: Mùa 6</title>
+  </programme>
+  <programme start="20211016162500 +0700" stop="20211016170000 +0700" channel="htv2">
+    <title lang="vi">Phim tài liệu Hàn Quốc - Trà mã huyền bí</title>
+  </programme>
+  <programme start="20211016170000 +0700" stop="20211016180000 +0700" channel="htv2">
+    <title lang="vi">Phim truyện Thái Lan - Ngọn lửa đức hạnh</title>
+  </programme>
+  <programme start="20211016180000 +0700" stop="20211016190000 +0700" channel="htv2">
+    <title lang="vi">Phim truyện Trung Quốc - Tú lệ giang sơn</title>
+  </programme>
+  <programme start="20211016190000 +0700" stop="20211016200000 +0700" channel="htv2">
+    <title lang="vi">Phim truyện Thái Lan - Tráo mặt</title>
+  </programme>
+  <programme start="20211016200000 +0700" stop="20211016210000 +0700" channel="htv2">
+    <title lang="vi">Phim truyện Hàn Quốc - Chuyện nhà Poong Sang</title>
+  </programme>
+  <programme start="20211016210000 +0700" stop="20211016220000 +0700" channel="htv2">
+    <title lang="vi">Phim truyện Hàn Quốc - Bữa tiệc báo thù</title>
+  </programme>
+  <programme start="20211016220000 +0700" stop="20211016230000 +0700" channel="htv2">
+    <title lang="vi">Phim truyện Hàn Quốc - Tim anh nơi đâu</title>
+  </programme>
+  <programme start="20211016230000 +0700" stop="20211016233000 +0700" channel="htv2">
     <title lang="vi">Thời sự Việt Nam - Bản tin buổi tối</title>
   </programme>
-  <programme start="20210924200000 +0700" stop="20210924203000 +0700" channel="htv3">
-    <title lang="vi">Sao nhập ngũ</title>
-  </programme>
-  <programme start="20210924200000 +0700" stop="20210924203000 +0700" channel="htv3">
-    <title lang="vi">Sao nhập ngũ</title>
-  </programme>
-  <programme start="20210924203000 +0700" stop="20210924210000 +0700" channel="htv3">
-    <title lang="vi">Xin chào Jadoo</title>
-  </programme>
-  <programme start="20210924203000 +0700" stop="20210924210000 +0700" channel="htv3">
-    <title lang="vi">Xin chào Jadoo</title>
-  </programme>
-  <programme start="20210924210000 +0700" stop="20210924213000 +0700" channel="htv3">
-    <title lang="vi">Doraemon - Chú mèo máy đến từ tương lai</title>
-  </programme>
-  <programme start="20210924210000 +0700" stop="20210924213000 +0700" channel="htv3">
-    <title lang="vi">Doraemon - Chú mèo máy đến từ tương lai</title>
-  </programme>
-  <programme start="20210924213000 +0700" stop="20210924220000 +0700" channel="htv3">
+  <programme start="20211015023000 +0700" stop="20211015030000 +0700" channel="htv3">
     <title lang="vi">Heo Peppa</title>
   </programme>
-  <programme start="20210924213000 +0700" stop="20210924220000 +0700" channel="htv3">
+  <programme start="20211015030000 +0700" stop="20211015033000 +0700" channel="htv3">
+    <title lang="vi">Xin chào Jadoo</title>
+  </programme>
+  <programme start="20211015033000 +0700" stop="20211015040000 +0700" channel="htv3">
     <title lang="vi">Heo Peppa</title>
   </programme>
-  <programme start="20210924220000 +0700" stop="20210924223000 +0700" channel="htv3">
-    <title lang="vi">Sao nhập ngũ</title>
-  </programme>
-  <programme start="20210924220000 +0700" stop="20210924223000 +0700" channel="htv3">
-    <title lang="vi">Sao nhập ngũ</title>
-  </programme>
-  <programme start="20210924223000 +0700" stop="20210924230000 +0700" channel="htv3">
-    <title lang="vi">Những bài học thú vị</title>
-  </programme>
-  <programme start="20210924223000 +0700" stop="20210924230000 +0700" channel="htv3">
-    <title lang="vi">Những bài học thú vị</title>
-  </programme>
-  <programme start="20210924230000 +0700" stop="20210924233000 +0700" channel="htv3">
+  <programme start="20211015040000 +0700" stop="20211015043000 +0700" channel="htv3">
     <title lang="vi">Cô bé Masha và Chú gấu xiếc</title>
   </programme>
-  <programme start="20210924230000 +0700" stop="20210924233000 +0700" channel="htv3">
+  <programme start="20211015043000 +0700" stop="20211015050000 +0700" channel="htv3">
+    <title lang="vi">Heo Peppa</title>
+  </programme>
+  <programme start="20211015050000 +0700" stop="20211015053000 +0700" channel="htv3">
+    <title lang="vi">Xin chào Jadoo</title>
+  </programme>
+  <programme start="20211015053000 +0700" stop="20211015060000 +0700" channel="htv3">
+    <title lang="vi">Heo Peppa</title>
+  </programme>
+  <programme start="20211015060000 +0700" stop="20211015063000 +0700" channel="htv3">
     <title lang="vi">Cô bé Masha và Chú gấu xiếc</title>
   </programme>
-  <programme start="20210924203000 +0700" stop="20210924204500 +0700" channel="htv4">
+  <programme start="20211015063000 +0700" stop="20211015070000 +0700" channel="htv3">
+    <title lang="vi">Heo Peppa</title>
+  </programme>
+  <programme start="20211015070000 +0700" stop="20211015073000 +0700" channel="htv3">
+    <title lang="vi">Xin chào Jadoo</title>
+  </programme>
+  <programme start="20211015073000 +0700" stop="20211015080000 +0700" channel="htv3">
+    <title lang="vi">Những bài học thú vị</title>
+  </programme>
+  <programme start="20211015080000 +0700" stop="20211015083000 +0700" channel="htv3">
+    <title lang="vi">Cô bé Masha và Chú gấu xiếc</title>
+  </programme>
+  <programme start="20211015083000 +0700" stop="20211015090000 +0700" channel="htv3">
+    <title lang="vi">Heo Peppa</title>
+  </programme>
+  <programme start="20211015090000 +0700" stop="20211015093000 +0700" channel="htv3">
+    <title lang="vi">Xin chào Jadoo</title>
+  </programme>
+  <programme start="20211015093000 +0700" stop="20211015100000 +0700" channel="htv3">
+    <title lang="vi">Doraemon - Chú mèo máy đến từ tương lai</title>
+  </programme>
+  <programme start="20211015100000 +0700" stop="20211015103000 +0700" channel="htv3">
+    <title lang="vi">Heo Peppa</title>
+  </programme>
+  <programme start="20211015103000 +0700" stop="20211015110000 +0700" channel="htv3">
+    <title lang="vi">Xin chào Jadoo</title>
+  </programme>
+  <programme start="20211015110000 +0700" stop="20211015113000 +0700" channel="htv3">
+    <title lang="vi">Sao nhập ngũ</title>
+  </programme>
+  <programme start="20211015113000 +0700" stop="20211015123000 +0700" channel="htv3">
+    <title lang="vi">Tình tay ba</title>
+  </programme>
+  <programme start="20211015123000 +0700" stop="20211015133000 +0700" channel="htv3">
+    <title lang="vi">Sự trả thù hoàn hảo</title>
+  </programme>
+  <programme start="20211015133000 +0700" stop="20211015140000 +0700" channel="htv3">
+    <title lang="vi">Những bài học thú vị</title>
+  </programme>
+  <programme start="20211015140000 +0700" stop="20211015143000 +0700" channel="htv3">
+    <title lang="vi">Heo Peppa</title>
+  </programme>
+  <programme start="20211015143000 +0700" stop="20211015150000 +0700" channel="htv3">
+    <title lang="vi">Xin chào Jadoo</title>
+  </programme>
+  <programme start="20211015150000 +0700" stop="20211015153000 +0700" channel="htv3">
+    <title lang="vi">Doraemon - Chú mèo máy đến từ tương lai</title>
+  </programme>
+  <programme start="20211015153000 +0700" stop="20211015160000 +0700" channel="htv3">
+    <title lang="vi">Heo Peppa</title>
+  </programme>
+  <programme start="20211015160000 +0700" stop="20211015163000 +0700" channel="htv3">
+    <title lang="vi">Những bài học thú vị</title>
+  </programme>
+  <programme start="20211015163000 +0700" stop="20211015170000 +0700" channel="htv3">
+    <title lang="vi">Cô bé Masha và Chú gấu xiếc</title>
+  </programme>
+  <programme start="20211015170000 +0700" stop="20211015173000 +0700" channel="htv3">
+    <title lang="vi">Heo Peppa</title>
+  </programme>
+  <programme start="20211015173000 +0700" stop="20211015180000 +0700" channel="htv3">
+    <title lang="vi">Doraemon - Chú mèo máy đến từ tương lai</title>
+  </programme>
+  <programme start="20211015180000 +0700" stop="20211015190000 +0700" channel="htv3">
+    <title lang="vi">Tình tay ba</title>
+  </programme>
+  <programme start="20211015190000 +0700" stop="20211015200000 +0700" channel="htv3">
+    <title lang="vi">Sự trả thù hoàn hảo</title>
+  </programme>
+  <programme start="20211015200000 +0700" stop="20211015203000 +0700" channel="htv3">
+    <title lang="vi">Sao nhập ngũ</title>
+  </programme>
+  <programme start="20211015203000 +0700" stop="20211015210000 +0700" channel="htv3">
+    <title lang="vi">Xin chào Jadoo</title>
+  </programme>
+  <programme start="20211015210000 +0700" stop="20211015213000 +0700" channel="htv3">
+    <title lang="vi">Doraemon - Chú mèo máy đến từ tương lai</title>
+  </programme>
+  <programme start="20211015213000 +0700" stop="20211015220000 +0700" channel="htv3">
+    <title lang="vi">Heo Peppa</title>
+  </programme>
+  <programme start="20211015220000 +0700" stop="20211015223000 +0700" channel="htv3">
+    <title lang="vi">Sao nhập ngũ</title>
+  </programme>
+  <programme start="20211015223000 +0700" stop="20211015230000 +0700" channel="htv3">
+    <title lang="vi">Những bài học thú vị</title>
+  </programme>
+  <programme start="20211015230000 +0700" stop="20211015233000 +0700" channel="htv3">
+    <title lang="vi">Cô bé Masha và Chú gấu xiếc</title>
+  </programme>
+  <programme start="20211016023000 +0700" stop="20211016030000 +0700" channel="htv3">
+    <title lang="vi">Heo Peppa</title>
+  </programme>
+  <programme start="20211016030000 +0700" stop="20211016033000 +0700" channel="htv3">
+    <title lang="vi">Xin chào Jadoo</title>
+  </programme>
+  <programme start="20211016033000 +0700" stop="20211016040000 +0700" channel="htv3">
+    <title lang="vi">Heo Peppa</title>
+  </programme>
+  <programme start="20211016040000 +0700" stop="20211016043000 +0700" channel="htv3">
+    <title lang="vi">Cô bé Masha và Chú gấu xiếc</title>
+  </programme>
+  <programme start="20211016043000 +0700" stop="20211016050000 +0700" channel="htv3">
+    <title lang="vi">Heo Peppa</title>
+  </programme>
+  <programme start="20211016050000 +0700" stop="20211016053000 +0700" channel="htv3">
+    <title lang="vi">Xin chào Jadoo</title>
+  </programme>
+  <programme start="20211016053000 +0700" stop="20211016060000 +0700" channel="htv3">
+    <title lang="vi">Heo Peppa</title>
+  </programme>
+  <programme start="20211016060000 +0700" stop="20211016063000 +0700" channel="htv3">
+    <title lang="vi">Cô bé Masha và Chú gấu xiếc</title>
+  </programme>
+  <programme start="20211016063000 +0700" stop="20211016070000 +0700" channel="htv3">
+    <title lang="vi">Heo Peppa</title>
+  </programme>
+  <programme start="20211016070000 +0700" stop="20211016073000 +0700" channel="htv3">
+    <title lang="vi">Xin chào Jadoo</title>
+  </programme>
+  <programme start="20211016073000 +0700" stop="20211016080000 +0700" channel="htv3">
+    <title lang="vi">Những bài học thú vị</title>
+  </programme>
+  <programme start="20211016080000 +0700" stop="20211016083000 +0700" channel="htv3">
+    <title lang="vi">Cô bé Masha và Chú gấu xiếc</title>
+  </programme>
+  <programme start="20211016083000 +0700" stop="20211016090000 +0700" channel="htv3">
+    <title lang="vi">Heo Peppa</title>
+  </programme>
+  <programme start="20211016090000 +0700" stop="20211016093000 +0700" channel="htv3">
+    <title lang="vi">Xin chào Jadoo</title>
+  </programme>
+  <programme start="20211016093000 +0700" stop="20211016100000 +0700" channel="htv3">
+    <title lang="vi">Doraemon - Chú mèo máy đến từ tương lai</title>
+  </programme>
+  <programme start="20211016100000 +0700" stop="20211016103000 +0700" channel="htv3">
+    <title lang="vi">Heo Peppa</title>
+  </programme>
+  <programme start="20211016103000 +0700" stop="20211016110000 +0700" channel="htv3">
+    <title lang="vi">Xin chào Jadoo</title>
+  </programme>
+  <programme start="20211016110000 +0700" stop="20211016113000 +0700" channel="htv3">
+    <title lang="vi">Sao nhập ngũ</title>
+  </programme>
+  <programme start="20211016113000 +0700" stop="20211016123000 +0700" channel="htv3">
+    <title lang="vi">Tình tay ba</title>
+  </programme>
+  <programme start="20211016123000 +0700" stop="20211016133000 +0700" channel="htv3">
+    <title lang="vi">Sự trả thù hoàn hảo</title>
+  </programme>
+  <programme start="20211016133000 +0700" stop="20211016140000 +0700" channel="htv3">
+    <title lang="vi">Những bài học thú vị</title>
+  </programme>
+  <programme start="20211016140000 +0700" stop="20211016143000 +0700" channel="htv3">
+    <title lang="vi">Heo Peppa</title>
+  </programme>
+  <programme start="20211016143000 +0700" stop="20211016150000 +0700" channel="htv3">
+    <title lang="vi">Xin chào Jadoo</title>
+  </programme>
+  <programme start="20211016150000 +0700" stop="20211016153000 +0700" channel="htv3">
+    <title lang="vi">Doraemon - Chú mèo máy đến từ tương lai</title>
+  </programme>
+  <programme start="20211016153000 +0700" stop="20211016160000 +0700" channel="htv3">
+    <title lang="vi">Heo Peppa</title>
+  </programme>
+  <programme start="20211016160000 +0700" stop="20211016163000 +0700" channel="htv3">
+    <title lang="vi">Những bài học thú vị</title>
+  </programme>
+  <programme start="20211016163000 +0700" stop="20211016170000 +0700" channel="htv3">
+    <title lang="vi">Cô bé Masha và Chú gấu xiếc</title>
+  </programme>
+  <programme start="20211016170000 +0700" stop="20211016173000 +0700" channel="htv3">
+    <title lang="vi">Heo Peppa</title>
+  </programme>
+  <programme start="20211016173000 +0700" stop="20211016180000 +0700" channel="htv3">
+    <title lang="vi">Doraemon - Chú mèo máy đến từ tương lai</title>
+  </programme>
+  <programme start="20211016180000 +0700" stop="20211016190000 +0700" channel="htv3">
+    <title lang="vi">Tình tay ba</title>
+  </programme>
+  <programme start="20211016190000 +0700" stop="20211016200000 +0700" channel="htv3">
+    <title lang="vi">Sự trả thù hoàn hảo</title>
+  </programme>
+  <programme start="20211016200000 +0700" stop="20211016203000 +0700" channel="htv3">
+    <title lang="vi">Sao nhập ngũ</title>
+  </programme>
+  <programme start="20211016203000 +0700" stop="20211016210000 +0700" channel="htv3">
+    <title lang="vi">Xin chào Jadoo</title>
+  </programme>
+  <programme start="20211016210000 +0700" stop="20211016213000 +0700" channel="htv3">
+    <title lang="vi">Doraemon - Chú mèo máy đến từ tương lai</title>
+  </programme>
+  <programme start="20211016213000 +0700" stop="20211016220000 +0700" channel="htv3">
+    <title lang="vi">Heo Peppa</title>
+  </programme>
+  <programme start="20211016220000 +0700" stop="20211016223000 +0700" channel="htv3">
+    <title lang="vi">Sao nhập ngũ</title>
+  </programme>
+  <programme start="20211016223000 +0700" stop="20211016230000 +0700" channel="htv3">
+    <title lang="vi">Những bài học thú vị</title>
+  </programme>
+  <programme start="20211016230000 +0700" stop="20211016233000 +0700" channel="htv3">
+    <title lang="vi">Cô bé Masha và Chú gấu xiếc</title>
+  </programme>
+  <programme start="20211015050000 +0700" stop="20211015053000 +0700" channel="htv4">
+    <title lang="vi">Phim tài liệu nước ngoài</title>
+  </programme>
+  <programme start="20211015053000 +0700" stop="20211015054500 +0700" channel="htv4">
+    <title lang="vi">Thể dục cho mọi người</title>
+  </programme>
+  <programme start="20211015054500 +0700" stop="20211015061500 +0700" channel="htv4">
+    <title lang="vi">Phim tài liệu nước ngoài</title>
+  </programme>
+  <programme start="20211015061500 +0700" stop="20211015073000 +0700" channel="htv4">
+    <title lang="vi">Sân khấu</title>
+  </programme>
+  <programme start="20211015073000 +0700" stop="20211015081500 +0700" channel="htv4">
+    <title lang="vi">Dạy học lớp 6: Khoa học tự nhiên - Bài 2: Quy định an toàn trong phòng thực hành. Giới thiệu một số dụng cụ đo - sử dụng kính lúp và kính hiển vi</title>
+  </programme>
+  <programme start="20211015081500 +0700" stop="20211015090000 +0700" channel="htv4">
+    <title lang="vi">Dạy học lớp 6: Địa lý - Bài 1: Bản đồ - các ký hiệu trên bản đồ và phương hướng trên bản đồ</title>
+  </programme>
+  <programme start="20211015090000 +0700" stop="20211015092500 +0700" channel="htv4">
+    <title lang="vi">Dạy học lớp 1: Tiếng Việt - Bài 29: Ôn tập</title>
+  </programme>
+  <programme start="20211015092500 +0700" stop="20211015095000 +0700" channel="htv4">
+    <title lang="vi">Dạy học lớp 1: Tiếng Việt - Bài 30: Kể chuyện</title>
+  </programme>
+  <programme start="20211015095000 +0700" stop="20211015111500 +0700" channel="htv4">
+    <title lang="vi">Dạy học lớp 1: Toán - Bài 13: Tách gộp số</title>
+  </programme>
+  <programme start="20211015111500 +0700" stop="20211015125000 +0700" channel="htv4">
+    <title lang="vi">Phim truyện Việt Nam: Trái tim của sói</title>
+  </programme>
+  <programme start="20211015125000 +0700" stop="20211015141000 +0700" channel="htv4">
+    <title lang="vi">Sân khấu</title>
+  </programme>
+  <programme start="20211015141000 +0700" stop="20211015150000 +0700" channel="htv4">
+    <title lang="vi">Nhà chung</title>
+  </programme>
+  <programme start="20211015150000 +0700" stop="20211015152500 +0700" channel="htv4">
+    <title lang="vi">Dạy học lớp 1: Tiếng Việt - Bài 29: Ôn tập</title>
+  </programme>
+  <programme start="20211015152500 +0700" stop="20211015155000 +0700" channel="htv4">
+    <title lang="vi">Dạy học lớp 1: Tiếng Việt - Bài 30: Kể chuyện</title>
+  </programme>
+  <programme start="20211015155000 +0700" stop="20211015161500 +0700" channel="htv4">
+    <title lang="vi">Dạy học lớp 1: Toán - Bài 13: Tách gộp số</title>
+  </programme>
+  <programme start="20211015161500 +0700" stop="20211015164000 +0700" channel="htv4">
+    <title lang="vi">Dạy học lớp 1: Tiếng Việt - Bài 29: Ôn tập</title>
+  </programme>
+  <programme start="20211015164000 +0700" stop="20211015170500 +0700" channel="htv4">
+    <title lang="vi">Dạy học lớp 1: Tiếng Việt - Bài 30: Kể chuyện</title>
+  </programme>
+  <programme start="20211015170500 +0700" stop="20211015190000 +0700" channel="htv4">
+    <title lang="vi">Dạy học lớp 1: Toán - Bài 13: Tách gộp số</title>
+  </programme>
+  <programme start="20211015190000 +0700" stop="20211015203000 +0700" channel="htv4">
+    <title lang="vi">Phim truyện Việt Nam: Những chuyên án lạ</title>
+  </programme>
+  <programme start="20211015203000 +0700" stop="20211015204500 +0700" channel="htv4">
     <title lang="vi">Sống khỏe sống đẹp</title>
   </programme>
-  <programme start="20210924203000 +0700" stop="20210924204500 +0700" channel="htv4">
+  <programme start="20211015204500 +0700" stop="20211015220000 +0700" channel="htv4">
+    <title lang="vi">Kết nối không giới hạn</title>
+  </programme>
+  <programme start="20211016050000 +0700" stop="20211016053000 +0700" channel="htv4">
+    <title lang="vi">Phim tài liệu nước ngoài</title>
+  </programme>
+  <programme start="20211016053000 +0700" stop="20211016054500 +0700" channel="htv4">
+    <title lang="vi">Thể dục cho mọi người</title>
+  </programme>
+  <programme start="20211016054500 +0700" stop="20211016061500 +0700" channel="htv4">
+    <title lang="vi">Phim tài liệu nước ngoài</title>
+  </programme>
+  <programme start="20211016061500 +0700" stop="20211016073000 +0700" channel="htv4">
+    <title lang="vi">Sân khấu</title>
+  </programme>
+  <programme start="20211016073000 +0700" stop="20211016081500 +0700" channel="htv4">
+    <title lang="vi">Dạy học lớp 6: Khoa học tự nhiên - Bài 2: Quy định an toàn trong phòng thực hành. Giới thiệu một số dụng cụ đo - sử dụng kính lúp và kính hiển vi</title>
+  </programme>
+  <programme start="20211016081500 +0700" stop="20211016090000 +0700" channel="htv4">
+    <title lang="vi">Dạy học lớp 6: Địa lý - Bài 1: Bản đồ - các ký hiệu trên bản đồ và phương hướng trên bản đồ</title>
+  </programme>
+  <programme start="20211016090000 +0700" stop="20211016092500 +0700" channel="htv4">
+    <title lang="vi">Dạy học lớp 1: Tiếng Việt - Bài 29: Ôn tập</title>
+  </programme>
+  <programme start="20211016092500 +0700" stop="20211016095000 +0700" channel="htv4">
+    <title lang="vi">Dạy học lớp 1: Tiếng Việt - Bài 30: Kể chuyện</title>
+  </programme>
+  <programme start="20211016095000 +0700" stop="20211016111500 +0700" channel="htv4">
+    <title lang="vi">Dạy học lớp 1: Toán - Bài 13: Tách gộp số</title>
+  </programme>
+  <programme start="20211016111500 +0700" stop="20211016125000 +0700" channel="htv4">
+    <title lang="vi">Phim truyện Việt Nam: Trái tim của sói</title>
+  </programme>
+  <programme start="20211016125000 +0700" stop="20211016141000 +0700" channel="htv4">
+    <title lang="vi">Sân khấu</title>
+  </programme>
+  <programme start="20211016141000 +0700" stop="20211016150000 +0700" channel="htv4">
+    <title lang="vi">Nhà chung</title>
+  </programme>
+  <programme start="20211016150000 +0700" stop="20211016152500 +0700" channel="htv4">
+    <title lang="vi">Dạy học lớp 1: Tiếng Việt - Bài 29: Ôn tập</title>
+  </programme>
+  <programme start="20211016152500 +0700" stop="20211016155000 +0700" channel="htv4">
+    <title lang="vi">Dạy học lớp 1: Tiếng Việt - Bài 30: Kể chuyện</title>
+  </programme>
+  <programme start="20211016155000 +0700" stop="20211016161500 +0700" channel="htv4">
+    <title lang="vi">Dạy học lớp 1: Toán - Bài 13: Tách gộp số</title>
+  </programme>
+  <programme start="20211016161500 +0700" stop="20211016164000 +0700" channel="htv4">
+    <title lang="vi">Dạy học lớp 1: Tiếng Việt - Bài 29: Ôn tập</title>
+  </programme>
+  <programme start="20211016164000 +0700" stop="20211016170500 +0700" channel="htv4">
+    <title lang="vi">Dạy học lớp 1: Tiếng Việt - Bài 30: Kể chuyện</title>
+  </programme>
+  <programme start="20211016170500 +0700" stop="20211016190000 +0700" channel="htv4">
+    <title lang="vi">Dạy học lớp 1: Toán - Bài 13: Tách gộp số</title>
+  </programme>
+  <programme start="20211016190000 +0700" stop="20211016203000 +0700" channel="htv4">
+    <title lang="vi">Phim truyện Việt Nam: Những chuyên án lạ</title>
+  </programme>
+  <programme start="20211016203000 +0700" stop="20211016204500 +0700" channel="htv4">
     <title lang="vi">Sống khỏe sống đẹp</title>
   </programme>
-  <programme start="20210924204500 +0700" stop="20210924220000 +0700" channel="htv4">
+  <programme start="20211016204500 +0700" stop="20211016220000 +0700" channel="htv4">
     <title lang="vi">Kết nối không giới hạn</title>
-  </programme>
-  <programme start="20210924204500 +0700" stop="20210924220000 +0700" channel="htv4">
-    <title lang="vi">Kết nối không giới hạn</title>
-  </programme>
-  <programme start="20210924220000 +0700" stop="20210924223000 +0700" channel="htv4">
-    <title lang="vi">Bản tin 60s</title>
-  </programme>
-  <programme start="20210924220000 +0700" stop="20210924223000 +0700" channel="htv4">
-    <title lang="vi">Bản tin 60s</title>
   </programme>
 </tv>

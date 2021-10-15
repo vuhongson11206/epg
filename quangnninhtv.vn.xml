@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="quang.ninh1">
+    <display-name lang="vi">Quảng Ninh 1</display-name>
+    <url>http://www.baoquangninh.com.vn</url>
+  </channel>
+  <channel id="quang.ninh3">
+    <display-name lang="vi">Quảng Ninh 3</display-name>
+    <url>http://www.baoquangninh.com.vn</url>
+  </channel>
+</tv>

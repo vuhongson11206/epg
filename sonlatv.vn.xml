@@ -1,0 +1,364 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="son.la">
+    <display-name lang="vi">Sơn La</display-name>
+    <url>http://www.sonlatv.vn</url>
+  </channel>
+  <programme start="20210925001500 +0700" stop="20210925052500 +0700" channel="son.la">
+    <title lang="vi">Giới thiệu phóng sự, chuyên mục</title>
+  </programme>
+  <programme start="20210925052500 +0700" stop="20210925053000 +0700" channel="son.la">
+    <title lang="vi">Nhạc hiệu STV + Giới thiệu chương trình</title>
+  </programme>
+  <programme start="20210925053000 +0700" stop="20210925060000 +0700" channel="son.la">
+    <title lang="vi">Chương trình văn nghệ: Dân ca dân vũ</title>
+  </programme>
+  <programme start="20210925060000 +0700" stop="20210925061500 +0700" channel="son.la">
+    <title lang="vi">Chào ngày mới</title>
+  </programme>
+  <programme start="20210925061500 +0700" stop="20210925063000 +0700" channel="son.la">
+    <title lang="vi">CM Xây dựng nông thôn mới: Nông thôn đổi mới nhờ cây cà phê</title>
+  </programme>
+  <programme start="20210925063000 +0700" stop="20210925070000 +0700" channel="son.la">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20210925070000 +0700" stop="20210925070500 +0700" channel="son.la">
+    <title lang="vi">CM Mỗi ngày một cuốn sách: Chỉ có thể cùng bạn đi một đoạn đường</title>
+  </programme>
+  <programme start="20210925070500 +0700" stop="20210925071500 +0700" channel="son.la">
+    <title lang="vi">Chuyên đề  Ma túy/ HIV/AIDS (Tiếng Thái)</title>
+  </programme>
+  <programme start="20210925071500 +0700" stop="20210925072000 +0700" channel="son.la">
+    <title lang="vi">Chuyên mục  Hỏi- Đáp pháp luật</title>
+  </programme>
+  <programme start="20210925072000 +0700" stop="20210925073500 +0700" channel="son.la">
+    <title lang="vi">Tác phẩm với công chúng: “ Chuyện tình Nộc Khum” Mới</title>
+  </programme>
+  <programme start="20210925073500 +0700" stop="20210925074000 +0700" channel="son.la">
+    <title lang="vi">Điểm báo Sơn La</title>
+  </programme>
+  <programme start="20210925074000 +0700" stop="20210925075500 +0700" channel="son.la">
+    <title lang="vi">Chuyên đề kinh tế: Phát triển kinh tế từ vốn vay giải quyết việc làm</title>
+  </programme>
+  <programme start="20210925075500 +0700" stop="20210925080000 +0700" channel="son.la">
+    <title lang="vi">Thông tin- Quảng cáo</title>
+  </programme>
+  <programme start="20210925080000 +0700" stop="20210925084500 +0700" channel="son.la">
+    <title lang="vi">Phim TQ: "Bà trùm" tập 10</title>
+  </programme>
+  <programme start="20210925084500 +0700" stop="20210925090000 +0700" channel="son.la">
+    <title lang="vi">Trang Cơ sở huyện Mường La</title>
+  </programme>
+  <programme start="20210925090000 +0700" stop="20210925094500 +0700" channel="son.la">
+    <title lang="vi">Phim VN: "Nợ anh một giấc mơ" tập 4</title>
+  </programme>
+  <programme start="20210925094500 +0700" stop="20210925095500 +0700" channel="son.la">
+    <title lang="vi">CM Khuyến học: Công tác tổ chức Đại hội Hội khuyến học cấp cơ sở</title>
+  </programme>
+  <programme start="20210925095500 +0700" stop="20210925100000 +0700" channel="son.la">
+    <title lang="vi">Giới thiệu phóng sự, chuyên mục, phim</title>
+  </programme>
+  <programme start="20210925100000 +0700" stop="20210925104500 +0700" channel="son.la">
+    <title lang="vi">Phim TQ: "Bản án lương tâm" tập 2</title>
+  </programme>
+  <programme start="20210925104500 +0700" stop="20210925110000 +0700" channel="son.la">
+    <title lang="vi">Chương trình thiếu nhi: Cuộc phiêu lưu của rùa con (Tập 1)</title>
+  </programme>
+  <programme start="20210925110000 +0700" stop="20210925111000 +0700" channel="son.la">
+    <title lang="vi">Phóng sự:  Chủ động phòng chống dịch, duy trì sản xuất kinh doanh</title>
+  </programme>
+  <programme start="20210925111000 +0700" stop="20210925113000 +0700" channel="son.la">
+    <title lang="vi">Bản tin tiếng Thái</title>
+  </programme>
+  <programme start="20210925113000 +0700" stop="20210925115000 +0700" channel="son.la">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20210925115000 +0700" stop="20210925115500 +0700" channel="son.la">
+    <title lang="vi">Thông tin quảng cáo, Giới thiệu chương trình</title>
+  </programme>
+  <programme start="20210925115500 +0700" stop="20210925120000 +0700" channel="son.la">
+    <title lang="vi">Bản tin văn hóa</title>
+  </programme>
+  <programme start="20210925120000 +0700" stop="20210925124500 +0700" channel="son.la">
+    <title lang="vi">Phim VN: "Hôn lễ mùa thu" tập 11</title>
+  </programme>
+  <programme start="20210925124500 +0700" stop="20210925131500 +0700" channel="son.la">
+    <title lang="vi">Chương trình văn nghệ: Dân ca dân vũ</title>
+  </programme>
+  <programme start="20210925131500 +0700" stop="20210925134000 +0700" channel="son.la">
+    <title lang="vi">Sắc màu Tây Bắc: Hoa văn người Xuồng ở Đông Minh</title>
+  </programme>
+  <programme start="20210925134000 +0700" stop="20210925141000 +0700" channel="son.la">
+    <title lang="vi">Phim Tài Liệu: Tuyên Quang nơi lưu giữ những giá trị lịch sử của ngành Tài chính Việt Nam</title>
+  </programme>
+  <programme start="20210925141000 +0700" stop="20210925144000 +0700" channel="son.la">
+    <title lang="vi">Khát vọng độc lập tự do (Năm 2000-P2)</title>
+  </programme>
+  <programme start="20210925144000 +0700" stop="20210925144500 +0700" channel="son.la">
+    <title lang="vi">CM Mỗi ngày một cuốn sách: Những bước dẫn đến thành công</title>
+  </programme>
+  <programme start="20210925144500 +0700" stop="20210925145500 +0700" channel="son.la">
+    <title lang="vi">Chuyên đề  Ma túy/ HIV/AIDS (Tiếng Thái)</title>
+  </programme>
+  <programme start="20210925145500 +0700" stop="20210925150000 +0700" channel="son.la">
+    <title lang="vi">Giới thiệu phim</title>
+  </programme>
+  <programme start="20210925150000 +0700" stop="20210925152000 +0700" channel="son.la">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20210925152000 +0700" stop="20210925152500 +0700" channel="son.la">
+    <title lang="vi">Giới thiệu phóng sự, chuyên mục</title>
+  </programme>
+  <programme start="20210925152500 +0700" stop="20210925161000 +0700" channel="son.la">
+    <title lang="vi">Phim TQ: "Bản án lương tâm" tập 2</title>
+  </programme>
+  <programme start="20210925161000 +0700" stop="20210925163000 +0700" channel="son.la">
+    <title lang="vi">Bản tin tiếng Thái</title>
+  </programme>
+  <programme start="20210925163000 +0700" stop="20210925163500 +0700" channel="son.la">
+    <title lang="vi">Sơn La miền đất con người: Nghề làm đệm của người Thái Quỳnh Nhai</title>
+  </programme>
+  <programme start="20210925163500 +0700" stop="20210925165000 +0700" channel="son.la">
+    <title lang="vi">CM ATGT: Mai Sơn tăng cường đảm bảo ATGT</title>
+  </programme>
+  <programme start="20210925165000 +0700" stop="20210925171000 +0700" channel="son.la">
+    <title lang="vi">CM Xây dựng Đảng: Tạo nguồn đảng viên, vấn đề cần quan tâm</title>
+  </programme>
+  <programme start="20210925171000 +0700" stop="20210925175500 +0700" channel="son.la">
+    <title lang="vi">Phim VN: "Nợ anh một giấc mơ" tập 4</title>
+  </programme>
+  <programme start="20210925175500 +0700" stop="20210925181000 +0700" channel="son.la">
+    <title lang="vi">Chương trình thiếu nhi: Cuộc phiêu lưu của rùa con (Tập 1)</title>
+  </programme>
+  <programme start="20210925181000 +0700" stop="20210925183000 +0700" channel="son.la">
+    <title lang="vi">Bản tin tiếng Mông</title>
+  </programme>
+  <programme start="20210925183000 +0700" stop="20210925184500 +0700" channel="son.la">
+    <title lang="vi">Trang Cơ sở huyện Thuận Châu</title>
+  </programme>
+  <programme start="20210925184500 +0700" stop="20210925185000 +0700" channel="son.la">
+    <title lang="vi">Bản tin an ninh trật tự</title>
+  </programme>
+  <programme start="20210925185000 +0700" stop="20210925185500 +0700" channel="son.la">
+    <title lang="vi">Chuyên mục  Hỏi- Đáp pháp luật</title>
+  </programme>
+  <programme start="20210925185500 +0700" stop="20210925190000 +0700" channel="son.la">
+    <title lang="vi">Thông tin quảng cáo</title>
+  </programme>
+  <programme start="20210925190000 +0700" stop="20210925195500 +0700" channel="son.la">
+    <title lang="vi">Tiếp sóng VTV1</title>
+  </programme>
+  <programme start="20210925195500 +0700" stop="20210925200000 +0700" channel="son.la">
+    <title lang="vi">Thông tin quảng cáo</title>
+  </programme>
+  <programme start="20210925200000 +0700" stop="20210925203000 +0700" channel="son.la">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20210925203000 +0700" stop="20210925203500 +0700" channel="son.la">
+    <title lang="vi">Thông tin quảng cáo</title>
+  </programme>
+  <programme start="20210925203500 +0700" stop="20210925204000 +0700" channel="son.la">
+    <title lang="vi">Thông tin giá cả</title>
+  </programme>
+  <programme start="20210925204000 +0700" stop="20210925205500 +0700" channel="son.la">
+    <title lang="vi">CM Diễn đàn cử tri: Đối thoại, lắng nghe tạo sự đồng thuận của nhân dân</title>
+  </programme>
+  <programme start="20210925205500 +0700" stop="20210925211000 +0700" channel="son.la">
+    <title lang="vi">CM Thuế và cuộc sống: Hỗ trợ doanh nghiệp, hộ kinh doanh vượt qua khó khăn</title>
+  </programme>
+  <programme start="20210925211000 +0700" stop="20210925212500 +0700" channel="son.la">
+    <title lang="vi">CM Nông dân hội nhập: Hiệu quả mô hình trồng rau trái vụ ở Yên Châu</title>
+  </programme>
+  <programme start="20210925212500 +0700" stop="20210925221000 +0700" channel="son.la">
+    <title lang="vi">Phim TQ: "Bà trùm" tập 11</title>
+  </programme>
+  <programme start="20210925221000 +0700" stop="20210925222500 +0700" channel="son.la">
+    <title lang="vi">Tạp chí Văn hóa - Văn nghệ : Những người lưu giữ hồn văn hóa xứ Mộc.</title>
+  </programme>
+  <programme start="20210925222500 +0700" stop="20210925232500 +0700" channel="son.la">
+    <title lang="vi">Game Show Về bản em –  Chiềng Sơ, Sông Mã</title>
+  </programme>
+  <programme start="20210925232500 +0700" stop="20210925235500 +0700" channel="son.la">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20210925235500 +0700" stop="20210926001500 +0700" channel="son.la">
+    <title lang="vi">Bản tin tiếng Mông</title>
+  </programme>
+  <programme start="20210926001500 +0700" stop="20210926052500 +0700" channel="son.la">
+    <title lang="vi">Giới thiệu phóng sự, chuyên mục</title>
+  </programme>
+  <programme start="20210926052500 +0700" stop="20210926053000 +0700" channel="son.la">
+    <title lang="vi">Nhạc hiệu STV + Giới thiệu chương trình</title>
+  </programme>
+  <programme start="20210926053000 +0700" stop="20210926060000 +0700" channel="son.la">
+    <title lang="vi">Chương trình văn nghệ: Dân ca dân vũ</title>
+  </programme>
+  <programme start="20210926060000 +0700" stop="20210926061500 +0700" channel="son.la">
+    <title lang="vi">Chào ngày mới</title>
+  </programme>
+  <programme start="20210926061500 +0700" stop="20210926063000 +0700" channel="son.la">
+    <title lang="vi">CM Xây dựng nông thôn mới: Nông thôn đổi mới nhờ cây cà phê</title>
+  </programme>
+  <programme start="20210926063000 +0700" stop="20210926070000 +0700" channel="son.la">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20210926070000 +0700" stop="20210926070500 +0700" channel="son.la">
+    <title lang="vi">CM Mỗi ngày một cuốn sách: Chỉ có thể cùng bạn đi một đoạn đường</title>
+  </programme>
+  <programme start="20210926070500 +0700" stop="20210926071500 +0700" channel="son.la">
+    <title lang="vi">Chuyên đề  Ma túy/ HIV/AIDS (Tiếng Thái)</title>
+  </programme>
+  <programme start="20210926071500 +0700" stop="20210926072000 +0700" channel="son.la">
+    <title lang="vi">Chuyên mục  Hỏi- Đáp pháp luật</title>
+  </programme>
+  <programme start="20210926072000 +0700" stop="20210926073500 +0700" channel="son.la">
+    <title lang="vi">Tác phẩm với công chúng: “ Chuyện tình Nộc Khum” Mới</title>
+  </programme>
+  <programme start="20210926073500 +0700" stop="20210926074000 +0700" channel="son.la">
+    <title lang="vi">Điểm báo Sơn La</title>
+  </programme>
+  <programme start="20210926074000 +0700" stop="20210926075500 +0700" channel="son.la">
+    <title lang="vi">Chuyên đề kinh tế: Phát triển kinh tế từ vốn vay giải quyết việc làm</title>
+  </programme>
+  <programme start="20210926075500 +0700" stop="20210926080000 +0700" channel="son.la">
+    <title lang="vi">Thông tin- Quảng cáo</title>
+  </programme>
+  <programme start="20210926080000 +0700" stop="20210926084500 +0700" channel="son.la">
+    <title lang="vi">Phim TQ: "Bà trùm" tập 10</title>
+  </programme>
+  <programme start="20210926084500 +0700" stop="20210926090000 +0700" channel="son.la">
+    <title lang="vi">Trang Cơ sở huyện Mường La</title>
+  </programme>
+  <programme start="20210926090000 +0700" stop="20210926094500 +0700" channel="son.la">
+    <title lang="vi">Phim VN: "Nợ anh một giấc mơ" tập 4</title>
+  </programme>
+  <programme start="20210926094500 +0700" stop="20210926095500 +0700" channel="son.la">
+    <title lang="vi">CM Khuyến học: Công tác tổ chức Đại hội Hội khuyến học cấp cơ sở</title>
+  </programme>
+  <programme start="20210926095500 +0700" stop="20210926100000 +0700" channel="son.la">
+    <title lang="vi">Giới thiệu phóng sự, chuyên mục, phim</title>
+  </programme>
+  <programme start="20210926100000 +0700" stop="20210926104500 +0700" channel="son.la">
+    <title lang="vi">Phim TQ: "Bản án lương tâm" tập 2</title>
+  </programme>
+  <programme start="20210926104500 +0700" stop="20210926110000 +0700" channel="son.la">
+    <title lang="vi">Chương trình thiếu nhi: Cuộc phiêu lưu của rùa con (Tập 1)</title>
+  </programme>
+  <programme start="20210926110000 +0700" stop="20210926111000 +0700" channel="son.la">
+    <title lang="vi">Phóng sự:  Chủ động phòng chống dịch, duy trì sản xuất kinh doanh</title>
+  </programme>
+  <programme start="20210926111000 +0700" stop="20210926113000 +0700" channel="son.la">
+    <title lang="vi">Bản tin tiếng Thái</title>
+  </programme>
+  <programme start="20210926113000 +0700" stop="20210926115000 +0700" channel="son.la">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20210926115000 +0700" stop="20210926115500 +0700" channel="son.la">
+    <title lang="vi">Thông tin quảng cáo, Giới thiệu chương trình</title>
+  </programme>
+  <programme start="20210926115500 +0700" stop="20210926120000 +0700" channel="son.la">
+    <title lang="vi">Bản tin văn hóa</title>
+  </programme>
+  <programme start="20210926120000 +0700" stop="20210926124500 +0700" channel="son.la">
+    <title lang="vi">Phim VN: "Hôn lễ mùa thu" tập 11</title>
+  </programme>
+  <programme start="20210926124500 +0700" stop="20210926131500 +0700" channel="son.la">
+    <title lang="vi">Chương trình văn nghệ: Dân ca dân vũ</title>
+  </programme>
+  <programme start="20210926131500 +0700" stop="20210926134000 +0700" channel="son.la">
+    <title lang="vi">Sắc màu Tây Bắc: Hoa văn người Xuồng ở Đông Minh</title>
+  </programme>
+  <programme start="20210926134000 +0700" stop="20210926141000 +0700" channel="son.la">
+    <title lang="vi">Phim Tài Liệu: Tuyên Quang nơi lưu giữ những giá trị lịch sử của ngành Tài chính Việt Nam</title>
+  </programme>
+  <programme start="20210926141000 +0700" stop="20210926144000 +0700" channel="son.la">
+    <title lang="vi">Khát vọng độc lập tự do (Năm 2000-P2)</title>
+  </programme>
+  <programme start="20210926144000 +0700" stop="20210926144500 +0700" channel="son.la">
+    <title lang="vi">CM Mỗi ngày một cuốn sách: Những bước dẫn đến thành công</title>
+  </programme>
+  <programme start="20210926144500 +0700" stop="20210926145500 +0700" channel="son.la">
+    <title lang="vi">Chuyên đề  Ma túy/ HIV/AIDS (Tiếng Thái)</title>
+  </programme>
+  <programme start="20210926145500 +0700" stop="20210926150000 +0700" channel="son.la">
+    <title lang="vi">Giới thiệu phim</title>
+  </programme>
+  <programme start="20210926150000 +0700" stop="20210926152000 +0700" channel="son.la">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20210926152000 +0700" stop="20210926152500 +0700" channel="son.la">
+    <title lang="vi">Giới thiệu phóng sự, chuyên mục</title>
+  </programme>
+  <programme start="20210926152500 +0700" stop="20210926161000 +0700" channel="son.la">
+    <title lang="vi">Phim TQ: "Bản án lương tâm" tập 2</title>
+  </programme>
+  <programme start="20210926161000 +0700" stop="20210926163000 +0700" channel="son.la">
+    <title lang="vi">Bản tin tiếng Thái</title>
+  </programme>
+  <programme start="20210926163000 +0700" stop="20210926163500 +0700" channel="son.la">
+    <title lang="vi">Sơn La miền đất con người: Nghề làm đệm của người Thái Quỳnh Nhai</title>
+  </programme>
+  <programme start="20210926163500 +0700" stop="20210926165000 +0700" channel="son.la">
+    <title lang="vi">CM ATGT: Mai Sơn tăng cường đảm bảo ATGT</title>
+  </programme>
+  <programme start="20210926165000 +0700" stop="20210926171000 +0700" channel="son.la">
+    <title lang="vi">CM Xây dựng Đảng: Tạo nguồn đảng viên, vấn đề cần quan tâm</title>
+  </programme>
+  <programme start="20210926171000 +0700" stop="20210926175500 +0700" channel="son.la">
+    <title lang="vi">Phim VN: "Nợ anh một giấc mơ" tập 4</title>
+  </programme>
+  <programme start="20210926175500 +0700" stop="20210926181000 +0700" channel="son.la">
+    <title lang="vi">Chương trình thiếu nhi: Cuộc phiêu lưu của rùa con (Tập 1)</title>
+  </programme>
+  <programme start="20210926181000 +0700" stop="20210926183000 +0700" channel="son.la">
+    <title lang="vi">Bản tin tiếng Mông</title>
+  </programme>
+  <programme start="20210926183000 +0700" stop="20210926184500 +0700" channel="son.la">
+    <title lang="vi">Trang Cơ sở huyện Thuận Châu</title>
+  </programme>
+  <programme start="20210926184500 +0700" stop="20210926185000 +0700" channel="son.la">
+    <title lang="vi">Bản tin an ninh trật tự</title>
+  </programme>
+  <programme start="20210926185000 +0700" stop="20210926185500 +0700" channel="son.la">
+    <title lang="vi">Chuyên mục  Hỏi- Đáp pháp luật</title>
+  </programme>
+  <programme start="20210926185500 +0700" stop="20210926190000 +0700" channel="son.la">
+    <title lang="vi">Thông tin quảng cáo</title>
+  </programme>
+  <programme start="20210926190000 +0700" stop="20210926195500 +0700" channel="son.la">
+    <title lang="vi">Tiếp sóng VTV1</title>
+  </programme>
+  <programme start="20210926195500 +0700" stop="20210926200000 +0700" channel="son.la">
+    <title lang="vi">Thông tin quảng cáo</title>
+  </programme>
+  <programme start="20210926200000 +0700" stop="20210926203000 +0700" channel="son.la">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20210926203000 +0700" stop="20210926203500 +0700" channel="son.la">
+    <title lang="vi">Thông tin quảng cáo</title>
+  </programme>
+  <programme start="20210926203500 +0700" stop="20210926204000 +0700" channel="son.la">
+    <title lang="vi">Thông tin giá cả</title>
+  </programme>
+  <programme start="20210926204000 +0700" stop="20210926205500 +0700" channel="son.la">
+    <title lang="vi">CM Diễn đàn cử tri: Đối thoại, lắng nghe tạo sự đồng thuận của nhân dân</title>
+  </programme>
+  <programme start="20210926205500 +0700" stop="20210926211000 +0700" channel="son.la">
+    <title lang="vi">CM Thuế và cuộc sống: Hỗ trợ doanh nghiệp, hộ kinh doanh vượt qua khó khăn</title>
+  </programme>
+  <programme start="20210926211000 +0700" stop="20210926212500 +0700" channel="son.la">
+    <title lang="vi">CM Nông dân hội nhập: Hiệu quả mô hình trồng rau trái vụ ở Yên Châu</title>
+  </programme>
+  <programme start="20210926212500 +0700" stop="20210926221000 +0700" channel="son.la">
+    <title lang="vi">Phim TQ: "Bà trùm" tập 11</title>
+  </programme>
+  <programme start="20210926221000 +0700" stop="20210926222500 +0700" channel="son.la">
+    <title lang="vi">Tạp chí Văn hóa - Văn nghệ : Những người lưu giữ hồn văn hóa xứ Mộc.</title>
+  </programme>
+  <programme start="20210926222500 +0700" stop="20210926232500 +0700" channel="son.la">
+    <title lang="vi">Game Show Về bản em –  Chiềng Sơ, Sông Mã</title>
+  </programme>
+  <programme start="20210926232500 +0700" stop="20210926235500 +0700" channel="son.la">
+    <title lang="vi">Thời sự</title>
+  </programme>
+</tv>

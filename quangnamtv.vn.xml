@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="quang.nam">
+    <display-name lang="vi">Quảng Nam</display-name>
+    <url>http://www.qrt.vn</url>
+  </channel>
+  <programme start="20210926054000 +0700" stop="20210926063500 +0700" channel="quang.nam">
+    <title lang="vi">Giai Điệu Bolero</title>
+  </programme>
+  <programme start="20210926063500 +0700" stop="20210926070000 +0700" channel="quang.nam">
+    <title lang="vi">Cho Ngày Mai Tươi Sáng</title>
+  </programme>
+  <programme start="20210926070000 +0700" stop="20210926071500 +0700" channel="quang.nam">
+    <title lang="vi">Trang Địa Phương</title>
+    <sub-title lang="vi">Huyện Bắc Trà My</sub-title>
+  </programme>
+  <programme start="20210926071500 +0700" stop="20210926080000 +0700" channel="quang.nam">
+    <title lang="vi">Phim Truyện</title>
+    <sub-title lang="vi">Tình Yêu Chocolate - Tập 79</sub-title>
+  </programme>
+  <programme start="20210926080000 +0700" stop="20210926081500 +0700" channel="quang.nam">
+    <title lang="vi">Xây Dựng Nông Thôn Mới</title>
+  </programme>
+  <programme start="20210926081500 +0700" stop="20210926083000 +0700" channel="quang.nam">
+    <title lang="vi">Truyền Hình Nhân Đạo</title>
+  </programme>
+  <programme start="20210926083000 +0700" stop="20210926090000 +0700" channel="quang.nam">
+    <title lang="vi">Thông Tin Ngày Mới</title>
+  </programme>
+  <programme start="20210926090000 +0700" stop="20210926095000 +0700" channel="quang.nam">
+    <title lang="vi">Phim Truyện</title>
+    <sub-title lang="vi">Nợ Anh Một Giấc Mơ - Tập 13</sub-title>
+  </programme>
+  <programme start="20210926095000 +0700" stop="20210926101500 +0700" channel="quang.nam">
+    <title lang="vi">Nhịp Cầu Âm Nhạc</title>
+  </programme>
+  <programme start="20210926101500 +0700" stop="20210926111500 +0700" channel="quang.nam">
+    <title lang="vi">Phim Truyện</title>
+    <sub-title lang="vi">Tình Yêu Màu Trắng - Tập 19</sub-title>
+  </programme>
+  <programme start="20210926111500 +0700" stop="20210926114000 +0700" channel="quang.nam">
+    <title lang="vi">Thời Sự Qrt</title>
+  </programme>
+  <programme start="20210926114000 +0700" stop="20210926123000 +0700" channel="quang.nam">
+    <title lang="vi">Phim Truyện</title>
+    <sub-title lang="vi">Tình Yêu Chocolate - Tập 80</sub-title>
+  </programme>
+  <programme start="20210926123000 +0700" stop="20210926133000 +0700" channel="quang.nam">
+    <title lang="vi">Phim Truyện</title>
+    <sub-title lang="vi">Thề Không Gục Ngã - Tập 13</sub-title>
+  </programme>
+  <programme start="20210926133000 +0700" stop="20210926134500 +0700" channel="quang.nam">
+    <title lang="vi">Ca Nhạc</title>
+    <sub-title lang="vi">Chân Quê</sub-title>
+  </programme>
+  <programme start="20210926134500 +0700" stop="20210926140000 +0700" channel="quang.nam">
+    <title lang="vi">Bạn Có Biết</title>
+    <sub-title lang="vi">Cách Chế Biến Sinh Tố Đá Chanh Tuyết</sub-title>
+  </programme>
+  <programme start="20210926140000 +0700" stop="20210926142500 +0700" channel="quang.nam">
+    <title lang="vi">Thời Sự Qrt</title>
+  </programme>
+  <programme start="20210926142500 +0700" stop="20210926144500 +0700" channel="quang.nam">
+    <title lang="vi">Phim Hoạt Hình</title>
+  </programme>
+  <programme start="20210926144500 +0700" stop="20210926150000 +0700" channel="quang.nam">
+    <title lang="vi">Cho Ngày Mai Tươi Sáng</title>
+  </programme>
+  <programme start="20210926150000 +0700" stop="20210926154500 +0700" channel="quang.nam">
+    <title lang="vi">Phim Truyện</title>
+    <sub-title lang="vi">Tình Yêu Chocolate - Tập 80</sub-title>
+  </programme>
+  <programme start="20210926154500 +0700" stop="20210926161000 +0700" channel="quang.nam">
+    <title lang="vi">Xây Dựng Nông Thôn Mới</title>
+  </programme>
+  <programme start="20210926161000 +0700" stop="20210926163000 +0700" channel="quang.nam">
+    <title lang="vi">Giai Điệu Vượt Thời Gian</title>
+    <sub-title lang="vi">Núi Sông Quê Hương</sub-title>
+  </programme>
+  <programme start="20210926163000 +0700" stop="20210926170000 +0700" channel="quang.nam">
+    <title lang="vi">Giai Điệu Tuổi Thơ</title>
+    <sub-title lang="vi">Tuổi Thơ Ơi Hát Lên</sub-title>
+  </programme>
+  <programme start="20210926170000 +0700" stop="20210926174500 +0700" channel="quang.nam">
+    <title lang="vi">Phim Truyện</title>
+    <sub-title lang="vi">Nợ Anh Một Giấc Mơ - Tập 14</sub-title>
+  </programme>
+  <programme start="20210926174500 +0700" stop="20210926181000 +0700" channel="quang.nam">
+    <title lang="vi">Mỗi Xã Một Sản Phẩm</title>
+  </programme>
+  <programme start="20210926181000 +0700" stop="20210926183000 +0700" channel="quang.nam">
+    <title lang="vi">Cải Cách Hành Chính</title>
+  </programme>
+  <programme start="20210926183000 +0700" stop="20210926190000 +0700" channel="quang.nam">
+    <title lang="vi">Thời Sự Qrt</title>
+  </programme>
+  <programme start="20210926190000 +0700" stop="20210926195000 +0700" channel="quang.nam">
+    <title lang="vi">Thời Sự Vtv</title>
+  </programme>
+  <programme start="20210926195000 +0700" stop="20210926200500 +0700" channel="quang.nam">
+    <title lang="vi">Phòng Chống Các Bệnh Lý Về Mắt Ở Quảng Nam</title>
+  </programme>
+  <programme start="20210926200500 +0700" stop="20210926210000 +0700" channel="quang.nam">
+    <title lang="vi">Phim Truyện</title>
+    <sub-title lang="vi">Thề Không Gục Ngã - Tập 14</sub-title>
+  </programme>
+  <programme start="20210926210000 +0700" stop="20210926214500 +0700" channel="quang.nam">
+    <title lang="vi">Phim Truyện</title>
+    <sub-title lang="vi">Tình Yêu Màu Trắng - Tập 20</sub-title>
+  </programme>
+  <programme start="20210926214500 +0700" stop="20210926223000 +0700" channel="quang.nam">
+    <title lang="vi">Văn Học Nghệ Thuật</title>
+    <sub-title lang="vi">Đề Tài Nông Thôn Trong Văn Học Nghệ Thuật</sub-title>
+  </programme>
+  <programme start="20210926223000 +0700" stop="20210926224000 +0700" channel="quang.nam">
+    <title lang="vi">Giai Điệu Bolero</title>
+  </programme>
+  <programme start="20210926224000 +0700" stop="20210927054000 +0700" channel="quang.nam">
+    <title lang="vi">Phim Tài Liệu</title>
+  </programme>
+  <programme start="20210927054000 +0700" stop="20210927063500 +0700" channel="quang.nam">
+    <title lang="vi">Giai Điệu Bolero</title>
+  </programme>
+  <programme start="20210927063500 +0700" stop="20210927070000 +0700" channel="quang.nam">
+    <title lang="vi">Cho Ngày Mai Tươi Sáng</title>
+  </programme>
+  <programme start="20210927070000 +0700" stop="20210927071500 +0700" channel="quang.nam">
+    <title lang="vi">Trang Địa Phương</title>
+    <sub-title lang="vi">Huyện Bắc Trà My</sub-title>
+  </programme>
+  <programme start="20210927071500 +0700" stop="20210927080000 +0700" channel="quang.nam">
+    <title lang="vi">Phim Truyện</title>
+    <sub-title lang="vi">Tình Yêu Chocolate - Tập 79</sub-title>
+  </programme>
+  <programme start="20210927080000 +0700" stop="20210927081500 +0700" channel="quang.nam">
+    <title lang="vi">Xây Dựng Nông Thôn Mới</title>
+  </programme>
+  <programme start="20210927081500 +0700" stop="20210927083000 +0700" channel="quang.nam">
+    <title lang="vi">Truyền Hình Nhân Đạo</title>
+  </programme>
+  <programme start="20210927083000 +0700" stop="20210927090000 +0700" channel="quang.nam">
+    <title lang="vi">Thông Tin Ngày Mới</title>
+  </programme>
+  <programme start="20210927090000 +0700" stop="20210927095000 +0700" channel="quang.nam">
+    <title lang="vi">Phim Truyện</title>
+    <sub-title lang="vi">Nợ Anh Một Giấc Mơ - Tập 13</sub-title>
+  </programme>
+  <programme start="20210927095000 +0700" stop="20210927101500 +0700" channel="quang.nam">
+    <title lang="vi">Nhịp Cầu Âm Nhạc</title>
+  </programme>
+  <programme start="20210927101500 +0700" stop="20210927111500 +0700" channel="quang.nam">
+    <title lang="vi">Phim Truyện</title>
+    <sub-title lang="vi">Tình Yêu Màu Trắng - Tập 19</sub-title>
+  </programme>
+  <programme start="20210927111500 +0700" stop="20210927114000 +0700" channel="quang.nam">
+    <title lang="vi">Thời Sự Qrt</title>
+  </programme>
+  <programme start="20210927114000 +0700" stop="20210927123000 +0700" channel="quang.nam">
+    <title lang="vi">Phim Truyện</title>
+    <sub-title lang="vi">Tình Yêu Chocolate - Tập 80</sub-title>
+  </programme>
+  <programme start="20210927123000 +0700" stop="20210927133000 +0700" channel="quang.nam">
+    <title lang="vi">Phim Truyện</title>
+    <sub-title lang="vi">Thề Không Gục Ngã - Tập 13</sub-title>
+  </programme>
+  <programme start="20210927133000 +0700" stop="20210927134500 +0700" channel="quang.nam">
+    <title lang="vi">Ca Nhạc</title>
+    <sub-title lang="vi">Chân Quê</sub-title>
+  </programme>
+  <programme start="20210927134500 +0700" stop="20210927140000 +0700" channel="quang.nam">
+    <title lang="vi">Bạn Có Biết</title>
+    <sub-title lang="vi">Cách Chế Biến Sinh Tố Đá Chanh Tuyết</sub-title>
+  </programme>
+  <programme start="20210927140000 +0700" stop="20210927142500 +0700" channel="quang.nam">
+    <title lang="vi">Thời Sự Qrt</title>
+  </programme>
+  <programme start="20210927142500 +0700" stop="20210927144500 +0700" channel="quang.nam">
+    <title lang="vi">Phim Hoạt Hình</title>
+  </programme>
+  <programme start="20210927144500 +0700" stop="20210927150000 +0700" channel="quang.nam">
+    <title lang="vi">Cho Ngày Mai Tươi Sáng</title>
+  </programme>
+  <programme start="20210927150000 +0700" stop="20210927154500 +0700" channel="quang.nam">
+    <title lang="vi">Phim Truyện</title>
+    <sub-title lang="vi">Tình Yêu Chocolate - Tập 80</sub-title>
+  </programme>
+  <programme start="20210927154500 +0700" stop="20210927161000 +0700" channel="quang.nam">
+    <title lang="vi">Xây Dựng Nông Thôn Mới</title>
+  </programme>
+  <programme start="20210927161000 +0700" stop="20210927163000 +0700" channel="quang.nam">
+    <title lang="vi">Giai Điệu Vượt Thời Gian</title>
+    <sub-title lang="vi">Núi Sông Quê Hương</sub-title>
+  </programme>
+  <programme start="20210927163000 +0700" stop="20210927170000 +0700" channel="quang.nam">
+    <title lang="vi">Giai Điệu Tuổi Thơ</title>
+    <sub-title lang="vi">Tuổi Thơ Ơi Hát Lên</sub-title>
+  </programme>
+  <programme start="20210927170000 +0700" stop="20210927174500 +0700" channel="quang.nam">
+    <title lang="vi">Phim Truyện</title>
+    <sub-title lang="vi">Nợ Anh Một Giấc Mơ - Tập 14</sub-title>
+  </programme>
+  <programme start="20210927174500 +0700" stop="20210927181000 +0700" channel="quang.nam">
+    <title lang="vi">Mỗi Xã Một Sản Phẩm</title>
+  </programme>
+  <programme start="20210927181000 +0700" stop="20210927183000 +0700" channel="quang.nam">
+    <title lang="vi">Cải Cách Hành Chính</title>
+  </programme>
+  <programme start="20210927183000 +0700" stop="20210927190000 +0700" channel="quang.nam">
+    <title lang="vi">Thời Sự Qrt</title>
+  </programme>
+  <programme start="20210927190000 +0700" stop="20210927195000 +0700" channel="quang.nam">
+    <title lang="vi">Thời Sự Vtv</title>
+  </programme>
+  <programme start="20210927195000 +0700" stop="20210927200500 +0700" channel="quang.nam">
+    <title lang="vi">Phòng Chống Các Bệnh Lý Về Mắt Ở Quảng Nam</title>
+  </programme>
+  <programme start="20210927200500 +0700" stop="20210927210000 +0700" channel="quang.nam">
+    <title lang="vi">Phim Truyện</title>
+    <sub-title lang="vi">Thề Không Gục Ngã - Tập 14</sub-title>
+  </programme>
+  <programme start="20210927210000 +0700" stop="20210927214500 +0700" channel="quang.nam">
+    <title lang="vi">Phim Truyện</title>
+    <sub-title lang="vi">Tình Yêu Màu Trắng - Tập 20</sub-title>
+  </programme>
+  <programme start="20210927214500 +0700" stop="20210927223000 +0700" channel="quang.nam">
+    <title lang="vi">Văn Học Nghệ Thuật</title>
+    <sub-title lang="vi">Đề Tài Nông Thôn Trong Văn Học Nghệ Thuật</sub-title>
+  </programme>
+  <programme start="20210927223000 +0700" stop="20210927224000 +0700" channel="quang.nam">
+    <title lang="vi">Giai Điệu Bolero</title>
+  </programme>
+</tv>

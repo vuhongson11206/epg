@@ -1,0 +1,322 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="dak.nong">
+    <display-name lang="vi">Đắk Nông</display-name>
+    <url>http://www.truyenhinhdaknong.vn</url>
+  </channel>
+  <programme start="20211001054300 +0700" stop="20211001054500 +0700" channel="dak.nong">
+    <title lang="vi">Giới thiệu chương trình</title>
+  </programme>
+  <programme start="20211001054500 +0700" stop="20211001060000 +0700" channel="dak.nong">
+    <title lang="vi">Chuyên mục:  Thuế và cuộc sống</title>
+  </programme>
+  <programme start="20211001060000 +0700" stop="20211001063000 +0700" channel="dak.nong">
+    <title lang="vi">Đắk Nông ngày mới</title>
+  </programme>
+  <programme start="20211001063000 +0700" stop="20211001064000 +0700" channel="dak.nong">
+    <title lang="vi">Bản tin covid 19</title>
+  </programme>
+  <programme start="20211001064000 +0700" stop="20211001073000 +0700" channel="dak.nong">
+    <title lang="vi">Phim truyện Việt Nam: Ngày mai bình yên (Tập 34/36)</title>
+  </programme>
+  <programme start="20211001073000 +0700" stop="20211001080000 +0700" channel="dak.nong">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20211001080000 +0700" stop="20211001083000 +0700" channel="dak.nong">
+    <title lang="vi">Tiếng Anh lớp 1</title>
+  </programme>
+  <programme start="20211001083000 +0700" stop="20211001090000 +0700" channel="dak.nong">
+    <title lang="vi">Tiếng Việt lớp 1</title>
+  </programme>
+  <programme start="20211001090000 +0700" stop="20211001094500 +0700" channel="dak.nong">
+    <title lang="vi">Phim truyện Đài Loan: Tổ ấm (Tập 5/45)</title>
+  </programme>
+  <programme start="20211001094500 +0700" stop="20211001101500 +0700" channel="dak.nong">
+    <title lang="vi">Tiếng Anh lớp 2</title>
+  </programme>
+  <programme start="20211001101500 +0700" stop="20211001104000 +0700" channel="dak.nong">
+    <title lang="vi">Vợ tôi là số 1</title>
+  </programme>
+  <programme start="20211001104000 +0700" stop="20211001110000 +0700" channel="dak.nong">
+    <title lang="vi">Khám phá Thế giới</title>
+  </programme>
+  <programme start="20211001110000 +0700" stop="20211001111500 +0700" channel="dak.nong">
+    <title lang="vi">Chương trình tiếng M'Nông</title>
+  </programme>
+  <programme start="20211001111500 +0700" stop="20211001112000 +0700" channel="dak.nong">
+    <title lang="vi">Phim hoạt hình: Cuộc phiêu lưu của Mia (Tập 30 - Phần III)</title>
+  </programme>
+  <programme start="20211001112000 +0700" stop="20211001114000 +0700" channel="dak.nong">
+    <title lang="vi">Chuyển động Tây Nguyên - Duyên hải miền Trung</title>
+  </programme>
+  <programme start="20211001114000 +0700" stop="20211001114500 +0700" channel="dak.nong">
+    <title lang="vi">Card cắt PTD + Chương trình phù hợp + GTCT tiếp theo</title>
+  </programme>
+  <programme start="20211001114500 +0700" stop="20211001120500 +0700" channel="dak.nong">
+    <title lang="vi">Thời sự 24/7</title>
+  </programme>
+  <programme start="20211001120500 +0700" stop="20211001121500 +0700" channel="dak.nong">
+    <title lang="vi">Bản tin covid 19</title>
+  </programme>
+  <programme start="20211001121500 +0700" stop="20211001130000 +0700" channel="dak.nong">
+    <title lang="vi">Phim truyện Hàn Quốc: Mật danh K2 (Tập 14/24)</title>
+  </programme>
+  <programme start="20211001130000 +0700" stop="20211001131500 +0700" channel="dak.nong">
+    <title lang="vi">Chuyện cảnh giác</title>
+  </programme>
+  <programme start="20211001131500 +0700" stop="20211001133000 +0700" channel="dak.nong">
+    <title lang="vi">Nhịp sống Tây Nguyên</title>
+  </programme>
+  <programme start="20211001133000 +0700" stop="20211001140000 +0700" channel="dak.nong">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20211001140000 +0700" stop="20211001143000 +0700" channel="dak.nong">
+    <title lang="vi">Tiếng Anh lớp 1</title>
+  </programme>
+  <programme start="20211001143000 +0700" stop="20211001145500 +0700" channel="dak.nong">
+    <title lang="vi">Tiếng Việt lớp 1</title>
+  </programme>
+  <programme start="20211001145500 +0700" stop="20211001150000 +0700" channel="dak.nong">
+    <title lang="vi">Card cắt PTD + Chương trình phù hợp</title>
+  </programme>
+  <programme start="20211001150000 +0700" stop="20211001151000 +0700" channel="dak.nong">
+    <title lang="vi">Thời sự 15H</title>
+  </programme>
+  <programme start="20211001151000 +0700" stop="20211001154000 +0700" channel="dak.nong">
+    <title lang="vi">Tiếng Anh lớp 2</title>
+  </programme>
+  <programme start="20211001154000 +0700" stop="20211001155500 +0700" channel="dak.nong">
+    <title lang="vi">Chuyên mục: Đại biểu dân cử với cử tri</title>
+  </programme>
+  <programme start="20211001155500 +0700" stop="20211001160500 +0700" channel="dak.nong">
+    <title lang="vi">Sống khỏe 360</title>
+  </programme>
+  <programme start="20211001160500 +0700" stop="20211001161500 +0700" channel="dak.nong">
+    <title lang="vi">Phút thư giãn</title>
+  </programme>
+  <programme start="20211001161500 +0700" stop="20211001163500 +0700" channel="dak.nong">
+    <title lang="vi">Chuyển động Tây Nguyên - Duyên hải miền Trung</title>
+  </programme>
+  <programme start="20211001163500 +0700" stop="20211001165000 +0700" channel="dak.nong">
+    <title lang="vi">Dọc miền đất nước</title>
+  </programme>
+  <programme start="20211001165000 +0700" stop="20211001170000 +0700" channel="dak.nong">
+    <title lang="vi">Bản tin thế giới</title>
+  </programme>
+  <programme start="20211001170000 +0700" stop="20211001174500 +0700" channel="dak.nong">
+    <title lang="vi">Phim truyện Thái Lan: Trả giá cho tình yêu (Tập 31)</title>
+  </programme>
+  <programme start="20211001174500 +0700" stop="20211001180000 +0700" channel="dak.nong">
+    <title lang="vi">Chương trình tiếng M’nông</title>
+  </programme>
+  <programme start="20211001180000 +0700" stop="20211001181500 +0700" channel="dak.nong">
+    <title lang="vi">Phim hoạt hình: Cuộc phiêu lưu của Mia (Tập 30 - Phần III)</title>
+  </programme>
+  <programme start="20211001181500 +0700" stop="20211001183000 +0700" channel="dak.nong">
+    <title lang="vi">Chuyên mục: Ngân hàng chính sách thấu hiểu lòng dân tận tâm phục vụ</title>
+  </programme>
+  <programme start="20211001183000 +0700" stop="20211001185000 +0700" channel="dak.nong">
+    <title lang="vi">Nam Tây Nguyên</title>
+  </programme>
+  <programme start="20211001185000 +0700" stop="20211001190000 +0700" channel="dak.nong">
+    <title lang="vi">Theo dòng lịch sử</title>
+  </programme>
+  <programme start="20211001190000 +0700" stop="20211001194500 +0700" channel="dak.nong">
+    <title lang="vi">Tiếp Thời sự VTV1 + GTCT tiếp theo</title>
+  </programme>
+  <programme start="20211001194500 +0700" stop="20211001201500 +0700" channel="dak.nong">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20211001201500 +0700" stop="20211001202000 +0700" channel="dak.nong">
+    <title lang="vi">Bản tin Dự báo thời tiết</title>
+  </programme>
+  <programme start="20211001202000 +0700" stop="20211001203500 +0700" channel="dak.nong">
+    <title lang="vi">Chuyên mục: Chuyên đề Kinh tế hợp tác</title>
+  </programme>
+  <programme start="20211001203500 +0700" stop="20211001205000 +0700" channel="dak.nong">
+    <title lang="vi">Sắc màu văn hóa</title>
+  </programme>
+  <programme start="20211001205000 +0700" stop="20211001213500 +0700" channel="dak.nong">
+    <title lang="vi">Phim truyện Trung Quốc: Đội chống khủng bố Liệp Ảnh - Tập 23 - Phần 1</title>
+  </programme>
+  <programme start="20211001213500 +0700" stop="20211001214500 +0700" channel="dak.nong">
+    <title lang="vi">Bản tin thế giới</title>
+  </programme>
+  <programme start="20211001214500 +0700" stop="20211001221500 +0700" channel="dak.nong">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20211001221500 +0700" stop="20211001224000 +0700" channel="dak.nong">
+    <title lang="vi">Thắp sáng niềm tin</title>
+  </programme>
+  <programme start="20211001224000 +0700" stop="20211001224500 +0700" channel="dak.nong">
+    <title lang="vi">Theo dòng lịch sử</title>
+  </programme>
+  <programme start="20211001224500 +0700" stop="20211001225500 +0700" channel="dak.nong">
+    <title lang="vi">Khám phá biển đảo quê hương cùng văn nghệ sỹ - Tập 56</title>
+  </programme>
+  <programme start="20211001225500 +0700" stop="20211001230000 +0700" channel="dak.nong">
+    <title lang="vi">Điểm tin trong ngày</title>
+  </programme>
+  <programme start="20211001230000 +0700" stop="20211001234500 +0700" channel="dak.nong">
+    <title lang="vi">Phim truyện Việt Nam: Sương khói đồng hoang (Tập 13/39)</title>
+  </programme>
+  <programme start="20211001234500 +0700" stop="20211002054300 +0700" channel="dak.nong">
+    <title lang="vi">Giới thiệu CT ngày mai, chào cuối, xuống sóng</title>
+  </programme>
+  <programme start="20211002054300 +0700" stop="20211002054500 +0700" channel="dak.nong">
+    <title lang="vi">Giới thiệu chương trình</title>
+  </programme>
+  <programme start="20211002054500 +0700" stop="20211002060000 +0700" channel="dak.nong">
+    <title lang="vi">Chuyên mục:  Thuế và cuộc sống</title>
+  </programme>
+  <programme start="20211002060000 +0700" stop="20211002063000 +0700" channel="dak.nong">
+    <title lang="vi">Đắk Nông ngày mới</title>
+  </programme>
+  <programme start="20211002063000 +0700" stop="20211002064000 +0700" channel="dak.nong">
+    <title lang="vi">Bản tin covid 19</title>
+  </programme>
+  <programme start="20211002064000 +0700" stop="20211002073000 +0700" channel="dak.nong">
+    <title lang="vi">Phim truyện Việt Nam: Ngày mai bình yên (Tập 34/36)</title>
+  </programme>
+  <programme start="20211002073000 +0700" stop="20211002080000 +0700" channel="dak.nong">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20211002080000 +0700" stop="20211002083000 +0700" channel="dak.nong">
+    <title lang="vi">Tiếng Anh lớp 1</title>
+  </programme>
+  <programme start="20211002083000 +0700" stop="20211002090000 +0700" channel="dak.nong">
+    <title lang="vi">Tiếng Việt lớp 1</title>
+  </programme>
+  <programme start="20211002090000 +0700" stop="20211002094500 +0700" channel="dak.nong">
+    <title lang="vi">Phim truyện Đài Loan: Tổ ấm (Tập 5/45)</title>
+  </programme>
+  <programme start="20211002094500 +0700" stop="20211002101500 +0700" channel="dak.nong">
+    <title lang="vi">Tiếng Anh lớp 2</title>
+  </programme>
+  <programme start="20211002101500 +0700" stop="20211002104000 +0700" channel="dak.nong">
+    <title lang="vi">Vợ tôi là số 1</title>
+  </programme>
+  <programme start="20211002104000 +0700" stop="20211002110000 +0700" channel="dak.nong">
+    <title lang="vi">Khám phá Thế giới</title>
+  </programme>
+  <programme start="20211002110000 +0700" stop="20211002111500 +0700" channel="dak.nong">
+    <title lang="vi">Chương trình tiếng M'Nông</title>
+  </programme>
+  <programme start="20211002111500 +0700" stop="20211002112000 +0700" channel="dak.nong">
+    <title lang="vi">Phim hoạt hình: Cuộc phiêu lưu của Mia (Tập 30 - Phần III)</title>
+  </programme>
+  <programme start="20211002112000 +0700" stop="20211002114000 +0700" channel="dak.nong">
+    <title lang="vi">Chuyển động Tây Nguyên - Duyên hải miền Trung</title>
+  </programme>
+  <programme start="20211002114000 +0700" stop="20211002114500 +0700" channel="dak.nong">
+    <title lang="vi">Card cắt PTD + Chương trình phù hợp + GTCT tiếp theo</title>
+  </programme>
+  <programme start="20211002114500 +0700" stop="20211002120500 +0700" channel="dak.nong">
+    <title lang="vi">Thời sự 24/7</title>
+  </programme>
+  <programme start="20211002120500 +0700" stop="20211002121500 +0700" channel="dak.nong">
+    <title lang="vi">Bản tin covid 19</title>
+  </programme>
+  <programme start="20211002121500 +0700" stop="20211002130000 +0700" channel="dak.nong">
+    <title lang="vi">Phim truyện Hàn Quốc: Mật danh K2 (Tập 14/24)</title>
+  </programme>
+  <programme start="20211002130000 +0700" stop="20211002131500 +0700" channel="dak.nong">
+    <title lang="vi">Chuyện cảnh giác</title>
+  </programme>
+  <programme start="20211002131500 +0700" stop="20211002133000 +0700" channel="dak.nong">
+    <title lang="vi">Nhịp sống Tây Nguyên</title>
+  </programme>
+  <programme start="20211002133000 +0700" stop="20211002140000 +0700" channel="dak.nong">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20211002140000 +0700" stop="20211002143000 +0700" channel="dak.nong">
+    <title lang="vi">Tiếng Anh lớp 1</title>
+  </programme>
+  <programme start="20211002143000 +0700" stop="20211002145500 +0700" channel="dak.nong">
+    <title lang="vi">Tiếng Việt lớp 1</title>
+  </programme>
+  <programme start="20211002145500 +0700" stop="20211002150000 +0700" channel="dak.nong">
+    <title lang="vi">Card cắt PTD + Chương trình phù hợp</title>
+  </programme>
+  <programme start="20211002150000 +0700" stop="20211002151000 +0700" channel="dak.nong">
+    <title lang="vi">Thời sự 15H</title>
+  </programme>
+  <programme start="20211002151000 +0700" stop="20211002154000 +0700" channel="dak.nong">
+    <title lang="vi">Tiếng Anh lớp 2</title>
+  </programme>
+  <programme start="20211002154000 +0700" stop="20211002155500 +0700" channel="dak.nong">
+    <title lang="vi">Chuyên mục: Đại biểu dân cử với cử tri</title>
+  </programme>
+  <programme start="20211002155500 +0700" stop="20211002160500 +0700" channel="dak.nong">
+    <title lang="vi">Sống khỏe 360</title>
+  </programme>
+  <programme start="20211002160500 +0700" stop="20211002161500 +0700" channel="dak.nong">
+    <title lang="vi">Phút thư giãn</title>
+  </programme>
+  <programme start="20211002161500 +0700" stop="20211002163500 +0700" channel="dak.nong">
+    <title lang="vi">Chuyển động Tây Nguyên - Duyên hải miền Trung</title>
+  </programme>
+  <programme start="20211002163500 +0700" stop="20211002165000 +0700" channel="dak.nong">
+    <title lang="vi">Dọc miền đất nước</title>
+  </programme>
+  <programme start="20211002165000 +0700" stop="20211002170000 +0700" channel="dak.nong">
+    <title lang="vi">Bản tin thế giới</title>
+  </programme>
+  <programme start="20211002170000 +0700" stop="20211002174500 +0700" channel="dak.nong">
+    <title lang="vi">Phim truyện Thái Lan: Trả giá cho tình yêu (Tập 31)</title>
+  </programme>
+  <programme start="20211002174500 +0700" stop="20211002180000 +0700" channel="dak.nong">
+    <title lang="vi">Chương trình tiếng M’nông</title>
+  </programme>
+  <programme start="20211002180000 +0700" stop="20211002181500 +0700" channel="dak.nong">
+    <title lang="vi">Phim hoạt hình: Cuộc phiêu lưu của Mia (Tập 30 - Phần III)</title>
+  </programme>
+  <programme start="20211002181500 +0700" stop="20211002183000 +0700" channel="dak.nong">
+    <title lang="vi">Chuyên mục: Ngân hàng chính sách thấu hiểu lòng dân tận tâm phục vụ</title>
+  </programme>
+  <programme start="20211002183000 +0700" stop="20211002185000 +0700" channel="dak.nong">
+    <title lang="vi">Nam Tây Nguyên</title>
+  </programme>
+  <programme start="20211002185000 +0700" stop="20211002190000 +0700" channel="dak.nong">
+    <title lang="vi">Theo dòng lịch sử</title>
+  </programme>
+  <programme start="20211002190000 +0700" stop="20211002194500 +0700" channel="dak.nong">
+    <title lang="vi">Tiếp Thời sự VTV1 + GTCT tiếp theo</title>
+  </programme>
+  <programme start="20211002194500 +0700" stop="20211002201500 +0700" channel="dak.nong">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20211002201500 +0700" stop="20211002202000 +0700" channel="dak.nong">
+    <title lang="vi">Bản tin Dự báo thời tiết</title>
+  </programme>
+  <programme start="20211002202000 +0700" stop="20211002203500 +0700" channel="dak.nong">
+    <title lang="vi">Chuyên mục: Chuyên đề Kinh tế hợp tác</title>
+  </programme>
+  <programme start="20211002203500 +0700" stop="20211002205000 +0700" channel="dak.nong">
+    <title lang="vi">Sắc màu văn hóa</title>
+  </programme>
+  <programme start="20211002205000 +0700" stop="20211002213500 +0700" channel="dak.nong">
+    <title lang="vi">Phim truyện Trung Quốc: Đội chống khủng bố Liệp Ảnh - Tập 23 - Phần 1</title>
+  </programme>
+  <programme start="20211002213500 +0700" stop="20211002214500 +0700" channel="dak.nong">
+    <title lang="vi">Bản tin thế giới</title>
+  </programme>
+  <programme start="20211002214500 +0700" stop="20211002221500 +0700" channel="dak.nong">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20211002221500 +0700" stop="20211002224000 +0700" channel="dak.nong">
+    <title lang="vi">Thắp sáng niềm tin</title>
+  </programme>
+  <programme start="20211002224000 +0700" stop="20211002224500 +0700" channel="dak.nong">
+    <title lang="vi">Theo dòng lịch sử</title>
+  </programme>
+  <programme start="20211002224500 +0700" stop="20211002225500 +0700" channel="dak.nong">
+    <title lang="vi">Khám phá biển đảo quê hương cùng văn nghệ sỹ - Tập 56</title>
+  </programme>
+  <programme start="20211002225500 +0700" stop="20211002230000 +0700" channel="dak.nong">
+    <title lang="vi">Điểm tin trong ngày</title>
+  </programme>
+  <programme start="20211002230000 +0700" stop="20211002234500 +0700" channel="dak.nong">
+    <title lang="vi">Phim truyện Việt Nam: Sương khói đồng hoang (Tập 13/39)</title>
+  </programme>
+</tv>

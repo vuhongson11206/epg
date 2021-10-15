@@ -1,0 +1,503 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="kien.giang">
+    <display-name lang="vi">Kiên Giang</display-name>
+    <url>http://www.kgtv.vn</url>
+  </channel>
+  <channel id="kien.giang1">
+    <display-name lang="vi">Kiên Giang 1</display-name>
+    <url>http://www.kgtv.vn</url>
+  </channel>
+  <programme start="20211010052000 +0700" stop="20211010053000 +0700" channel="kien.giang">
+    <title lang="vi">Hướng dẫn tập thể dục buổi sáng</title>
+  </programme>
+  <programme start="20211010053000 +0700" stop="20211010054500 +0700" channel="kien.giang">
+    <title lang="vi">Thời sự Kiên Giang</title>
+  </programme>
+  <programme start="20211010054500 +0700" stop="20211010055000 +0700" channel="kien.giang">
+    <title lang="vi">Nhịp cầu y tế (Số 10)</title>
+  </programme>
+  <programme start="20211010055000 +0700" stop="20211010055500 +0700" channel="kien.giang">
+    <title lang="vi">Chương trình 60 giây cảnh giác – tập 72</title>
+  </programme>
+  <programme start="20211010055500 +0700" stop="20211010060000 +0700" channel="kien.giang">
+    <title lang="vi">Bản tin Dự báo sâu bệnh cây trồng</title>
+  </programme>
+  <programme start="20211010060000 +0700" stop="20211010061500 +0700" channel="kien.giang">
+    <title lang="vi">Chuyên mục Người lao động Kiên Giang</title>
+  </programme>
+  <programme start="20211010061500 +0700" stop="20211010064500 +0700" channel="kien.giang">
+    <title lang="vi">Kịch thiếu nhi “Vua Éch”</title>
+  </programme>
+  <programme start="20211010064500 +0700" stop="20211010071500 +0700" channel="kien.giang">
+    <title lang="vi">Ca cổ “Như dáng mẹ hiền” - CT2</title>
+  </programme>
+  <programme start="20211010071500 +0700" stop="20211010074500 +0700" channel="kien.giang">
+    <title lang="vi">PTL Việt Nam – thời đại Hồ Chí Minh biên niên sử truyền hình – tập 30</title>
+  </programme>
+  <programme start="20211010074500 +0700" stop="20211010075000 +0700" channel="kien.giang">
+    <title lang="vi">Thông báo – Quảng cáo</title>
+  </programme>
+  <programme start="20211010075000 +0700" stop="20211010082500 +0700" channel="kien.giang">
+    <title lang="vi">Dạy học trên truyền hình: Tiếng Việt lớp 5</title>
+  </programme>
+  <programme start="20211010082500 +0700" stop="20211010085000 +0700" channel="kien.giang">
+    <title lang="vi">Dạy học trên truyền hình: Toán lớp 5</title>
+  </programme>
+  <programme start="20211010085000 +0700" stop="20211010091500 +0700" channel="kien.giang">
+    <title lang="vi">Chương trình Gõ cửa thăm nhà</title>
+  </programme>
+  <programme start="20211010091500 +0700" stop="20211010100000 +0700" channel="kien.giang">
+    <title lang="vi">Phim truyện Việt Nam “Bữa tối của diều hâu” (Tập 27)</title>
+  </programme>
+  <programme start="20211010100000 +0700" stop="20211010101500 +0700" channel="kien.giang">
+    <title lang="vi">Chương trình Khát vọng sống</title>
+  </programme>
+  <programme start="20211010101500 +0700" stop="20211010104500 +0700" channel="kien.giang">
+    <title lang="vi">Phóng sự nhân vật “Nghệ sĩ thiết kế sân khấu Trường Giang”</title>
+  </programme>
+  <programme start="20211010104500 +0700" stop="20211010105500 +0700" channel="kien.giang">
+    <title lang="vi">Phim sitcom “Thả lưới bắt em” (Tập 56)</title>
+  </programme>
+  <programme start="20211010105500 +0700" stop="20211010110000 +0700" channel="kien.giang">
+    <title lang="vi">Thông báo - Quảng cáo - Nhắn tin - Giới thiệu phim</title>
+  </programme>
+  <programme start="20211010110000 +0700" stop="20211010113000 +0700" channel="kien.giang">
+    <title lang="vi">Thời sự Kiên Giang – Bản tin Quốc tế - Thể thao</title>
+  </programme>
+  <programme start="20211010113000 +0700" stop="20211010130500 +0700" channel="kien.giang">
+    <title lang="vi">Phim truyện Hàn Quốc “Bí mật của chồng tôi” (Tập 56-57)</title>
+  </programme>
+  <programme start="20211010130500 +0700" stop="20211010131000 +0700" channel="kien.giang">
+    <title lang="vi">Nhịp cầu y tế (Số 10)</title>
+  </programme>
+  <programme start="20211010131000 +0700" stop="20211010141000 +0700" channel="kien.giang">
+    <title lang="vi">Chương trình tiếng Khmer</title>
+  </programme>
+  <programme start="20211010141000 +0700" stop="20211010144500 +0700" channel="kien.giang">
+    <title lang="vi">Dạy học trên truyền hình: Tiếng Việt lớp 5</title>
+  </programme>
+  <programme start="20211010144500 +0700" stop="20211010151500 +0700" channel="kien.giang">
+    <title lang="vi">Dạy học trên truyền hình: Toán lớp 5</title>
+  </programme>
+  <programme start="20211010151500 +0700" stop="20211010160000 +0700" channel="kien.giang">
+    <title lang="vi">Phim truyện Trung Quốc “Mỹ vị kỳ duyên” (Tập 3)</title>
+  </programme>
+  <programme start="20211010160000 +0700" stop="20211010161500 +0700" channel="kien.giang">
+    <title lang="vi">Phim Sitcom “Mơ đi” (Tập 115)</title>
+  </programme>
+  <programme start="20211010161500 +0700" stop="20211010164500 +0700" channel="kien.giang">
+    <title lang="vi">PTL Việt Nam – thời đại Hồ Chí Minh biên niên sử truyền hình – tập 30</title>
+  </programme>
+  <programme start="20211010164500 +0700" stop="20211010173000 +0700" channel="kien.giang">
+    <title lang="vi">Phim truyện Trung Quốc ”Vòng quay hạnh phúc” (Tập 37)</title>
+  </programme>
+  <programme start="20211010173000 +0700" stop="20211010174500 +0700" channel="kien.giang">
+    <title lang="vi">Phim hoạt hình “Arthur và Vương quốc Minimoys” (Tập 39)</title>
+  </programme>
+  <programme start="20211010174500 +0700" stop="20211010180000 +0700" channel="kien.giang">
+    <title lang="vi">Chuyên đề Giáo dục</title>
+  </programme>
+  <programme start="20211010180000 +0700" stop="20211010181500 +0700" channel="kien.giang">
+    <title lang="vi">Tin nhanh 18h</title>
+  </programme>
+  <programme start="20211010181500 +0700" stop="20211010182000 +0700" channel="kien.giang">
+    <title lang="vi">Chương trình 60 giây cảnh giác – tập 72</title>
+  </programme>
+  <programme start="20211010182000 +0700" stop="20211010182500 +0700" channel="kien.giang">
+    <title lang="vi">Nhịp cầu y tế (Số 10) - (311 số - Hết)</title>
+  </programme>
+  <programme start="20211010182500 +0700" stop="20211010183000 +0700" channel="kien.giang">
+    <title lang="vi">Thông báo – Quảng cáo</title>
+  </programme>
+  <programme start="20211010183000 +0700" stop="20211010185500 +0700" channel="kien.giang">
+    <title lang="vi">Thời sự Kiên Giang</title>
+  </programme>
+  <programme start="20211010185500 +0700" stop="20211010190000 +0700" channel="kien.giang">
+    <title lang="vi">Thông tin kinh tế - Thông báo – Quảng cáo</title>
+  </programme>
+  <programme start="20211010190000 +0700" stop="20211010194500 +0700" channel="kien.giang">
+    <title lang="vi">Phim truyện Thái Lan “Hoàng cung” (Tập 5)</title>
+  </programme>
+  <programme start="20211010194500 +0700" stop="20211010195000 +0700" channel="kien.giang">
+    <title lang="vi">Thông báo - Quảng cáo - Dự báo thời tiết</title>
+  </programme>
+  <programme start="20211010195000 +0700" stop="20211010200500 +0700" channel="kien.giang">
+    <title lang="vi">Phim sitcom “Lắm người nhiều ma” (Tập 10)</title>
+  </programme>
+  <programme start="20211010200500 +0700" stop="20211010201500 +0700" channel="kien.giang">
+    <title lang="vi">P/sự - tọa đàm: Dự án thủy lợi Cái lớn, Cái bé – kỳ 10</title>
+  </programme>
+  <programme start="20211010201500 +0700" stop="20211010210000 +0700" channel="kien.giang">
+    <title lang="vi">Phim truyện Việt Nam “Đại gia không chồng” (Tập 32)</title>
+  </programme>
+  <programme start="20211010210000 +0700" stop="20211010213000 +0700" channel="kien.giang">
+    <title lang="vi">Chương trình Biệt đội Xả xì chét (Tập 1)</title>
+  </programme>
+  <programme start="20211010213000 +0700" stop="20211010214000 +0700" channel="kien.giang">
+    <title lang="vi">Ký ức miền quê Kéo lưới cá đồng mùa nước nổi</title>
+  </programme>
+  <programme start="20211010214000 +0700" stop="20211010231000 +0700" channel="kien.giang">
+    <title lang="vi">Phim truyện HK – TQ “Tây Du Ký lạ truyện”</title>
+  </programme>
+  <programme start="20211010231000 +0700" stop="20211010233000 +0700" channel="kien.giang">
+    <title lang="vi">Bản tin cuối ngày – Thế giới 24 giờ</title>
+  </programme>
+  <programme start="20211011052000 +0700" stop="20211011053000 +0700" channel="kien.giang">
+    <title lang="vi">Hướng dẫn tập thể dục buổi sáng</title>
+  </programme>
+  <programme start="20211011053000 +0700" stop="20211011054500 +0700" channel="kien.giang">
+    <title lang="vi">Thời sự Kiên Giang</title>
+  </programme>
+  <programme start="20211011054500 +0700" stop="20211011055000 +0700" channel="kien.giang">
+    <title lang="vi">Nhịp cầu y tế (Số 11)</title>
+  </programme>
+  <programme start="20211011055000 +0700" stop="20211011060000 +0700" channel="kien.giang">
+    <title lang="vi">Phim sitcom “Làng cười cười cả làng” (Phần 2 - tập 10)</title>
+  </programme>
+  <programme start="20211011060000 +0700" stop="20211011061500 +0700" channel="kien.giang">
+    <title lang="vi">Chuyên đề Giáo dục</title>
+  </programme>
+  <programme start="20211011061500 +0700" stop="20211011064500 +0700" channel="kien.giang">
+    <title lang="vi">Phim hoạt hình “Arthur và Vương quốc Minimoys ” (Tập 7-8)</title>
+  </programme>
+  <programme start="20211011064500 +0700" stop="20211011071500 +0700" channel="kien.giang">
+    <title lang="vi">Ca nhạc “Đẹp lắm thôn vườn trầu” - CT2</title>
+  </programme>
+  <programme start="20211011071500 +0700" stop="20211011073000 +0700" channel="kien.giang">
+    <title lang="vi">Ký sự Hành trình theo chân Bác – tập 43</title>
+  </programme>
+  <programme start="20211011073000 +0700" stop="20211011074500 +0700" channel="kien.giang">
+    <title lang="vi">Phim Sitcom “Mơ đi” (Tập 116)</title>
+  </programme>
+  <programme start="20211011074500 +0700" stop="20211011075000 +0700" channel="kien.giang">
+    <title lang="vi">Thông báo – Quảng cáo</title>
+  </programme>
+  <programme start="20211011075000 +0700" stop="20211011082000 +0700" channel="kien.giang">
+    <title lang="vi">Dạy học trên truyền hình: Tiếng Việt lớp 1</title>
+  </programme>
+  <programme start="20211011082000 +0700" stop="20211011085000 +0700" channel="kien.giang">
+    <title lang="vi">Dạy học trên truyền hình: Tiếng Việt lớp 2</title>
+  </programme>
+  <programme start="20211011085000 +0700" stop="20211011091500 +0700" channel="kien.giang">
+    <title lang="vi">Chương trình Biệt đội xả xì chét</title>
+  </programme>
+  <programme start="20211011091500 +0700" stop="20211011100000 +0700" channel="kien.giang">
+    <title lang="vi">Phim truyện Việt Nam “Bữa tối của diều hâu” (Tập 28)</title>
+  </programme>
+  <programme start="20211011100000 +0700" stop="20211011101500 +0700" channel="kien.giang">
+    <title lang="vi">Ký sự Sê san - ánh sáng nơi hoang dã – tập 2</title>
+  </programme>
+  <programme start="20211011101500 +0700" stop="20211011104500 +0700" channel="kien.giang">
+    <title lang="vi">Phóng sự nhân vật “Nghệ nhân Bạch Huệ”</title>
+  </programme>
+  <programme start="20211011104500 +0700" stop="20211011105500 +0700" channel="kien.giang">
+    <title lang="vi">Phim sitcom “Thả lưới bắt em” (Tập 57)</title>
+  </programme>
+  <programme start="20211011105500 +0700" stop="20211011110000 +0700" channel="kien.giang">
+    <title lang="vi">Thông báo - Quảng cáo - Nhắn tin - Giới thiệu phim</title>
+  </programme>
+  <programme start="20211011110000 +0700" stop="20211011113000 +0700" channel="kien.giang">
+    <title lang="vi">Thời sự Kiên Giang – Bản tin Quốc tế - Thể thao</title>
+  </programme>
+  <programme start="20211011113000 +0700" stop="20211011130500 +0700" channel="kien.giang">
+    <title lang="vi">Phim truyện Hàn Quốc “Bí mật của chồng tôi” (Tập 58-59)</title>
+  </programme>
+  <programme start="20211011130500 +0700" stop="20211011131000 +0700" channel="kien.giang">
+    <title lang="vi">Nhịp cầu y tế (Số 11)</title>
+  </programme>
+  <programme start="20211011131000 +0700" stop="20211011141000 +0700" channel="kien.giang">
+    <title lang="vi">Chương trình tiếng Khmer</title>
+  </programme>
+  <programme start="20211011141000 +0700" stop="20211011144000 +0700" channel="kien.giang">
+    <title lang="vi">Dạy học trên truyền hình: Toán lớp 1</title>
+  </programme>
+  <programme start="20211011144000 +0700" stop="20211011151500 +0700" channel="kien.giang">
+    <title lang="vi">Dạy học trên truyền hình: Toán lớp 2</title>
+  </programme>
+  <programme start="20211011151500 +0700" stop="20211011160000 +0700" channel="kien.giang">
+    <title lang="vi">Phim truyện Trung Quốc “Mỹ vị kỳ duyên” (Tập 4)</title>
+  </programme>
+  <programme start="20211011160000 +0700" stop="20211011161500 +0700" channel="kien.giang">
+    <title lang="vi">Phim Sitcom “Mơ đi” (Tập 116)</title>
+  </programme>
+  <programme start="20211011161500 +0700" stop="20211011163000 +0700" channel="kien.giang">
+    <title lang="vi">Bản tin Quốc tế - Thể thao</title>
+  </programme>
+  <programme start="20211011163000 +0700" stop="20211011171500 +0700" channel="kien.giang">
+    <title lang="vi">Phim truyện Trung Quốc ”Vòng quay hạnh phúc” (Tập 38)</title>
+  </programme>
+  <programme start="20211011171500 +0700" stop="20211011174500 +0700" channel="kien.giang">
+    <title lang="vi">Phim hoạt hình “Arthur và Vương quốc Minimoys” (Tập 40-41)</title>
+  </programme>
+  <programme start="20211011174500 +0700" stop="20211011180000 +0700" channel="kien.giang">
+    <title lang="vi">Chuyên mục Chính quyền điện tử</title>
+  </programme>
+  <programme start="20211011180000 +0700" stop="20211011181500 +0700" channel="kien.giang">
+    <title lang="vi">Tin nhanh 18h</title>
+  </programme>
+  <programme start="20211011181500 +0700" stop="20211011182500 +0700" channel="kien.giang">
+    <title lang="vi">Nhịp cầu y tế (số 11)</title>
+  </programme>
+  <programme start="20211011182500 +0700" stop="20211011183000 +0700" channel="kien.giang">
+    <title lang="vi">Thông báo – Quảng cáo</title>
+  </programme>
+  <programme start="20211011183000 +0700" stop="20211011185500 +0700" channel="kien.giang">
+    <title lang="vi">Thời sự Kiên Giang</title>
+  </programme>
+  <programme start="20211011185500 +0700" stop="20211011190000 +0700" channel="kien.giang">
+    <title lang="vi">Thông tin kinh tế - Thông báo – Quảng cáo</title>
+  </programme>
+  <programme start="20211011190000 +0700" stop="20211011194500 +0700" channel="kien.giang">
+    <title lang="vi">Phim truyện Thái Lan “Hoàng cung” (Tập 6)</title>
+  </programme>
+  <programme start="20211011194500 +0700" stop="20211011195000 +0700" channel="kien.giang">
+    <title lang="vi">Thông báo - Quảng cáo - Dự báo thời tiết</title>
+  </programme>
+  <programme start="20211011195000 +0700" stop="20211011200000 +0700" channel="kien.giang">
+    <title lang="vi">Phim sitcom “Lắm người nhiều ma” (Tập 11)</title>
+  </programme>
+  <programme start="20211011200000 +0700" stop="20211011201500 +0700" channel="kien.giang">
+    <title lang="vi">Chuyên mục Nông thôn mới</title>
+  </programme>
+  <programme start="20211011201500 +0700" stop="20211011210000 +0700" channel="kien.giang">
+    <title lang="vi">Phim truyện Việt Nam “Đại gia không chồng” (Tập 33)</title>
+  </programme>
+  <programme start="20211011210000 +0700" stop="20211011211500 +0700" channel="kien.giang">
+    <title lang="vi">Phim sitcom “Những cô nàng ngỗ ngáo” (Tập 31) - Hết</title>
+  </programme>
+  <programme start="20211011211500 +0700" stop="20211011220000 +0700" channel="kien.giang">
+    <title lang="vi">Phim truyện Hông Kông “Biệt đội cơ động” (Tập 5)</title>
+  </programme>
+  <programme start="20211011220000 +0700" stop="20211011221500 +0700" channel="kien.giang">
+    <title lang="vi">Biển đảo quê hương Quần đảo Bà Lụa – Kiên Lương</title>
+  </programme>
+  <programme start="20211011221500 +0700" stop="20211011224500 +0700" channel="kien.giang">
+    <title lang="vi">Ca nhạc “Sol Vàng – Những mùa thương nhớ” - CT1</title>
+  </programme>
+  <programme start="20211011224500 +0700" stop="20211011231500 +0700" channel="kien.giang">
+    <title lang="vi">Bản tin cuối ngày - Thế giới 24 giờ</title>
+  </programme>
+  <programme start="20211010052000 +0700" stop="20211010053000 +0700" channel="kien.giang1">
+    <title lang="vi">Hướng dẫn tập thể dục buổi sáng</title>
+  </programme>
+  <programme start="20211010053000 +0700" stop="20211010063000 +0700" channel="kien.giang1">
+    <title lang="vi">Chương trình tiếng Khmer</title>
+  </programme>
+  <programme start="20211010063000 +0700" stop="20211010064500 +0700" channel="kien.giang1">
+    <title lang="vi">Thời sự Kiên Giang</title>
+  </programme>
+  <programme start="20211010064500 +0700" stop="20211010065000 +0700" channel="kien.giang1">
+    <title lang="vi">Nhịp cầu y tế (Số 10)</title>
+  </programme>
+  <programme start="20211010065000 +0700" stop="20211010070500 +0700" channel="kien.giang1">
+    <title lang="vi">Phim sitcom “Thả lưới bắt em” (Tập 30)</title>
+  </programme>
+  <programme start="20211010070500 +0700" stop="20211010071000 +0700" channel="kien.giang1">
+    <title lang="vi">Bản tin Dự báo sâu bệnh cây trồng</title>
+  </programme>
+  <programme start="20211010071000 +0700" stop="20211010073000 +0700" channel="kien.giang1">
+    <title lang="vi">Siêu thị cười “Vực sâu không đáy”</title>
+  </programme>
+  <programme start="20211010073000 +0700" stop="20211010074500 +0700" channel="kien.giang1">
+    <title lang="vi">Chuyên mục Người lao động Kiên Giang</title>
+  </programme>
+  <programme start="20211010074500 +0700" stop="20211010081000 +0700" channel="kien.giang1">
+    <title lang="vi">PTL: Bác Hồ với các kỳ Đại hội Đảng – tập 6</title>
+  </programme>
+  <programme start="20211010081000 +0700" stop="20211010081500 +0700" channel="kien.giang1">
+    <title lang="vi">Thông báo – Nhắn tin – Giới thiệu chương trình</title>
+  </programme>
+  <programme start="20211010081500 +0700" stop="20211010094500 +0700" channel="kien.giang1">
+    <title lang="vi">Phim truyện Hàn Quốc “Họa mi trong mưa” (Tập 44-45)</title>
+  </programme>
+  <programme start="20211010094500 +0700" stop="20211010104500 +0700" channel="kien.giang1">
+    <title lang="vi">Chương trình tiếng Khmer</title>
+  </programme>
+  <programme start="20211010104500 +0700" stop="20211010110000 +0700" channel="kien.giang1">
+    <title lang="vi">P/sự - tọa đàm: Dự án thủy lợi Cái lớn, Cái bé – kỳ 9</title>
+  </programme>
+  <programme start="20211010110000 +0700" stop="20211010112500 +0700" channel="kien.giang1">
+    <title lang="vi">Cầu vồng xanh “Về miền quê”</title>
+  </programme>
+  <programme start="20211010112500 +0700" stop="20211010113000 +0700" channel="kien.giang1">
+    <title lang="vi">Chương trình 60 giây cảnh giác – tập 72</title>
+  </programme>
+  <programme start="20211010113000 +0700" stop="20211010120000 +0700" channel="kien.giang1">
+    <title lang="vi">Thời sự Kiên Giang – Bản tin Quốc tế - Thể thao</title>
+  </programme>
+  <programme start="20211010120000 +0700" stop="20211010120500 +0700" channel="kien.giang1">
+    <title lang="vi">Thông báo – Quảng cáo - Nhắn tin</title>
+  </programme>
+  <programme start="20211010120500 +0700" stop="20211010133500 +0700" channel="kien.giang1">
+    <title lang="vi">Phim truyện Hàn Quốc “Nỗi đau của hạnh phúc” (Tập 40-41)</title>
+  </programme>
+  <programme start="20211010133500 +0700" stop="20211010134000 +0700" channel="kien.giang1">
+    <title lang="vi">Nhịp cầu y tế (Số 10)</title>
+  </programme>
+  <programme start="20211010134000 +0700" stop="20211010134500 +0700" channel="kien.giang1">
+    <title lang="vi">Giới thiệu phim – Giới thiệu chương trình</title>
+  </programme>
+  <programme start="20211010134500 +0700" stop="20211010141500 +0700" channel="kien.giang1">
+    <title lang="vi">Ca nhạc “Sầu lẻ bóng”</title>
+  </programme>
+  <programme start="20211010141500 +0700" stop="20211010151500 +0700" channel="kien.giang1">
+    <title lang="vi">Phim truyện Việt Nam “Sóng gió gia đình” (Tập 24)</title>
+  </programme>
+  <programme start="20211010151500 +0700" stop="20211010161500 +0700" channel="kien.giang1">
+    <title lang="vi">Chương trình tiếng Khmer</title>
+  </programme>
+  <programme start="20211010161500 +0700" stop="20211010164500 +0700" channel="kien.giang1">
+    <title lang="vi">PTL: Bác Hồ với các kỳ Đại hội Đảng – tập 6</title>
+  </programme>
+  <programme start="20211010164500 +0700" stop="20211010173000 +0700" channel="kien.giang1">
+    <title lang="vi">Phim truyện Trung Quốc “Yêu lại từ đầu” (Tập 11)</title>
+  </programme>
+  <programme start="20211010173000 +0700" stop="20211010175500 +0700" channel="kien.giang1">
+    <title lang="vi">Chương trình Khát vọng sống</title>
+  </programme>
+  <programme start="20211010175500 +0700" stop="20211010180000 +0700" channel="kien.giang1">
+    <title lang="vi">Chương trình 60 giây cảnh giác – tập 72</title>
+  </programme>
+  <programme start="20211010180000 +0700" stop="20211010181500 +0700" channel="kien.giang1">
+    <title lang="vi">Tin nhanh 18h</title>
+  </programme>
+  <programme start="20211010181500 +0700" stop="20211010183000 +0700" channel="kien.giang1">
+    <title lang="vi">Bản tin Quốc tế - Thể thao</title>
+  </programme>
+  <programme start="20211010183000 +0700" stop="20211010184000 +0700" channel="kien.giang1">
+    <title lang="vi">Phim sitcom “Mơ đi” (Tập 10)</title>
+  </programme>
+  <programme start="20211010184000 +0700" stop="20211010185500 +0700" channel="kien.giang1">
+    <title lang="vi">Tạp chí Thư viện – kỳ 37</title>
+  </programme>
+  <programme start="20211010185500 +0700" stop="20211010190000 +0700" channel="kien.giang1">
+    <title lang="vi">Thông báo – Nhắn tin – Giới thiệu phim – Giới thiệu chương trình</title>
+  </programme>
+  <programme start="20211010190000 +0700" stop="20211010194500 +0700" channel="kien.giang1">
+    <title lang="vi">Tiếp chuyển Thời sự Đài Truyền hình Việt Nam</title>
+  </programme>
+  <programme start="20211010194500 +0700" stop="20211010203000 +0700" channel="kien.giang1">
+    <title lang="vi">Phim truyện Việt Nam “Dương cầm” (Tập 6)</title>
+  </programme>
+  <programme start="20211010203000 +0700" stop="20211010203500 +0700" channel="kien.giang1">
+    <title lang="vi">Thông báo - Quảng cáo - Dự báo thời tiết</title>
+  </programme>
+  <programme start="20211010203500 +0700" stop="20211010210000 +0700" channel="kien.giang1">
+    <title lang="vi">Phim sitcom “Thả lưới bắt em” (Tập 30)</title>
+  </programme>
+  <programme start="20211010210000 +0700" stop="20211010213000 +0700" channel="kien.giang1">
+    <title lang="vi">Thời sự Kiên Giang</title>
+  </programme>
+  <programme start="20211010213000 +0700" stop="20211010230000 +0700" channel="kien.giang1">
+    <title lang="vi">Cải lương: “Bản hùng ca sông nước”</title>
+  </programme>
+  <programme start="20211010230000 +0700" stop="20211010233000 +0700" channel="kien.giang1">
+    <title lang="vi">Siêu thị cười “Vực sâu không đáy”</title>
+  </programme>
+  <programme start="20211011052000 +0700" stop="20211011053000 +0700" channel="kien.giang1">
+    <title lang="vi">Hướng dẫn tập thể dục buổi sáng</title>
+  </programme>
+  <programme start="20211011053000 +0700" stop="20211011063000 +0700" channel="kien.giang1">
+    <title lang="vi">Chương trình tiếng Khmer</title>
+  </programme>
+  <programme start="20211011063000 +0700" stop="20211011064500 +0700" channel="kien.giang1">
+    <title lang="vi">Thời sự Kiên Giang</title>
+  </programme>
+  <programme start="20211011064500 +0700" stop="20211011065000 +0700" channel="kien.giang1">
+    <title lang="vi">Nhịp cầu y tế (Số 11)</title>
+  </programme>
+  <programme start="20211011065000 +0700" stop="20211011070500 +0700" channel="kien.giang1">
+    <title lang="vi">Phim sitcom “Thả lưới bắt em” (Tập 31)</title>
+  </programme>
+  <programme start="20211011070500 +0700" stop="20211011074000 +0700" channel="kien.giang1">
+    <title lang="vi">Dạy học trên truyền hình: Tiếng Việt lớp 3</title>
+  </programme>
+  <programme start="20211011074000 +0700" stop="20211011081000 +0700" channel="kien.giang1">
+    <title lang="vi">Dạy học trên truyền hình: Tiếng Việt lớp 4</title>
+  </programme>
+  <programme start="20211011081000 +0700" stop="20211011081500 +0700" channel="kien.giang1">
+    <title lang="vi">Thông báo – Nhắn tin – Giới thiệu chương trình</title>
+  </programme>
+  <programme start="20211011081500 +0700" stop="20211011094500 +0700" channel="kien.giang1">
+    <title lang="vi">Phim truyện Hàn Quốc “Họa mi trong mưa” (Tập 46-47)</title>
+  </programme>
+  <programme start="20211011094500 +0700" stop="20211011104500 +0700" channel="kien.giang1">
+    <title lang="vi">Chương trình tiếng Khmer</title>
+  </programme>
+  <programme start="20211011104500 +0700" stop="20211011110000 +0700" channel="kien.giang1">
+    <title lang="vi">P/sự-tọa đàm: Dự án thủy lợi Cái lớn, Cái bé – kỳ 9</title>
+  </programme>
+  <programme start="20211011110000 +0700" stop="20211011113000 +0700" channel="kien.giang1">
+    <title lang="vi">Phim Hoạt hình “Arthur và Vương quốc Minimoys” (Tập 25-26)</title>
+  </programme>
+  <programme start="20211011113000 +0700" stop="20211011120000 +0700" channel="kien.giang1">
+    <title lang="vi">Thời sự Kiên Giang – Bản tin Quốc tế - Thể thao</title>
+  </programme>
+  <programme start="20211011120000 +0700" stop="20211011120500 +0700" channel="kien.giang1">
+    <title lang="vi">Thông báo – Quảng cáo - Nhắn tin</title>
+  </programme>
+  <programme start="20211011120500 +0700" stop="20211011133500 +0700" channel="kien.giang1">
+    <title lang="vi">Phim truyện Hàn Quốc “Nỗi đau của hạnh phúc” (Tập 42-43)</title>
+  </programme>
+  <programme start="20211011133500 +0700" stop="20211011134000 +0700" channel="kien.giang1">
+    <title lang="vi">Nhịp cầu y tế (Số 11)</title>
+  </programme>
+  <programme start="20211011134000 +0700" stop="20211011134500 +0700" channel="kien.giang1">
+    <title lang="vi">Giới thiệu phim – Giới thiệu chương trình</title>
+  </programme>
+  <programme start="20211011134500 +0700" stop="20211011141500 +0700" channel="kien.giang1">
+    <title lang="vi">PTL Việt Nam – thời đại Hồ Chí Minh biên niên sử truyền hình – tập 31</title>
+  </programme>
+  <programme start="20211011141500 +0700" stop="20211011151500 +0700" channel="kien.giang1">
+    <title lang="vi">Phim truyện Việt Nam “Sóng gió gia đình” (Tập 25)</title>
+  </programme>
+  <programme start="20211011151500 +0700" stop="20211011155000 +0700" channel="kien.giang1">
+    <title lang="vi">Dạy học trên truyền hình: Toán lớp 3</title>
+  </programme>
+  <programme start="20211011155000 +0700" stop="20211011161500 +0700" channel="kien.giang1">
+    <title lang="vi">Dạy học trên truyền hình: Toán lớp 4</title>
+  </programme>
+  <programme start="20211011161500 +0700" stop="20211011180000 +0700" channel="kien.giang1">
+    <title lang="vi">Phim truyện Trung Quốc “Yêu lại từ đầu” (Tập 12-13)</title>
+  </programme>
+  <programme start="20211011180000 +0700" stop="20211011181500 +0700" channel="kien.giang1">
+    <title lang="vi">Tin nhanh 18h</title>
+  </programme>
+  <programme start="20211011181500 +0700" stop="20211011183000 +0700" channel="kien.giang1">
+    <title lang="vi">Bản tin Quốc tế - Thể thao</title>
+  </programme>
+  <programme start="20211011183000 +0700" stop="20211011184000 +0700" channel="kien.giang1">
+    <title lang="vi">Phim sitcom “Mơ đi” (Tập 11)</title>
+  </programme>
+  <programme start="20211011184000 +0700" stop="20211011185500 +0700" channel="kien.giang1">
+    <title lang="vi">Ký sự: Hành trình theo chân Bác – tập 26</title>
+  </programme>
+  <programme start="20211011185500 +0700" stop="20211011190000 +0700" channel="kien.giang1">
+    <title lang="vi">Thông báo – Nhắn tin – Giới thiệu phim – Giới thiệu chương trình</title>
+  </programme>
+  <programme start="20211011190000 +0700" stop="20211011194500 +0700" channel="kien.giang1">
+    <title lang="vi">Tiếp chuyển Thời sự Đài Truyền hình Việt Nam</title>
+  </programme>
+  <programme start="20211011194500 +0700" stop="20211011203000 +0700" channel="kien.giang1">
+    <title lang="vi">Phim truyện Việt Nam “Dương cầm” (Tập 7)</title>
+  </programme>
+  <programme start="20211011203000 +0700" stop="20211011204500 +0700" channel="kien.giang1">
+    <title lang="vi">Thông báo - Quảng cáo - Dự báo thời tiết</title>
+  </programme>
+  <programme start="20211011204500 +0700" stop="20211011210000 +0700" channel="kien.giang1">
+    <title lang="vi">Phim sitcom “Thả lưới bắt em” (Tập 31)</title>
+  </programme>
+  <programme start="20211011210000 +0700" stop="20211011213000 +0700" channel="kien.giang1">
+    <title lang="vi">Thời sự Kiên Giang</title>
+  </programme>
+  <programme start="20211011213000 +0700" stop="20211011223000 +0700" channel="kien.giang1">
+    <title lang="vi">Phim truyện Đài Loan “Hẹn hò giấu mặt” (Tập 38)</title>
+  </programme>
+  <programme start="20211011223000 +0700" stop="20211011230000 +0700" channel="kien.giang1">
+    <title lang="vi">Chương trình Bạn muốn hẹn hò</title>
+  </programme>
+  <programme start="20211011230000 +0700" stop="20211011233000 +0700" channel="kien.giang1">
+    <title lang="vi">Ca nhạc “Hát cho dân tôi nghe – Hát cho quê hương”</title>
+  </programme>
+</tv>

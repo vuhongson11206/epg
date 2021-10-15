@@ -80,31 +80,11 @@
     <display-name lang="vi">Bình Dương 1</display-name>
     <url>http://www.cliptv.vn</url>
   </channel>
-  <programme start="20210924190000 +0700" stop="20210924200000 +0700" channel="da.nang1">
+  <programme start="20211015223000 +0700" stop="20211015231500 +0700" channel="da.nang1">
     <title lang="vi">Phim truyện TQ</title>
-    <desc lang="vi">Niên Đại Cam Hồng Tập 8.(n)</desc>
+    <desc lang="vi">Xích Hồn Thạch - P2 Tập 24.(n)</desc>
   </programme>
-  <programme start="20210924200000 +0700" stop="20210924210000 +0700" channel="da.nang1">
-    <title lang="vi">Phim truyện TQ</title>
-    <desc lang="vi">Thanh Xà – Bạch Xà Tập 36.(n)</desc>
-  </programme>
-  <programme start="20210924210000 +0700" stop="20210924211500 +0700" channel="da.nang1">
-    <title lang="vi">Chương trình</title>
-    <desc lang="vi">Hát vì yêu Số 22.(n)</desc>
-  </programme>
-  <programme start="20210924211500 +0700" stop="20210924221500 +0700" channel="da.nang1">
-    <title lang="vi">Phim truyện Singapore</title>
-    <desc lang="vi">Bóng mát giữa đời Tập 2.(n)</desc>
-  </programme>
-  <programme start="20210924221500 +0700" stop="20210924223000 +0700" channel="da.nang1">
-    <title lang="vi">Bản tin tiếng Anh</title>
-    <desc lang="vi">Bản tin tiếng Anh.(n)</desc>
-  </programme>
-  <programme start="20210924223000 +0700" stop="20210924231500 +0700" channel="da.nang1">
-    <title lang="vi">Phim truyện TQ</title>
-    <desc lang="vi">Xích Hồn Thạch - P2 Tập 3.(n)</desc>
-  </programme>
-  <programme start="20210924231500 +0700" stop="20210924234000 +0700" channel="da.nang1">
+  <programme start="20211015231500 +0700" stop="20211015234000 +0700" channel="da.nang1">
     <title lang="vi">Thời sự PT-TH Đà Nẵng</title>
     <desc lang="vi">Thời sự PT-TH Đà Nẵng.(n)</desc>
   </programme>

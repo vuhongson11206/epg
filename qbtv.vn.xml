@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="quang.binh">
+    <display-name lang="vi">Quảng Bình</display-name>
+    <url>http://www.qbtv.vn</url>
+  </channel>
+  <programme start="20210926060000 +0700" stop="20210926060500 +0700" channel="quang.binh">
+    <title lang="vi">Giới thiệu chương trình</title>
+  </programme>
+  <programme start="20210926060500 +0700" stop="20210926063000 +0700" channel="quang.binh">
+    <title lang="vi">Quảng Bình ngày mới</title>
+  </programme>
+  <programme start="20210926063000 +0700" stop="20210926063500 +0700" channel="quang.binh">
+    <title lang="vi">Khám phá Quảng Bình: Nghề cào chắt chắt ở sông Gianh</title>
+  </programme>
+  <programme start="20210926063500 +0700" stop="20210926070000 +0700" channel="quang.binh">
+    <title lang="vi">Phim tài liệu: Lựa chọn của tôi</title>
+  </programme>
+  <programme start="20210926070000 +0700" stop="20210926074500 +0700" channel="quang.binh">
+    <title lang="vi">Phim truyện: Thời gian không chờ đợi - Tập 6</title>
+  </programme>
+  <programme start="20210926074500 +0700" stop="20210926091500 +0700" channel="quang.binh">
+    <title lang="vi">Sân khấu: Quy trình của trái tim</title>
+  </programme>
+  <programme start="20210926091500 +0700" stop="20210926094500 +0700" channel="quang.binh">
+    <title lang="vi">Atlas miền Trung: Bình Định đất võ đất tuồng</title>
+  </programme>
+  <programme start="20210926094500 +0700" stop="20210926103000 +0700" channel="quang.binh">
+    <title lang="vi">Không gian văn hóa nghệ thuật</title>
+  </programme>
+  <programme start="20210926103000 +0700" stop="20210926104500 +0700" channel="quang.binh">
+    <title lang="vi">5S Online</title>
+  </programme>
+  <programme start="20210926104500 +0700" stop="20210926110000 +0700" channel="quang.binh">
+    <title lang="vi">Cải cách hành chính</title>
+  </programme>
+  <programme start="20210926110000 +0700" stop="20210926111500 +0700" channel="quang.binh">
+    <title lang="vi">Nhìn ra thế giới</title>
+  </programme>
+  <programme start="20210926111500 +0700" stop="20210926113000 +0700" channel="quang.binh">
+    <title lang="vi">Cuộc sống muôn nơi</title>
+  </programme>
+  <programme start="20210926113000 +0700" stop="20210926120000 +0700" channel="quang.binh">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20210926120000 +0700" stop="20210926124500 +0700" channel="quang.binh">
+    <title lang="vi">Phim truyện: Trả em kiếp này - Tập 3</title>
+  </programme>
+  <programme start="20210926124500 +0700" stop="20210926143000 +0700" channel="quang.binh">
+    <title lang="vi">Thể thao</title>
+  </programme>
+  <programme start="20210926143000 +0700" stop="20210926144500 +0700" channel="quang.binh">
+    <title lang="vi">Phóng sự: Thích ứng để sống chung với đại dịch</title>
+  </programme>
+  <programme start="20210926144500 +0700" stop="20210926150000 +0700" channel="quang.binh">
+    <title lang="vi">Dọc miền đất nước</title>
+  </programme>
+  <programme start="20210926150000 +0700" stop="20210926154500 +0700" channel="quang.binh">
+    <title lang="vi">Phim truyện: Thời gian không chờ đợi - Tập 6</title>
+  </programme>
+  <programme start="20210926154500 +0700" stop="20210926170000 +0700" channel="quang.binh">
+    <title lang="vi">Chương trình nghệ thuật: Sống như tia nắng mặt trời</title>
+  </programme>
+  <programme start="20210926170000 +0700" stop="20210926172000 +0700" channel="quang.binh">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20210926172000 +0700" stop="20210926173000 +0700" channel="quang.binh">
+    <title lang="vi">Chính phủ tuần qua</title>
+  </programme>
+  <programme start="20210926173000 +0700" stop="20210926181500 +0700" channel="quang.binh">
+    <title lang="vi">Phim truyện: Trả em kiếp này - Tập 3</title>
+  </programme>
+  <programme start="20210926181500 +0700" stop="20210926183000 +0700" channel="quang.binh">
+    <title lang="vi">Điểm tin kinh tế - tài chính</title>
+  </programme>
+  <programme start="20210926183000 +0700" stop="20210926184500 +0700" channel="quang.binh">
+    <title lang="vi">Trang truyền hình Đồng Hới</title>
+  </programme>
+  <programme start="20210926184500 +0700" stop="20210926190000 +0700" channel="quang.binh">
+    <title lang="vi">Bác sĩ của bạn</title>
+  </programme>
+  <programme start="20210926190000 +0700" stop="20210926194500 +0700" channel="quang.binh">
+    <title lang="vi">Tiếp sóng VTV</title>
+  </programme>
+  <programme start="20210926194500 +0700" stop="20210926201500 +0700" channel="quang.binh">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20210926201500 +0700" stop="20210926202500 +0700" channel="quang.binh">
+    <title lang="vi">Bản tin thể thao</title>
+  </programme>
+  <programme start="20210926202500 +0700" stop="20210926210000 +0700" channel="quang.binh">
+    <title lang="vi">Tọa đàm: Tạm dừng đến trường, không dừng học</title>
+  </programme>
+  <programme start="20210926210000 +0700" stop="20210926214500 +0700" channel="quang.binh">
+    <title lang="vi">Phim truyện: Thời gian không chờ đợi - Tập 7</title>
+  </programme>
+  <programme start="20210926214500 +0700" stop="20210926215000 +0700" channel="quang.binh">
+    <title lang="vi">Khám phá Quảng Bình: Nghề cào chắt chắt ở sông Gianh</title>
+  </programme>
+  <programme start="20210926215000 +0700" stop="20210926220500 +0700" channel="quang.binh">
+    <title lang="vi">Điểm tin kinh tế - tài chính</title>
+  </programme>
+  <programme start="20210926220500 +0700" stop="20210927060000 +0700" channel="quang.binh">
+    <title lang="vi">Chính phủ tuần qua</title>
+  </programme>
+  <programme start="20210927060000 +0700" stop="20210927060500 +0700" channel="quang.binh">
+    <title lang="vi">Giới thiệu chương trình</title>
+  </programme>
+  <programme start="20210927060500 +0700" stop="20210927063000 +0700" channel="quang.binh">
+    <title lang="vi">Quảng Bình ngày mới</title>
+  </programme>
+  <programme start="20210927063000 +0700" stop="20210927063500 +0700" channel="quang.binh">
+    <title lang="vi">Khám phá Quảng Bình: Nghề cào chắt chắt ở sông Gianh</title>
+  </programme>
+  <programme start="20210927063500 +0700" stop="20210927070000 +0700" channel="quang.binh">
+    <title lang="vi">Phim tài liệu: Lựa chọn của tôi</title>
+  </programme>
+  <programme start="20210927070000 +0700" stop="20210927074500 +0700" channel="quang.binh">
+    <title lang="vi">Phim truyện: Thời gian không chờ đợi - Tập 6</title>
+  </programme>
+  <programme start="20210927074500 +0700" stop="20210927091500 +0700" channel="quang.binh">
+    <title lang="vi">Sân khấu: Quy trình của trái tim</title>
+  </programme>
+  <programme start="20210927091500 +0700" stop="20210927094500 +0700" channel="quang.binh">
+    <title lang="vi">Atlas miền Trung: Bình Định đất võ đất tuồng</title>
+  </programme>
+  <programme start="20210927094500 +0700" stop="20210927103000 +0700" channel="quang.binh">
+    <title lang="vi">Không gian văn hóa nghệ thuật</title>
+  </programme>
+  <programme start="20210927103000 +0700" stop="20210927104500 +0700" channel="quang.binh">
+    <title lang="vi">5S Online</title>
+  </programme>
+  <programme start="20210927104500 +0700" stop="20210927110000 +0700" channel="quang.binh">
+    <title lang="vi">Cải cách hành chính</title>
+  </programme>
+  <programme start="20210927110000 +0700" stop="20210927111500 +0700" channel="quang.binh">
+    <title lang="vi">Nhìn ra thế giới</title>
+  </programme>
+  <programme start="20210927111500 +0700" stop="20210927113000 +0700" channel="quang.binh">
+    <title lang="vi">Cuộc sống muôn nơi</title>
+  </programme>
+  <programme start="20210927113000 +0700" stop="20210927120000 +0700" channel="quang.binh">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20210927120000 +0700" stop="20210927124500 +0700" channel="quang.binh">
+    <title lang="vi">Phim truyện: Trả em kiếp này - Tập 3</title>
+  </programme>
+  <programme start="20210927124500 +0700" stop="20210927143000 +0700" channel="quang.binh">
+    <title lang="vi">Thể thao</title>
+  </programme>
+  <programme start="20210927143000 +0700" stop="20210927144500 +0700" channel="quang.binh">
+    <title lang="vi">Phóng sự: Thích ứng để sống chung với đại dịch</title>
+  </programme>
+  <programme start="20210927144500 +0700" stop="20210927150000 +0700" channel="quang.binh">
+    <title lang="vi">Dọc miền đất nước</title>
+  </programme>
+  <programme start="20210927150000 +0700" stop="20210927154500 +0700" channel="quang.binh">
+    <title lang="vi">Phim truyện: Thời gian không chờ đợi - Tập 6</title>
+  </programme>
+  <programme start="20210927154500 +0700" stop="20210927170000 +0700" channel="quang.binh">
+    <title lang="vi">Chương trình nghệ thuật: Sống như tia nắng mặt trời</title>
+  </programme>
+  <programme start="20210927170000 +0700" stop="20210927172000 +0700" channel="quang.binh">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20210927172000 +0700" stop="20210927173000 +0700" channel="quang.binh">
+    <title lang="vi">Chính phủ tuần qua</title>
+  </programme>
+  <programme start="20210927173000 +0700" stop="20210927181500 +0700" channel="quang.binh">
+    <title lang="vi">Phim truyện: Trả em kiếp này - Tập 3</title>
+  </programme>
+  <programme start="20210927181500 +0700" stop="20210927183000 +0700" channel="quang.binh">
+    <title lang="vi">Điểm tin kinh tế - tài chính</title>
+  </programme>
+  <programme start="20210927183000 +0700" stop="20210927184500 +0700" channel="quang.binh">
+    <title lang="vi">Trang truyền hình Đồng Hới</title>
+  </programme>
+  <programme start="20210927184500 +0700" stop="20210927190000 +0700" channel="quang.binh">
+    <title lang="vi">Bác sĩ của bạn</title>
+  </programme>
+  <programme start="20210927190000 +0700" stop="20210927194500 +0700" channel="quang.binh">
+    <title lang="vi">Tiếp sóng VTV</title>
+  </programme>
+  <programme start="20210927194500 +0700" stop="20210927201500 +0700" channel="quang.binh">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20210927201500 +0700" stop="20210927202500 +0700" channel="quang.binh">
+    <title lang="vi">Bản tin thể thao</title>
+  </programme>
+  <programme start="20210927202500 +0700" stop="20210927210000 +0700" channel="quang.binh">
+    <title lang="vi">Tọa đàm: Tạm dừng đến trường, không dừng học</title>
+  </programme>
+  <programme start="20210927210000 +0700" stop="20210927214500 +0700" channel="quang.binh">
+    <title lang="vi">Phim truyện: Thời gian không chờ đợi - Tập 7</title>
+  </programme>
+  <programme start="20210927214500 +0700" stop="20210927215000 +0700" channel="quang.binh">
+    <title lang="vi">Khám phá Quảng Bình: Nghề cào chắt chắt ở sông Gianh</title>
+  </programme>
+  <programme start="20210927215000 +0700" stop="20210927220500 +0700" channel="quang.binh">
+    <title lang="vi">Điểm tin kinh tế - tài chính</title>
+  </programme>
+</tv>

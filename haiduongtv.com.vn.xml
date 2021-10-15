@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="hai.duong">
+    <display-name lang="vi">Hải Dương</display-name>
+    <url>http://www.haiduongtv.com.vn</url>
+  </channel>
+  <programme start="20211010060000 +0700" stop="20211010062000 +0700" channel="hai.duong">
+    <title lang="vi">Thời sự Hải Dương</title>
+  </programme>
+  <programme start="20211010062000 +0700" stop="20211010063500 +0700" channel="hai.duong">
+    <title lang="vi">Pháp luật lao động</title>
+  </programme>
+  <programme start="20211010063500 +0700" stop="20211010064500 +0700" channel="hai.duong">
+    <title lang="vi">Sống khỏe 360</title>
+  </programme>
+  <programme start="20211010064500 +0700" stop="20211010065500 +0700" channel="hai.duong">
+    <title lang="vi">Giải trí</title>
+  </programme>
+  <programme start="20211010065500 +0700" stop="20211010070000 +0700" channel="hai.duong">
+    <title lang="vi">Chính sách pháp luật</title>
+  </programme>
+  <programme start="20211010070000 +0700" stop="20211010083000 +0700" channel="hai.duong">
+    <title lang="vi">Phim truyện: Sự trả thù ngọt ngào (tập 23, 24)</title>
+  </programme>
+  <programme start="20211010083000 +0700" stop="20211010090000 +0700" channel="hai.duong">
+    <title lang="vi">Hội thi: Báo cáo viên, truyên truyền viên giỏi thành phố Chí Linh năm 2021</title>
+  </programme>
+  <programme start="20211010090000 +0700" stop="20211010093000 +0700" channel="hai.duong">
+    <title lang="vi">Khoa học - Giáo dục</title>
+  </programme>
+  <programme start="20211010093000 +0700" stop="20211010100000 +0700" channel="hai.duong">
+    <title lang="vi">Vấn đề cùng bàn luận: Nhận diện và đấu tranh với luận điệu xuyên tạc trong phòng chống dịch Covid-19</title>
+  </programme>
+  <programme start="20211010100000 +0700" stop="20211010101500 +0700" channel="hai.duong">
+    <title lang="vi">Phóng sự: Người cao tuổi chung tay đẩy lùi dịch bệnh</title>
+  </programme>
+  <programme start="20211010101500 +0700" stop="20211010103000 +0700" channel="hai.duong">
+    <title lang="vi">Ẩm thực: Ngỗng xào húng quế</title>
+  </programme>
+  <programme start="20211010103000 +0700" stop="20211010104500 +0700" channel="hai.duong">
+    <title lang="vi">Dành cho thiếu nhi</title>
+  </programme>
+  <programme start="20211010104500 +0700" stop="20211010110000 +0700" channel="hai.duong">
+    <title lang="vi">Giới thiệu sách</title>
+  </programme>
+  <programme start="20211010110000 +0700" stop="20211010112000 +0700" channel="hai.duong">
+    <title lang="vi">Thời sự Hải Dương</title>
+  </programme>
+  <programme start="20211010112000 +0700" stop="20211010125000 +0700" channel="hai.duong">
+    <title lang="vi">Phim truyện: Sự trả thù ngọt ngào (tập 25, 26)</title>
+  </programme>
+  <programme start="20211010125000 +0700" stop="20211010130000 +0700" channel="hai.duong">
+    <title lang="vi">Niềm tin cổ tích</title>
+  </programme>
+  <programme start="20211010130000 +0700" stop="20211010133000 +0700" channel="hai.duong">
+    <title lang="vi">Sức khỏe cho mọi người: Phục hồi chức năng sau đột quỵ não</title>
+  </programme>
+  <programme start="20211010133000 +0700" stop="20211010140000 +0700" channel="hai.duong">
+    <title lang="vi">Quà tặng âm nhạc</title>
+  </programme>
+  <programme start="20211010140000 +0700" stop="20211010142500 +0700" channel="hai.duong">
+    <title lang="vi">Du lịch  bốn phương</title>
+  </programme>
+  <programme start="20211010142500 +0700" stop="20211010143000 +0700" channel="hai.duong">
+    <title lang="vi">Chính sách-Pháp luật</title>
+  </programme>
+  <programme start="20211010143000 +0700" stop="20211010151500 +0700" channel="hai.duong">
+    <title lang="vi">Phim truyện: Già gân và mỹ nhân (tập 9)</title>
+  </programme>
+  <programme start="20211010151500 +0700" stop="20211010153000 +0700" channel="hai.duong">
+    <title lang="vi">Danh nhân Hải Dương</title>
+  </programme>
+  <programme start="20211010153000 +0700" stop="20211010160000 +0700" channel="hai.duong">
+    <title lang="vi">Đẹp và phong cách</title>
+  </programme>
+  <programme start="20211010160000 +0700" stop="20211010160500 +0700" channel="hai.duong">
+    <title lang="vi">Bản tin quốc tế</title>
+  </programme>
+  <programme start="20211010160500 +0700" stop="20211010163500 +0700" channel="hai.duong">
+    <title lang="vi">Nhịp cầu âm nhạc</title>
+  </programme>
+  <programme start="20211010163500 +0700" stop="20211010170000 +0700" channel="hai.duong">
+    <title lang="vi">Dành cho thiếu nhi</title>
+  </programme>
+  <programme start="20211010170000 +0700" stop="20211010174500 +0700" channel="hai.duong">
+    <title lang="vi">Phim truyện: Tạm biệt quá khứ (tập 1-Phim Hàn Quốc)</title>
+  </programme>
+  <programme start="20211010174500 +0700" stop="20211010175000 +0700" channel="hai.duong">
+    <title lang="vi">Tấm lòng doanh nhân</title>
+  </programme>
+  <programme start="20211010175000 +0700" stop="20211010183500 +0700" channel="hai.duong">
+    <title lang="vi">Phim truyện: Đặc vụ ở Macao (tập 3)</title>
+  </programme>
+  <programme start="20211010183500 +0700" stop="20211010184500 +0700" channel="hai.duong">
+    <title lang="vi">Sống khỏe 360</title>
+  </programme>
+  <programme start="20211010184500 +0700" stop="20211010185000 +0700" channel="hai.duong">
+    <title lang="vi">Giới thiệu sách</title>
+  </programme>
+  <programme start="20211010185000 +0700" stop="20211010185500 +0700" channel="hai.duong">
+    <title lang="vi">Bản tin quốc tế</title>
+  </programme>
+  <programme start="20211010185500 +0700" stop="20211010190000 +0700" channel="hai.duong">
+    <title lang="vi">Bản tin thể thao</title>
+  </programme>
+  <programme start="20211010190000 +0700" stop="20211010194500 +0700" channel="hai.duong">
+    <title lang="vi">Chuyển tiếp VTV1</title>
+  </programme>
+  <programme start="20211010194500 +0700" stop="20211010201500 +0700" channel="hai.duong">
+    <title lang="vi">Thời sự Hải Dương</title>
+  </programme>
+  <programme start="20211010201500 +0700" stop="20211010202000 +0700" channel="hai.duong">
+    <title lang="vi">Chân dung cuộc sống: Người lưu giữ thời gian</title>
+  </programme>
+  <programme start="20211010202000 +0700" stop="20211010205000 +0700" channel="hai.duong">
+    <title lang="vi">Cuộc sống muôn màu: Phụ nữ và những công việc làm thêm</title>
+  </programme>
+  <programme start="20211010205000 +0700" stop="20211010221500 +0700" channel="hai.duong">
+    <title lang="vi">Phim truyện: Già gân và mỹ nhân (tập 10, 11)</title>
+  </programme>
+  <programme start="20211010221500 +0700" stop="20211010222500 +0700" channel="hai.duong">
+    <title lang="vi">Sức khỏe 360</title>
+  </programme>
+  <programme start="20211010222500 +0700" stop="20211010223000 +0700" channel="hai.duong">
+    <title lang="vi">Niềm tin cổ tích</title>
+  </programme>
+  <programme start="20211010223000 +0700" stop="20211010230000 +0700" channel="hai.duong">
+    <title lang="vi">Diễn đàn Văn học nghệ thuật: Nhà giáo với văn chương</title>
+  </programme>
+  <programme start="20211010230000 +0700" stop="20211010231500 +0700" channel="hai.duong">
+    <title lang="vi">Thời sự cuối ngày</title>
+  </programme>
+</tv>

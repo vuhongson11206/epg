@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="lai.chau">
+    <display-name lang="vi">Lai Châu</display-name>
+    <url>http://www.laichautv.vn</url>
+  </channel>
+  <programme start="20211010054500 +0700" stop="20211010054600 +0700" channel="lai.chau">
+    <title lang="vi">GIỚI THIỆU CHƯƠNG TRÌNH</title>
+  </programme>
+  <programme start="20211010054600 +0700" stop="20211010060000 +0700" channel="lai.chau">
+    <title lang="vi">Bài thể dục buổi sáng</title>
+  </programme>
+  <programme start="20211010060000 +0700" stop="20211010063000 +0700" channel="lai.chau">
+    <title lang="vi">TIẾP SÓNG THỜI SỰ VTV1</title>
+  </programme>
+  <programme start="20211010063000 +0700" stop="20211010064500 +0700" channel="lai.chau">
+    <title lang="vi">KHỞI ĐỘNG NGÀY MỚI</title>
+  </programme>
+  <programme start="20211010064500 +0700" stop="20211010065000 +0700" channel="lai.chau">
+    <title lang="vi">DỰ BÁO THỜI TIẾT</title>
+  </programme>
+  <programme start="20211010065000 +0700" stop="20211010070000 +0700" channel="lai.chau">
+    <title lang="vi">ĐIỂM BÁO</title>
+  </programme>
+  <programme start="20211010070000 +0700" stop="20211010071500 +0700" channel="lai.chau">
+    <title lang="vi">KỸ NĂNG SỐNG</title>
+  </programme>
+  <programme start="20211010071500 +0700" stop="20211010073000 +0700" channel="lai.chau">
+    <title lang="vi">CHIA SẺ KINH NGHIỆM KẾT NỐI THÀNH CÔNG</title>
+  </programme>
+  <programme start="20211010073000 +0700" stop="20211010081500 +0700" channel="lai.chau">
+    <title lang="vi">Phim truyện</title>
+  </programme>
+  <programme start="20211010081500 +0700" stop="20211010090000 +0700" channel="lai.chau">
+    <title lang="vi">Tọa đàm/Phim TÀI LIỆU</title>
+  </programme>
+  <programme start="20211010090000 +0700" stop="20211010093000 +0700" channel="lai.chau">
+    <title lang="vi">THỜI SỰ LAI CHÂU</title>
+  </programme>
+  <programme start="20211010093000 +0700" stop="20211010094500 +0700" channel="lai.chau">
+    <title lang="vi">TRANG TRUYỀN HÌNH CƠ SỞ</title>
+  </programme>
+  <programme start="20211010094500 +0700" stop="20211010100000 +0700" channel="lai.chau">
+    <title lang="vi">NHÌN RA TỈNH BẠN</title>
+  </programme>
+  <programme start="20211010100000 +0700" stop="20211010103000 +0700" channel="lai.chau">
+    <title lang="vi">CA NHẠC</title>
+  </programme>
+  <programme start="20211010103000 +0700" stop="20211010110000 +0700" channel="lai.chau">
+    <title lang="vi">TRUYỀN HÌNH TIẾNG DÂN TỘC</title>
+  </programme>
+  <programme start="20211010110000 +0700" stop="20211010111500 +0700" channel="lai.chau">
+    <title lang="vi">TRUYỀN HÌNH QUÂN KHU 2</title>
+  </programme>
+  <programme start="20211010111500 +0700" stop="20211010113000 +0700" channel="lai.chau">
+    <title lang="vi">Văn bản mới của Đảng</title>
+  </programme>
+  <programme start="20211010113000 +0700" stop="20211010115500 +0700" channel="lai.chau">
+    <title lang="vi">THỜI SỰ LAI CHÂU</title>
+  </programme>
+  <programme start="20211010115500 +0700" stop="20211010120000 +0700" channel="lai.chau">
+    <title lang="vi">Dự báo thời tiết</title>
+  </programme>
+  <programme start="20211010120000 +0700" stop="20211010123000 +0700" channel="lai.chau">
+    <title lang="vi">TIẾP SÓNG THỜI SỰ VTV1</title>
+  </programme>
+  <programme start="20211010123000 +0700" stop="20211010131500 +0700" channel="lai.chau">
+    <title lang="vi">PHIM TRUYỆN</title>
+  </programme>
+  <programme start="20211010131500 +0700" stop="20211010133000 +0700" channel="lai.chau">
+    <title lang="vi">KỸ NĂNG SỐNG</title>
+  </programme>
+  <programme start="20211010133000 +0700" stop="20211010134500 +0700" channel="lai.chau">
+    <title lang="vi">BẢN TIN TRONG NƯỚC</title>
+  </programme>
+  <programme start="20211010134500 +0700" stop="20211010140000 +0700" channel="lai.chau">
+    <title lang="vi">BẢN TIN THẾ GIỚI</title>
+  </programme>
+  <programme start="20211010140000 +0700" stop="20211010143000 +0700" channel="lai.chau">
+    <title lang="vi">CA NHẠC</title>
+  </programme>
+  <programme start="20211010143000 +0700" stop="20211010144500 +0700" channel="lai.chau">
+    <title lang="vi">NHÌN RA TỈNH BẠN</title>
+  </programme>
+  <programme start="20211010144500 +0700" stop="20211010150000 +0700" channel="lai.chau">
+    <title lang="vi">GIÁO DỤC - PHÁT TRIỂN</title>
+  </programme>
+  <programme start="20211010150000 +0700" stop="20211010151500 +0700" channel="lai.chau">
+    <title lang="vi">Phóng sự chuyên đề</title>
+  </programme>
+  <programme start="20211010151500 +0700" stop="20211010154500 +0700" channel="lai.chau">
+    <title lang="vi">TỌA ĐÀM/Phim TÀI LIỆU</title>
+  </programme>
+  <programme start="20211010154500 +0700" stop="20211010160000 +0700" channel="lai.chau">
+    <title lang="vi">Phim truyện</title>
+  </programme>
+  <programme start="20211010160000 +0700" stop="20211010162500 +0700" channel="lai.chau">
+    <title lang="vi">THỜI SỰ LAI CHÂU</title>
+  </programme>
+  <programme start="20211010162500 +0700" stop="20211010163500 +0700" channel="lai.chau">
+    <title lang="vi">ĐIỂM BÁO</title>
+  </programme>
+  <programme start="20211010163500 +0700" stop="20211010170500 +0700" channel="lai.chau">
+    <title lang="vi">TRUYỀN HÌNH TIẾNG THÁI</title>
+  </programme>
+  <programme start="20211010170500 +0700" stop="20211010175000 +0700" channel="lai.chau">
+    <title lang="vi">PHIM TRUYỆN</title>
+  </programme>
+  <programme start="20211010175000 +0700" stop="20211010180500 +0700" channel="lai.chau">
+    <title lang="vi">BHXH-BHYT VÌ AN SINH XÃ HỘI</title>
+  </programme>
+  <programme start="20211010180500 +0700" stop="20211010182000 +0700" channel="lai.chau">
+    <title lang="vi">CA NHẠC THIẾU NHI</title>
+  </programme>
+  <programme start="20211010182000 +0700" stop="20211010183500 +0700" channel="lai.chau">
+    <title lang="vi">TRUYỀN HÌNH CƠ SỞ</title>
+  </programme>
+  <programme start="20211010183500 +0700" stop="20211010185000 +0700" channel="lai.chau">
+    <title lang="vi">VÌ SỰ TIẾN BỌ CỦA PHỤ NỮ</title>
+  </programme>
+  <programme start="20211010185000 +0700" stop="20211010190000 +0700" channel="lai.chau">
+    <title lang="vi">Văn bản mới của Đảng</title>
+  </programme>
+  <programme start="20211010190000 +0700" stop="20211010194500 +0700" channel="lai.chau">
+    <title lang="vi">TIẾP SÓNG THỜI SỰ VTV1</title>
+  </programme>
+  <programme start="20211010194500 +0700" stop="20211010200000 +0700" channel="lai.chau">
+    <title lang="vi">KẾT NỐI YÊU THƯƠNG</title>
+  </programme>
+  <programme start="20211010200000 +0700" stop="20211010203000 +0700" channel="lai.chau">
+    <title lang="vi">THỜI SỰ LAI CHÂU</title>
+  </programme>
+  <programme start="20211010203000 +0700" stop="20211010203500 +0700" channel="lai.chau">
+    <title lang="vi">DỰ BÁO THỜI TIẾT</title>
+  </programme>
+  <programme start="20211010203500 +0700" stop="20211010205000 +0700" channel="lai.chau">
+    <title lang="vi">NQĐH ĐẢNG ĐI VÀO CUỘC SỐNG</title>
+  </programme>
+  <programme start="20211010205000 +0700" stop="20211010213500 +0700" channel="lai.chau">
+    <title lang="vi">PHIM TRUYỆN</title>
+  </programme>
+  <programme start="20211010213500 +0700" stop="20211010215000 +0700" channel="lai.chau">
+    <title lang="vi">BẢN TIN TRONG NƯỚC</title>
+  </programme>
+  <programme start="20211010215000 +0700" stop="20211010220500 +0700" channel="lai.chau">
+    <title lang="vi">BẢN TIN THẾ GIỚI</title>
+  </programme>
+  <programme start="20211010220500 +0700" stop="20211010222000 +0700" channel="lai.chau">
+    <title lang="vi">Phóng sự chuyên đề</title>
+  </programme>
+  <programme start="20211010222000 +0700" stop="20211010223500 +0700" channel="lai.chau">
+    <title lang="vi">Phim truyện</title>
+  </programme>
+</tv>

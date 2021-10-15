@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="hau.giang">
+    <display-name lang="vi">Hậu Giang</display-name>
+    <url>http://www.haugiangtivi.vn</url>
+  </channel>
+  <programme start="20211010002500 +0700" stop="20211010011000 +0700" channel="hau.giang">
+    <title lang="vi">Giai điệu quê hương</title>
+  </programme>
+  <programme start="20211010011000 +0700" stop="20211010014000 +0700" channel="hau.giang">
+    <title lang="vi">Phim tài liệu - Việt Nam thời đại Hồ Chí Minh biên niên sử truyền hình. Tập 85</title>
+  </programme>
+  <programme start="20211010014000 +0700" stop="20211010022500 +0700" channel="hau.giang">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20211010022500 +0700" stop="20211010023500 +0700" channel="hau.giang">
+    <title lang="vi">Vì người tiêu dùng</title>
+  </programme>
+  <programme start="20211010023500 +0700" stop="20211010024000 +0700" channel="hau.giang">
+    <title lang="vi">Chính phủ với người dân</title>
+  </programme>
+  <programme start="20211010024000 +0700" stop="20211010031500 +0700" channel="hau.giang">
+    <title lang="vi">Nhạc trẻ TOP TEN MV NHẠCVIỆT</title>
+  </programme>
+  <programme start="20211010031500 +0700" stop="20211010033000 +0700" channel="hau.giang">
+    <title lang="vi">Thị trường tiêu dùng</title>
+  </programme>
+  <programme start="20211010033000 +0700" stop="20211010040000 +0700" channel="hau.giang">
+    <title lang="vi">Phim tài liệu - Góc nhìn chiến tranh</title>
+  </programme>
+  <programme start="20211010040000 +0700" stop="20211010044500 +0700" channel="hau.giang">
+    <title lang="vi">Trích đoạn sân khấu</title>
+  </programme>
+  <programme start="20211010044500 +0700" stop="20211010050000 +0700" channel="hau.giang">
+    <title lang="vi">Bóng thời gian</title>
+  </programme>
+  <programme start="20211010050000 +0700" stop="20211010050500 +0700" channel="hau.giang">
+    <title lang="vi">Đài hiệu - Chào cờ</title>
+  </programme>
+  <programme start="20211010050500 +0700" stop="20211010054500 +0700" channel="hau.giang">
+    <title lang="vi">Giai điệu thao trường</title>
+  </programme>
+  <programme start="20211010054500 +0700" stop="20211010060000 +0700" channel="hau.giang">
+    <title lang="vi">Kinh tế nông nghiệp</title>
+  </programme>
+  <programme start="20211010060000 +0700" stop="20211010064500 +0700" channel="hau.giang">
+    <title lang="vi">Nhịp sống ngày mới</title>
+  </programme>
+  <programme start="20211010064500 +0700" stop="20211010070000 +0700" channel="hau.giang">
+    <title lang="vi">Thị trường tiêu dùng</title>
+  </programme>
+  <programme start="20211010070000 +0700" stop="20211010074500 +0700" channel="hau.giang">
+    <title lang="vi">Phim truyện - Khỏa nước sông Quy. Tập 3</title>
+  </programme>
+  <programme start="20211010074500 +0700" stop="20211010075000 +0700" channel="hau.giang">
+    <title lang="vi">Thời tiết nông vụ</title>
+  </programme>
+  <programme start="20211010075000 +0700" stop="20211010080000 +0700" channel="hau.giang">
+    <title lang="vi">Dọc miền sông nước</title>
+  </programme>
+  <programme start="20211010080000 +0700" stop="20211010083000 +0700" channel="hau.giang">
+    <title lang="vi">Phim hoạt hình – Supercar. Tập 22</title>
+  </programme>
+  <programme start="20211010083000 +0700" stop="20211010084500 +0700" channel="hau.giang">
+    <title lang="vi">Học bổng ADC</title>
+  </programme>
+  <programme start="20211010084500 +0700" stop="20211010090000 +0700" channel="hau.giang">
+    <title lang="vi">Sống xanh</title>
+  </programme>
+  <programme start="20211010090000 +0700" stop="20211010091000 +0700" channel="hau.giang">
+    <title lang="vi">Chung tay phòng chống Covid-19</title>
+  </programme>
+  <programme start="20211010091000 +0700" stop="20211010091500 +0700" channel="hau.giang">
+    <title lang="vi">Chính phủ với người dân</title>
+  </programme>
+  <programme start="20211010091500 +0700" stop="20211010100000 +0700" channel="hau.giang">
+    <title lang="vi">Những nốt thăng trầm - Ca sĩ, nhạc sĩ Mr. Siro</title>
+  </programme>
+  <programme start="20211010100000 +0700" stop="20211010101000 +0700" channel="hau.giang">
+    <title lang="vi">Vì người tiêu dùng</title>
+  </programme>
+  <programme start="20211010101000 +0700" stop="20211010103000 +0700" channel="hau.giang">
+    <title lang="vi">Ký sự nước Lào. Tập 40</title>
+  </programme>
+  <programme start="20211010103000 +0700" stop="20211010104500 +0700" channel="hau.giang">
+    <title lang="vi">Kinh tế nông nghiệp</title>
+  </programme>
+  <programme start="20211010104500 +0700" stop="20211010111500 +0700" channel="hau.giang">
+    <title lang="vi">Giải mã kỳ tài. Kỳ 15</title>
+  </programme>
+  <programme start="20211010111500 +0700" stop="20211010112500 +0700" channel="hau.giang">
+    <title lang="vi">Tạp chí văn nghệ. Số 52</title>
+  </programme>
+  <programme start="20211010112500 +0700" stop="20211010113000 +0700" channel="hau.giang">
+    <title lang="vi">HGTV giới thiệu – Quảng Cáo</title>
+  </programme>
+  <programme start="20211010113000 +0700" stop="20211010120000 +0700" channel="hau.giang">
+    <title lang="vi">Chuyển động Đông Tây</title>
+  </programme>
+  <programme start="20211010120000 +0700" stop="20211010124500 +0700" channel="hau.giang">
+    <title lang="vi">Phim truyện - Hồng tửu và giai nhân. Tập 41</title>
+  </programme>
+  <programme start="20211010124500 +0700" stop="20211010130000 +0700" channel="hau.giang">
+    <title lang="vi">Thị trường tiêu dùng</title>
+  </programme>
+  <programme start="20211010130000 +0700" stop="20211010130500 +0700" channel="hau.giang">
+    <title lang="vi">Chính phủ với người dân</title>
+  </programme>
+  <programme start="20211010130500 +0700" stop="20211010135000 +0700" channel="hau.giang">
+    <title lang="vi">Giai điệu quê hương - Bến sông xưa</title>
+  </programme>
+  <programme start="20211010135000 +0700" stop="20211010140000 +0700" channel="hau.giang">
+    <title lang="vi">Làm nông thông minh</title>
+  </programme>
+  <programme start="20211010140000 +0700" stop="20211010160500 +0700" channel="hau.giang">
+    <title lang="vi">Cải lương - Hồng lâu mộng</title>
+  </programme>
+  <programme start="20211010160500 +0700" stop="20211010162000 +0700" channel="hau.giang">
+    <title lang="vi">Vinarice</title>
+  </programme>
+  <programme start="20211010162000 +0700" stop="20211010163500 +0700" channel="hau.giang">
+    <title lang="vi">Bóng thời gian</title>
+  </programme>
+  <programme start="20211010163500 +0700" stop="20211010165500 +0700" channel="hau.giang">
+    <title lang="vi">Thiếu nhi - Ấm áp tình thương</title>
+  </programme>
+  <programme start="20211010165500 +0700" stop="20211010170000 +0700" channel="hau.giang">
+    <title lang="vi">An toàn giao thông</title>
+  </programme>
+  <programme start="20211010170000 +0700" stop="20211010175000 +0700" channel="hau.giang">
+    <title lang="vi">Phim truyện - Mẹ nuôi. Tập 5</title>
+  </programme>
+  <programme start="20211010175000 +0700" stop="20211010180000 +0700" channel="hau.giang">
+    <title lang="vi">Vì người tiêu dùng</title>
+  </programme>
+  <programme start="20211010180000 +0700" stop="20211010181500 +0700" channel="hau.giang">
+    <title lang="vi">Làm nông thông minh</title>
+  </programme>
+  <programme start="20211010181500 +0700" stop="20211010182900 +0700" channel="hau.giang">
+    <title lang="vi">Hộp thư truyền hình</title>
+  </programme>
+  <programme start="20211010182900 +0700" stop="20211010190000 +0700" channel="hau.giang">
+    <title lang="vi">Tin tức Mekong</title>
+  </programme>
+  <programme start="20211010190000 +0700" stop="20211010194000 +0700" channel="hau.giang">
+    <title lang="vi">Tiếp chuyển Thời sự VTV</title>
+  </programme>
+  <programme start="20211010194000 +0700" stop="20211010202500 +0700" channel="hau.giang">
+    <title lang="vi">Thời sự Hậu Giang - Thời tiết nông vụ</title>
+  </programme>
+  <programme start="20211010202500 +0700" stop="20211010211500 +0700" channel="hau.giang">
+    <title lang="vi">Phim truyện - Cố lên, cậu là tuyệt nhất. Tập 29</title>
+  </programme>
+  <programme start="20211010211500 +0700" stop="20211010213500 +0700" channel="hau.giang">
+    <title lang="vi">Phim Sitcom - Cô Thắm về làng. Tập 56</title>
+  </programme>
+  <programme start="20211010213500 +0700" stop="20211010220000 +0700" channel="hau.giang">
+    <title lang="vi">Phim truyện - Chiêu trò nguyên thủy. Tập 46</title>
+  </programme>
+  <programme start="20211010220000 +0700" stop="20211010224500 +0700" channel="hau.giang">
+    <title lang="vi">Phim truyện - Tam sinh tam thế Chẩm Thượng Thư. Tập 30</title>
+  </programme>
+  <programme start="20211010224500 +0700" stop="20211010233000 +0700" channel="hau.giang">
+    <title lang="vi">Cảm xúc Bolero - Xin gọi nhau là cố nhân</title>
+  </programme>
+  <programme start="20211010233000 +0700" stop="20211011002500 +0700" channel="hau.giang">
+    <title lang="vi">Ký sự</title>
+  </programme>
+  <programme start="20211011002500 +0700" stop="20211011011000 +0700" channel="hau.giang">
+    <title lang="vi">Giai điệu quê hương</title>
+  </programme>
+  <programme start="20211011011000 +0700" stop="20211011014000 +0700" channel="hau.giang">
+    <title lang="vi">Phim tài liệu - Việt Nam thời đại Hồ Chí Minh biên niên sử truyền hình. Tập 85</title>
+  </programme>
+  <programme start="20211011014000 +0700" stop="20211011022500 +0700" channel="hau.giang">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20211011022500 +0700" stop="20211011023500 +0700" channel="hau.giang">
+    <title lang="vi">Vì người tiêu dùng</title>
+  </programme>
+  <programme start="20211011023500 +0700" stop="20211011024000 +0700" channel="hau.giang">
+    <title lang="vi">Chính phủ với người dân</title>
+  </programme>
+  <programme start="20211011024000 +0700" stop="20211011031500 +0700" channel="hau.giang">
+    <title lang="vi">Nhạc trẻ TOP TEN MV NHẠCVIỆT</title>
+  </programme>
+  <programme start="20211011031500 +0700" stop="20211011033000 +0700" channel="hau.giang">
+    <title lang="vi">Thị trường tiêu dùng</title>
+  </programme>
+  <programme start="20211011033000 +0700" stop="20211011040000 +0700" channel="hau.giang">
+    <title lang="vi">Phim tài liệu - Góc nhìn chiến tranh</title>
+  </programme>
+  <programme start="20211011040000 +0700" stop="20211011044500 +0700" channel="hau.giang">
+    <title lang="vi">Trích đoạn sân khấu</title>
+  </programme>
+  <programme start="20211011044500 +0700" stop="20211011050000 +0700" channel="hau.giang">
+    <title lang="vi">Bóng thời gian</title>
+  </programme>
+  <programme start="20211011050000 +0700" stop="20211011050500 +0700" channel="hau.giang">
+    <title lang="vi">Đài hiệu - Chào cờ</title>
+  </programme>
+  <programme start="20211011050500 +0700" stop="20211011054500 +0700" channel="hau.giang">
+    <title lang="vi">Giai điệu thao trường</title>
+  </programme>
+  <programme start="20211011054500 +0700" stop="20211011060000 +0700" channel="hau.giang">
+    <title lang="vi">Kinh tế nông nghiệp</title>
+  </programme>
+  <programme start="20211011060000 +0700" stop="20211011064500 +0700" channel="hau.giang">
+    <title lang="vi">Nhịp sống ngày mới</title>
+  </programme>
+  <programme start="20211011064500 +0700" stop="20211011070000 +0700" channel="hau.giang">
+    <title lang="vi">Thị trường tiêu dùng</title>
+  </programme>
+  <programme start="20211011070000 +0700" stop="20211011074500 +0700" channel="hau.giang">
+    <title lang="vi">Phim truyện - Khỏa nước sông Quy. Tập 3</title>
+  </programme>
+  <programme start="20211011074500 +0700" stop="20211011075000 +0700" channel="hau.giang">
+    <title lang="vi">Thời tiết nông vụ</title>
+  </programme>
+  <programme start="20211011075000 +0700" stop="20211011080000 +0700" channel="hau.giang">
+    <title lang="vi">Dọc miền sông nước</title>
+  </programme>
+  <programme start="20211011080000 +0700" stop="20211011083000 +0700" channel="hau.giang">
+    <title lang="vi">Phim hoạt hình – Supercar. Tập 22</title>
+  </programme>
+  <programme start="20211011083000 +0700" stop="20211011084500 +0700" channel="hau.giang">
+    <title lang="vi">Học bổng ADC</title>
+  </programme>
+  <programme start="20211011084500 +0700" stop="20211011090000 +0700" channel="hau.giang">
+    <title lang="vi">Sống xanh</title>
+  </programme>
+  <programme start="20211011090000 +0700" stop="20211011091000 +0700" channel="hau.giang">
+    <title lang="vi">Chung tay phòng chống Covid-19</title>
+  </programme>
+  <programme start="20211011091000 +0700" stop="20211011091500 +0700" channel="hau.giang">
+    <title lang="vi">Chính phủ với người dân</title>
+  </programme>
+  <programme start="20211011091500 +0700" stop="20211011100000 +0700" channel="hau.giang">
+    <title lang="vi">Những nốt thăng trầm - Ca sĩ, nhạc sĩ Mr. Siro</title>
+  </programme>
+  <programme start="20211011100000 +0700" stop="20211011101000 +0700" channel="hau.giang">
+    <title lang="vi">Vì người tiêu dùng</title>
+  </programme>
+  <programme start="20211011101000 +0700" stop="20211011103000 +0700" channel="hau.giang">
+    <title lang="vi">Ký sự nước Lào. Tập 40</title>
+  </programme>
+  <programme start="20211011103000 +0700" stop="20211011104500 +0700" channel="hau.giang">
+    <title lang="vi">Kinh tế nông nghiệp</title>
+  </programme>
+  <programme start="20211011104500 +0700" stop="20211011111500 +0700" channel="hau.giang">
+    <title lang="vi">Giải mã kỳ tài. Kỳ 15</title>
+  </programme>
+  <programme start="20211011111500 +0700" stop="20211011112500 +0700" channel="hau.giang">
+    <title lang="vi">Tạp chí văn nghệ. Số 52</title>
+  </programme>
+  <programme start="20211011112500 +0700" stop="20211011113000 +0700" channel="hau.giang">
+    <title lang="vi">HGTV giới thiệu – Quảng Cáo</title>
+  </programme>
+  <programme start="20211011113000 +0700" stop="20211011120000 +0700" channel="hau.giang">
+    <title lang="vi">Chuyển động Đông Tây</title>
+  </programme>
+  <programme start="20211011120000 +0700" stop="20211011124500 +0700" channel="hau.giang">
+    <title lang="vi">Phim truyện - Hồng tửu và giai nhân. Tập 41</title>
+  </programme>
+  <programme start="20211011124500 +0700" stop="20211011130000 +0700" channel="hau.giang">
+    <title lang="vi">Thị trường tiêu dùng</title>
+  </programme>
+  <programme start="20211011130000 +0700" stop="20211011130500 +0700" channel="hau.giang">
+    <title lang="vi">Chính phủ với người dân</title>
+  </programme>
+  <programme start="20211011130500 +0700" stop="20211011135000 +0700" channel="hau.giang">
+    <title lang="vi">Giai điệu quê hương - Bến sông xưa</title>
+  </programme>
+  <programme start="20211011135000 +0700" stop="20211011140000 +0700" channel="hau.giang">
+    <title lang="vi">Làm nông thông minh</title>
+  </programme>
+  <programme start="20211011140000 +0700" stop="20211011160500 +0700" channel="hau.giang">
+    <title lang="vi">Cải lương - Hồng lâu mộng</title>
+  </programme>
+  <programme start="20211011160500 +0700" stop="20211011162000 +0700" channel="hau.giang">
+    <title lang="vi">Vinarice</title>
+  </programme>
+  <programme start="20211011162000 +0700" stop="20211011163500 +0700" channel="hau.giang">
+    <title lang="vi">Bóng thời gian</title>
+  </programme>
+  <programme start="20211011163500 +0700" stop="20211011165500 +0700" channel="hau.giang">
+    <title lang="vi">Thiếu nhi - Ấm áp tình thương</title>
+  </programme>
+  <programme start="20211011165500 +0700" stop="20211011170000 +0700" channel="hau.giang">
+    <title lang="vi">An toàn giao thông</title>
+  </programme>
+  <programme start="20211011170000 +0700" stop="20211011175000 +0700" channel="hau.giang">
+    <title lang="vi">Phim truyện - Mẹ nuôi. Tập 5</title>
+  </programme>
+  <programme start="20211011175000 +0700" stop="20211011180000 +0700" channel="hau.giang">
+    <title lang="vi">Vì người tiêu dùng</title>
+  </programme>
+  <programme start="20211011180000 +0700" stop="20211011181500 +0700" channel="hau.giang">
+    <title lang="vi">Làm nông thông minh</title>
+  </programme>
+  <programme start="20211011181500 +0700" stop="20211011182900 +0700" channel="hau.giang">
+    <title lang="vi">Hộp thư truyền hình</title>
+  </programme>
+  <programme start="20211011182900 +0700" stop="20211011190000 +0700" channel="hau.giang">
+    <title lang="vi">Tin tức Mekong</title>
+  </programme>
+  <programme start="20211011190000 +0700" stop="20211011194000 +0700" channel="hau.giang">
+    <title lang="vi">Tiếp chuyển Thời sự VTV</title>
+  </programme>
+  <programme start="20211011194000 +0700" stop="20211011202500 +0700" channel="hau.giang">
+    <title lang="vi">Thời sự Hậu Giang - Thời tiết nông vụ</title>
+  </programme>
+  <programme start="20211011202500 +0700" stop="20211011211500 +0700" channel="hau.giang">
+    <title lang="vi">Phim truyện - Cố lên, cậu là tuyệt nhất. Tập 29</title>
+  </programme>
+  <programme start="20211011211500 +0700" stop="20211011213500 +0700" channel="hau.giang">
+    <title lang="vi">Phim Sitcom - Cô Thắm về làng. Tập 56</title>
+  </programme>
+  <programme start="20211011213500 +0700" stop="20211011220000 +0700" channel="hau.giang">
+    <title lang="vi">Phim truyện - Chiêu trò nguyên thủy. Tập 46</title>
+  </programme>
+  <programme start="20211011220000 +0700" stop="20211011224500 +0700" channel="hau.giang">
+    <title lang="vi">Phim truyện - Tam sinh tam thế Chẩm Thượng Thư. Tập 30</title>
+  </programme>
+  <programme start="20211011224500 +0700" stop="20211011233000 +0700" channel="hau.giang">
+    <title lang="vi">Cảm xúc Bolero - Xin gọi nhau là cố nhân</title>
+  </programme>
+</tv>

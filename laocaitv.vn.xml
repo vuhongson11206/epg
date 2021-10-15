@@ -1,0 +1,406 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="lao.cai">
+    <display-name lang="vi">Lào Cai</display-name>
+    <url>http://www.laocaitv.vn</url>
+  </channel>
+  <programme start="20210924052700 +0700" stop="20210924053000 +0700" channel="lao.cai">
+    <title lang="vi">Nhạc hiệu + Giới thiệu chương trình</title>
+  </programme>
+  <programme start="20210924053000 +0700" stop="20210924054500 +0700" channel="lao.cai">
+    <title lang="vi">Thời sự (tiếng Mông)</title>
+  </programme>
+  <programme start="20210924054500 +0700" stop="20210924055500 +0700" channel="lao.cai">
+    <title lang="vi">Phim tài liệu Kỷ niệm 30 năm tái lập tỉnh: 30 năm xây dựng huyện vùng cao biên giới Bát Xát (tiếng Mông)</title>
+  </programme>
+  <programme start="20210924055500 +0700" stop="20210924060000 +0700" channel="lao.cai">
+    <title lang="vi">Bài hát (tiếng Mông)</title>
+  </programme>
+  <programme start="20210924060000 +0700" stop="20210924065000 +0700" channel="lao.cai">
+    <title lang="vi">Phim truyện: Bản năng thép - T16</title>
+  </programme>
+  <programme start="20210924065000 +0700" stop="20210924070000 +0700" channel="lao.cai">
+    <title lang="vi">Phụ nữ &amp; Cuộc sống: Hội LHPN thành phố Lào Cai quan tâm hỗ trợ hội viên khó khăn</title>
+  </programme>
+  <programme start="20210924070000 +0700" stop="20210924073500 +0700" channel="lao.cai">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20210924073500 +0700" stop="20210924074000 +0700" channel="lao.cai">
+    <title lang="vi">Clip Bảo Yên ngày mới</title>
+  </programme>
+  <programme start="20210924074000 +0700" stop="20210924080000 +0700" channel="lao.cai">
+    <title lang="vi">Chuyên mục: Đại biểu nhân dân</title>
+  </programme>
+  <programme start="20210924080000 +0700" stop="20210924085000 +0700" channel="lao.cai">
+    <title lang="vi">Phim truyện: Giá của nụ cười T1</title>
+  </programme>
+  <programme start="20210924085000 +0700" stop="20210924090000 +0700" channel="lao.cai">
+    <title lang="vi">Sức khỏe Cộng đồng: Phòng bệnh giao mùa cho trẻ</title>
+  </programme>
+  <programme start="20210924090000 +0700" stop="20210924091000 +0700" channel="lao.cai">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20210924091000 +0700" stop="20210924092000 +0700" channel="lao.cai">
+    <title lang="vi">Nông nghiệp &amp; Phát triển nông thôn: Nâng tầm sản phẩm OCOP</title>
+  </programme>
+  <programme start="20210924092000 +0700" stop="20210924094000 +0700" channel="lao.cai">
+    <title lang="vi">Phim tài liệu: Hành trình làm phim về thiên nhiên hoang dã - Phần 1</title>
+  </programme>
+  <programme start="20210924094000 +0700" stop="20210924095500 +0700" channel="lao.cai">
+    <title lang="vi">Trang địa phương huyện Bảo Thắng</title>
+  </programme>
+  <programme start="20210924095500 +0700" stop="20210924100000 +0700" channel="lao.cai">
+    <title lang="vi">Clip Dưới chân núi voi Bảo Yên</title>
+  </programme>
+  <programme start="20210924100000 +0700" stop="20210924105000 +0700" channel="lao.cai">
+    <title lang="vi">Phim truyện: Thói đời T1</title>
+  </programme>
+  <programme start="20210924105000 +0700" stop="20210924110000 +0700" channel="lao.cai">
+    <title lang="vi">Quốc phòng toàn dân</title>
+  </programme>
+  <programme start="20210924110000 +0700" stop="20210924111500 +0700" channel="lao.cai">
+    <title lang="vi">Thời sự (tiếng Dao)</title>
+  </programme>
+  <programme start="20210924111500 +0700" stop="20210924112500 +0700" channel="lao.cai">
+    <title lang="vi">Phim tài liệu Kỷ niệm 30 năm tái lập tỉnh: Mường Khương - 30 năm vững vàng vùng đất thép (tiếng Dao)</title>
+  </programme>
+  <programme start="20210924112500 +0700" stop="20210924113000 +0700" channel="lao.cai">
+    <title lang="vi">Bài hát (tiếng Dao)</title>
+  </programme>
+  <programme start="20210924113000 +0700" stop="20210924114000 +0700" channel="lao.cai">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20210924114000 +0700" stop="20210924114500 +0700" channel="lao.cai">
+    <title lang="vi">Clip Sa Pa mùa lễ hội</title>
+  </programme>
+  <programme start="20210924114500 +0700" stop="20210924115500 +0700" channel="lao.cai">
+    <title lang="vi">Lào Cai xây dựng Nông thôn mới: Tà Chải phấn đấu không sợ tiêu chí xã NTM nâng cao</title>
+  </programme>
+  <programme start="20210924115500 +0700" stop="20210924120000 +0700" channel="lao.cai">
+    <title lang="vi">Giới thiệu chương trình</title>
+  </programme>
+  <programme start="20210924120000 +0700" stop="20210924125000 +0700" channel="lao.cai">
+    <title lang="vi">Phim truyện: Giá của nụ cười T1</title>
+  </programme>
+  <programme start="20210924125000 +0700" stop="20210924130000 +0700" channel="lao.cai">
+    <title lang="vi">An toàn thực phẩm: Đảm bảo ATTP dịp Tết Trung thu 2021</title>
+  </programme>
+  <programme start="20210924130000 +0700" stop="20210924131000 +0700" channel="lao.cai">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20210924131000 +0700" stop="20210924133000 +0700" channel="lao.cai">
+    <title lang="vi">Công nghệ 4.0: Công nghệ thân thiện với Môi trường - P4</title>
+  </programme>
+  <programme start="20210924133000 +0700" stop="20210924134000 +0700" channel="lao.cai">
+    <title lang="vi">Phim tài liệu Kỷ niệm 30 năm tái lập tỉnh: 30 năm xây dựng huyện vùng cao biên giới Bát Xát</title>
+  </programme>
+  <programme start="20210924134000 +0700" stop="20210924135000 +0700" channel="lao.cai">
+    <title lang="vi">Tài nguyên, Môi trường &amp; Phát triển:  Bát Xát: tiến độ xử lý nhà ở trên đất chưa phù hợp với mục đích sử dụng gặp nhiều khó khăn</title>
+  </programme>
+  <programme start="20210924135000 +0700" stop="20210924140000 +0700" channel="lao.cai">
+    <title lang="vi">Quốc phòng toàn dân</title>
+  </programme>
+  <programme start="20210924140000 +0700" stop="20210924145000 +0700" channel="lao.cai">
+    <title lang="vi">Phim truyện: Bản năng thép - T16</title>
+  </programme>
+  <programme start="20210924145000 +0700" stop="20210924150000 +0700" channel="lao.cai">
+    <title lang="vi">Phụ nữ &amp; Cuộc sống: Hội LHPN thành phố Lào Cai quan tâm hỗ trợ hội viên khó khăn</title>
+  </programme>
+  <programme start="20210924150000 +0700" stop="20210924151000 +0700" channel="lao.cai">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20210924151000 +0700" stop="20210924152000 +0700" channel="lao.cai">
+    <title lang="vi">Sức khỏe Cộng đồng</title>
+  </programme>
+  <programme start="20210924152000 +0700" stop="20210924154000 +0700" channel="lao.cai">
+    <title lang="vi">Ca nhạc Quốc tế: Những ca khúc làm nên tên tuổi của Elton John - Phần 2</title>
+  </programme>
+  <programme start="20210924154000 +0700" stop="20210924155000 +0700" channel="lao.cai">
+    <title lang="vi">Nông nghiệp &amp; Phát triển nông thôn: Nâng tầm sản phẩm OCOP</title>
+  </programme>
+  <programme start="20210924155000 +0700" stop="20210924160000 +0700" channel="lao.cai">
+    <title lang="vi">An toàn thực phẩm: Đảm bảo ATTP dịp Tết Trung thu 2021</title>
+  </programme>
+  <programme start="20210924160000 +0700" stop="20210924165000 +0700" channel="lao.cai">
+    <title lang="vi">Phim truyện: Khi Cuội yêu T1</title>
+  </programme>
+  <programme start="20210924165000 +0700" stop="20210924170000 +0700" channel="lao.cai">
+    <title lang="vi">Quốc phòng toàn dân</title>
+  </programme>
+  <programme start="20210924170000 +0700" stop="20210924171500 +0700" channel="lao.cai">
+    <title lang="vi">Thời sự (tiếng Dao)</title>
+  </programme>
+  <programme start="20210924171500 +0700" stop="20210924172500 +0700" channel="lao.cai">
+    <title lang="vi">Phim tài liệu Kỷ niệm 30 năm tái lập tỉnh: 30 năm xây dựng huyện vùng cao biên giới Bát Xát (tiếng Dao)</title>
+  </programme>
+  <programme start="20210924172500 +0700" stop="20210924173000 +0700" channel="lao.cai">
+    <title lang="vi">Bài hát (tiếng Dao)</title>
+  </programme>
+  <programme start="20210924173000 +0700" stop="20210924175000 +0700" channel="lao.cai">
+    <title lang="vi">Phim thiếu nhi: Cuộc phiêu lưu của ngỗng Peng - Tập 1</title>
+  </programme>
+  <programme start="20210924175000 +0700" stop="20210924180000 +0700" channel="lao.cai">
+    <title lang="vi">Lào Cai xây dựng Nông thôn mới: Tà Chải phấn đấu không sợ tiêu chí xã NTM nâng cao</title>
+  </programme>
+  <programme start="20210924180000 +0700" stop="20210924185000 +0700" channel="lao.cai">
+    <title lang="vi">Phim truyện: Thói đời T1</title>
+  </programme>
+  <programme start="20210924185000 +0700" stop="20210924185500 +0700" channel="lao.cai">
+    <title lang="vi">An toàn giao thông</title>
+  </programme>
+  <programme start="20210924185500 +0700" stop="20210924190000 +0700" channel="lao.cai">
+    <title lang="vi">Tình trạng đuối nước ở trẻ em &amp; Cách phòng chống</title>
+  </programme>
+  <programme start="20210924190000 +0700" stop="20210924195000 +0700" channel="lao.cai">
+    <title lang="vi">Tiếp sóng thời sự VTV</title>
+  </programme>
+  <programme start="20210924195000 +0700" stop="20210924195500 +0700" channel="lao.cai">
+    <title lang="vi">Kết nối</title>
+  </programme>
+  <programme start="20210924195500 +0700" stop="20210924200000 +0700" channel="lao.cai">
+    <title lang="vi">Quảng cáo, giới thiệu chương trình</title>
+  </programme>
+  <programme start="20210924200000 +0700" stop="20210924203500 +0700" channel="lao.cai">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20210924203500 +0700" stop="20210924204000 +0700" channel="lao.cai">
+    <title lang="vi">Clip Tam giác mạch Bắc Hà</title>
+  </programme>
+  <programme start="20210924204000 +0700" stop="20210924205000 +0700" channel="lao.cai">
+    <title lang="vi">Phim tài liệu Kỷ niệm 30 năm tái lập tỉnh: Lào Cai sáng tạo trong huy động nguồn lực cho đầu tư phát triển</title>
+  </programme>
+  <programme start="20210924205000 +0700" stop="20210924210000 +0700" channel="lao.cai">
+    <title lang="vi">Tạp chí Người cao tuổi: Phát huy tinh thần tuổi cao gương sáng phát triển kinh tế ở Bắc Hà</title>
+  </programme>
+  <programme start="20210924210000 +0700" stop="20210924211000 +0700" channel="lao.cai">
+    <title lang="vi">Hộp thư truyền hình</title>
+  </programme>
+  <programme start="20210924211000 +0700" stop="20210924212000 +0700" channel="lao.cai">
+    <title lang="vi">Trang thành phố Lào Cai</title>
+  </programme>
+  <programme start="20210924212000 +0700" stop="20210924213000 +0700" channel="lao.cai">
+    <title lang="vi">Nét đẹp Lào Cai: Công viên Hồ Chí Minh</title>
+  </programme>
+  <programme start="20210924213000 +0700" stop="20210924221500 +0700" channel="lao.cai">
+    <title lang="vi">Phim truyện: Khi Cuội yêu T1</title>
+  </programme>
+  <programme start="20210924221500 +0700" stop="20210924222500 +0700" channel="lao.cai">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20210924222500 +0700" stop="20210924223500 +0700" channel="lao.cai">
+    <title lang="vi">Thông tin đối ngoại (tiếng Anh)</title>
+  </programme>
+  <programme start="20210924223500 +0700" stop="20210924225500 +0700" channel="lao.cai">
+    <title lang="vi">Phim tài liệu: Hành trình làm phim về thiên nhiên hoang dã - Phần 2</title>
+  </programme>
+  <programme start="20210924225500 +0700" stop="20210924231000 +0700" channel="lao.cai">
+    <title lang="vi">Thời sự (tiếng Dao)</title>
+  </programme>
+  <programme start="20210924231000 +0700" stop="20210924231500 +0700" channel="lao.cai">
+    <title lang="vi">Phim tài liệu Kỷ niệm 30 năm tái lập tỉnh: Mường Khương - 30 năm vững vàng vùng đất thép (tiếng Dao)</title>
+  </programme>
+  <programme start="20210924231500 +0700" stop="20210924231500 +0700" channel="lao.cai">
+    <title lang="vi">Bài hát (tiếng Dao)</title>
+  </programme>
+  <programme start="20210924231500 +0700" stop="20210925052700 +0700" channel="lao.cai">
+    <title lang="vi">Giới thiệu chương trình ngày 25/9/2021</title>
+  </programme>
+  <programme start="20210925052700 +0700" stop="20210925053000 +0700" channel="lao.cai">
+    <title lang="vi">Nhạc hiệu + Giới thiệu chương trình</title>
+  </programme>
+  <programme start="20210925053000 +0700" stop="20210925054500 +0700" channel="lao.cai">
+    <title lang="vi">Thời sự (tiếng Mông)</title>
+  </programme>
+  <programme start="20210925054500 +0700" stop="20210925055500 +0700" channel="lao.cai">
+    <title lang="vi">Phim tài liệu Kỷ niệm 30 năm tái lập tỉnh: 30 năm xây dựng huyện vùng cao biên giới Bát Xát (tiếng Mông)</title>
+  </programme>
+  <programme start="20210925055500 +0700" stop="20210925060000 +0700" channel="lao.cai">
+    <title lang="vi">Bài hát (tiếng Mông)</title>
+  </programme>
+  <programme start="20210925060000 +0700" stop="20210925065000 +0700" channel="lao.cai">
+    <title lang="vi">Phim truyện: Bản năng thép - T16</title>
+  </programme>
+  <programme start="20210925065000 +0700" stop="20210925070000 +0700" channel="lao.cai">
+    <title lang="vi">Phụ nữ &amp; Cuộc sống: Hội LHPN thành phố Lào Cai quan tâm hỗ trợ hội viên khó khăn</title>
+  </programme>
+  <programme start="20210925070000 +0700" stop="20210925073500 +0700" channel="lao.cai">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20210925073500 +0700" stop="20210925074000 +0700" channel="lao.cai">
+    <title lang="vi">Clip Bảo Yên ngày mới</title>
+  </programme>
+  <programme start="20210925074000 +0700" stop="20210925080000 +0700" channel="lao.cai">
+    <title lang="vi">Chuyên mục: Đại biểu nhân dân</title>
+  </programme>
+  <programme start="20210925080000 +0700" stop="20210925085000 +0700" channel="lao.cai">
+    <title lang="vi">Phim truyện: Giá của nụ cười T1</title>
+  </programme>
+  <programme start="20210925085000 +0700" stop="20210925090000 +0700" channel="lao.cai">
+    <title lang="vi">Sức khỏe Cộng đồng: Phòng bệnh giao mùa cho trẻ</title>
+  </programme>
+  <programme start="20210925090000 +0700" stop="20210925091000 +0700" channel="lao.cai">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20210925091000 +0700" stop="20210925092000 +0700" channel="lao.cai">
+    <title lang="vi">Nông nghiệp &amp; Phát triển nông thôn: Nâng tầm sản phẩm OCOP</title>
+  </programme>
+  <programme start="20210925092000 +0700" stop="20210925094000 +0700" channel="lao.cai">
+    <title lang="vi">Phim tài liệu: Hành trình làm phim về thiên nhiên hoang dã - Phần 1</title>
+  </programme>
+  <programme start="20210925094000 +0700" stop="20210925095500 +0700" channel="lao.cai">
+    <title lang="vi">Trang địa phương huyện Bảo Thắng</title>
+  </programme>
+  <programme start="20210925095500 +0700" stop="20210925100000 +0700" channel="lao.cai">
+    <title lang="vi">Clip Dưới chân núi voi Bảo Yên</title>
+  </programme>
+  <programme start="20210925100000 +0700" stop="20210925105000 +0700" channel="lao.cai">
+    <title lang="vi">Phim truyện: Thói đời T1</title>
+  </programme>
+  <programme start="20210925105000 +0700" stop="20210925110000 +0700" channel="lao.cai">
+    <title lang="vi">Quốc phòng toàn dân</title>
+  </programme>
+  <programme start="20210925110000 +0700" stop="20210925111500 +0700" channel="lao.cai">
+    <title lang="vi">Thời sự (tiếng Dao)</title>
+  </programme>
+  <programme start="20210925111500 +0700" stop="20210925112500 +0700" channel="lao.cai">
+    <title lang="vi">Phim tài liệu Kỷ niệm 30 năm tái lập tỉnh: Mường Khương - 30 năm vững vàng vùng đất thép (tiếng Dao)</title>
+  </programme>
+  <programme start="20210925112500 +0700" stop="20210925113000 +0700" channel="lao.cai">
+    <title lang="vi">Bài hát (tiếng Dao)</title>
+  </programme>
+  <programme start="20210925113000 +0700" stop="20210925114000 +0700" channel="lao.cai">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20210925114000 +0700" stop="20210925114500 +0700" channel="lao.cai">
+    <title lang="vi">Clip Sa Pa mùa lễ hội</title>
+  </programme>
+  <programme start="20210925114500 +0700" stop="20210925115500 +0700" channel="lao.cai">
+    <title lang="vi">Lào Cai xây dựng Nông thôn mới: Tà Chải phấn đấu không sợ tiêu chí xã NTM nâng cao</title>
+  </programme>
+  <programme start="20210925115500 +0700" stop="20210925120000 +0700" channel="lao.cai">
+    <title lang="vi">Giới thiệu chương trình</title>
+  </programme>
+  <programme start="20210925120000 +0700" stop="20210925125000 +0700" channel="lao.cai">
+    <title lang="vi">Phim truyện: Giá của nụ cười T1</title>
+  </programme>
+  <programme start="20210925125000 +0700" stop="20210925130000 +0700" channel="lao.cai">
+    <title lang="vi">An toàn thực phẩm: Đảm bảo ATTP dịp Tết Trung thu 2021</title>
+  </programme>
+  <programme start="20210925130000 +0700" stop="20210925131000 +0700" channel="lao.cai">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20210925131000 +0700" stop="20210925133000 +0700" channel="lao.cai">
+    <title lang="vi">Công nghệ 4.0: Công nghệ thân thiện với Môi trường - P4</title>
+  </programme>
+  <programme start="20210925133000 +0700" stop="20210925134000 +0700" channel="lao.cai">
+    <title lang="vi">Phim tài liệu Kỷ niệm 30 năm tái lập tỉnh: 30 năm xây dựng huyện vùng cao biên giới Bát Xát</title>
+  </programme>
+  <programme start="20210925134000 +0700" stop="20210925135000 +0700" channel="lao.cai">
+    <title lang="vi">Tài nguyên, Môi trường &amp; Phát triển:  Bát Xát: tiến độ xử lý nhà ở trên đất chưa phù hợp với mục đích sử dụng gặp nhiều khó khăn</title>
+  </programme>
+  <programme start="20210925135000 +0700" stop="20210925140000 +0700" channel="lao.cai">
+    <title lang="vi">Quốc phòng toàn dân</title>
+  </programme>
+  <programme start="20210925140000 +0700" stop="20210925145000 +0700" channel="lao.cai">
+    <title lang="vi">Phim truyện: Bản năng thép - T16</title>
+  </programme>
+  <programme start="20210925145000 +0700" stop="20210925150000 +0700" channel="lao.cai">
+    <title lang="vi">Phụ nữ &amp; Cuộc sống: Hội LHPN thành phố Lào Cai quan tâm hỗ trợ hội viên khó khăn</title>
+  </programme>
+  <programme start="20210925150000 +0700" stop="20210925151000 +0700" channel="lao.cai">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20210925151000 +0700" stop="20210925152000 +0700" channel="lao.cai">
+    <title lang="vi">Sức khỏe Cộng đồng</title>
+  </programme>
+  <programme start="20210925152000 +0700" stop="20210925154000 +0700" channel="lao.cai">
+    <title lang="vi">Ca nhạc Quốc tế: Những ca khúc làm nên tên tuổi của Elton John - Phần 2</title>
+  </programme>
+  <programme start="20210925154000 +0700" stop="20210925155000 +0700" channel="lao.cai">
+    <title lang="vi">Nông nghiệp &amp; Phát triển nông thôn: Nâng tầm sản phẩm OCOP</title>
+  </programme>
+  <programme start="20210925155000 +0700" stop="20210925160000 +0700" channel="lao.cai">
+    <title lang="vi">An toàn thực phẩm: Đảm bảo ATTP dịp Tết Trung thu 2021</title>
+  </programme>
+  <programme start="20210925160000 +0700" stop="20210925165000 +0700" channel="lao.cai">
+    <title lang="vi">Phim truyện: Khi Cuội yêu T1</title>
+  </programme>
+  <programme start="20210925165000 +0700" stop="20210925170000 +0700" channel="lao.cai">
+    <title lang="vi">Quốc phòng toàn dân</title>
+  </programme>
+  <programme start="20210925170000 +0700" stop="20210925171500 +0700" channel="lao.cai">
+    <title lang="vi">Thời sự (tiếng Dao)</title>
+  </programme>
+  <programme start="20210925171500 +0700" stop="20210925172500 +0700" channel="lao.cai">
+    <title lang="vi">Phim tài liệu Kỷ niệm 30 năm tái lập tỉnh: 30 năm xây dựng huyện vùng cao biên giới Bát Xát (tiếng Dao)</title>
+  </programme>
+  <programme start="20210925172500 +0700" stop="20210925173000 +0700" channel="lao.cai">
+    <title lang="vi">Bài hát (tiếng Dao)</title>
+  </programme>
+  <programme start="20210925173000 +0700" stop="20210925175000 +0700" channel="lao.cai">
+    <title lang="vi">Phim thiếu nhi: Cuộc phiêu lưu của ngỗng Peng - Tập 1</title>
+  </programme>
+  <programme start="20210925175000 +0700" stop="20210925180000 +0700" channel="lao.cai">
+    <title lang="vi">Lào Cai xây dựng Nông thôn mới: Tà Chải phấn đấu không sợ tiêu chí xã NTM nâng cao</title>
+  </programme>
+  <programme start="20210925180000 +0700" stop="20210925185000 +0700" channel="lao.cai">
+    <title lang="vi">Phim truyện: Thói đời T1</title>
+  </programme>
+  <programme start="20210925185000 +0700" stop="20210925185500 +0700" channel="lao.cai">
+    <title lang="vi">An toàn giao thông</title>
+  </programme>
+  <programme start="20210925185500 +0700" stop="20210925190000 +0700" channel="lao.cai">
+    <title lang="vi">Tình trạng đuối nước ở trẻ em &amp; Cách phòng chống</title>
+  </programme>
+  <programme start="20210925190000 +0700" stop="20210925195000 +0700" channel="lao.cai">
+    <title lang="vi">Tiếp sóng thời sự VTV</title>
+  </programme>
+  <programme start="20210925195000 +0700" stop="20210925195500 +0700" channel="lao.cai">
+    <title lang="vi">Kết nối</title>
+  </programme>
+  <programme start="20210925195500 +0700" stop="20210925200000 +0700" channel="lao.cai">
+    <title lang="vi">Quảng cáo, giới thiệu chương trình</title>
+  </programme>
+  <programme start="20210925200000 +0700" stop="20210925203500 +0700" channel="lao.cai">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20210925203500 +0700" stop="20210925204000 +0700" channel="lao.cai">
+    <title lang="vi">Clip Tam giác mạch Bắc Hà</title>
+  </programme>
+  <programme start="20210925204000 +0700" stop="20210925205000 +0700" channel="lao.cai">
+    <title lang="vi">Phim tài liệu Kỷ niệm 30 năm tái lập tỉnh: Lào Cai sáng tạo trong huy động nguồn lực cho đầu tư phát triển</title>
+  </programme>
+  <programme start="20210925205000 +0700" stop="20210925210000 +0700" channel="lao.cai">
+    <title lang="vi">Tạp chí Người cao tuổi: Phát huy tinh thần tuổi cao gương sáng phát triển kinh tế ở Bắc Hà</title>
+  </programme>
+  <programme start="20210925210000 +0700" stop="20210925211000 +0700" channel="lao.cai">
+    <title lang="vi">Hộp thư truyền hình</title>
+  </programme>
+  <programme start="20210925211000 +0700" stop="20210925212000 +0700" channel="lao.cai">
+    <title lang="vi">Trang thành phố Lào Cai</title>
+  </programme>
+  <programme start="20210925212000 +0700" stop="20210925213000 +0700" channel="lao.cai">
+    <title lang="vi">Nét đẹp Lào Cai: Công viên Hồ Chí Minh</title>
+  </programme>
+  <programme start="20210925213000 +0700" stop="20210925221500 +0700" channel="lao.cai">
+    <title lang="vi">Phim truyện: Khi Cuội yêu T1</title>
+  </programme>
+  <programme start="20210925221500 +0700" stop="20210925222500 +0700" channel="lao.cai">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20210925222500 +0700" stop="20210925223500 +0700" channel="lao.cai">
+    <title lang="vi">Thông tin đối ngoại (tiếng Anh)</title>
+  </programme>
+  <programme start="20210925223500 +0700" stop="20210925225500 +0700" channel="lao.cai">
+    <title lang="vi">Phim tài liệu: Hành trình làm phim về thiên nhiên hoang dã - Phần 2</title>
+  </programme>
+  <programme start="20210925225500 +0700" stop="20210925231000 +0700" channel="lao.cai">
+    <title lang="vi">Thời sự (tiếng Dao)</title>
+  </programme>
+  <programme start="20210925231000 +0700" stop="20210925231500 +0700" channel="lao.cai">
+    <title lang="vi">Phim tài liệu Kỷ niệm 30 năm tái lập tỉnh: Mường Khương - 30 năm vững vàng vùng đất thép (tiếng Dao)</title>
+  </programme>
+  <programme start="20210925231500 +0700" stop="20210925231500 +0700" channel="lao.cai">
+    <title lang="vi">Bài hát (tiếng Dao)</title>
+  </programme>
+</tv>

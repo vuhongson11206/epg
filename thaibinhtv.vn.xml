@@ -1,0 +1,331 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="thai.binh">
+    <display-name lang="vi">Thái Bình</display-name>
+    <url>http://www.thaibinhtv.vn</url>
+  </channel>
+  <programme start="20211011053000 +0700" stop="20211011053200 +0700" channel="thai.binh">
+    <title lang="vi">Giới thiệu chương trình</title>
+  </programme>
+  <programme start="20211011053200 +0700" stop="20211011053500 +0700" channel="thai.binh">
+    <title lang="vi">Văn bản chính sách</title>
+  </programme>
+  <programme start="20211011053500 +0700" stop="20211011054000 +0700" channel="thai.binh">
+    <title lang="vi">Nhịp cầu y tế</title>
+    <sub-title lang="vi">Cây dưa bở chữa bí tiểu</sub-title>
+  </programme>
+  <programme start="20211011054000 +0700" stop="20211011060000 +0700" channel="thai.binh">
+    <title lang="vi">Văn hóa toàn cảnh</title>
+  </programme>
+  <programme start="20211011060000 +0700" stop="20211011061000 +0700" channel="thai.binh">
+    <title lang="vi">Bản tin chào ngày mới</title>
+  </programme>
+  <programme start="20211011061000 +0700" stop="20211011061500 +0700" channel="thai.binh">
+    <title lang="vi">Bản tin thời tiết nông vụ</title>
+  </programme>
+  <programme start="20211011061500 +0700" stop="20211011070000 +0700" channel="thai.binh">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Lối thoát nghiệt ngã - Tập 16</sub-title>
+  </programme>
+  <programme start="20211011070000 +0700" stop="20211011071000 +0700" channel="thai.binh">
+    <title lang="vi">Bản tin sáng</title>
+  </programme>
+  <programme start="20211011071000 +0700" stop="20211011073000 +0700" channel="thai.binh">
+    <title lang="vi">Nhịp cầu nhà nông</title>
+    <sub-title lang="vi">Chăm sóc cây vụ đông</sub-title>
+  </programme>
+  <programme start="20211011073000 +0700" stop="20211011074500 +0700" channel="thai.binh">
+    <title lang="vi">Thiên nhiên Việt Nam</title>
+    <sub-title lang="vi">Những bí ẩn của rừng tràm Xẻo Quýt</sub-title>
+  </programme>
+  <programme start="20211011074500 +0700" stop="20211011080000 +0700" channel="thai.binh">
+    <title lang="vi">Văn hóa toàn cảnh</title>
+  </programme>
+  <programme start="20211011080000 +0700" stop="20211011081500 +0700" channel="thai.binh">
+    <title lang="vi">Bản tin sáng</title>
+  </programme>
+  <programme start="20211011081500 +0700" stop="20211011091000 +0700" channel="thai.binh">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Đối mặt  - Tập 3</sub-title>
+  </programme>
+  <programme start="20211011091000 +0700" stop="20211011095000 +0700" channel="thai.binh">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Chiêu trò nguyên thủy  - Tập 10</sub-title>
+  </programme>
+  <programme start="20211011095000 +0700" stop="20211011100000 +0700" channel="thai.binh">
+    <title lang="vi">Chuyên đề</title>
+    <sub-title lang="vi">Giải quyết thủ tục hành chính thời điểm dịch Covid 19</sub-title>
+  </programme>
+  <programme start="20211011100000 +0700" stop="20211011104500 +0700" channel="thai.binh">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Họa mi trong mưa - Tập 61</sub-title>
+  </programme>
+  <programme start="20211011104500 +0700" stop="20211011110000 +0700" channel="thai.binh">
+    <title lang="vi">Khúc hát quê hương</title>
+    <sub-title lang="vi">Lối em về</sub-title>
+  </programme>
+  <programme start="20211011110000 +0700" stop="20211011111500 +0700" channel="thai.binh">
+    <title lang="vi">Thời sự Thái Bình</title>
+  </programme>
+  <programme start="20211011111500 +0700" stop="20211011112500 +0700" channel="thai.binh">
+    <title lang="vi">Bản tin trong nước</title>
+  </programme>
+  <programme start="20211011112500 +0700" stop="20211011113000 +0700" channel="thai.binh">
+    <title lang="vi">Nhịp cầu sức khỏe</title>
+    <sub-title lang="vi">Tình trạng đa ối khi mang thai</sub-title>
+  </programme>
+  <programme start="20211011113000 +0700" stop="20211011114000 +0700" channel="thai.binh">
+    <title lang="vi">Bản tin thế giới</title>
+  </programme>
+  <programme start="20211011114000 +0700" stop="20211011124000 +0700" channel="thai.binh">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Chuyện tình quân nhân  - Tập 7</sub-title>
+  </programme>
+  <programme start="20211011124000 +0700" stop="20211011125000 +0700" channel="thai.binh">
+    <title lang="vi">Nhịp cầu nhà nông</title>
+    <sub-title lang="vi">Chăm sóc cây vụ đông</sub-title>
+  </programme>
+  <programme start="20211011125000 +0700" stop="20211011130000 +0700" channel="thai.binh">
+    <title lang="vi">Chuyên đề</title>
+    <sub-title lang="vi">Giải quyết thủ tục hành chính thời điểm dịch Covid 19</sub-title>
+  </programme>
+  <programme start="20211011130000 +0700" stop="20211011131500 +0700" channel="thai.binh">
+    <title lang="vi">Bản tin thời sự</title>
+  </programme>
+  <programme start="20211011131500 +0700" stop="20211011141000 +0700" channel="thai.binh">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Đối mặt  - Tập 3</sub-title>
+  </programme>
+  <programme start="20211011141000 +0700" stop="20211011144000 +0700" channel="thai.binh">
+    <title lang="vi">Khám phá thế giới</title>
+    <sub-title lang="vi">Chiến thuật săn mồi - Phần 3</sub-title>
+  </programme>
+  <programme start="20211011144000 +0700" stop="20211011150000 +0700" channel="thai.binh">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20211011150000 +0700" stop="20211011152000 +0700" channel="thai.binh">
+    <title lang="vi">Bản tin 15H</title>
+  </programme>
+  <programme start="20211011152000 +0700" stop="20211011160000 +0700" channel="thai.binh">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Đội chống khủng bố liệp ảnh, Phần 2 - Tập 45</sub-title>
+  </programme>
+  <programme start="20211011160000 +0700" stop="20211011165000 +0700" channel="thai.binh">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Đội chống khủng bố liệp ảnh, Phần 2 - Tập 46</sub-title>
+  </programme>
+  <programme start="20211011165000 +0700" stop="20211011172000 +0700" channel="thai.binh">
+    <title lang="vi">Dạy hát chèo trên truyền hình</title>
+    <sub-title lang="vi">Làn điệu: Hề bát môn</sub-title>
+  </programme>
+  <programme start="20211011172000 +0700" stop="20211011173000 +0700" channel="thai.binh">
+    <title lang="vi">Nhịp cầu y tế</title>
+    <sub-title lang="vi">Cây dưa bở chữa bí tiểu</sub-title>
+  </programme>
+  <programme start="20211011173000 +0700" stop="20211011174500 +0700" channel="thai.binh">
+    <title lang="vi">Phim hoạt hình</title>
+    <sub-title lang="vi">Bob chàng thợ xây chăm chỉ  - Tập 46</sub-title>
+  </programme>
+  <programme start="20211011174500 +0700" stop="20211011184500 +0700" channel="thai.binh">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Mối tình nghiệt ngã  - Tập 96</sub-title>
+  </programme>
+  <programme start="20211011184500 +0700" stop="20211011190000 +0700" channel="thai.binh">
+    <title lang="vi">Tin tức trong nước &amp; thế giới</title>
+  </programme>
+  <programme start="20211011190000 +0700" stop="20211011194500 +0700" channel="thai.binh">
+    <title lang="vi">Chuyển tiếp Thời sự VTV</title>
+  </programme>
+  <programme start="20211011194500 +0700" stop="20211011201500 +0700" channel="thai.binh">
+    <title lang="vi">Thời sự Thái Bình</title>
+  </programme>
+  <programme start="20211011201500 +0700" stop="20211011202500 +0700" channel="thai.binh">
+    <title lang="vi">Đưa Nghị quyết của Đảng vào cuộc sống</title>
+    <sub-title lang="vi">Hội thi báo cáo viên</sub-title>
+  </programme>
+  <programme start="20211011202500 +0700" stop="20211011211000 +0700" channel="thai.binh">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Chiêu trò nguyên thủy  - Tập 11</sub-title>
+  </programme>
+  <programme start="20211011211000 +0700" stop="20211011212500 +0700" channel="thai.binh">
+    <title lang="vi">Nhịp cầu sức khỏe</title>
+    <sub-title lang="vi">Dinh dưỡng cho người  mắc tiểu đường</sub-title>
+  </programme>
+  <programme start="20211011212500 +0700" stop="20211011221000 +0700" channel="thai.binh">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Họa mi trong mưa - Tập 62</sub-title>
+  </programme>
+  <programme start="20211011221000 +0700" stop="20211011223000 +0700" channel="thai.binh">
+    <title lang="vi">Văn hóa toàn cảnh</title>
+  </programme>
+  <programme start="20211011223000 +0700" stop="20211011224500 +0700" channel="thai.binh">
+    <title lang="vi">Bản tin cuối ngày</title>
+  </programme>
+  <programme start="20211011224500 +0700" stop="20211011225500 +0700" channel="thai.binh">
+    <title lang="vi">Bản tin thế giới</title>
+  </programme>
+  <programme start="20211011225500 +0700" stop="20211012053000 +0700" channel="thai.binh">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Lạc lối - Tập 8</sub-title>
+  </programme>
+  <programme start="20211012053000 +0700" stop="20211012053200 +0700" channel="thai.binh">
+    <title lang="vi">Giới thiệu chương trình</title>
+  </programme>
+  <programme start="20211012053200 +0700" stop="20211012053500 +0700" channel="thai.binh">
+    <title lang="vi">Văn bản chính sách</title>
+  </programme>
+  <programme start="20211012053500 +0700" stop="20211012054000 +0700" channel="thai.binh">
+    <title lang="vi">Nhịp cầu y tế</title>
+    <sub-title lang="vi">Cây dưa bở chữa bí tiểu</sub-title>
+  </programme>
+  <programme start="20211012054000 +0700" stop="20211012060000 +0700" channel="thai.binh">
+    <title lang="vi">Văn hóa toàn cảnh</title>
+  </programme>
+  <programme start="20211012060000 +0700" stop="20211012061000 +0700" channel="thai.binh">
+    <title lang="vi">Bản tin chào ngày mới</title>
+  </programme>
+  <programme start="20211012061000 +0700" stop="20211012061500 +0700" channel="thai.binh">
+    <title lang="vi">Bản tin thời tiết nông vụ</title>
+  </programme>
+  <programme start="20211012061500 +0700" stop="20211012070000 +0700" channel="thai.binh">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Lối thoát nghiệt ngã - Tập 16</sub-title>
+  </programme>
+  <programme start="20211012070000 +0700" stop="20211012071000 +0700" channel="thai.binh">
+    <title lang="vi">Bản tin sáng</title>
+  </programme>
+  <programme start="20211012071000 +0700" stop="20211012073000 +0700" channel="thai.binh">
+    <title lang="vi">Nhịp cầu nhà nông</title>
+    <sub-title lang="vi">Chăm sóc cây vụ đông</sub-title>
+  </programme>
+  <programme start="20211012073000 +0700" stop="20211012074500 +0700" channel="thai.binh">
+    <title lang="vi">Thiên nhiên Việt Nam</title>
+    <sub-title lang="vi">Những bí ẩn của rừng tràm Xẻo Quýt</sub-title>
+  </programme>
+  <programme start="20211012074500 +0700" stop="20211012080000 +0700" channel="thai.binh">
+    <title lang="vi">Văn hóa toàn cảnh</title>
+  </programme>
+  <programme start="20211012080000 +0700" stop="20211012081500 +0700" channel="thai.binh">
+    <title lang="vi">Bản tin sáng</title>
+  </programme>
+  <programme start="20211012081500 +0700" stop="20211012091000 +0700" channel="thai.binh">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Đối mặt  - Tập 3</sub-title>
+  </programme>
+  <programme start="20211012091000 +0700" stop="20211012095000 +0700" channel="thai.binh">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Chiêu trò nguyên thủy  - Tập 10</sub-title>
+  </programme>
+  <programme start="20211012095000 +0700" stop="20211012100000 +0700" channel="thai.binh">
+    <title lang="vi">Chuyên đề</title>
+    <sub-title lang="vi">Giải quyết thủ tục hành chính thời điểm dịch Covid 19</sub-title>
+  </programme>
+  <programme start="20211012100000 +0700" stop="20211012104500 +0700" channel="thai.binh">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Họa mi trong mưa - Tập 61</sub-title>
+  </programme>
+  <programme start="20211012104500 +0700" stop="20211012110000 +0700" channel="thai.binh">
+    <title lang="vi">Khúc hát quê hương</title>
+    <sub-title lang="vi">Lối em về</sub-title>
+  </programme>
+  <programme start="20211012110000 +0700" stop="20211012111500 +0700" channel="thai.binh">
+    <title lang="vi">Thời sự Thái Bình</title>
+  </programme>
+  <programme start="20211012111500 +0700" stop="20211012112500 +0700" channel="thai.binh">
+    <title lang="vi">Bản tin trong nước</title>
+  </programme>
+  <programme start="20211012112500 +0700" stop="20211012113000 +0700" channel="thai.binh">
+    <title lang="vi">Nhịp cầu sức khỏe</title>
+    <sub-title lang="vi">Tình trạng đa ối khi mang thai</sub-title>
+  </programme>
+  <programme start="20211012113000 +0700" stop="20211012114000 +0700" channel="thai.binh">
+    <title lang="vi">Bản tin thế giới</title>
+  </programme>
+  <programme start="20211012114000 +0700" stop="20211012124000 +0700" channel="thai.binh">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Chuyện tình quân nhân  - Tập 7</sub-title>
+  </programme>
+  <programme start="20211012124000 +0700" stop="20211012125000 +0700" channel="thai.binh">
+    <title lang="vi">Nhịp cầu nhà nông</title>
+    <sub-title lang="vi">Chăm sóc cây vụ đông</sub-title>
+  </programme>
+  <programme start="20211012125000 +0700" stop="20211012130000 +0700" channel="thai.binh">
+    <title lang="vi">Chuyên đề</title>
+    <sub-title lang="vi">Giải quyết thủ tục hành chính thời điểm dịch Covid 19</sub-title>
+  </programme>
+  <programme start="20211012130000 +0700" stop="20211012131500 +0700" channel="thai.binh">
+    <title lang="vi">Bản tin thời sự</title>
+  </programme>
+  <programme start="20211012131500 +0700" stop="20211012141000 +0700" channel="thai.binh">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Đối mặt  - Tập 3</sub-title>
+  </programme>
+  <programme start="20211012141000 +0700" stop="20211012144000 +0700" channel="thai.binh">
+    <title lang="vi">Khám phá thế giới</title>
+    <sub-title lang="vi">Chiến thuật săn mồi - Phần 3</sub-title>
+  </programme>
+  <programme start="20211012144000 +0700" stop="20211012150000 +0700" channel="thai.binh">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20211012150000 +0700" stop="20211012152000 +0700" channel="thai.binh">
+    <title lang="vi">Bản tin 15H</title>
+  </programme>
+  <programme start="20211012152000 +0700" stop="20211012160000 +0700" channel="thai.binh">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Đội chống khủng bố liệp ảnh, Phần 2 - Tập 45</sub-title>
+  </programme>
+  <programme start="20211012160000 +0700" stop="20211012165000 +0700" channel="thai.binh">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Đội chống khủng bố liệp ảnh, Phần 2 - Tập 46</sub-title>
+  </programme>
+  <programme start="20211012165000 +0700" stop="20211012172000 +0700" channel="thai.binh">
+    <title lang="vi">Dạy hát chèo trên truyền hình</title>
+    <sub-title lang="vi">Làn điệu: Hề bát môn</sub-title>
+  </programme>
+  <programme start="20211012172000 +0700" stop="20211012173000 +0700" channel="thai.binh">
+    <title lang="vi">Nhịp cầu y tế</title>
+    <sub-title lang="vi">Cây dưa bở chữa bí tiểu</sub-title>
+  </programme>
+  <programme start="20211012173000 +0700" stop="20211012174500 +0700" channel="thai.binh">
+    <title lang="vi">Phim hoạt hình</title>
+    <sub-title lang="vi">Bob chàng thợ xây chăm chỉ  - Tập 46</sub-title>
+  </programme>
+  <programme start="20211012174500 +0700" stop="20211012184500 +0700" channel="thai.binh">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Mối tình nghiệt ngã  - Tập 96</sub-title>
+  </programme>
+  <programme start="20211012184500 +0700" stop="20211012190000 +0700" channel="thai.binh">
+    <title lang="vi">Tin tức trong nước &amp; thế giới</title>
+  </programme>
+  <programme start="20211012190000 +0700" stop="20211012194500 +0700" channel="thai.binh">
+    <title lang="vi">Chuyển tiếp Thời sự VTV</title>
+  </programme>
+  <programme start="20211012194500 +0700" stop="20211012201500 +0700" channel="thai.binh">
+    <title lang="vi">Thời sự Thái Bình</title>
+  </programme>
+  <programme start="20211012201500 +0700" stop="20211012202500 +0700" channel="thai.binh">
+    <title lang="vi">Đưa Nghị quyết của Đảng vào cuộc sống</title>
+    <sub-title lang="vi">Hội thi báo cáo viên</sub-title>
+  </programme>
+  <programme start="20211012202500 +0700" stop="20211012211000 +0700" channel="thai.binh">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Chiêu trò nguyên thủy  - Tập 11</sub-title>
+  </programme>
+  <programme start="20211012211000 +0700" stop="20211012212500 +0700" channel="thai.binh">
+    <title lang="vi">Nhịp cầu sức khỏe</title>
+    <sub-title lang="vi">Dinh dưỡng cho người  mắc tiểu đường</sub-title>
+  </programme>
+  <programme start="20211012212500 +0700" stop="20211012221000 +0700" channel="thai.binh">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Họa mi trong mưa - Tập 62</sub-title>
+  </programme>
+  <programme start="20211012221000 +0700" stop="20211012223000 +0700" channel="thai.binh">
+    <title lang="vi">Văn hóa toàn cảnh</title>
+  </programme>
+  <programme start="20211012223000 +0700" stop="20211012224500 +0700" channel="thai.binh">
+    <title lang="vi">Bản tin cuối ngày</title>
+  </programme>
+  <programme start="20211012224500 +0700" stop="20211012225500 +0700" channel="thai.binh">
+    <title lang="vi">Bản tin thế giới</title>
+  </programme>
+</tv>

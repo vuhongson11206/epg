@@ -1,0 +1,292 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="quang.tri">
+    <display-name lang="vi">Quảng Trị</display-name>
+    <url>http://www.quangtritv.vn</url>
+  </channel>
+  <programme start="20211011053500 +0700" stop="20211011055000 +0700" channel="quang.tri">
+    <title lang="vi">Chương trình thời sự sáng+ Bản tin thời tiết</title>
+  </programme>
+  <programme start="20211011055000 +0700" stop="20211011062000 +0700" channel="quang.tri">
+    <title lang="vi">Ca nhạc: Hoa học trò</title>
+  </programme>
+  <programme start="20211011062000 +0700" stop="20211011063000 +0700" channel="quang.tri">
+    <title lang="vi">Nhìn ra tỉnh bạn: Quỳnh Hậu - Điểm sáng dân ca xứ Nghệ</title>
+  </programme>
+  <programme start="20211011063000 +0700" stop="20211011071500 +0700" channel="quang.tri">
+    <title lang="vi">Phim truyện: Yêu thương dẫn lối - Tập 5</title>
+  </programme>
+  <programme start="20211011071500 +0700" stop="20211011072500 +0700" channel="quang.tri">
+    <title lang="vi">Mỗi tuần một chuyện: Những bất thường khi dự án đường Hùng Vương nối dài phóng tuyến</title>
+  </programme>
+  <programme start="20211011072500 +0700" stop="20211011081000 +0700" channel="quang.tri">
+    <title lang="vi">Phim truyện: Hồ sơ lửa P1 - Tập 22</title>
+  </programme>
+  <programme start="20211011081000 +0700" stop="20211011084000 +0700" channel="quang.tri">
+    <title lang="vi">PTL: HCM - Fidel: Những sự tương đồng - Tập 2</title>
+  </programme>
+  <programme start="20211011084000 +0700" stop="20211011085000 +0700" channel="quang.tri">
+    <title lang="vi">Nẻo về nguồn cội: Làng chài thủy cư Vịnh Hạ Long</title>
+  </programme>
+  <programme start="20211011085000 +0700" stop="20211011090000 +0700" channel="quang.tri">
+    <title lang="vi">Không gian xanh: Huế giữa lòng thành phố</title>
+  </programme>
+  <programme start="20211011090000 +0700" stop="20211011093000 +0700" channel="quang.tri">
+    <title lang="vi">Dân tộc - miền núi: Hỗ trợ nhà ở cho người dân trước mùa mưa bão</title>
+  </programme>
+  <programme start="20211011093000 +0700" stop="20211011094000 +0700" channel="quang.tri">
+    <title lang="vi">Bản tin thời sự trực tiếp</title>
+  </programme>
+  <programme start="20211011094000 +0700" stop="20211011100500 +0700" channel="quang.tri">
+    <title lang="vi">Dạy học trên truyền hình: Lớp 1 - Số 0</title>
+  </programme>
+  <programme start="20211011100500 +0700" stop="20211011101500 +0700" channel="quang.tri">
+    <title lang="vi">Việt Nam mến yêu: Sắc màu tranh làng Sình</title>
+  </programme>
+  <programme start="20211011101500 +0700" stop="20211011110000 +0700" channel="quang.tri">
+    <title lang="vi">Phim Việt Nam: Biển đời giông tố - Tập 4</title>
+  </programme>
+  <programme start="20211011110000 +0700" stop="20211011113000 +0700" channel="quang.tri">
+    <title lang="vi">Dạy học trên truyền hình: Lớp 1 - Tiếng Việt Bài 8 (full). Âm qu, ph, r, v</title>
+  </programme>
+  <programme start="20211011113000 +0700" stop="20211011113000 +0700" channel="quang.tri">
+    <title lang="vi">Bản tin thời tiết</title>
+  </programme>
+  <programme start="20211011113000 +0700" stop="20211011114000 +0700" channel="quang.tri">
+    <title lang="vi">Chương trình Thời sự</title>
+  </programme>
+  <programme start="20211011114000 +0700" stop="20211011115000 +0700" channel="quang.tri">
+    <title lang="vi">Tạp chí tuổi hoa: Thư viện Xanh</title>
+  </programme>
+  <programme start="20211011115000 +0700" stop="20211011115500 +0700" channel="quang.tri">
+    <title lang="vi">Thông tin KT-XH</title>
+  </programme>
+  <programme start="20211011115500 +0700" stop="20211011125500 +0700" channel="quang.tri">
+    <title lang="vi">Phim truyện: Hãy nói anh yêu em - Tập 13</title>
+  </programme>
+  <programme start="20211011125500 +0700" stop="20211011130500 +0700" channel="quang.tri">
+    <title lang="vi">Không gian xanh: Huế giữa lòng thành phố</title>
+  </programme>
+  <programme start="20211011130500 +0700" stop="20211011132000 +0700" channel="quang.tri">
+    <title lang="vi">Sức khỏe của bạn: Giải pháp niềng răng hiệu quả</title>
+  </programme>
+  <programme start="20211011132000 +0700" stop="20211011134500 +0700" channel="quang.tri">
+    <title lang="vi">Dân tộc - miền núi: Hỗ trợ nhà ở cho người dân trước mùa mưa bão</title>
+  </programme>
+  <programme start="20211011134500 +0700" stop="20211011140000 +0700" channel="quang.tri">
+    <title lang="vi">Nẻo về nguồn cội: Làng chài thủy cư Vịnh Hạ Long</title>
+  </programme>
+  <programme start="20211011140000 +0700" stop="20211011142500 +0700" channel="quang.tri">
+    <title lang="vi">Dạy học trên truyền hình: Lớp 2 - Tiếng Việt (KNTT) Chữ viết hoa B; Nói và nghe: Kể chuyện: Em có xinh không?</title>
+  </programme>
+  <programme start="20211011142500 +0700" stop="20211011145000 +0700" channel="quang.tri">
+    <title lang="vi">Dạy học trên truyền hình: Lớp 6 - Tiếng Anh (NXBGD): Lesson 1: Getting started (Phát lại)</title>
+  </programme>
+  <programme start="20211011145000 +0700" stop="20211011150000 +0700" channel="quang.tri">
+    <title lang="vi">Nhìn ra tỉnh bạn: Quỳnh Hậu - Điểm sáng dân ca xứ Nghệ</title>
+  </programme>
+  <programme start="20211011150000 +0700" stop="20211011153000 +0700" channel="quang.tri">
+    <title lang="vi">Cuộc sống muôn loài: Đời sống hoang dã ở Tokyo, Nhật Bản (Phần 2)</title>
+  </programme>
+  <programme start="20211011153000 +0700" stop="20211011154000 +0700" channel="quang.tri">
+    <title lang="vi">Mỗi tuần một chuyện: Những bất thường khi dự án đường Hùng Vương nối dài phóng tuyến</title>
+  </programme>
+  <programme start="20211011154000 +0700" stop="20211011161000 +0700" channel="quang.tri">
+    <title lang="vi">Ca nhạc: Hoa học trò</title>
+  </programme>
+  <programme start="20211011161000 +0700" stop="20211011162000 +0700" channel="quang.tri">
+    <title lang="vi">Việt Nam mến yêu: Sắc màu tranh làng Sình</title>
+  </programme>
+  <programme start="20211011162000 +0700" stop="20211011165000 +0700" channel="quang.tri">
+    <title lang="vi">PTL: HCM - Fidel: Những sự tương đồng - Tập 2</title>
+  </programme>
+  <programme start="20211011165000 +0700" stop="20211011170500 +0700" channel="quang.tri">
+    <title lang="vi">Gặp gỡ đối thoại: Kyo York với niềm đam mê âm nhạc Việt</title>
+  </programme>
+  <programme start="20211011170500 +0700" stop="20211011173000 +0700" channel="quang.tri">
+    <title lang="vi">Dạy học trên truyền hình: Lớp 6 – Môn Toán – Phép cộng phép trừ các số tự nhiên</title>
+  </programme>
+  <programme start="20211011173000 +0700" stop="20211011181500 +0700" channel="quang.tri">
+    <title lang="vi">Phim truyện: Hồ sơ lửa P1 - Tập 23</title>
+  </programme>
+  <programme start="20211011181500 +0700" stop="20211011183000 +0700" channel="quang.tri">
+    <title lang="vi">Phim hoạt hình</title>
+  </programme>
+  <programme start="20211011183000 +0700" stop="20211011184000 +0700" channel="quang.tri">
+    <title lang="vi">Tạp chí tuổi hoa: Thư viện Xanh</title>
+  </programme>
+  <programme start="20211011184000 +0700" stop="20211011185000 +0700" channel="quang.tri">
+    <title lang="vi">QTV giới thiệu</title>
+  </programme>
+  <programme start="20211011185000 +0700" stop="20211011185500 +0700" channel="quang.tri">
+    <title lang="vi">Bản tin thời  tiết</title>
+  </programme>
+  <programme start="20211011185500 +0700" stop="20211011194500 +0700" channel="quang.tri">
+    <title lang="vi">Thông  tin KT-XH</title>
+  </programme>
+  <programme start="20211011194500 +0700" stop="20211011201000 +0700" channel="quang.tri">
+    <title lang="vi">Thời sự Quảng Trị + Bản Tin thời tiết</title>
+  </programme>
+  <programme start="20211011201000 +0700" stop="20211011201500 +0700" channel="quang.tri">
+    <title lang="vi">Thông  tin KT-XH</title>
+  </programme>
+  <programme start="20211011201500 +0700" stop="20211011203000 +0700" channel="quang.tri">
+    <title lang="vi">Đất và người Quảng Trị: Âm nhạc truyền thống với công tác tuyên truyền Covid-19</title>
+  </programme>
+  <programme start="20211011203000 +0700" stop="20211011210500 +0700" channel="quang.tri">
+    <title lang="vi">Dạy học trên truyền hình: Lớp 2 - Toán Số bị trừ - Số trừ - Hiệu</title>
+  </programme>
+  <programme start="20211011210500 +0700" stop="20211011211500 +0700" channel="quang.tri">
+    <title lang="vi">Xây dựng Đảng: Cam Lộ thực hiện chỉ thi về tăng cường phòng chống dịch Covid - 19</title>
+  </programme>
+  <programme start="20211011211500 +0700" stop="20211011220000 +0700" channel="quang.tri">
+    <title lang="vi">Phim truyện: Yêu thương dẫn lối - Tập 6</title>
+  </programme>
+  <programme start="20211011220000 +0700" stop="20211011223000 +0700" channel="quang.tri">
+    <title lang="vi">PTL: HCM - Fidel: Những sự tương đồng - Tập 2</title>
+  </programme>
+  <programme start="20211011223000 +0700" stop="20211012053500 +0700" channel="quang.tri">
+    <title lang="vi">Ca nhạc: Hoa học trò</title>
+  </programme>
+  <programme start="20211012053500 +0700" stop="20211012055000 +0700" channel="quang.tri">
+    <title lang="vi">Chương trình thời sự sáng+ Bản tin thời tiết</title>
+  </programme>
+  <programme start="20211012055000 +0700" stop="20211012062000 +0700" channel="quang.tri">
+    <title lang="vi">Ca nhạc: Có em bên đời</title>
+  </programme>
+  <programme start="20211012062000 +0700" stop="20211012063000 +0700" channel="quang.tri">
+    <title lang="vi">Nhìn ra tỉnh bạn: Vũ Quang - Đánh thức tiềm năng phát triển du lịch</title>
+  </programme>
+  <programme start="20211012063000 +0700" stop="20211012071500 +0700" channel="quang.tri">
+    <title lang="vi">Phim truyện: Yêu thương dẫn lối - Tập 6</title>
+  </programme>
+  <programme start="20211012071500 +0700" stop="20211012072500 +0700" channel="quang.tri">
+    <title lang="vi">Xây dựng Đảng: Cam Lộ thực hiện chỉ thi về tăng cường phòng chống dịch Covid - 19</title>
+  </programme>
+  <programme start="20211012072500 +0700" stop="20211012081000 +0700" channel="quang.tri">
+    <title lang="vi">Phim truyện: Hồ sơ lửa P1 - Tập 23</title>
+  </programme>
+  <programme start="20211012081000 +0700" stop="20211012084000 +0700" channel="quang.tri">
+    <title lang="vi">PTL: Kỳ tích đường HCM trên biển - Tập 1</title>
+  </programme>
+  <programme start="20211012084000 +0700" stop="20211012085000 +0700" channel="quang.tri">
+    <title lang="vi">Đất và người Quảng Trị: Âm nhạc truyền thống với công tác tuyên truyền Covid-19</title>
+  </programme>
+  <programme start="20211012085000 +0700" stop="20211012090000 +0700" channel="quang.tri">
+    <title lang="vi">Nẻo về nguồn cội: Làng chài thủy cư Vịnh Hạ Long</title>
+  </programme>
+  <programme start="20211012090000 +0700" stop="20211012093000 +0700" channel="quang.tri">
+    <title lang="vi">Khám phá thế giới: Những dòng sông hùng vĩ của Trái đất – Tập 3 – Phần 1</title>
+  </programme>
+  <programme start="20211012093000 +0700" stop="20211012094000 +0700" channel="quang.tri">
+    <title lang="vi">Bản tin thời sự trực tiếp</title>
+  </programme>
+  <programme start="20211012094000 +0700" stop="20211012100500 +0700" channel="quang.tri">
+    <title lang="vi">Dạy học trên truyền hình: Lớp 1 - Tiếng Việt Bài 8 (full). Âm qu, ph, r, v</title>
+  </programme>
+  <programme start="20211012100500 +0700" stop="20211012101500 +0700" channel="quang.tri">
+    <title lang="vi">Việt Nam mến yêu: Sắc màu tranh làng Sình</title>
+  </programme>
+  <programme start="20211012101500 +0700" stop="20211012110000 +0700" channel="quang.tri">
+    <title lang="vi">Phim Việt Nam: Biển đời giông tố - Tập 5</title>
+  </programme>
+  <programme start="20211012110000 +0700" stop="20211012112900 +0700" channel="quang.tri">
+    <title lang="vi">Dạy học trên truyền hình: Lớp 1 - Toán: Số 10 – Luyện tập</title>
+  </programme>
+  <programme start="20211012112900 +0700" stop="20211012113000 +0700" channel="quang.tri">
+    <title lang="vi">Bản tin thời tiết</title>
+  </programme>
+  <programme start="20211012113000 +0700" stop="20211012115000 +0700" channel="quang.tri">
+    <title lang="vi">Chương trình Thời sự</title>
+  </programme>
+  <programme start="20211012115000 +0700" stop="20211012115500 +0700" channel="quang.tri">
+    <title lang="vi">Thông tin KT-XH</title>
+  </programme>
+  <programme start="20211012115500 +0700" stop="20211012124000 +0700" channel="quang.tri">
+    <title lang="vi">Phim truyện: Hãy nói anh yêu em - Tập 14</title>
+  </programme>
+  <programme start="20211012124000 +0700" stop="20211012125000 +0700" channel="quang.tri">
+    <title lang="vi">Mỗi tuần một chuyện: Những bất thường khi dự án đường Hùng Vương nối dài phóng tuyến</title>
+  </programme>
+  <programme start="20211012125000 +0700" stop="20211012130500 +0700" channel="quang.tri">
+    <title lang="vi">Không gian xanh: Huế giữa lòng thành phố</title>
+  </programme>
+  <programme start="20211012130500 +0700" stop="20211012133000 +0700" channel="quang.tri">
+    <title lang="vi">Sức khỏe của bạn: Giải pháp niềng răng hiệu quả</title>
+  </programme>
+  <programme start="20211012133000 +0700" stop="20211012134500 +0700" channel="quang.tri">
+    <title lang="vi">Nẻo về nguồn cội: Làng chài thủy cư Vịnh Hạ Long</title>
+  </programme>
+  <programme start="20211012134500 +0700" stop="20211012140000 +0700" channel="quang.tri">
+    <title lang="vi">Nhìn ra tỉnh bạn: Vũ Quang - Đánh thức tiềm năng phát triển du lịch</title>
+  </programme>
+  <programme start="20211012140000 +0700" stop="20211012143000 +0700" channel="quang.tri">
+    <title lang="vi">Dạy học trên truyền hình: Lớp 2 - Toán Số bị trừ - Số trừ - Hiệu</title>
+  </programme>
+  <programme start="20211012143000 +0700" stop="20211012145500 +0700" channel="quang.tri">
+    <title lang="vi">Dạy học trên truyền hình: Lớp 6 – Môn Toán – Phép cộng phép trừ các số tự nhiên</title>
+  </programme>
+  <programme start="20211012145500 +0700" stop="20211012152500 +0700" channel="quang.tri">
+    <title lang="vi">Khám phá thế giới: Những dòng sông hùng vĩ của Trái đất – Tập 3 – Phần 1</title>
+  </programme>
+  <programme start="20211012152500 +0700" stop="20211012153500 +0700" channel="quang.tri">
+    <title lang="vi">Đất và người Quảng Trị: Âm nhạc truyền thống với công tác tuyên truyền Covid-19</title>
+  </programme>
+  <programme start="20211012153500 +0700" stop="20211012160500 +0700" channel="quang.tri">
+    <title lang="vi">Ca nhạc: Có em bên đời</title>
+  </programme>
+  <programme start="20211012160500 +0700" stop="20211012162000 +0700" channel="quang.tri">
+    <title lang="vi">Việt Nam mến yêu: Sắc màu tranh làng Sình</title>
+  </programme>
+  <programme start="20211012162000 +0700" stop="20211012165000 +0700" channel="quang.tri">
+    <title lang="vi">PTL: Kỳ tích đường HCM trên biển - Tập 1</title>
+  </programme>
+  <programme start="20211012165000 +0700" stop="20211012170000 +0700" channel="quang.tri">
+    <title lang="vi">Xây dựng Đảng: Cam Lộ thực hiện chỉ thi về tăng cường phòng chống dịch Covid 19</title>
+  </programme>
+  <programme start="20211012170000 +0700" stop="20211012170000 +0700" channel="quang.tri">
+    <title lang="vi">Giới thiệu chương trình</title>
+  </programme>
+  <programme start="20211012170000 +0700" stop="20211012173000 +0700" channel="quang.tri">
+    <title lang="vi">Dạy học trên truyền hình: Lớp 6 – Văn – Tôi và các bạn</title>
+  </programme>
+  <programme start="20211012173000 +0700" stop="20211012181500 +0700" channel="quang.tri">
+    <title lang="vi">Phim truyện: Hồ sơ lửa P1 - Tập 10</title>
+  </programme>
+  <programme start="20211012181500 +0700" stop="20211012183000 +0700" channel="quang.tri">
+    <title lang="vi">Phim hoạt hìn</title>
+  </programme>
+  <programme start="20211012183000 +0700" stop="20211012184000 +0700" channel="quang.tri">
+    <title lang="vi">Mỗi tuần một chuyện: Những bất thường khi dự án đường Hùng Vương nối dài phóng tuyến</title>
+  </programme>
+  <programme start="20211012184000 +0700" stop="20211012185000 +0700" channel="quang.tri">
+    <title lang="vi">Đất và người Quảng Trị: Âm nhạc truyền thống với công tác tuyên truyền Covid-19</title>
+  </programme>
+  <programme start="20211012185000 +0700" stop="20211012185500 +0700" channel="quang.tri">
+    <title lang="vi">Bản tin thời  tiết</title>
+  </programme>
+  <programme start="20211012185500 +0700" stop="20211012194500 +0700" channel="quang.tri">
+    <title lang="vi">Thông  tin KT-XH</title>
+  </programme>
+  <programme start="20211012194500 +0700" stop="20211012201000 +0700" channel="quang.tri">
+    <title lang="vi">Thời sự Quảng Trị + Bản tin  thời tiết</title>
+  </programme>
+  <programme start="20211012201000 +0700" stop="20211012201500 +0700" channel="quang.tri">
+    <title lang="vi">Thông  tin KT-XH</title>
+  </programme>
+  <programme start="20211012201500 +0700" stop="20211012203000 +0700" channel="quang.tri">
+    <title lang="vi">Trang nông nghiệp: Phòng bệnh trên cây cao su</title>
+  </programme>
+  <programme start="20211012203000 +0700" stop="20211012210500 +0700" channel="quang.tri">
+    <title lang="vi">Dạy học trên truyền hình: Lớp 2 - Tiếng Việt (KNTT): Bài 6. Một giờ học</title>
+  </programme>
+  <programme start="20211012210500 +0700" stop="20211012211500 +0700" channel="quang.tri">
+    <title lang="vi">Mỗi xã một sản phẩm - OCOP: Nâng cao năng lực cho đội ngũ cán bộ</title>
+  </programme>
+  <programme start="20211012211500 +0700" stop="20211012220000 +0700" channel="quang.tri">
+    <title lang="vi">Phim truyện: Yêu thương dẫn lối - Tập 7</title>
+  </programme>
+  <programme start="20211012220000 +0700" stop="20211012223000 +0700" channel="quang.tri">
+    <title lang="vi">PTL: Kỳ tích đường HCM trên biển - Tập 1</title>
+  </programme>
+</tv>

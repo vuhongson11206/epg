@@ -1,0 +1,292 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="phu.tho">
+    <display-name lang="vi">Phú Thọ</display-name>
+    <url>http://www.phuthotv.vn</url>
+  </channel>
+  <programme start="20211011053200 +0700" stop="20211011054000 +0700" channel="phu.tho">
+    <title lang="vi">Khởi động cùng PTV</title>
+  </programme>
+  <programme start="20211011054000 +0700" stop="20211011060000 +0700" channel="phu.tho">
+    <title lang="vi">Phú Thọ ngày mới</title>
+  </programme>
+  <programme start="20211011060000 +0700" stop="20211011065000 +0700" channel="phu.tho">
+    <title lang="vi">Phim truyện: Giá của nụ cười - Phim VN (Tập 32/43)</title>
+  </programme>
+  <programme start="20211011065000 +0700" stop="20211011065500 +0700" channel="phu.tho">
+    <title lang="vi">Đẹp cùng PTV: Sắc màu tháng 10</title>
+  </programme>
+  <programme start="20211011065500 +0700" stop="20211011071000 +0700" channel="phu.tho">
+    <title lang="vi">Hộp thư truyền hình</title>
+  </programme>
+  <programme start="20211011071000 +0700" stop="20211011072000 +0700" channel="phu.tho">
+    <title lang="vi">Nhịp sống thể thao</title>
+  </programme>
+  <programme start="20211011072000 +0700" stop="20211011074000 +0700" channel="phu.tho">
+    <title lang="vi">Ca nhạc: Ca Huế - Làn điệu tương tư khúc</title>
+  </programme>
+  <programme start="20211011074000 +0700" stop="20211011080000 +0700" channel="phu.tho">
+    <title lang="vi">Chuyên đề - Khoa giáo: Tai nạn điện và cách phòng tránh</title>
+  </programme>
+  <programme start="20211011080000 +0700" stop="20211011081000 +0700" channel="phu.tho">
+    <title lang="vi">Giảm nghèo bền vững: Hỗ trợ thôn đặc biệt khó khăn</title>
+  </programme>
+  <programme start="20211011081000 +0700" stop="20211011090000 +0700" channel="phu.tho">
+    <title lang="vi">Phim truyện HQ: Rồng tranh bá (Tập 34/68)</title>
+  </programme>
+  <programme start="20211011090000 +0700" stop="20211011092000 +0700" channel="phu.tho">
+    <title lang="vi">Thời sự Phú Thọ</title>
+  </programme>
+  <programme start="20211011092000 +0700" stop="20211011093000 +0700" channel="phu.tho">
+    <title lang="vi">Nông thôn mới Phú Thọ: Hội Nông dân xây dựng nông thôn mới</title>
+  </programme>
+  <programme start="20211011093000 +0700" stop="20211011093500 +0700" channel="phu.tho">
+    <title lang="vi">Khoảnh khắc cuộc sống</title>
+  </programme>
+  <programme start="20211011093500 +0700" stop="20211011095000 +0700" channel="phu.tho">
+    <title lang="vi">Thuế Nhà nước: Hóa đơn điện tử</title>
+  </programme>
+  <programme start="20211011095000 +0700" stop="20211011100000 +0700" channel="phu.tho">
+    <title lang="vi">Đến với bài thơ hay: Nếu anh còn trẻ</title>
+  </programme>
+  <programme start="20211011100000 +0700" stop="20211011105500 +0700" channel="phu.tho">
+    <title lang="vi">Phim truyện: Kén mẹ chồng– Phim VN (Tập 23)</title>
+  </programme>
+  <programme start="20211011105500 +0700" stop="20211011112000 +0700" channel="phu.tho">
+    <title lang="vi">Phim tài liệu: VN thời đại Hồ Chí Minh - Biên niên sử truyền hình</title>
+  </programme>
+  <programme start="20211011112000 +0700" stop="20211011113000 +0700" channel="phu.tho">
+    <title lang="vi">Thị trường tiêu dùng</title>
+  </programme>
+  <programme start="20211011113000 +0700" stop="20211011114500 +0700" channel="phu.tho">
+    <title lang="vi">Thời sự Phú Thọ</title>
+  </programme>
+  <programme start="20211011114500 +0700" stop="20211011120000 +0700" channel="phu.tho">
+    <title lang="vi">Tin Quốc tế</title>
+  </programme>
+  <programme start="20211011120000 +0700" stop="20211011125000 +0700" channel="phu.tho">
+    <title lang="vi">Phim truyện 12h: Bản án lương tâm – Phim TQ (Tập 38/44)</title>
+  </programme>
+  <programme start="20211011125000 +0700" stop="20211011130500 +0700" channel="phu.tho">
+    <title lang="vi">Dành cho thiếu nhi: Vui học tiếng Anh: Từ vựng cho bé yêu</title>
+  </programme>
+  <programme start="20211011130500 +0700" stop="20211011133000 +0700" channel="phu.tho">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20211011133000 +0700" stop="20211011134000 +0700" channel="phu.tho">
+    <title lang="vi">Lao động – Việc làm: Việc làm từ sàn giao dịch online</title>
+  </programme>
+  <programme start="20211011134000 +0700" stop="20211011140000 +0700" channel="phu.tho">
+    <title lang="vi">Văn hóa – văn nghệ đất Tổ: Dance sport – môn thể thao không kén tuổi</title>
+  </programme>
+  <programme start="20211011140000 +0700" stop="20211011144500 +0700" channel="phu.tho">
+    <title lang="vi">Phim truyện: Trả em kiếp này – Phim VN (Tập 8/33)</title>
+  </programme>
+  <programme start="20211011144500 +0700" stop="20211011150000 +0700" channel="phu.tho">
+    <title lang="vi">Nông thôn mới Phú Thọ: Hội Nông dân xây dựng nông thôn mới</title>
+  </programme>
+  <programme start="20211011150000 +0700" stop="20211011152000 +0700" channel="phu.tho">
+    <title lang="vi">Thời sự Phú Thọ</title>
+  </programme>
+  <programme start="20211011152000 +0700" stop="20211011160500 +0700" channel="phu.tho">
+    <title lang="vi">Phim truyện Tây Ban Nha: Bí mật cây cầu cũ (Tập 228/325)</title>
+  </programme>
+  <programme start="20211011160500 +0700" stop="20211011163000 +0700" channel="phu.tho">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20211011163000 +0700" stop="20211011165500 +0700" channel="phu.tho">
+    <title lang="vi">Dành cho thiếu nhi: Vui học tiếng Anh: Từ vựng cho bé yêu</title>
+  </programme>
+  <programme start="20211011165500 +0700" stop="20211011182500 +0700" channel="phu.tho">
+    <title lang="vi">Phim truyện ĐL: Bà Trùm (Tập 18+19)</title>
+  </programme>
+  <programme start="20211011182500 +0700" stop="20211011183000 +0700" channel="phu.tho">
+    <title lang="vi">Khoảnh khắc cuộc sống</title>
+  </programme>
+  <programme start="20211011183000 +0700" stop="20211011184000 +0700" channel="phu.tho">
+    <title lang="vi">Bản tin 18h30</title>
+  </programme>
+  <programme start="20211011184000 +0700" stop="20211011184700 +0700" channel="phu.tho">
+    <title lang="vi">Thị trường tiêu dùng</title>
+  </programme>
+  <programme start="20211011184700 +0700" stop="20211011190000 +0700" channel="phu.tho">
+    <title lang="vi">Tin Quốc tế</title>
+  </programme>
+  <programme start="20211011190000 +0700" stop="20211011194500 +0700" channel="phu.tho">
+    <title lang="vi">Tiếp sóng chương trình thời sự Đài TH VN</title>
+  </programme>
+  <programme start="20211011194500 +0700" stop="20211011201500 +0700" channel="phu.tho">
+    <title lang="vi">Thời sự Phú Thọ</title>
+  </programme>
+  <programme start="20211011201500 +0700" stop="20211011210000 +0700" channel="phu.tho">
+    <title lang="vi">Phim truyện TQ: Túy linh lung (Tập 3/54)</title>
+  </programme>
+  <programme start="20211011210000 +0700" stop="20211011211500 +0700" channel="phu.tho">
+    <title lang="vi">Thuế Nhà nước: Hóa đơn điện tử</title>
+  </programme>
+  <programme start="20211011211500 +0700" stop="20211011213000 +0700" channel="phu.tho">
+    <title lang="vi">Lao động – Việc làm: Việc làm từ sàn giao dịch online</title>
+  </programme>
+  <programme start="20211011213000 +0700" stop="20211011221000 +0700" channel="phu.tho">
+    <title lang="vi">Phim truyện HQ: Bí mật của chồng tôi (Tập 3/80)</title>
+  </programme>
+  <programme start="20211011221000 +0700" stop="20211011222000 +0700" channel="phu.tho">
+    <title lang="vi">Nông thôn mới Phú Thọ: Hội Nông dân xây dựng nông thôn mới</title>
+  </programme>
+  <programme start="20211011222000 +0700" stop="20211011225000 +0700" channel="phu.tho">
+    <title lang="vi">Văn hóa – văn nghệ đất Tổ: Dance sport – môn thể thao không kén tuổi</title>
+  </programme>
+  <programme start="20211011225000 +0700" stop="20211011232500 +0700" channel="phu.tho">
+    <title lang="vi">Thời sự cuối ngày</title>
+  </programme>
+  <programme start="20211011232500 +0700" stop="20211011232700 +0700" channel="phu.tho">
+    <title lang="vi">Dự báo thời tiết</title>
+  </programme>
+  <programme start="20211011232700 +0700" stop="20211011233500 +0700" channel="phu.tho">
+    <title lang="vi">Thị trường tiêu dùng</title>
+  </programme>
+  <programme start="20211011233500 +0700" stop="20211012053200 +0700" channel="phu.tho">
+    <title lang="vi">Tin Quốc tế</title>
+  </programme>
+  <programme start="20211012053200 +0700" stop="20211012054000 +0700" channel="phu.tho">
+    <title lang="vi">Khởi động cùng PTV</title>
+  </programme>
+  <programme start="20211012054000 +0700" stop="20211012060000 +0700" channel="phu.tho">
+    <title lang="vi">Phú Thọ ngày mới</title>
+  </programme>
+  <programme start="20211012060000 +0700" stop="20211012065000 +0700" channel="phu.tho">
+    <title lang="vi">Phim truyện: Giá của nụ cười - Phim VN (Tập 32/43)</title>
+  </programme>
+  <programme start="20211012065000 +0700" stop="20211012065500 +0700" channel="phu.tho">
+    <title lang="vi">Đẹp cùng PTV: Sắc màu tháng 10</title>
+  </programme>
+  <programme start="20211012065500 +0700" stop="20211012071000 +0700" channel="phu.tho">
+    <title lang="vi">Hộp thư truyền hình</title>
+  </programme>
+  <programme start="20211012071000 +0700" stop="20211012072000 +0700" channel="phu.tho">
+    <title lang="vi">Nhịp sống thể thao</title>
+  </programme>
+  <programme start="20211012072000 +0700" stop="20211012074000 +0700" channel="phu.tho">
+    <title lang="vi">Ca nhạc: Ca Huế - Làn điệu tương tư khúc</title>
+  </programme>
+  <programme start="20211012074000 +0700" stop="20211012080000 +0700" channel="phu.tho">
+    <title lang="vi">Chuyên đề - Khoa giáo: Tai nạn điện và cách phòng tránh</title>
+  </programme>
+  <programme start="20211012080000 +0700" stop="20211012081000 +0700" channel="phu.tho">
+    <title lang="vi">Giảm nghèo bền vững: Hỗ trợ thôn đặc biệt khó khăn</title>
+  </programme>
+  <programme start="20211012081000 +0700" stop="20211012090000 +0700" channel="phu.tho">
+    <title lang="vi">Phim truyện HQ: Rồng tranh bá (Tập 34/68)</title>
+  </programme>
+  <programme start="20211012090000 +0700" stop="20211012092000 +0700" channel="phu.tho">
+    <title lang="vi">Thời sự Phú Thọ</title>
+  </programme>
+  <programme start="20211012092000 +0700" stop="20211012093000 +0700" channel="phu.tho">
+    <title lang="vi">Nông thôn mới Phú Thọ: Hội Nông dân xây dựng nông thôn mới</title>
+  </programme>
+  <programme start="20211012093000 +0700" stop="20211012093500 +0700" channel="phu.tho">
+    <title lang="vi">Khoảnh khắc cuộc sống</title>
+  </programme>
+  <programme start="20211012093500 +0700" stop="20211012095000 +0700" channel="phu.tho">
+    <title lang="vi">Thuế Nhà nước: Hóa đơn điện tử</title>
+  </programme>
+  <programme start="20211012095000 +0700" stop="20211012100000 +0700" channel="phu.tho">
+    <title lang="vi">Đến với bài thơ hay: Nếu anh còn trẻ</title>
+  </programme>
+  <programme start="20211012100000 +0700" stop="20211012105500 +0700" channel="phu.tho">
+    <title lang="vi">Phim truyện: Kén mẹ chồng– Phim VN (Tập 23)</title>
+  </programme>
+  <programme start="20211012105500 +0700" stop="20211012112000 +0700" channel="phu.tho">
+    <title lang="vi">Phim tài liệu: VN thời đại Hồ Chí Minh - Biên niên sử truyền hình</title>
+  </programme>
+  <programme start="20211012112000 +0700" stop="20211012113000 +0700" channel="phu.tho">
+    <title lang="vi">Thị trường tiêu dùng</title>
+  </programme>
+  <programme start="20211012113000 +0700" stop="20211012114500 +0700" channel="phu.tho">
+    <title lang="vi">Thời sự Phú Thọ</title>
+  </programme>
+  <programme start="20211012114500 +0700" stop="20211012120000 +0700" channel="phu.tho">
+    <title lang="vi">Tin Quốc tế</title>
+  </programme>
+  <programme start="20211012120000 +0700" stop="20211012125000 +0700" channel="phu.tho">
+    <title lang="vi">Phim truyện 12h: Bản án lương tâm – Phim TQ (Tập 38/44)</title>
+  </programme>
+  <programme start="20211012125000 +0700" stop="20211012130500 +0700" channel="phu.tho">
+    <title lang="vi">Dành cho thiếu nhi: Vui học tiếng Anh: Từ vựng cho bé yêu</title>
+  </programme>
+  <programme start="20211012130500 +0700" stop="20211012133000 +0700" channel="phu.tho">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20211012133000 +0700" stop="20211012134000 +0700" channel="phu.tho">
+    <title lang="vi">Lao động – Việc làm: Việc làm từ sàn giao dịch online</title>
+  </programme>
+  <programme start="20211012134000 +0700" stop="20211012140000 +0700" channel="phu.tho">
+    <title lang="vi">Văn hóa – văn nghệ đất Tổ: Dance sport – môn thể thao không kén tuổi</title>
+  </programme>
+  <programme start="20211012140000 +0700" stop="20211012144500 +0700" channel="phu.tho">
+    <title lang="vi">Phim truyện: Trả em kiếp này – Phim VN (Tập 8/33)</title>
+  </programme>
+  <programme start="20211012144500 +0700" stop="20211012150000 +0700" channel="phu.tho">
+    <title lang="vi">Nông thôn mới Phú Thọ: Hội Nông dân xây dựng nông thôn mới</title>
+  </programme>
+  <programme start="20211012150000 +0700" stop="20211012152000 +0700" channel="phu.tho">
+    <title lang="vi">Thời sự Phú Thọ</title>
+  </programme>
+  <programme start="20211012152000 +0700" stop="20211012160500 +0700" channel="phu.tho">
+    <title lang="vi">Phim truyện Tây Ban Nha: Bí mật cây cầu cũ (Tập 228/325)</title>
+  </programme>
+  <programme start="20211012160500 +0700" stop="20211012163000 +0700" channel="phu.tho">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20211012163000 +0700" stop="20211012165500 +0700" channel="phu.tho">
+    <title lang="vi">Dành cho thiếu nhi: Vui học tiếng Anh: Từ vựng cho bé yêu</title>
+  </programme>
+  <programme start="20211012165500 +0700" stop="20211012182500 +0700" channel="phu.tho">
+    <title lang="vi">Phim truyện ĐL: Bà Trùm (Tập 18+19)</title>
+  </programme>
+  <programme start="20211012182500 +0700" stop="20211012183000 +0700" channel="phu.tho">
+    <title lang="vi">Khoảnh khắc cuộc sống</title>
+  </programme>
+  <programme start="20211012183000 +0700" stop="20211012184000 +0700" channel="phu.tho">
+    <title lang="vi">Bản tin 18h30</title>
+  </programme>
+  <programme start="20211012184000 +0700" stop="20211012184700 +0700" channel="phu.tho">
+    <title lang="vi">Thị trường tiêu dùng</title>
+  </programme>
+  <programme start="20211012184700 +0700" stop="20211012190000 +0700" channel="phu.tho">
+    <title lang="vi">Tin Quốc tế</title>
+  </programme>
+  <programme start="20211012190000 +0700" stop="20211012194500 +0700" channel="phu.tho">
+    <title lang="vi">Tiếp sóng chương trình thời sự Đài TH VN</title>
+  </programme>
+  <programme start="20211012194500 +0700" stop="20211012201500 +0700" channel="phu.tho">
+    <title lang="vi">Thời sự Phú Thọ</title>
+  </programme>
+  <programme start="20211012201500 +0700" stop="20211012210000 +0700" channel="phu.tho">
+    <title lang="vi">Phim truyện TQ: Túy linh lung (Tập 3/54)</title>
+  </programme>
+  <programme start="20211012210000 +0700" stop="20211012211500 +0700" channel="phu.tho">
+    <title lang="vi">Thuế Nhà nước: Hóa đơn điện tử</title>
+  </programme>
+  <programme start="20211012211500 +0700" stop="20211012213000 +0700" channel="phu.tho">
+    <title lang="vi">Lao động – Việc làm: Việc làm từ sàn giao dịch online</title>
+  </programme>
+  <programme start="20211012213000 +0700" stop="20211012221000 +0700" channel="phu.tho">
+    <title lang="vi">Phim truyện HQ: Bí mật của chồng tôi (Tập 3/80)</title>
+  </programme>
+  <programme start="20211012221000 +0700" stop="20211012222000 +0700" channel="phu.tho">
+    <title lang="vi">Nông thôn mới Phú Thọ: Hội Nông dân xây dựng nông thôn mới</title>
+  </programme>
+  <programme start="20211012222000 +0700" stop="20211012225000 +0700" channel="phu.tho">
+    <title lang="vi">Văn hóa – văn nghệ đất Tổ: Dance sport – môn thể thao không kén tuổi</title>
+  </programme>
+  <programme start="20211012225000 +0700" stop="20211012232500 +0700" channel="phu.tho">
+    <title lang="vi">Thời sự cuối ngày</title>
+  </programme>
+  <programme start="20211012232500 +0700" stop="20211012232700 +0700" channel="phu.tho">
+    <title lang="vi">Dự báo thời tiết</title>
+  </programme>
+  <programme start="20211012232700 +0700" stop="20211012233500 +0700" channel="phu.tho">
+    <title lang="vi">Thị trường tiêu dùng</title>
+  </programme>
+</tv>

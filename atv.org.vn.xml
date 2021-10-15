@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="an.giang">
+    <display-name lang="vi">An Giang</display-name>
+    <url>http://www.atv.org.vn</url>
+  </channel>
+  <programme start="20211003002000 +0700" stop="20211003004500 +0700" channel="an.giang">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20211003004500 +0700" stop="20211003005500 +0700" channel="an.giang">
+    <title lang="vi">Trải nghiệm cuối tuần</title>
+  </programme>
+  <programme start="20211003005500 +0700" stop="20211003010500 +0700" channel="an.giang">
+    <title lang="vi">Thế giới tuần qua</title>
+  </programme>
+  <programme start="20211003010500 +0700" stop="20211003023500 +0700" channel="an.giang">
+    <title lang="vi">Phim truyện Trung Quốc: Bữa tối của diều hâu - Tập 28 &amp; 29</title>
+  </programme>
+  <programme start="20211003023500 +0700" stop="20211003030500 +0700" channel="an.giang">
+    <title lang="vi">Ca cổ: NSND Thanh Tòng</title>
+  </programme>
+  <programme start="20211003030500 +0700" stop="20211003035000 +0700" channel="an.giang">
+    <title lang="vi">Phim truyện Hàn Quốc: Tình yêu trở lại - Tập 28</title>
+  </programme>
+  <programme start="20211003035000 +0700" stop="20211003045000 +0700" channel="an.giang">
+    <title lang="vi">Phim truyện Việt Nam: Sông phố nhà ghe - Tập 25</title>
+  </programme>
+  <programme start="20211003045000 +0700" stop="20211003050500 +0700" channel="an.giang">
+    <title lang="vi">Văn hóa xã hội</title>
+  </programme>
+  <programme start="20211003050500 +0700" stop="20211003051000 +0700" channel="an.giang">
+    <title lang="vi">Thể dục buổi sáng</title>
+  </programme>
+  <programme start="20211003051000 +0700" stop="20211003052500 +0700" channel="an.giang">
+    <title lang="vi">Mái ấm cho người nghèo</title>
+  </programme>
+  <programme start="20211003052500 +0700" stop="20211003060000 +0700" channel="an.giang">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20211003060000 +0700" stop="20211003063000 +0700" channel="an.giang">
+    <title lang="vi">Chương trình Thời sự: TRÊN TỪNG CÂY SỐ</title>
+  </programme>
+  <programme start="20211003063000 +0700" stop="20211003080000 +0700" channel="an.giang">
+    <title lang="vi">Phim truyện Trung Quốc: Bữa tối của diều hâu - Tập 30 &amp; 31</title>
+  </programme>
+  <programme start="20211003080000 +0700" stop="20211003081500 +0700" channel="an.giang">
+    <title lang="vi">Món ngon cuối tuần</title>
+  </programme>
+  <programme start="20211003081500 +0700" stop="20211003084500 +0700" channel="an.giang">
+    <title lang="vi">Văn nghệ An Giang</title>
+  </programme>
+  <programme start="20211003084500 +0700" stop="20211003085500 +0700" channel="an.giang">
+    <title lang="vi">Trải nghiệm cuối tuần</title>
+  </programme>
+  <programme start="20211003085500 +0700" stop="20211003102500 +0700" channel="an.giang">
+    <title lang="vi">Phim truyện Trung Quốc: Phong thủy thế gia - Tập 293 &amp; 294</title>
+  </programme>
+  <programme start="20211003102500 +0700" stop="20211003105000 +0700" channel="an.giang">
+    <title lang="vi">Chương trình thiếu nhi: Ca nhạc thiếu nhi</title>
+  </programme>
+  <programme start="20211003105000 +0700" stop="20211003110000 +0700" channel="an.giang">
+    <title lang="vi">Thể thao trong tuần</title>
+  </programme>
+  <programme start="20211003110000 +0700" stop="20211003111500 +0700" channel="an.giang">
+    <title lang="vi">Sắc màu An Giang</title>
+  </programme>
+  <programme start="20211003111500 +0700" stop="20211003120000 +0700" channel="an.giang">
+    <title lang="vi">Chương trình Thời sự</title>
+  </programme>
+  <programme start="20211003120000 +0700" stop="20211003120500 +0700" channel="an.giang">
+    <title lang="vi">Thông tin cần biết</title>
+  </programme>
+  <programme start="20211003120500 +0700" stop="20211003131000 +0700" channel="an.giang">
+    <title lang="vi">Phim truyện Trung Quốc: Hoàng đế ăn mày - Tập 13</title>
+  </programme>
+  <programme start="20211003131000 +0700" stop="20211003140500 +0700" channel="an.giang">
+    <title lang="vi">Chương trình Tiếng Khmer</title>
+  </programme>
+  <programme start="20211003140500 +0700" stop="20211003145000 +0700" channel="an.giang">
+    <title lang="vi">Phim truyện Hàn Quốc: Hành vi phạm tội - Tập 26</title>
+  </programme>
+  <programme start="20211003145000 +0700" stop="20211003154500 +0700" channel="an.giang">
+    <title lang="vi">Sân khấu cải lương: Tiếng hát Muồng Tênh</title>
+  </programme>
+  <programme start="20211003154500 +0700" stop="20211003155000 +0700" channel="an.giang">
+    <title lang="vi">Thông tin cần biết</title>
+  </programme>
+  <programme start="20211003155000 +0700" stop="20211003160500 +0700" channel="an.giang">
+    <title lang="vi">Biết để làm đúng</title>
+  </programme>
+  <programme start="20211003160500 +0700" stop="20211003161500 +0700" channel="an.giang">
+    <title lang="vi">Trải nghiệm cuối tuần</title>
+  </programme>
+  <programme start="20211003161500 +0700" stop="20211003164000 +0700" channel="an.giang">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20211003164000 +0700" stop="20211003171000 +0700" channel="an.giang">
+    <title lang="vi">Chương trình thiếu nhi: Ca nhạc thiếu nhi</title>
+  </programme>
+  <programme start="20211003171000 +0700" stop="20211003175500 +0700" channel="an.giang">
+    <title lang="vi">Phim truyện Trung Quốc: Thời gian tươi đẹp của anh và em - Tập 16</title>
+  </programme>
+  <programme start="20211003175500 +0700" stop="20211003181500 +0700" channel="an.giang">
+    <title lang="vi">Sắc màu An Giang</title>
+  </programme>
+  <programme start="20211003181500 +0700" stop="20211003190000 +0700" channel="an.giang">
+    <title lang="vi">Chương trình Thời sự</title>
+  </programme>
+  <programme start="20211003190000 +0700" stop="20211003194500 +0700" channel="an.giang">
+    <title lang="vi">Tiếp chuyển Thời sự Đài Truyền hình Việt Nam</title>
+  </programme>
+  <programme start="20211003194500 +0700" stop="20211003195500 +0700" channel="an.giang">
+    <title lang="vi">Bản tin Dự báo thời tiết</title>
+  </programme>
+  <programme start="20211003195500 +0700" stop="20211003200500 +0700" channel="an.giang">
+    <title lang="vi">Mái ấm cho người nghèo</title>
+  </programme>
+  <programme start="20211003200500 +0700" stop="20211003205000 +0700" channel="an.giang">
+    <title lang="vi">Phim truyện Hàn Quốc: Tình yêu trở lại - Tập 29</title>
+  </programme>
+  <programme start="20211003205000 +0700" stop="20211003214500 +0700" channel="an.giang">
+    <title lang="vi">Phim truyện Việt Nam: Sông phố nhà ghe - Tập 26</title>
+  </programme>
+  <programme start="20211003214500 +0700" stop="20211003222000 +0700" channel="an.giang">
+    <title lang="vi">Văn nghệ An Giang</title>
+  </programme>
+  <programme start="20211003222000 +0700" stop="20211003223000 +0700" channel="an.giang">
+    <title lang="vi">Sắc màu An Giang</title>
+  </programme>
+  <programme start="20211003223000 +0700" stop="20211003224500 +0700" channel="an.giang">
+    <title lang="vi">Bản tin cuối ngày</title>
+  </programme>
+  <programme start="20211003224500 +0700" stop="20211003233000 +0700" channel="an.giang">
+    <title lang="vi">Phim truyện Trung Quốc: Thời gian tươi đẹp của anh và em - Tập 16</title>
+  </programme>
+  <programme start="20211003233000 +0700" stop="20211004002000 +0700" channel="an.giang">
+    <title lang="vi">Phim truyện Trung Quốc: Hoàng đế ăn mày - Tập 13</title>
+  </programme>
+  <programme start="20211004002000 +0700" stop="20211004004500 +0700" channel="an.giang">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20211004004500 +0700" stop="20211004005500 +0700" channel="an.giang">
+    <title lang="vi">Trải nghiệm cuối tuần</title>
+  </programme>
+  <programme start="20211004005500 +0700" stop="20211004010500 +0700" channel="an.giang">
+    <title lang="vi">Thế giới tuần qua</title>
+  </programme>
+  <programme start="20211004010500 +0700" stop="20211004023500 +0700" channel="an.giang">
+    <title lang="vi">Phim truyện Trung Quốc: Bữa tối của diều hâu - Tập 28 &amp; 29</title>
+  </programme>
+  <programme start="20211004023500 +0700" stop="20211004030500 +0700" channel="an.giang">
+    <title lang="vi">Ca cổ: NSND Thanh Tòng</title>
+  </programme>
+  <programme start="20211004030500 +0700" stop="20211004035000 +0700" channel="an.giang">
+    <title lang="vi">Phim truyện Hàn Quốc: Tình yêu trở lại - Tập 28</title>
+  </programme>
+  <programme start="20211004035000 +0700" stop="20211004045000 +0700" channel="an.giang">
+    <title lang="vi">Phim truyện Việt Nam: Sông phố nhà ghe - Tập 25</title>
+  </programme>
+  <programme start="20211004045000 +0700" stop="20211004050500 +0700" channel="an.giang">
+    <title lang="vi">Văn hóa xã hội</title>
+  </programme>
+  <programme start="20211004050500 +0700" stop="20211004051000 +0700" channel="an.giang">
+    <title lang="vi">Thể dục buổi sáng</title>
+  </programme>
+  <programme start="20211004051000 +0700" stop="20211004052500 +0700" channel="an.giang">
+    <title lang="vi">Mái ấm cho người nghèo</title>
+  </programme>
+  <programme start="20211004052500 +0700" stop="20211004060000 +0700" channel="an.giang">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20211004060000 +0700" stop="20211004063000 +0700" channel="an.giang">
+    <title lang="vi">Chương trình Thời sự: TRÊN TỪNG CÂY SỐ</title>
+  </programme>
+  <programme start="20211004063000 +0700" stop="20211004080000 +0700" channel="an.giang">
+    <title lang="vi">Phim truyện Trung Quốc: Bữa tối của diều hâu - Tập 30 &amp; 31</title>
+  </programme>
+  <programme start="20211004080000 +0700" stop="20211004081500 +0700" channel="an.giang">
+    <title lang="vi">Món ngon cuối tuần</title>
+  </programme>
+  <programme start="20211004081500 +0700" stop="20211004084500 +0700" channel="an.giang">
+    <title lang="vi">Văn nghệ An Giang</title>
+  </programme>
+  <programme start="20211004084500 +0700" stop="20211004085500 +0700" channel="an.giang">
+    <title lang="vi">Trải nghiệm cuối tuần</title>
+  </programme>
+  <programme start="20211004085500 +0700" stop="20211004102500 +0700" channel="an.giang">
+    <title lang="vi">Phim truyện Trung Quốc: Phong thủy thế gia - Tập 293 &amp; 294</title>
+  </programme>
+  <programme start="20211004102500 +0700" stop="20211004105000 +0700" channel="an.giang">
+    <title lang="vi">Chương trình thiếu nhi: Ca nhạc thiếu nhi</title>
+  </programme>
+  <programme start="20211004105000 +0700" stop="20211004110000 +0700" channel="an.giang">
+    <title lang="vi">Thể thao trong tuần</title>
+  </programme>
+  <programme start="20211004110000 +0700" stop="20211004111500 +0700" channel="an.giang">
+    <title lang="vi">Sắc màu An Giang</title>
+  </programme>
+  <programme start="20211004111500 +0700" stop="20211004120000 +0700" channel="an.giang">
+    <title lang="vi">Chương trình Thời sự</title>
+  </programme>
+  <programme start="20211004120000 +0700" stop="20211004120500 +0700" channel="an.giang">
+    <title lang="vi">Thông tin cần biết</title>
+  </programme>
+  <programme start="20211004120500 +0700" stop="20211004131000 +0700" channel="an.giang">
+    <title lang="vi">Phim truyện Trung Quốc: Hoàng đế ăn mày - Tập 13</title>
+  </programme>
+  <programme start="20211004131000 +0700" stop="20211004140500 +0700" channel="an.giang">
+    <title lang="vi">Chương trình Tiếng Khmer</title>
+  </programme>
+  <programme start="20211004140500 +0700" stop="20211004145000 +0700" channel="an.giang">
+    <title lang="vi">Phim truyện Hàn Quốc: Hành vi phạm tội - Tập 26</title>
+  </programme>
+  <programme start="20211004145000 +0700" stop="20211004154500 +0700" channel="an.giang">
+    <title lang="vi">Sân khấu cải lương: Tiếng hát Muồng Tênh</title>
+  </programme>
+  <programme start="20211004154500 +0700" stop="20211004155000 +0700" channel="an.giang">
+    <title lang="vi">Thông tin cần biết</title>
+  </programme>
+  <programme start="20211004155000 +0700" stop="20211004160500 +0700" channel="an.giang">
+    <title lang="vi">Biết để làm đúng</title>
+  </programme>
+  <programme start="20211004160500 +0700" stop="20211004161500 +0700" channel="an.giang">
+    <title lang="vi">Trải nghiệm cuối tuần</title>
+  </programme>
+  <programme start="20211004161500 +0700" stop="20211004164000 +0700" channel="an.giang">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20211004164000 +0700" stop="20211004171000 +0700" channel="an.giang">
+    <title lang="vi">Chương trình thiếu nhi: Ca nhạc thiếu nhi</title>
+  </programme>
+  <programme start="20211004171000 +0700" stop="20211004175500 +0700" channel="an.giang">
+    <title lang="vi">Phim truyện Trung Quốc: Thời gian tươi đẹp của anh và em - Tập 16</title>
+  </programme>
+  <programme start="20211004175500 +0700" stop="20211004181500 +0700" channel="an.giang">
+    <title lang="vi">Sắc màu An Giang</title>
+  </programme>
+  <programme start="20211004181500 +0700" stop="20211004190000 +0700" channel="an.giang">
+    <title lang="vi">Chương trình Thời sự</title>
+  </programme>
+  <programme start="20211004190000 +0700" stop="20211004194500 +0700" channel="an.giang">
+    <title lang="vi">Tiếp chuyển Thời sự Đài Truyền hình Việt Nam</title>
+  </programme>
+  <programme start="20211004194500 +0700" stop="20211004195500 +0700" channel="an.giang">
+    <title lang="vi">Bản tin Dự báo thời tiết</title>
+  </programme>
+  <programme start="20211004195500 +0700" stop="20211004200500 +0700" channel="an.giang">
+    <title lang="vi">Mái ấm cho người nghèo</title>
+  </programme>
+  <programme start="20211004200500 +0700" stop="20211004205000 +0700" channel="an.giang">
+    <title lang="vi">Phim truyện Hàn Quốc: Tình yêu trở lại - Tập 29</title>
+  </programme>
+  <programme start="20211004205000 +0700" stop="20211004214500 +0700" channel="an.giang">
+    <title lang="vi">Phim truyện Việt Nam: Sông phố nhà ghe - Tập 26</title>
+  </programme>
+  <programme start="20211004214500 +0700" stop="20211004222000 +0700" channel="an.giang">
+    <title lang="vi">Văn nghệ An Giang</title>
+  </programme>
+  <programme start="20211004222000 +0700" stop="20211004223000 +0700" channel="an.giang">
+    <title lang="vi">Sắc màu An Giang</title>
+  </programme>
+  <programme start="20211004223000 +0700" stop="20211004224500 +0700" channel="an.giang">
+    <title lang="vi">Bản tin cuối ngày</title>
+  </programme>
+  <programme start="20211004224500 +0700" stop="20211004233000 +0700" channel="an.giang">
+    <title lang="vi">Phim truyện Trung Quốc: Thời gian tươi đẹp của anh và em - Tập 16</title>
+  </programme>
+</tv>

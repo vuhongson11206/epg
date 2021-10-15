@@ -1,0 +1,348 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="btv1">
+    <display-name lang="vi">BTV1</display-name>
+    <url>http://www.btv.org.vn</url>
+  </channel>
+  <programme start="20211003050000 +0700" stop="20211003051000 +0700" channel="btv1">
+    <title lang="vi">Phòng chống dịch bệnh Covid-19</title>
+  </programme>
+  <programme start="20211003051000 +0700" stop="20211003052000 +0700" channel="btv1">
+    <title lang="vi">Điểm hẹn giải trí</title>
+  </programme>
+  <programme start="20211003052000 +0700" stop="20211003054500 +0700" channel="btv1">
+    <title lang="vi">Ca nhạc</title>
+    <sub-title lang="vi">Hát mãi mùa xuân - Phần 1</sub-title>
+  </programme>
+  <programme start="20211003054500 +0700" stop="20211003060000 +0700" channel="btv1">
+    <title lang="vi">Nông thôn ngày mới</title>
+    <sub-title lang="vi">Đảm bảo an toàn thực phẩm mùa dịch</sub-title>
+  </programme>
+  <programme start="20211003060000 +0700" stop="20211003063500 +0700" channel="btv1">
+    <title lang="vi">Bình Dương ngày mới</title>
+  </programme>
+  <programme start="20211003063500 +0700" stop="20211003065500 +0700" channel="btv1">
+    <title lang="vi">Dọc đường quê hương</title>
+  </programme>
+  <programme start="20211003065500 +0700" stop="20211003070500 +0700" channel="btv1">
+    <title lang="vi">Tiếng nói cử tri</title>
+    <sub-title lang="vi">Chung tay phòng, chống dịch</sub-title>
+  </programme>
+  <programme start="20211003070500 +0700" stop="20211003075000 +0700" channel="btv1">
+    <title lang="vi">Phim Đài Loan</title>
+    <sub-title lang="vi">Mùa hoa mẫu đơn - Tập 2</sub-title>
+  </programme>
+  <programme start="20211003075000 +0700" stop="20211003080500 +0700" channel="btv1">
+    <title lang="vi">Thắp sáng ước mơ xanh</title>
+    <sub-title lang="vi">Trao học bổng</sub-title>
+  </programme>
+  <programme start="20211003080500 +0700" stop="20211003081500 +0700" channel="btv1">
+    <title lang="vi">Theo dòng thời sự</title>
+  </programme>
+  <programme start="20211003081500 +0700" stop="20211003083000 +0700" channel="btv1">
+    <title lang="vi">Bản tin kinh tế</title>
+  </programme>
+  <programme start="20211003083000 +0700" stop="20211003090500 +0700" channel="btv1">
+    <title lang="vi">Bình Dương ngày mới</title>
+  </programme>
+  <programme start="20211003090500 +0700" stop="20211003092000 +0700" channel="btv1">
+    <title lang="vi">Sắc màu Hoa Anh Đào</title>
+  </programme>
+  <programme start="20211003092000 +0700" stop="20211003093500 +0700" channel="btv1">
+    <title lang="vi">Chúng tôi là vận động viên</title>
+  </programme>
+  <programme start="20211003093500 +0700" stop="20211003100000 +0700" channel="btv1">
+    <title lang="vi">Kết nối Đông Nam bộ</title>
+  </programme>
+  <programme start="20211003100000 +0700" stop="20211003105000 +0700" channel="btv1">
+    <title lang="vi">Phim Đài Loan</title>
+    <sub-title lang="vi">Sui gia - Tập  86</sub-title>
+  </programme>
+  <programme start="20211003105000 +0700" stop="20211003112500 +0700" channel="btv1">
+    <title lang="vi">Miền ký ức</title>
+  </programme>
+  <programme start="20211003112500 +0700" stop="20211003113000 +0700" channel="btv1">
+    <title lang="vi">Bản tin giá cả</title>
+  </programme>
+  <programme start="20211003113000 +0700" stop="20211003122000 +0700" channel="btv1">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20211003122000 +0700" stop="20211003125000 +0700" channel="btv1">
+    <title lang="vi">Tạp chí văn hóa nghệ thuật</title>
+  </programme>
+  <programme start="20211003125000 +0700" stop="20211003131000 +0700" channel="btv1">
+    <title lang="vi">Phim sitcom</title>
+    <sub-title lang="vi">Những đứa con từ trên trời rơi xuống (Phần 2) -  Tập 65</sub-title>
+  </programme>
+  <programme start="20211003131000 +0700" stop="20211003135000 +0700" channel="btv1">
+    <title lang="vi">Âm nhạc dân tộc</title>
+    <sub-title lang="vi">Bình Dương sức sống mới</sub-title>
+  </programme>
+  <programme start="20211003135000 +0700" stop="20211003143500 +0700" channel="btv1">
+    <title lang="vi">Phim Việt Nam</title>
+    <sub-title lang="vi">Bản năng thép - Tập  22</sub-title>
+  </programme>
+  <programme start="20211003143500 +0700" stop="20211003145000 +0700" channel="btv1">
+    <title lang="vi">Tin tiếng Hoa - Tin tiếng Anh</title>
+  </programme>
+  <programme start="20211003145000 +0700" stop="20211003150000 +0700" channel="btv1">
+    <title lang="vi">Bình Dương mến yêu</title>
+    <sub-title lang="vi">Năm học mới với những thách thức trong tình hình mới</sub-title>
+  </programme>
+  <programme start="20211003150000 +0700" stop="20211003160000 +0700" channel="btv1">
+    <title lang="vi">Bác sĩ gia đình</title>
+    <sub-title lang="vi">Bệnh tim mạch trong thời đại Covid</sub-title>
+  </programme>
+  <programme start="20211003160000 +0700" stop="20211003163000 +0700" channel="btv1">
+    <title lang="vi">Truyền hình Quân khu 7</title>
+  </programme>
+  <programme start="20211003163000 +0700" stop="20211003163500 +0700" channel="btv1">
+    <title lang="vi">Sắc màu thể thao</title>
+  </programme>
+  <programme start="20211003163500 +0700" stop="20211003164000 +0700" channel="btv1">
+    <title lang="vi">Thế giới 24 giờ</title>
+  </programme>
+  <programme start="20211003164000 +0700" stop="20211003170000 +0700" channel="btv1">
+    <title lang="vi">Ca nhạc thiếu nhi</title>
+    <sub-title lang="vi">Mùa hè dễ thương</sub-title>
+  </programme>
+  <programme start="20211003170000 +0700" stop="20211003171000 +0700" channel="btv1">
+    <title lang="vi">Bản tin COVID-19</title>
+  </programme>
+  <programme start="20211003171000 +0700" stop="20211003173000 +0700" channel="btv1">
+    <title lang="vi">Hành tinh xanh</title>
+    <sub-title lang="vi">Số 5</sub-title>
+  </programme>
+  <programme start="20211003173000 +0700" stop="20211003180000 +0700" channel="btv1">
+    <title lang="vi">Phóng sự tài liệu</title>
+    <sub-title lang="vi">Lực lượng PCCC và Cứu nạn cứu hộ BD - 60 năm xây dựng và trưởng thành</sub-title>
+  </programme>
+  <programme start="20211003180000 +0700" stop="20211003182000 +0700" channel="btv1">
+    <title lang="vi">Xa lộ thông tin</title>
+  </programme>
+  <programme start="20211003182000 +0700" stop="20211003183000 +0700" channel="btv1">
+    <title lang="vi">Dự báo thời tiết</title>
+  </programme>
+  <programme start="20211003183000 +0700" stop="20211003190000 +0700" channel="btv1">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20211003190000 +0700" stop="20211003194500 +0700" channel="btv1">
+    <title lang="vi">Phim Đài Loan</title>
+    <sub-title lang="vi">Những cô nàng thời đại - Tập 21</sub-title>
+  </programme>
+  <programme start="20211003194500 +0700" stop="20211003200000 +0700" channel="btv1">
+    <title lang="vi">An ninh Bình Dương</title>
+  </programme>
+  <programme start="20211003200000 +0700" stop="20211003202000 +0700" channel="btv1">
+    <title lang="vi">Sắc màu Hoa Anh Đào</title>
+  </programme>
+  <programme start="20211003202000 +0700" stop="20211003203000 +0700" channel="btv1">
+    <title lang="vi">Vẻ đẹp cuộc sống</title>
+  </programme>
+  <programme start="20211003203000 +0700" stop="20211003204500 +0700" channel="btv1">
+    <title lang="vi">Bản tin kinh tế</title>
+  </programme>
+  <programme start="20211003204500 +0700" stop="20211003210000 +0700" channel="btv1">
+    <title lang="vi">Điểm hẹn giải trí</title>
+  </programme>
+  <programme start="20211003210000 +0700" stop="20211003212000 +0700" channel="btv1">
+    <title lang="vi">Dọc đường quê hương</title>
+  </programme>
+  <programme start="20211003212000 +0700" stop="20211003213500 +0700" channel="btv1">
+    <title lang="vi">Tiêu điểm trong tuần</title>
+  </programme>
+  <programme start="20211003213500 +0700" stop="20211003214500 +0700" channel="btv1">
+    <title lang="vi">Thể thao 24h</title>
+  </programme>
+  <programme start="20211003214500 +0700" stop="20211003220000 +0700" channel="btv1">
+    <title lang="vi">Bản tin COVID-19</title>
+  </programme>
+  <programme start="20211003220000 +0700" stop="20211003223000 +0700" channel="btv1">
+    <title lang="vi">Tạp chí văn hóa nghệ thuật</title>
+  </programme>
+  <programme start="20211003223000 +0700" stop="20211003225500 +0700" channel="btv1">
+    <title lang="vi">Cuộc thi Tài năng trẻ diễn viên cải lương 2020</title>
+    <sub-title lang="vi">Ngàn thu gương liệt nữ</sub-title>
+  </programme>
+  <programme start="20211003225500 +0700" stop="20211003232500 +0700" channel="btv1">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20211003232500 +0700" stop="20211003234500 +0700" channel="btv1">
+    <title lang="vi">Nhịp đập thế giới</title>
+  </programme>
+  <programme start="20211003234500 +0700" stop="20211003235500 +0700" channel="btv1">
+    <title lang="vi">Tin tiếng Hoa - Tin tiếng Anh</title>
+  </programme>
+  <programme start="20211003235500 +0700" stop="20211004050000 +0700" channel="btv1">
+    <title lang="vi">Tự tình quê hương</title>
+  </programme>
+  <programme start="20211004050000 +0700" stop="20211004051000 +0700" channel="btv1">
+    <title lang="vi">Phòng chống dịch bệnh Covid-19</title>
+  </programme>
+  <programme start="20211004051000 +0700" stop="20211004052000 +0700" channel="btv1">
+    <title lang="vi">Điểm hẹn giải trí</title>
+  </programme>
+  <programme start="20211004052000 +0700" stop="20211004054500 +0700" channel="btv1">
+    <title lang="vi">Ca nhạc</title>
+    <sub-title lang="vi">Hát mãi mùa xuân - Phần 1</sub-title>
+  </programme>
+  <programme start="20211004054500 +0700" stop="20211004060000 +0700" channel="btv1">
+    <title lang="vi">Nông thôn ngày mới</title>
+    <sub-title lang="vi">Đảm bảo an toàn thực phẩm mùa dịch</sub-title>
+  </programme>
+  <programme start="20211004060000 +0700" stop="20211004063500 +0700" channel="btv1">
+    <title lang="vi">Bình Dương ngày mới</title>
+  </programme>
+  <programme start="20211004063500 +0700" stop="20211004065500 +0700" channel="btv1">
+    <title lang="vi">Dọc đường quê hương</title>
+  </programme>
+  <programme start="20211004065500 +0700" stop="20211004070500 +0700" channel="btv1">
+    <title lang="vi">Tiếng nói cử tri</title>
+    <sub-title lang="vi">Chung tay phòng, chống dịch</sub-title>
+  </programme>
+  <programme start="20211004070500 +0700" stop="20211004075000 +0700" channel="btv1">
+    <title lang="vi">Phim Đài Loan</title>
+    <sub-title lang="vi">Mùa hoa mẫu đơn - Tập 2</sub-title>
+  </programme>
+  <programme start="20211004075000 +0700" stop="20211004080500 +0700" channel="btv1">
+    <title lang="vi">Thắp sáng ước mơ xanh</title>
+    <sub-title lang="vi">Trao học bổng</sub-title>
+  </programme>
+  <programme start="20211004080500 +0700" stop="20211004081500 +0700" channel="btv1">
+    <title lang="vi">Theo dòng thời sự</title>
+  </programme>
+  <programme start="20211004081500 +0700" stop="20211004083000 +0700" channel="btv1">
+    <title lang="vi">Bản tin kinh tế</title>
+  </programme>
+  <programme start="20211004083000 +0700" stop="20211004090500 +0700" channel="btv1">
+    <title lang="vi">Bình Dương ngày mới</title>
+  </programme>
+  <programme start="20211004090500 +0700" stop="20211004092000 +0700" channel="btv1">
+    <title lang="vi">Sắc màu Hoa Anh Đào</title>
+  </programme>
+  <programme start="20211004092000 +0700" stop="20211004093500 +0700" channel="btv1">
+    <title lang="vi">Chúng tôi là vận động viên</title>
+  </programme>
+  <programme start="20211004093500 +0700" stop="20211004100000 +0700" channel="btv1">
+    <title lang="vi">Kết nối Đông Nam bộ</title>
+  </programme>
+  <programme start="20211004100000 +0700" stop="20211004105000 +0700" channel="btv1">
+    <title lang="vi">Phim Đài Loan</title>
+    <sub-title lang="vi">Sui gia - Tập  86</sub-title>
+  </programme>
+  <programme start="20211004105000 +0700" stop="20211004112500 +0700" channel="btv1">
+    <title lang="vi">Miền ký ức</title>
+  </programme>
+  <programme start="20211004112500 +0700" stop="20211004113000 +0700" channel="btv1">
+    <title lang="vi">Bản tin giá cả</title>
+  </programme>
+  <programme start="20211004113000 +0700" stop="20211004122000 +0700" channel="btv1">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20211004122000 +0700" stop="20211004125000 +0700" channel="btv1">
+    <title lang="vi">Tạp chí văn hóa nghệ thuật</title>
+  </programme>
+  <programme start="20211004125000 +0700" stop="20211004131000 +0700" channel="btv1">
+    <title lang="vi">Phim sitcom</title>
+    <sub-title lang="vi">Những đứa con từ trên trời rơi xuống (Phần 2) -  Tập 65</sub-title>
+  </programme>
+  <programme start="20211004131000 +0700" stop="20211004135000 +0700" channel="btv1">
+    <title lang="vi">Âm nhạc dân tộc</title>
+    <sub-title lang="vi">Bình Dương sức sống mới</sub-title>
+  </programme>
+  <programme start="20211004135000 +0700" stop="20211004143500 +0700" channel="btv1">
+    <title lang="vi">Phim Việt Nam</title>
+    <sub-title lang="vi">Bản năng thép - Tập  22</sub-title>
+  </programme>
+  <programme start="20211004143500 +0700" stop="20211004145000 +0700" channel="btv1">
+    <title lang="vi">Tin tiếng Hoa - Tin tiếng Anh</title>
+  </programme>
+  <programme start="20211004145000 +0700" stop="20211004150000 +0700" channel="btv1">
+    <title lang="vi">Bình Dương mến yêu</title>
+    <sub-title lang="vi">Năm học mới với những thách thức trong tình hình mới</sub-title>
+  </programme>
+  <programme start="20211004150000 +0700" stop="20211004160000 +0700" channel="btv1">
+    <title lang="vi">Bác sĩ gia đình</title>
+    <sub-title lang="vi">Bệnh tim mạch trong thời đại Covid</sub-title>
+  </programme>
+  <programme start="20211004160000 +0700" stop="20211004163000 +0700" channel="btv1">
+    <title lang="vi">Truyền hình Quân khu 7</title>
+  </programme>
+  <programme start="20211004163000 +0700" stop="20211004163500 +0700" channel="btv1">
+    <title lang="vi">Sắc màu thể thao</title>
+  </programme>
+  <programme start="20211004163500 +0700" stop="20211004164000 +0700" channel="btv1">
+    <title lang="vi">Thế giới 24 giờ</title>
+  </programme>
+  <programme start="20211004164000 +0700" stop="20211004170000 +0700" channel="btv1">
+    <title lang="vi">Ca nhạc thiếu nhi</title>
+    <sub-title lang="vi">Mùa hè dễ thương</sub-title>
+  </programme>
+  <programme start="20211004170000 +0700" stop="20211004171000 +0700" channel="btv1">
+    <title lang="vi">Bản tin COVID-19</title>
+  </programme>
+  <programme start="20211004171000 +0700" stop="20211004173000 +0700" channel="btv1">
+    <title lang="vi">Hành tinh xanh</title>
+    <sub-title lang="vi">Số 5</sub-title>
+  </programme>
+  <programme start="20211004173000 +0700" stop="20211004180000 +0700" channel="btv1">
+    <title lang="vi">Phóng sự tài liệu</title>
+    <sub-title lang="vi">Lực lượng PCCC và Cứu nạn cứu hộ BD - 60 năm xây dựng và trưởng thành</sub-title>
+  </programme>
+  <programme start="20211004180000 +0700" stop="20211004182000 +0700" channel="btv1">
+    <title lang="vi">Xa lộ thông tin</title>
+  </programme>
+  <programme start="20211004182000 +0700" stop="20211004183000 +0700" channel="btv1">
+    <title lang="vi">Dự báo thời tiết</title>
+  </programme>
+  <programme start="20211004183000 +0700" stop="20211004190000 +0700" channel="btv1">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20211004190000 +0700" stop="20211004194500 +0700" channel="btv1">
+    <title lang="vi">Phim Đài Loan</title>
+    <sub-title lang="vi">Những cô nàng thời đại - Tập 21</sub-title>
+  </programme>
+  <programme start="20211004194500 +0700" stop="20211004200000 +0700" channel="btv1">
+    <title lang="vi">An ninh Bình Dương</title>
+  </programme>
+  <programme start="20211004200000 +0700" stop="20211004202000 +0700" channel="btv1">
+    <title lang="vi">Sắc màu Hoa Anh Đào</title>
+  </programme>
+  <programme start="20211004202000 +0700" stop="20211004203000 +0700" channel="btv1">
+    <title lang="vi">Vẻ đẹp cuộc sống</title>
+  </programme>
+  <programme start="20211004203000 +0700" stop="20211004204500 +0700" channel="btv1">
+    <title lang="vi">Bản tin kinh tế</title>
+  </programme>
+  <programme start="20211004204500 +0700" stop="20211004210000 +0700" channel="btv1">
+    <title lang="vi">Điểm hẹn giải trí</title>
+  </programme>
+  <programme start="20211004210000 +0700" stop="20211004212000 +0700" channel="btv1">
+    <title lang="vi">Dọc đường quê hương</title>
+  </programme>
+  <programme start="20211004212000 +0700" stop="20211004213500 +0700" channel="btv1">
+    <title lang="vi">Tiêu điểm trong tuần</title>
+  </programme>
+  <programme start="20211004213500 +0700" stop="20211004214500 +0700" channel="btv1">
+    <title lang="vi">Thể thao 24h</title>
+  </programme>
+  <programme start="20211004214500 +0700" stop="20211004220000 +0700" channel="btv1">
+    <title lang="vi">Bản tin COVID-19</title>
+  </programme>
+  <programme start="20211004220000 +0700" stop="20211004223000 +0700" channel="btv1">
+    <title lang="vi">Tạp chí văn hóa nghệ thuật</title>
+  </programme>
+  <programme start="20211004223000 +0700" stop="20211004225500 +0700" channel="btv1">
+    <title lang="vi">Cuộc thi Tài năng trẻ diễn viên cải lương 2020</title>
+    <sub-title lang="vi">Ngàn thu gương liệt nữ</sub-title>
+  </programme>
+  <programme start="20211004225500 +0700" stop="20211004232500 +0700" channel="btv1">
+    <title lang="vi">Thời sự</title>
+  </programme>
+  <programme start="20211004232500 +0700" stop="20211004234500 +0700" channel="btv1">
+    <title lang="vi">Nhịp đập thế giới</title>
+  </programme>
+  <programme start="20211004234500 +0700" stop="20211004235500 +0700" channel="btv1">
+    <title lang="vi">Tin tiếng Hoa - Tin tiếng Anh</title>
+  </programme>
+</tv>

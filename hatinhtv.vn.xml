@@ -1,0 +1,426 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="ha.tinh">
+    <display-name lang="vi">Hà Tĩnh</display-name>
+    <url>http://www.hatinhtv.vn</url>
+  </channel>
+  <programme start="20211004053000 +0700" stop="20211004053200 +0700" channel="ha.tinh">
+    <title lang="vi">Giới thiệu chương trình</title>
+  </programme>
+  <programme start="20211004053200 +0700" stop="20211004060000 +0700" channel="ha.tinh">
+    <title lang="vi">Hà Tĩnh ngày mới</title>
+  </programme>
+  <programme start="20211004060000 +0700" stop="20211004062000 +0700" channel="ha.tinh">
+    <title lang="vi">Tiếp sóng Chào buổi sáng VTV1</title>
+  </programme>
+  <programme start="20211004062000 +0700" stop="20211004062200 +0700" channel="ha.tinh">
+    <title lang="vi">Dự báo thời tiết</title>
+  </programme>
+  <programme start="20211004062200 +0700" stop="20211004062500 +0700" channel="ha.tinh">
+    <title lang="vi">Góc suy ngẫm</title>
+    <sub-title lang="vi">Tấm lòng của mẹ</sub-title>
+  </programme>
+  <programme start="20211004062500 +0700" stop="20211004063500 +0700" channel="ha.tinh">
+    <title lang="vi">Văn hóa Hà Tĩnh</title>
+    <sub-title lang="vi">Đậu Liêu dấu tích xưa</sub-title>
+  </programme>
+  <programme start="20211004063500 +0700" stop="20211004065000 +0700" channel="ha.tinh">
+    <title lang="vi">Trang TH huyện Cẩm Xuyên</title>
+  </programme>
+  <programme start="20211004065000 +0700" stop="20211004065500 +0700" channel="ha.tinh">
+    <title lang="vi">Đến với những làng quê kiểu mẫu</title>
+  </programme>
+  <programme start="20211004065500 +0700" stop="20211004070000 +0700" channel="ha.tinh">
+    <title lang="vi">Giới thiệu văn bản pháp luật</title>
+  </programme>
+  <programme start="20211004070000 +0700" stop="20211004074500 +0700" channel="ha.tinh">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Họa mi trong mưa (Tập 14)</sub-title>
+  </programme>
+  <programme start="20211004074500 +0700" stop="20211004080000 +0700" channel="ha.tinh">
+    <title lang="vi">Y tế và sức khỏe</title>
+    <sub-title lang="vi">An toàn cho bệnh nhân tim mạch trong đại dịch Covid -19</sub-title>
+  </programme>
+  <programme start="20211004080000 +0700" stop="20211004081500 +0700" channel="ha.tinh">
+    <title lang="vi">Đảng trong cuộc sống</title>
+    <sub-title lang="vi">Đảng viên ở đâu trên mạng xã hội?</sub-title>
+  </programme>
+  <programme start="20211004081500 +0700" stop="20211004090000 +0700" channel="ha.tinh">
+    <title lang="vi">Khám phá thế giới</title>
+    <sub-title lang="vi">Ám ảnh nơi hoang dã (Phần 01)</sub-title>
+  </programme>
+  <programme start="20211004090000 +0700" stop="20211004094500 +0700" channel="ha.tinh">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Võ thần Triệu Tử Long (Tập 21)</sub-title>
+  </programme>
+  <programme start="20211004094500 +0700" stop="20211004100000 +0700" channel="ha.tinh">
+    <title lang="vi">Bản tin thời sự</title>
+  </programme>
+  <programme start="20211004100000 +0700" stop="20211004101500 +0700" channel="ha.tinh">
+    <title lang="vi">Chuyển động đời thường</title>
+    <sub-title lang="vi">Khi 30 điểm vẫn trượt đại học…</sub-title>
+  </programme>
+  <programme start="20211004101500 +0700" stop="20211004102500 +0700" channel="ha.tinh">
+    <title lang="vi">Tài nguyên và môi trường</title>
+    <sub-title lang="vi">Xâm hại môi trường từ hoạt động nuôi trồng thủy sản tự phát</sub-title>
+  </programme>
+  <programme start="20211004102500 +0700" stop="20211004103500 +0700" channel="ha.tinh">
+    <title lang="vi">Hộp thư truyền hình</title>
+  </programme>
+  <programme start="20211004103500 +0700" stop="20211004104500 +0700" channel="ha.tinh">
+    <title lang="vi">Khoa học và đời sống</title>
+    <sub-title lang="vi">Nuôi gà theo qui trình tự động hóa</sub-title>
+  </programme>
+  <programme start="20211004104500 +0700" stop="20211004110000 +0700" channel="ha.tinh">
+    <title lang="vi">Câu chuyện tuần này</title>
+    <sub-title lang="vi">“Vi rút vô cảm”, vì sao lây lan?</sub-title>
+  </programme>
+  <programme start="20211004110000 +0700" stop="20211004114500 +0700" channel="ha.tinh">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Nợ anh một giấc mơ (Tập 23)</sub-title>
+  </programme>
+  <programme start="20211004114500 +0700" stop="20211004120000 +0700" channel="ha.tinh">
+    <title lang="vi">Bản tin Thời sự</title>
+  </programme>
+  <programme start="20211004120000 +0700" stop="20211004120200 +0700" channel="ha.tinh">
+    <title lang="vi">Giới thiệu chương trình</title>
+  </programme>
+  <programme start="20211004120200 +0700" stop="20211004121200 +0700" channel="ha.tinh">
+    <title lang="vi">Bản tin Thời sự quốc tế</title>
+  </programme>
+  <programme start="20211004121200 +0700" stop="20211004121500 +0700" channel="ha.tinh">
+    <title lang="vi">Dự báo thời tiết nông vụ</title>
+  </programme>
+  <programme start="20211004121500 +0700" stop="20211004123500 +0700" channel="ha.tinh">
+    <title lang="vi">Phim hoạt hình</title>
+    <sub-title lang="vi">Sam siêu đẳng (Tập 11)</sub-title>
+  </programme>
+  <programme start="20211004123500 +0700" stop="20211004124000 +0700" channel="ha.tinh">
+    <title lang="vi">Câu chuyện Ocop</title>
+    <sub-title lang="vi">Bộ dao thái, chặt cao cấp Thanh Hà</sub-title>
+  </programme>
+  <programme start="20211004124000 +0700" stop="20211004124500 +0700" channel="ha.tinh">
+    <title lang="vi">Giới thiệu văn bản pháp luật</title>
+  </programme>
+  <programme start="20211004124500 +0700" stop="20211004130000 +0700" channel="ha.tinh">
+    <title lang="vi">Trang TH huyện Hương Khê</title>
+  </programme>
+  <programme start="20211004130000 +0700" stop="20211004134500 +0700" channel="ha.tinh">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Mùa hè của hồ ly (Tập 10)</sub-title>
+  </programme>
+  <programme start="20211004134500 +0700" stop="20211004135500 +0700" channel="ha.tinh">
+    <title lang="vi">Chính phủ tuần qua</title>
+  </programme>
+  <programme start="20211004135500 +0700" stop="20211004140000 +0700" channel="ha.tinh">
+    <title lang="vi">Nguyễn Du và Truyện Kiều</title>
+    <sub-title lang="vi">Kén chồng qua câu Kiều</sub-title>
+  </programme>
+  <programme start="20211004140000 +0700" stop="20211004141500 +0700" channel="ha.tinh">
+    <title lang="vi">Ký ức và hiện tại</title>
+    <sub-title lang="vi">Chuyện ông Bát bí thư</sub-title>
+  </programme>
+  <programme start="20211004141500 +0700" stop="20211004143000 +0700" channel="ha.tinh">
+    <title lang="vi">Tạp chí Thiếu nhi</title>
+    <sub-title lang="vi">Đại hội Chi đội</sub-title>
+  </programme>
+  <programme start="20211004143000 +0700" stop="20211004151500 +0700" channel="ha.tinh">
+    <title lang="vi">Đến lớp cùng HTTV</title>
+    <sub-title lang="vi">Toán lớp 9: Liên hệ giữa phép nhân, phép chia và phép khai phương</sub-title>
+  </programme>
+  <programme start="20211004151500 +0700" stop="20211004153000 +0700" channel="ha.tinh">
+    <title lang="vi">Văn hóa, thể thao và du lịch</title>
+    <sub-title lang="vi">Nơi hướng về nguồn cội</sub-title>
+  </programme>
+  <programme start="20211004153000 +0700" stop="20211004160000 +0700" channel="ha.tinh">
+    <title lang="vi">Ký sự</title>
+    <sub-title lang="vi">Ký sự vùng biên (Tập 33 và 34)</sub-title>
+  </programme>
+  <programme start="20211004160000 +0700" stop="20211004164500 +0700" channel="ha.tinh">
+    <title lang="vi">Phim truyện Việt Nam</title>
+    <sub-title lang="vi">Vực thẳm chiều trôi (Tập 01)</sub-title>
+  </programme>
+  <programme start="20211004164500 +0700" stop="20211004170000 +0700" channel="ha.tinh">
+    <title lang="vi">Bản tin Thời sự</title>
+  </programme>
+  <programme start="20211004170000 +0700" stop="20211004174500 +0700" channel="ha.tinh">
+    <title lang="vi">Sống khỏe cùng HTTV</title>
+    <sub-title lang="vi">Bảo vệ đường hô hấp cho trẻ trong thời tiết giao mùa</sub-title>
+  </programme>
+  <programme start="20211004174500 +0700" stop="20211004175500 +0700" channel="ha.tinh">
+    <title lang="vi">Vòng tay nhân ái</title>
+    <sub-title lang="vi">Khắc khoải dưới mái nhà tạm</sub-title>
+  </programme>
+  <programme start="20211004175500 +0700" stop="20211004180000 +0700" channel="ha.tinh">
+    <title lang="vi">Góc suy ngẫm</title>
+    <sub-title lang="vi">Lăng kính nhìn cuộc sống</sub-title>
+  </programme>
+  <programme start="20211004180000 +0700" stop="20211004184500 +0700" channel="ha.tinh">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Họa mi trong mưa (Tập 15)</sub-title>
+  </programme>
+  <programme start="20211004184500 +0700" stop="20211004185500 +0700" channel="ha.tinh">
+    <title lang="vi">Bản tin thời sự quốc tế</title>
+  </programme>
+  <programme start="20211004185500 +0700" stop="20211004190000 +0700" channel="ha.tinh">
+    <title lang="vi">Dự báo thời tiết nông vụ</title>
+  </programme>
+  <programme start="20211004190000 +0700" stop="20211004194500 +0700" channel="ha.tinh">
+    <title lang="vi">Tiếp sóng Thời sự VTV1</title>
+  </programme>
+  <programme start="20211004194500 +0700" stop="20211004201500 +0700" channel="ha.tinh">
+    <title lang="vi">Thời sự Hà Tĩnh  HTTV</title>
+  </programme>
+  <programme start="20211004201500 +0700" stop="20211004202500 +0700" channel="ha.tinh">
+    <title lang="vi">Bản tin thể thao</title>
+  </programme>
+  <programme start="20211004202500 +0700" stop="20211004211000 +0700" channel="ha.tinh">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Võ thần Triệu Tử Long (Tập 22)</sub-title>
+  </programme>
+  <programme start="20211004211000 +0700" stop="20211004211500 +0700" channel="ha.tinh">
+    <title lang="vi">Dự  báo thời tiết nông vụ</title>
+  </programme>
+  <programme start="20211004211500 +0700" stop="20211004212500 +0700" channel="ha.tinh">
+    <title lang="vi">Góc nhìn thời sự</title>
+    <sub-title lang="vi">Ứng phó thiên tai gắn với từng cấp độ dịch Covid-19</sub-title>
+  </programme>
+  <programme start="20211004212500 +0700" stop="20211004213500 +0700" channel="ha.tinh">
+    <title lang="vi">Với khán giả HTTV</title>
+    <sub-title lang="vi">Lan tỏa những thông điệp ý nghĩa trong “Góc suy ngẫm” của HTTV</sub-title>
+  </programme>
+  <programme start="20211004213500 +0700" stop="20211004214000 +0700" channel="ha.tinh">
+    <title lang="vi">Góc suy ngẫm</title>
+    <sub-title lang="vi">Lòng lương thiện không cần qua sát hạch</sub-title>
+  </programme>
+  <programme start="20211004214000 +0700" stop="20211004215000 +0700" channel="ha.tinh">
+    <title lang="vi">Lao động và công đoàn</title>
+    <sub-title lang="vi">Đẩy mạnh phát triển tổ chức công đoàn</sub-title>
+  </programme>
+  <programme start="20211004215000 +0700" stop="20211004220500 +0700" channel="ha.tinh">
+    <title lang="vi">Trang TH huyện Thạch Hà</title>
+    <sub-title lang="vi">Tập trung đẩy nhanh tiến độ các công trình trọng điểm</sub-title>
+  </programme>
+  <programme start="20211004220500 +0700" stop="20211004221500 +0700" channel="ha.tinh">
+    <title lang="vi">Bản tin kinh tế và tài chính</title>
+  </programme>
+  <programme start="20211004221500 +0700" stop="20211004222500 +0700" channel="ha.tinh">
+    <title lang="vi">Bản tin thời sự quốc tế</title>
+  </programme>
+  <programme start="20211004222500 +0700" stop="20211004231000 +0700" channel="ha.tinh">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Vực thẳm chiều trôi (Tập 02)</sub-title>
+  </programme>
+  <programme start="20211004231000 +0700" stop="20211004235800 +0700" channel="ha.tinh">
+    <title lang="vi">Đến lớp cùng HTTV</title>
+    <sub-title lang="vi">Toán lớp 9: Liên hệ giữa phép nhân, phép chia và phép khai phương</sub-title>
+  </programme>
+  <programme start="20211004235800 +0700" stop="20211005053000 +0700" channel="ha.tinh">
+    <title lang="vi">Giới thiệu chương trình ngày mai</title>
+  </programme>
+  <programme start="20211005053000 +0700" stop="20211005053200 +0700" channel="ha.tinh">
+    <title lang="vi">Giới thiệu chương trình</title>
+  </programme>
+  <programme start="20211005053200 +0700" stop="20211005060000 +0700" channel="ha.tinh">
+    <title lang="vi">Hà Tĩnh ngày mới</title>
+  </programme>
+  <programme start="20211005060000 +0700" stop="20211005062000 +0700" channel="ha.tinh">
+    <title lang="vi">Tiếp sóng Chào buổi sáng VTV1</title>
+  </programme>
+  <programme start="20211005062000 +0700" stop="20211005062200 +0700" channel="ha.tinh">
+    <title lang="vi">Dự báo thời tiết</title>
+  </programme>
+  <programme start="20211005062200 +0700" stop="20211005062500 +0700" channel="ha.tinh">
+    <title lang="vi">Góc suy ngẫm</title>
+    <sub-title lang="vi">Tình yêu và cuộc sống</sub-title>
+  </programme>
+  <programme start="20211005062500 +0700" stop="20211005063500 +0700" channel="ha.tinh">
+    <title lang="vi">Nông thôn mới</title>
+    <sub-title lang="vi">Vì những làng quê nông thôn mới yên bình</sub-title>
+  </programme>
+  <programme start="20211005063500 +0700" stop="20211005065000 +0700" channel="ha.tinh">
+    <title lang="vi">Trang TH huyện Lộc Hà</title>
+  </programme>
+  <programme start="20211005065000 +0700" stop="20211005065500 +0700" channel="ha.tinh">
+    <title lang="vi">Nguyễn Du và truyện Kiều</title>
+    <sub-title lang="vi">Tiếng đàn thúy Kiều</sub-title>
+  </programme>
+  <programme start="20211005065500 +0700" stop="20211005070000 +0700" channel="ha.tinh">
+    <title lang="vi">Giới thiệu Văn bản pháp luật</title>
+  </programme>
+  <programme start="20211005070000 +0700" stop="20211005074500 +0700" channel="ha.tinh">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Họa mi trong mưa (Tập 15)</sub-title>
+  </programme>
+  <programme start="20211005074500 +0700" stop="20211005075500 +0700" channel="ha.tinh">
+    <title lang="vi">Với khán giả HTTV</title>
+    <sub-title lang="vi">Lan tỏa những thông điệp ý nghĩa trong  “Góc suy ngẫm” của HTTV</sub-title>
+  </programme>
+  <programme start="20211005075500 +0700" stop="20211005081500 +0700" channel="ha.tinh">
+    <title lang="vi">Phụ nữ và cuộc sống</title>
+    <sub-title lang="vi">Nơi tôi sống</sub-title>
+  </programme>
+  <programme start="20211005081500 +0700" stop="20211005090000 +0700" channel="ha.tinh">
+    <title lang="vi">Khám phá thế giới</title>
+    <sub-title lang="vi">Ám ảnh nơi hoang dã (Phần 02)</sub-title>
+  </programme>
+  <programme start="20211005090000 +0700" stop="20211005094500 +0700" channel="ha.tinh">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Võ thần Triệu Tử Long (Tập 22)</sub-title>
+  </programme>
+  <programme start="20211005094500 +0700" stop="20211005100000 +0700" channel="ha.tinh">
+    <title lang="vi">Bản tin thời sự</title>
+  </programme>
+  <programme start="20211005100000 +0700" stop="20211005101000 +0700" channel="ha.tinh">
+    <title lang="vi">Góc nhìn thời sự</title>
+    <sub-title lang="vi">Ứng phó thiên tai gắn với từng cấp độ dịch Covid-19</sub-title>
+  </programme>
+  <programme start="20211005101000 +0700" stop="20211005101500 +0700" channel="ha.tinh">
+    <title lang="vi">Góc suy ngẫm</title>
+    <sub-title lang="vi">Con yêu mẹ</sub-title>
+  </programme>
+  <programme start="20211005101500 +0700" stop="20211005103000 +0700" channel="ha.tinh">
+    <title lang="vi">Dân số và phát triển</title>
+    <sub-title lang="vi">Truyền thông dân số trong đại dịch</sub-title>
+  </programme>
+  <programme start="20211005103000 +0700" stop="20211005110000 +0700" channel="ha.tinh">
+    <title lang="vi">Không gian âm nhạc</title>
+    <sub-title lang="vi">Hà Nội của tôi</sub-title>
+  </programme>
+  <programme start="20211005110000 +0700" stop="20211005114500 +0700" channel="ha.tinh">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Nợ anh một giấc mơ  (Tập 24)</sub-title>
+  </programme>
+  <programme start="20211005114500 +0700" stop="20211005120000 +0700" channel="ha.tinh">
+    <title lang="vi">Bản tin  Thời sự</title>
+  </programme>
+  <programme start="20211005120000 +0700" stop="20211005120200 +0700" channel="ha.tinh">
+    <title lang="vi">Giới thiệu chương trình</title>
+  </programme>
+  <programme start="20211005120200 +0700" stop="20211005121200 +0700" channel="ha.tinh">
+    <title lang="vi">Bản tin Thời sự quốc tế</title>
+  </programme>
+  <programme start="20211005121200 +0700" stop="20211005121500 +0700" channel="ha.tinh">
+    <title lang="vi">Dự báo thời tiết nông vụ</title>
+  </programme>
+  <programme start="20211005121500 +0700" stop="20211005123500 +0700" channel="ha.tinh">
+    <title lang="vi">Phim hoạt hình</title>
+    <sub-title lang="vi">Sam siêu đẳng (Tập 12)</sub-title>
+  </programme>
+  <programme start="20211005123500 +0700" stop="20211005124500 +0700" channel="ha.tinh">
+    <title lang="vi">Văn hóa Hà Tĩnh</title>
+    <sub-title lang="vi">Đậu Liêu dấu tích xưa</sub-title>
+  </programme>
+  <programme start="20211005124500 +0700" stop="20211005130000 +0700" channel="ha.tinh">
+    <title lang="vi">Trang TH huyện Cẩm Xuyên</title>
+  </programme>
+  <programme start="20211005130000 +0700" stop="20211005134500 +0700" channel="ha.tinh">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Mùa hè của hồ ly (Tập 11)</sub-title>
+  </programme>
+  <programme start="20211005134500 +0700" stop="20211005135500 +0700" channel="ha.tinh">
+    <title lang="vi">Bản  tin kinh tế tài chính</title>
+  </programme>
+  <programme start="20211005135500 +0700" stop="20211005140000 +0700" channel="ha.tinh">
+    <title lang="vi">Góc suy ngẫm</title>
+    <sub-title lang="vi">Anh chưa từng bỏ rơi em</sub-title>
+  </programme>
+  <programme start="20211005140000 +0700" stop="20211005141500 +0700" channel="ha.tinh">
+    <title lang="vi">Doanh nghiệp và hội nhập</title>
+    <sub-title lang="vi">Ngân hàng đồng hành cùng doanh nghiệp vượt khó</sub-title>
+  </programme>
+  <programme start="20211005141500 +0700" stop="20211005143000 +0700" channel="ha.tinh">
+    <title lang="vi">Tạp chí giáo dục</title>
+    <sub-title lang="vi">Dạy học linh hoạt, an toàn phòng chống dịch Covid-19</sub-title>
+  </programme>
+  <programme start="20211005143000 +0700" stop="20211005151500 +0700" channel="ha.tinh">
+    <title lang="vi">Đến lớp cùng HTTV</title>
+    <sub-title lang="vi">Toán lớp 12: Giá trị lớn nhất, giá trị nhỏ nhất của hàm số</sub-title>
+  </programme>
+  <programme start="20211005151500 +0700" stop="20211005153000 +0700" channel="ha.tinh">
+    <title lang="vi">Câu chuyện tuần này</title>
+    <sub-title lang="vi">“ Vi rút vô cảm”, vì sao lây lan?</sub-title>
+  </programme>
+  <programme start="20211005153000 +0700" stop="20211005160000 +0700" channel="ha.tinh">
+    <title lang="vi">Ký sự</title>
+    <sub-title lang="vi">Ký sự vùng biên (Tập 35 và 36)</sub-title>
+  </programme>
+  <programme start="20211005160000 +0700" stop="20211005164500 +0700" channel="ha.tinh">
+    <title lang="vi">Phim truyện Việt Nam</title>
+    <sub-title lang="vi">Vực thẳm chiều trôi (Tập 02)</sub-title>
+  </programme>
+  <programme start="20211005164500 +0700" stop="20211005170000 +0700" channel="ha.tinh">
+    <title lang="vi">Bản tin Thời sự</title>
+  </programme>
+  <programme start="20211005170000 +0700" stop="20211005174500 +0700" channel="ha.tinh">
+    <title lang="vi">Sống khỏe cùng HTTV</title>
+    <sub-title lang="vi">Loạn thần do rượu - hậu quả khôn lường</sub-title>
+  </programme>
+  <programme start="20211005174500 +0700" stop="20211005175500 +0700" channel="ha.tinh">
+    <title lang="vi">Lao động và công đoàn</title>
+    <sub-title lang="vi">Đẩy mạnh phát triển tổ chức công đoàn</sub-title>
+  </programme>
+  <programme start="20211005175500 +0700" stop="20211005180000 +0700" channel="ha.tinh">
+    <title lang="vi">Giới thiệu văn bản pháp luật</title>
+  </programme>
+  <programme start="20211005180000 +0700" stop="20211005184500 +0700" channel="ha.tinh">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Họa mi trong mưa (Tập 16)</sub-title>
+  </programme>
+  <programme start="20211005184500 +0700" stop="20211005185500 +0700" channel="ha.tinh">
+    <title lang="vi">Bản tin thời sự quốc tế</title>
+  </programme>
+  <programme start="20211005185500 +0700" stop="20211005190000 +0700" channel="ha.tinh">
+    <title lang="vi">Dự báo thời tiết nông vụ</title>
+  </programme>
+  <programme start="20211005190000 +0700" stop="20211005194500 +0700" channel="ha.tinh">
+    <title lang="vi">Tiếp sóng thời sự VTV1</title>
+  </programme>
+  <programme start="20211005194500 +0700" stop="20211005201500 +0700" channel="ha.tinh">
+    <title lang="vi">Thời sự Hà Tĩnh HTTV</title>
+  </programme>
+  <programme start="20211005201500 +0700" stop="20211005202500 +0700" channel="ha.tinh">
+    <title lang="vi">Bản tin thể thao</title>
+  </programme>
+  <programme start="20211005202500 +0700" stop="20211005211000 +0700" channel="ha.tinh">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Võ thần Triệu Tử Long (Tập 23)</sub-title>
+  </programme>
+  <programme start="20211005211000 +0700" stop="20211005212000 +0700" channel="ha.tinh">
+    <title lang="vi">Đảng trong cuộc sống</title>
+    <sub-title lang="vi">Dân vận khéo trong giải phóng mặt bằng</sub-title>
+  </programme>
+  <programme start="20211005212000 +0700" stop="20211005213000 +0700" channel="ha.tinh">
+    <title lang="vi">Nhịp sống đô thị</title>
+    <sub-title lang="vi">Ngập lụt ở thị xã Kỳ Anh, khắc phục bằng cách nào?</sub-title>
+  </programme>
+  <programme start="20211005213000 +0700" stop="20211005214000 +0700" channel="ha.tinh">
+    <title lang="vi">Dòng chảy thị trường</title>
+    <sub-title lang="vi">“Loạn” thực phẩm chức năng</sub-title>
+  </programme>
+  <programme start="20211005214000 +0700" stop="20211005215000 +0700" channel="ha.tinh">
+    <title lang="vi">An toàn giao thông</title>
+    <sub-title lang="vi">Mất ATGT từ các điểm giao cắt trên địa bàn Nghi Xuân</sub-title>
+  </programme>
+  <programme start="20211005215000 +0700" stop="20211005220500 +0700" channel="ha.tinh">
+    <title lang="vi">Trang Truyền hình Quân khu IV</title>
+    <sub-title lang="vi">Đón anh về từ vùng đất Cùa</sub-title>
+  </programme>
+  <programme start="20211005220500 +0700" stop="20211005221500 +0700" channel="ha.tinh">
+    <title lang="vi">Bản tin kinh tế và tài chính</title>
+  </programme>
+  <programme start="20211005221500 +0700" stop="20211005222500 +0700" channel="ha.tinh">
+    <title lang="vi">Bản tin thời sự quốc tế</title>
+  </programme>
+  <programme start="20211005222500 +0700" stop="20211005231000 +0700" channel="ha.tinh">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Vực thẳm chiều trôi (Tập 03)</sub-title>
+  </programme>
+  <programme start="20211005231000 +0700" stop="20211005235800 +0700" channel="ha.tinh">
+    <title lang="vi">Đến lớp cùng HTTV</title>
+    <sub-title lang="vi">Toán lớp 12: Giá trị lớn nhất, giá trị nhỏ nhất của hàm số</sub-title>
+  </programme>
+  <programme start="20211005235800 +0700" stop="20211006053000 +0700" channel="ha.tinh">
+    <title lang="vi">Giới thiệu chương trình ngày mai</title>
+  </programme>
+</tv>

@@ -1,0 +1,310 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="ha.giang">
+    <display-name lang="vi">Hà Giang</display-name>
+    <url>http://www.hagiangtv.vn</url>
+  </channel>
+  <programme start="20211008060500 +0700" stop="20211008063000 +0700" channel="ha.giang">
+    <title lang="vi">Thời sự Hà Giang</title>
+  </programme>
+  <programme start="20211008063000 +0700" stop="20211008063500 +0700" channel="ha.giang">
+    <title lang="vi">Chuyên mục Đèn giao thông</title>
+  </programme>
+  <programme start="20211008063500 +0700" stop="20211008063800 +0700" channel="ha.giang">
+    <title lang="vi">Dự báo thời tiết</title>
+  </programme>
+  <programme start="20211008063800 +0700" stop="20211008064300 +0700" channel="ha.giang">
+    <title lang="vi">Báo chí 24h</title>
+  </programme>
+  <programme start="20211008064300 +0700" stop="20211008065300 +0700" channel="ha.giang">
+    <title lang="vi">Chuyên mục Lao động công đoàn</title>
+  </programme>
+  <programme start="20211008065300 +0700" stop="20211008065800 +0700" channel="ha.giang">
+    <title lang="vi">Không gian nghệ thuật</title>
+  </programme>
+  <programme start="20211008065800 +0700" stop="20211008070800 +0700" channel="ha.giang">
+    <title lang="vi">Phóng sự: Tổng điều tra kinh tế 2021 phản ánh chân thực hiện trạng kinh tế Hà Giang</title>
+  </programme>
+  <programme start="20211008070800 +0700" stop="20211008073800 +0700" channel="ha.giang">
+    <title lang="vi">Quà tặng âm nhạc</title>
+  </programme>
+  <programme start="20211008073800 +0700" stop="20211008074300 +0700" channel="ha.giang">
+    <title lang="vi">Gương người tốt việc tốt: Ông Nguyễn Hữu Quân với mô hình phát triển kinh tế tổng hợp</title>
+  </programme>
+  <programme start="20211008074300 +0700" stop="20211008075800 +0700" channel="ha.giang">
+    <title lang="vi">Thể thao Hà Giang: Nhiều hoạt động thể thao được phép  trở lại</title>
+  </programme>
+  <programme start="20211008075800 +0700" stop="20211008083000 +0700" channel="ha.giang">
+    <title lang="vi">Chương trình văn hóa - văn nghệ dân tộc: Tạp chí VHVN tiếng Mông:  Lanh trắng trên Cao nguyên</title>
+  </programme>
+  <programme start="20211008083000 +0700" stop="20211008084500 +0700" channel="ha.giang">
+    <title lang="vi">Văn hóa toàn cảnh</title>
+  </programme>
+  <programme start="20211008084500 +0700" stop="20211008090600 +0700" channel="ha.giang">
+    <title lang="vi">Khám phá thế giới: Khám phá vũ trụ - Đương đầu thảm họa (Phần 1)</title>
+  </programme>
+  <programme start="20211008090600 +0700" stop="20211008091300 +0700" channel="ha.giang">
+    <title lang="vi">Ca nhạc: Làng quan họ quê tôi</title>
+  </programme>
+  <programme start="20211008091300 +0700" stop="20211008100000 +0700" channel="ha.giang">
+    <title lang="vi">Phim truyện: Mối tình nghiệt ngã (Tập 80)</title>
+  </programme>
+  <programme start="20211008100000 +0700" stop="20211008103000 +0700" channel="ha.giang">
+    <title lang="vi">Thời sự tổng hợp tiếng Mông</title>
+  </programme>
+  <programme start="20211008103000 +0700" stop="20211008103500 +0700" channel="ha.giang">
+    <title lang="vi">Không gian nghệ thuật</title>
+  </programme>
+  <programme start="20211008103500 +0700" stop="20211008105000 +0700" channel="ha.giang">
+    <title lang="vi">Bản tin cơ sở</title>
+  </programme>
+  <programme start="20211008105000 +0700" stop="20211008114000 +0700" channel="ha.giang">
+    <title lang="vi">Phim truyện: Sứ mạng song sinh (Tập 17)</title>
+  </programme>
+  <programme start="20211008114000 +0700" stop="20211008120000 +0700" channel="ha.giang">
+    <title lang="vi">Thời sự Hà Giang</title>
+  </programme>
+  <programme start="20211008120000 +0700" stop="20211008130000 +0700" channel="ha.giang">
+    <title lang="vi">Thời sự VTV 1</title>
+  </programme>
+  <programme start="20211008130000 +0700" stop="20211008133000 +0700" channel="ha.giang">
+    <title lang="vi">Ca nhạc: Tình Bác sáng đời ta</title>
+  </programme>
+  <programme start="20211008133000 +0700" stop="20211008141500 +0700" channel="ha.giang">
+    <title lang="vi">Phim truyện: Người tình của Khang Hy (Tập 16)</title>
+  </programme>
+  <programme start="20211008141500 +0700" stop="20211008143500 +0700" channel="ha.giang">
+    <title lang="vi">Khám phá thế giới: Khám phá vũ trụ - Đương đầu thảm họa (Phần 1)</title>
+  </programme>
+  <programme start="20211008143500 +0700" stop="20211008150500 +0700" channel="ha.giang">
+    <title lang="vi">Quà tặng âm nhạc</title>
+  </programme>
+  <programme start="20211008150500 +0700" stop="20211008153000 +0700" channel="ha.giang">
+    <title lang="vi">Phim tài liệu: Việt Nam thời đại Hồ Chí Minh - Biên niên sử truyền hình năm 1980</title>
+  </programme>
+  <programme start="20211008153000 +0700" stop="20211008154500 +0700" channel="ha.giang">
+    <title lang="vi">Phóng sự: Tăng cường quản lý công trình cấp nước sinh hoạt sau đầu tư</title>
+  </programme>
+  <programme start="20211008154500 +0700" stop="20211008155500 +0700" channel="ha.giang">
+    <title lang="vi">Truyền hình An ninh Hà Giang</title>
+  </programme>
+  <programme start="20211008155500 +0700" stop="20211008164000 +0700" channel="ha.giang">
+    <title lang="vi">Phim truyện: Mối tình nghiệt ngã (Tập 81)</title>
+  </programme>
+  <programme start="20211008164000 +0700" stop="20211008165500 +0700" channel="ha.giang">
+    <title lang="vi">Nhật trình kinh tế</title>
+  </programme>
+  <programme start="20211008165500 +0700" stop="20211008171000 +0700" channel="ha.giang">
+    <title lang="vi">Thời sự Hà Giang</title>
+  </programme>
+  <programme start="20211008171000 +0700" stop="20211008174000 +0700" channel="ha.giang">
+    <title lang="vi">Chương trình văn hóa - văn nghệ dân tộc: Tạp chí VHVN tiếng Mông:  Lanh trắng trên Cao nguyên</title>
+  </programme>
+  <programme start="20211008174000 +0700" stop="20211008175500 +0700" channel="ha.giang">
+    <title lang="vi">Du lịch Hà Giang: Khám phá Tân Lập</title>
+  </programme>
+  <programme start="20211008175500 +0700" stop="20211008181000 +0700" channel="ha.giang">
+    <title lang="vi">Bản tin cơ sở</title>
+  </programme>
+  <programme start="20211008181000 +0700" stop="20211008190000 +0700" channel="ha.giang">
+    <title lang="vi">Phim truyện: Sứ mạng song sinh (Tập 18)</title>
+  </programme>
+  <programme start="20211008190000 +0700" stop="20211008200000 +0700" channel="ha.giang">
+    <title lang="vi">Thời sự VTV 1</title>
+  </programme>
+  <programme start="20211008200000 +0700" stop="20211008202500 +0700" channel="ha.giang">
+    <title lang="vi">Thời sự Hà Giang</title>
+  </programme>
+  <programme start="20211008202500 +0700" stop="20211008203000 +0700" channel="ha.giang">
+    <title lang="vi">Dân hỏi lãnh đạo trả lời</title>
+  </programme>
+  <programme start="20211008203000 +0700" stop="20211008203500 +0700" channel="ha.giang">
+    <title lang="vi">Chuyên mục Đèn giao thông</title>
+  </programme>
+  <programme start="20211008203500 +0700" stop="20211008204300 +0700" channel="ha.giang">
+    <title lang="vi">Dự báo thời tiết</title>
+  </programme>
+  <programme start="20211008204300 +0700" stop="20211008204800 +0700" channel="ha.giang">
+    <title lang="vi">Báo chí 24h</title>
+  </programme>
+  <programme start="20211008204800 +0700" stop="20211008205800 +0700" channel="ha.giang">
+    <title lang="vi">Chuyên mục Ý kiến cử tri và Trả lời ý kiến cử tri</title>
+  </programme>
+  <programme start="20211008205800 +0700" stop="20211008210500 +0700" channel="ha.giang">
+    <title lang="vi">Không gian nghệ thuật</title>
+  </programme>
+  <programme start="20211008210500 +0700" stop="20211008211500 +0700" channel="ha.giang">
+    <title lang="vi">Phóng sự: Thành phố Hà Giang xây dựng đô thị xanh</title>
+  </programme>
+  <programme start="20211008211500 +0700" stop="20211008214500 +0700" channel="ha.giang">
+    <title lang="vi">Sắc màu văn hóa: Hà Giang bảo tồn Lễ hội truyền thống các dân tộc</title>
+  </programme>
+  <programme start="20211008214500 +0700" stop="20211008220000 +0700" channel="ha.giang">
+    <title lang="vi">Trang địa phương huyện Xín Mần</title>
+  </programme>
+  <programme start="20211008220000 +0700" stop="20211008223000 +0700" channel="ha.giang">
+    <title lang="vi">Thời sự tổng hợp tiếng Mông</title>
+  </programme>
+  <programme start="20211008223000 +0700" stop="20211008224500 +0700" channel="ha.giang">
+    <title lang="vi">Văn hóa toàn cảnh</title>
+  </programme>
+  <programme start="20211008224500 +0700" stop="20211008233000 +0700" channel="ha.giang">
+    <title lang="vi">Phim truyện: Người tình của Khang Hy (Tập 17)</title>
+  </programme>
+  <programme start="20211008233000 +0700" stop="20211008235100 +0700" channel="ha.giang">
+    <title lang="vi">Khám phá thế giới: Khám phá vũ trụ - Đương đầu thảm họa (Phần 2)</title>
+  </programme>
+  <programme start="20211008235100 +0700" stop="20211009060500 +0700" channel="ha.giang">
+    <title lang="vi">Ca nhạc: Nghe em hát còn duyên</title>
+  </programme>
+  <programme start="20211009060500 +0700" stop="20211009063000 +0700" channel="ha.giang">
+    <title lang="vi">Thời sự Hà Giang</title>
+  </programme>
+  <programme start="20211009063000 +0700" stop="20211009063500 +0700" channel="ha.giang">
+    <title lang="vi">Dân hỏi lãnh đạo trả lời</title>
+  </programme>
+  <programme start="20211009063500 +0700" stop="20211009064000 +0700" channel="ha.giang">
+    <title lang="vi">Chuyên mục Đèn giao thông</title>
+  </programme>
+  <programme start="20211009064000 +0700" stop="20211009064300 +0700" channel="ha.giang">
+    <title lang="vi">Dự báo thời tiết</title>
+  </programme>
+  <programme start="20211009064300 +0700" stop="20211009064800 +0700" channel="ha.giang">
+    <title lang="vi">Báo chí 24h</title>
+  </programme>
+  <programme start="20211009064800 +0700" stop="20211009065800 +0700" channel="ha.giang">
+    <title lang="vi">Chuyên mục Ý kiến cử tri và Trả lời ý kiến cử tri</title>
+  </programme>
+  <programme start="20211009065800 +0700" stop="20211009070300 +0700" channel="ha.giang">
+    <title lang="vi">Không gian nghệ thuật</title>
+  </programme>
+  <programme start="20211009070300 +0700" stop="20211009071300 +0700" channel="ha.giang">
+    <title lang="vi">Phóng sự: Thành phố Hà Giang xây dựng đô thị xanh</title>
+  </programme>
+  <programme start="20211009071300 +0700" stop="20211009074300 +0700" channel="ha.giang">
+    <title lang="vi">Sắc màu văn hóa: Hà Giang bảo tồn Lễ hội truyền thống các dân tộc</title>
+  </programme>
+  <programme start="20211009074300 +0700" stop="20211009075800 +0700" channel="ha.giang">
+    <title lang="vi">Du lịch Hà Giang: Khám phá Tân Lập</title>
+  </programme>
+  <programme start="20211009075800 +0700" stop="20211009083000 +0700" channel="ha.giang">
+    <title lang="vi">Chương trình văn hóa - văn nghệ dân tộc: Ca nhac tiếng Dao: Đổi mới ở vùng quê</title>
+  </programme>
+  <programme start="20211009083000 +0700" stop="20211009084500 +0700" channel="ha.giang">
+    <title lang="vi">Văn hóa toàn cảnh</title>
+  </programme>
+  <programme start="20211009084500 +0700" stop="20211009090600 +0700" channel="ha.giang">
+    <title lang="vi">Khám phá thế giới: Khám phá vũ trụ - Đương đầu thảm họa (Phần 2)</title>
+  </programme>
+  <programme start="20211009090600 +0700" stop="20211009091300 +0700" channel="ha.giang">
+    <title lang="vi">Ca nhạc: Nghe em hát còn duyên</title>
+  </programme>
+  <programme start="20211009091300 +0700" stop="20211009100000 +0700" channel="ha.giang">
+    <title lang="vi">Phim truyện: Mối tình nghiệt ngã (Tập 81)</title>
+  </programme>
+  <programme start="20211009100000 +0700" stop="20211009103000 +0700" channel="ha.giang">
+    <title lang="vi">Thời sự tổng hợp tiếng Dao</title>
+  </programme>
+  <programme start="20211009103000 +0700" stop="20211009103500 +0700" channel="ha.giang">
+    <title lang="vi">Không gian nghệ thuật</title>
+  </programme>
+  <programme start="20211009103500 +0700" stop="20211009105000 +0700" channel="ha.giang">
+    <title lang="vi">Bản tin cơ sở</title>
+  </programme>
+  <programme start="20211009105000 +0700" stop="20211009114000 +0700" channel="ha.giang">
+    <title lang="vi">Phim truyện: Sứ mạng song sinh (Tập 18)</title>
+  </programme>
+  <programme start="20211009114000 +0700" stop="20211009120000 +0700" channel="ha.giang">
+    <title lang="vi">Thời sự Hà Giang</title>
+  </programme>
+  <programme start="20211009120000 +0700" stop="20211009130000 +0700" channel="ha.giang">
+    <title lang="vi">Thời sự VTV 1</title>
+  </programme>
+  <programme start="20211009130000 +0700" stop="20211009133000 +0700" channel="ha.giang">
+    <title lang="vi">Sắc màu văn hóa: Nhịp sống dưới chân dải Tây Côn Lĩnh</title>
+  </programme>
+  <programme start="20211009133000 +0700" stop="20211009141500 +0700" channel="ha.giang">
+    <title lang="vi">Phim truyện: Người tình của Khang Hy (Tập 17)</title>
+  </programme>
+  <programme start="20211009141500 +0700" stop="20211009143500 +0700" channel="ha.giang">
+    <title lang="vi">Khám phá thế giới: Khám phá vũ trụ - Đương đầu thảm họa (Phần 2)</title>
+  </programme>
+  <programme start="20211009143500 +0700" stop="20211009150500 +0700" channel="ha.giang">
+    <title lang="vi">Sắc màu văn hóa: Hà Giang bảo tồn Lễ hội truyền thống các dân tộc</title>
+  </programme>
+  <programme start="20211009150500 +0700" stop="20211009153000 +0700" channel="ha.giang">
+    <title lang="vi">Phim tài liệu: Việt Nam thời đại Hồ Chí Minh - Biên niên sử truyền hình năm 1981</title>
+  </programme>
+  <programme start="20211009153000 +0700" stop="20211009154500 +0700" channel="ha.giang">
+    <title lang="vi">Phóng sự: Chuyện của những người ra tuyến đầu chống dịch</title>
+  </programme>
+  <programme start="20211009154500 +0700" stop="20211009155500 +0700" channel="ha.giang">
+    <title lang="vi">Trang địa phương huyện Xín Mần</title>
+  </programme>
+  <programme start="20211009155500 +0700" stop="20211009164000 +0700" channel="ha.giang">
+    <title lang="vi">Phim truyện: Mối tình nghiệt ngã (Tập 82)</title>
+  </programme>
+  <programme start="20211009164000 +0700" stop="20211009165500 +0700" channel="ha.giang">
+    <title lang="vi">Nhật trình kinh tế</title>
+  </programme>
+  <programme start="20211009165500 +0700" stop="20211009171000 +0700" channel="ha.giang">
+    <title lang="vi">Thời sự Hà Giang</title>
+  </programme>
+  <programme start="20211009171000 +0700" stop="20211009174000 +0700" channel="ha.giang">
+    <title lang="vi">Chương trình văn hóa - văn nghệ dân tộc: Ca nhac tiếng Dao: Đổi mới ở vùng quê</title>
+  </programme>
+  <programme start="20211009174000 +0700" stop="20211009175500 +0700" channel="ha.giang">
+    <title lang="vi">Giai điệu tuổi thơ: Mẹ yêu</title>
+  </programme>
+  <programme start="20211009175500 +0700" stop="20211009181000 +0700" channel="ha.giang">
+    <title lang="vi">Bản tin cơ sở</title>
+  </programme>
+  <programme start="20211009181000 +0700" stop="20211009190000 +0700" channel="ha.giang">
+    <title lang="vi">Phim truyện: Sứ mạng song sinh (Tập 19)</title>
+  </programme>
+  <programme start="20211009190000 +0700" stop="20211009200000 +0700" channel="ha.giang">
+    <title lang="vi">Thời sự VTV 1</title>
+  </programme>
+  <programme start="20211009200000 +0700" stop="20211009202500 +0700" channel="ha.giang">
+    <title lang="vi">Thời sự Hà Giang</title>
+  </programme>
+  <programme start="20211009202500 +0700" stop="20211009203000 +0700" channel="ha.giang">
+    <title lang="vi">Chuyên mục Đèn giao thông</title>
+  </programme>
+  <programme start="20211009203000 +0700" stop="20211009203800 +0700" channel="ha.giang">
+    <title lang="vi">Dự báo thời tiết</title>
+  </programme>
+  <programme start="20211009203800 +0700" stop="20211009204300 +0700" channel="ha.giang">
+    <title lang="vi">Báo chí 24h</title>
+  </programme>
+  <programme start="20211009204300 +0700" stop="20211009205300 +0700" channel="ha.giang">
+    <title lang="vi">Chuyên mục Nhịp cầu HGTV</title>
+  </programme>
+  <programme start="20211009205300 +0700" stop="20211009210000 +0700" channel="ha.giang">
+    <title lang="vi">Không gian nghệ thuật</title>
+  </programme>
+  <programme start="20211009210000 +0700" stop="20211009211000 +0700" channel="ha.giang">
+    <title lang="vi">Phóng sự: Yên Minh xây dựng Đảng vững mạnh từ cơ sở</title>
+  </programme>
+  <programme start="20211009211000 +0700" stop="20211009214000 +0700" channel="ha.giang">
+    <title lang="vi">Văn hóa nghệ thuật: Sức sống Cao nguyên</title>
+  </programme>
+  <programme start="20211009214000 +0700" stop="20211009215500 +0700" channel="ha.giang">
+    <title lang="vi">Nghệ thuật thứ 7</title>
+  </programme>
+  <programme start="20211009215500 +0700" stop="20211009220000 +0700" channel="ha.giang">
+    <title lang="vi">Nhịp cầu tri thức</title>
+  </programme>
+  <programme start="20211009220000 +0700" stop="20211009223000 +0700" channel="ha.giang">
+    <title lang="vi">Thời sự tổng hợp tiếng Dao</title>
+  </programme>
+  <programme start="20211009223000 +0700" stop="20211009224500 +0700" channel="ha.giang">
+    <title lang="vi">Văn hóa toàn cảnh</title>
+  </programme>
+  <programme start="20211009224500 +0700" stop="20211009233000 +0700" channel="ha.giang">
+    <title lang="vi">Phim truyện: Người tình của Khang Hy (Tập 18)</title>
+  </programme>
+  <programme start="20211009233000 +0700" stop="20211009235100 +0700" channel="ha.giang">
+    <title lang="vi">Khám phá thế giới: Khám phá vũ trụ - Dải ngân hà (Phần 1)</title>
+  </programme>
+</tv>

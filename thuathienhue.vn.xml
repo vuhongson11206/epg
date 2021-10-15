@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="thua.thien.hue">
+    <display-name lang="vi">Thừa Thiên Huế</display-name>
+    <url>http://www.trt.com.vn</url>
+  </channel>
+  <programme start="20210926054500 +0700" stop="20210926060000 +0700" channel="thua.thien.hue">
+    <title lang="vi">Khỏe và đẹp</title>
+  </programme>
+  <programme start="20210926060000 +0700" stop="20210926062000 +0700" channel="thua.thien.hue">
+    <title lang="vi">Chương trình thời sự Huế ngày mới</title>
+  </programme>
+  <programme start="20210926062000 +0700" stop="20210926063500 +0700" channel="thua.thien.hue">
+    <title lang="vi">Chuyên mục Biên phòng toàn dân</title>
+  </programme>
+  <programme start="20210926063500 +0700" stop="20210926065000 +0700" channel="thua.thien.hue">
+    <title lang="vi">Chuyên mục Với khán giả truyền hình</title>
+  </programme>
+  <programme start="20210926065000 +0700" stop="20210926073500 +0700" channel="thua.thien.hue">
+    <title lang="vi">Phim Việt Nam: Sóng gió gia đình- Tập 5</title>
+  </programme>
+  <programme start="20210926073500 +0700" stop="20210926080000 +0700" channel="thua.thien.hue">
+    <title lang="vi">Chương trình Thế giới động vật</title>
+  </programme>
+  <programme start="20210926080000 +0700" stop="20210926083000 +0700" channel="thua.thien.hue">
+    <title lang="vi">Dạy học: Tiếng Việt lớp 1 ( NXB KNTTVCS)</title>
+  </programme>
+  <programme start="20210926083000 +0700" stop="20210926090000 +0700" channel="thua.thien.hue">
+    <title lang="vi">Dạy học: Tiếng Việt lớp 1 ( NXB Cánh diều)</title>
+  </programme>
+  <programme start="20210926090000 +0700" stop="20210926093000 +0700" channel="thua.thien.hue">
+    <title lang="vi">Dạy học: Toán lớp 2</title>
+  </programme>
+  <programme start="20210926093000 +0700" stop="20210926100000 +0700" channel="thua.thien.hue">
+    <title lang="vi">Dạy học: Tiếng Việt lớp 1 ( NXB CTST)-</title>
+  </programme>
+  <programme start="20210926100000 +0700" stop="20210926104000 +0700" channel="thua.thien.hue">
+    <title lang="vi">Dạy học: Toán lớp 2</title>
+  </programme>
+  <programme start="20210926104000 +0700" stop="20210926110000 +0700" channel="thua.thien.hue">
+    <title lang="vi">Chương trình Ẩm thực bốn phương</title>
+  </programme>
+  <programme start="20210926110000 +0700" stop="20210926112500 +0700" channel="thua.thien.hue">
+    <title lang="vi">Ca nhạc thiếu nhi</title>
+  </programme>
+  <programme start="20210926112500 +0700" stop="20210926114500 +0700" channel="thua.thien.hue">
+    <title lang="vi">Chương trình Thời sự buổi trưa</title>
+  </programme>
+  <programme start="20210926114500 +0700" stop="20210926115000 +0700" channel="thua.thien.hue">
+    <title lang="vi">Bản tin Dự báo thời tiết</title>
+  </programme>
+  <programme start="20210926115000 +0700" stop="20210926120500 +0700" channel="thua.thien.hue">
+    <title lang="vi">Chuyên mục Vì an ninh Tổ quốc</title>
+  </programme>
+  <programme start="20210926120500 +0700" stop="20210926125000 +0700" channel="thua.thien.hue">
+    <title lang="vi">Phim Hàn Quốc: Họa mi trong mưa- Tập 2</title>
+  </programme>
+  <programme start="20210926125000 +0700" stop="20210926131000 +0700" channel="thua.thien.hue">
+    <title lang="vi">Chuyên mục Huế - Đất &amp; Người</title>
+  </programme>
+  <programme start="20210926131000 +0700" stop="20210926135500 +0700" channel="thua.thien.hue">
+    <title lang="vi">Phim Trung Quốc: Bắt gặp tình yêu- Tập 9</title>
+  </programme>
+  <programme start="20210926135500 +0700" stop="20210926142000 +0700" channel="thua.thien.hue">
+    <title lang="vi">Chương trình Huế kết nối: Làng gốm bên sông Thu Bồn</title>
+  </programme>
+  <programme start="20210926142000 +0700" stop="20210926144500 +0700" channel="thua.thien.hue">
+    <title lang="vi">Phim khoa học</title>
+  </programme>
+  <programme start="20210926144500 +0700" stop="20210926150000 +0700" channel="thua.thien.hue">
+    <title lang="vi">Chương trình Du lịch bốn phương</title>
+  </programme>
+  <programme start="20210926150000 +0700" stop="20210926154500 +0700" channel="thua.thien.hue">
+    <title lang="vi">Phim Trung Quốc: Niên đại cam hồng- Tập 40</title>
+  </programme>
+  <programme start="20210926154500 +0700" stop="20210926160500 +0700" channel="thua.thien.hue">
+    <title lang="vi">Chương trình Thế giới động vật</title>
+  </programme>
+  <programme start="20210926160500 +0700" stop="20210926161500 +0700" channel="thua.thien.hue">
+    <title lang="vi">Chương trình Nối nhịp nghĩa tình</title>
+  </programme>
+  <programme start="20210926161500 +0700" stop="20210926164000 +0700" channel="thua.thien.hue">
+    <title lang="vi">Chương trình Sắc màu thời trang</title>
+  </programme>
+  <programme start="20210926164000 +0700" stop="20210926170000 +0700" channel="thua.thien.hue">
+    <title lang="vi">Chuyên đề Sức khỏe cho mọi người</title>
+  </programme>
+  <programme start="20210926170000 +0700" stop="20210926175500 +0700" channel="thua.thien.hue">
+    <title lang="vi">Phim Trung Quốc: Bắt gặp tình yêu- Tập 10</title>
+  </programme>
+  <programme start="20210926175500 +0700" stop="20210926180500 +0700" channel="thua.thien.hue">
+    <title lang="vi">Khỏe và đẹp</title>
+  </programme>
+  <programme start="20210926180500 +0700" stop="20210926182500 +0700" channel="thua.thien.hue">
+    <title lang="vi">Chương trình An toàn giao thông</title>
+  </programme>
+  <programme start="20210926182500 +0700" stop="20210926184000 +0700" channel="thua.thien.hue">
+    <title lang="vi">Thời sự 24 giờ</title>
+  </programme>
+  <programme start="20210926184000 +0700" stop="20210926190000 +0700" channel="thua.thien.hue">
+    <title lang="vi">Thông tin Kinh tế thị trường</title>
+  </programme>
+  <programme start="20210926190000 +0700" stop="20210926194500 +0700" channel="thua.thien.hue">
+    <title lang="vi">Tiếp Thời sự  VTV</title>
+  </programme>
+  <programme start="20210926194500 +0700" stop="20210926195000 +0700" channel="thua.thien.hue">
+    <title lang="vi">Bản tin Dự báo thời tiết</title>
+  </programme>
+  <programme start="20210926195000 +0700" stop="20210926201500 +0700" channel="thua.thien.hue">
+    <title lang="vi">Chương trình thời sự buổi tối</title>
+  </programme>
+  <programme start="20210926201500 +0700" stop="20210926202000 +0700" channel="thua.thien.hue">
+    <title lang="vi">Thông tin Kinh tế thị trường</title>
+  </programme>
+  <programme start="20210926202000 +0700" stop="20210926204500 +0700" channel="thua.thien.hue">
+    <title lang="vi">Ký sự Trăm năm chợ Huế</title>
+  </programme>
+  <programme start="20210926204500 +0700" stop="20210926213000 +0700" channel="thua.thien.hue">
+    <title lang="vi">Phim Việt Nam: Nợ anh một giấc mơ- Tập 3</title>
+  </programme>
+  <programme start="20210926213000 +0700" stop="20210926215500 +0700" channel="thua.thien.hue">
+    <title lang="vi">Nhịp sống trẻ</title>
+  </programme>
+  <programme start="20210926215500 +0700" stop="20210926224000 +0700" channel="thua.thien.hue">
+    <title lang="vi">Phim Trung Quốc: Nếu như yêu- Tập 48</title>
+  </programme>
+  <programme start="20210927054500 +0700" stop="20210927060000 +0700" channel="thua.thien.hue">
+    <title lang="vi">Khỏe và đẹp</title>
+  </programme>
+  <programme start="20210927060000 +0700" stop="20210927062000 +0700" channel="thua.thien.hue">
+    <title lang="vi">Chương trình thời sự Huế ngày mới</title>
+  </programme>
+  <programme start="20210927062000 +0700" stop="20210927063500 +0700" channel="thua.thien.hue">
+    <title lang="vi">Chuyên mục Biên phòng toàn dân</title>
+  </programme>
+  <programme start="20210927063500 +0700" stop="20210927065000 +0700" channel="thua.thien.hue">
+    <title lang="vi">Chuyên mục Với khán giả truyền hình</title>
+  </programme>
+  <programme start="20210927065000 +0700" stop="20210927073500 +0700" channel="thua.thien.hue">
+    <title lang="vi">Phim Việt Nam: Sóng gió gia đình- Tập 5</title>
+  </programme>
+  <programme start="20210927073500 +0700" stop="20210927080000 +0700" channel="thua.thien.hue">
+    <title lang="vi">Chương trình Thế giới động vật</title>
+  </programme>
+  <programme start="20210927080000 +0700" stop="20210927083000 +0700" channel="thua.thien.hue">
+    <title lang="vi">Dạy học: Tiếng Việt lớp 1 ( NXB KNTTVCS)</title>
+  </programme>
+  <programme start="20210927083000 +0700" stop="20210927090000 +0700" channel="thua.thien.hue">
+    <title lang="vi">Dạy học: Tiếng Việt lớp 1 ( NXB Cánh diều)</title>
+  </programme>
+  <programme start="20210927090000 +0700" stop="20210927093000 +0700" channel="thua.thien.hue">
+    <title lang="vi">Dạy học: Toán lớp 2</title>
+  </programme>
+  <programme start="20210927093000 +0700" stop="20210927100000 +0700" channel="thua.thien.hue">
+    <title lang="vi">Dạy học: Tiếng Việt lớp 1 ( NXB CTST)-</title>
+  </programme>
+  <programme start="20210927100000 +0700" stop="20210927104000 +0700" channel="thua.thien.hue">
+    <title lang="vi">Dạy học: Toán lớp 2</title>
+  </programme>
+  <programme start="20210927104000 +0700" stop="20210927110000 +0700" channel="thua.thien.hue">
+    <title lang="vi">Chương trình Ẩm thực bốn phương</title>
+  </programme>
+  <programme start="20210927110000 +0700" stop="20210927112500 +0700" channel="thua.thien.hue">
+    <title lang="vi">Ca nhạc thiếu nhi</title>
+  </programme>
+  <programme start="20210927112500 +0700" stop="20210927114500 +0700" channel="thua.thien.hue">
+    <title lang="vi">Chương trình Thời sự buổi trưa</title>
+  </programme>
+  <programme start="20210927114500 +0700" stop="20210927115000 +0700" channel="thua.thien.hue">
+    <title lang="vi">Bản tin Dự báo thời tiết</title>
+  </programme>
+  <programme start="20210927115000 +0700" stop="20210927120500 +0700" channel="thua.thien.hue">
+    <title lang="vi">Chuyên mục Vì an ninh Tổ quốc</title>
+  </programme>
+  <programme start="20210927120500 +0700" stop="20210927125000 +0700" channel="thua.thien.hue">
+    <title lang="vi">Phim Hàn Quốc: Họa mi trong mưa- Tập 2</title>
+  </programme>
+  <programme start="20210927125000 +0700" stop="20210927131000 +0700" channel="thua.thien.hue">
+    <title lang="vi">Chuyên mục Huế - Đất &amp; Người</title>
+  </programme>
+  <programme start="20210927131000 +0700" stop="20210927135500 +0700" channel="thua.thien.hue">
+    <title lang="vi">Phim Trung Quốc: Bắt gặp tình yêu- Tập 9</title>
+  </programme>
+  <programme start="20210927135500 +0700" stop="20210927142000 +0700" channel="thua.thien.hue">
+    <title lang="vi">Chương trình Huế kết nối: Làng gốm bên sông Thu Bồn</title>
+  </programme>
+  <programme start="20210927142000 +0700" stop="20210927144500 +0700" channel="thua.thien.hue">
+    <title lang="vi">Phim khoa học</title>
+  </programme>
+  <programme start="20210927144500 +0700" stop="20210927150000 +0700" channel="thua.thien.hue">
+    <title lang="vi">Chương trình Du lịch bốn phương</title>
+  </programme>
+  <programme start="20210927150000 +0700" stop="20210927154500 +0700" channel="thua.thien.hue">
+    <title lang="vi">Phim Trung Quốc: Niên đại cam hồng- Tập 40</title>
+  </programme>
+  <programme start="20210927154500 +0700" stop="20210927160500 +0700" channel="thua.thien.hue">
+    <title lang="vi">Chương trình Thế giới động vật</title>
+  </programme>
+  <programme start="20210927160500 +0700" stop="20210927161500 +0700" channel="thua.thien.hue">
+    <title lang="vi">Chương trình Nối nhịp nghĩa tình</title>
+  </programme>
+  <programme start="20210927161500 +0700" stop="20210927164000 +0700" channel="thua.thien.hue">
+    <title lang="vi">Chương trình Sắc màu thời trang</title>
+  </programme>
+  <programme start="20210927164000 +0700" stop="20210927170000 +0700" channel="thua.thien.hue">
+    <title lang="vi">Chuyên đề Sức khỏe cho mọi người</title>
+  </programme>
+  <programme start="20210927170000 +0700" stop="20210927175500 +0700" channel="thua.thien.hue">
+    <title lang="vi">Phim Trung Quốc: Bắt gặp tình yêu- Tập 10</title>
+  </programme>
+  <programme start="20210927175500 +0700" stop="20210927180500 +0700" channel="thua.thien.hue">
+    <title lang="vi">Khỏe và đẹp</title>
+  </programme>
+  <programme start="20210927180500 +0700" stop="20210927182500 +0700" channel="thua.thien.hue">
+    <title lang="vi">Chương trình An toàn giao thông</title>
+  </programme>
+  <programme start="20210927182500 +0700" stop="20210927184000 +0700" channel="thua.thien.hue">
+    <title lang="vi">Thời sự 24 giờ</title>
+  </programme>
+  <programme start="20210927184000 +0700" stop="20210927190000 +0700" channel="thua.thien.hue">
+    <title lang="vi">Thông tin Kinh tế thị trường</title>
+  </programme>
+  <programme start="20210927190000 +0700" stop="20210927194500 +0700" channel="thua.thien.hue">
+    <title lang="vi">Tiếp Thời sự  VTV</title>
+  </programme>
+  <programme start="20210927194500 +0700" stop="20210927195000 +0700" channel="thua.thien.hue">
+    <title lang="vi">Bản tin Dự báo thời tiết</title>
+  </programme>
+  <programme start="20210927195000 +0700" stop="20210927201500 +0700" channel="thua.thien.hue">
+    <title lang="vi">Chương trình thời sự buổi tối</title>
+  </programme>
+  <programme start="20210927201500 +0700" stop="20210927202000 +0700" channel="thua.thien.hue">
+    <title lang="vi">Thông tin Kinh tế thị trường</title>
+  </programme>
+  <programme start="20210927202000 +0700" stop="20210927204500 +0700" channel="thua.thien.hue">
+    <title lang="vi">Ký sự Trăm năm chợ Huế</title>
+  </programme>
+  <programme start="20210927204500 +0700" stop="20210927213000 +0700" channel="thua.thien.hue">
+    <title lang="vi">Phim Việt Nam: Nợ anh một giấc mơ- Tập 3</title>
+  </programme>
+  <programme start="20210927213000 +0700" stop="20210927215500 +0700" channel="thua.thien.hue">
+    <title lang="vi">Nhịp sống trẻ</title>
+  </programme>
+  <programme start="20210927215500 +0700" stop="20210927224000 +0700" channel="thua.thien.hue">
+    <title lang="vi">Phim Trung Quốc: Nếu như yêu- Tập 48</title>
+  </programme>
+</tv>

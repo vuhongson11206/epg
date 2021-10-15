@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="hung.yen">
+    <display-name lang="vi">Hưng Yên</display-name>
+    <url>http://www.hungyentv.vn</url>
+  </channel>
+  <programme start="20211010053000 +0700" stop="20211010054500 +0700" channel="hung.yen">
+    <title lang="vi">Sống khỏe cùng Yoga</title>
+  </programme>
+  <programme start="20211010054500 +0700" stop="20211010055900 +0700" channel="hung.yen">
+    <title lang="vi">Đất và Người Hưng Yên</title>
+    <sub-title lang="vi">Đình chùa Hiến - Di tích lịch sử văn hóa Quốc gia</sub-title>
+  </programme>
+  <programme start="20211010055900 +0700" stop="20211010062500 +0700" channel="hung.yen">
+    <title lang="vi">Thời sự Hưng Yên</title>
+  </programme>
+  <programme start="20211010062500 +0700" stop="20211010063000 +0700" channel="hung.yen">
+    <title lang="vi">Bản tin thể thao</title>
+  </programme>
+  <programme start="20211010063000 +0700" stop="20211010065000 +0700" channel="hung.yen">
+    <title lang="vi">Nhìn từ Phố Hiến</title>
+  </programme>
+  <programme start="20211010065000 +0700" stop="20211010065800 +0700" channel="hung.yen">
+    <title lang="vi">Ống kính phóng viên</title>
+  </programme>
+  <programme start="20211010065800 +0700" stop="20211010083600 +0700" channel="hung.yen">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Tôi thấy hoa vàng trên cỏ xanh</sub-title>
+  </programme>
+  <programme start="20211010083600 +0700" stop="20211010084500 +0700" channel="hung.yen">
+    <title lang="vi">Chương trình thiếu nhi</title>
+    <sub-title lang="vi">Đoàn tàu</sub-title>
+  </programme>
+  <programme start="20211010084500 +0700" stop="20211010085000 +0700" channel="hung.yen">
+    <title lang="vi">5 plus</title>
+    <sub-title lang="vi">Tình yêu không hẹn trước - Phần 3</sub-title>
+  </programme>
+  <programme start="20211010085000 +0700" stop="20211010090000 +0700" channel="hung.yen">
+    <title lang="vi">Lực lượng vũ trang</title>
+  </programme>
+  <programme start="20211010090000 +0700" stop="20211010093500 +0700" channel="hung.yen">
+    <title lang="vi">Phim tài liệu</title>
+    <sub-title lang="vi">Cách mạng công nghiệp 4.0 và cơ hội với Việt Nam</sub-title>
+  </programme>
+  <programme start="20211010093500 +0700" stop="20211010100200 +0700" channel="hung.yen">
+    <title lang="vi">Thế giới động vật</title>
+    <sub-title lang="vi">Myanmar vương quốc bí ẩn của tự nhiên - Phần 5</sub-title>
+  </programme>
+  <programme start="20211010100200 +0700" stop="20211010104500 +0700" channel="hung.yen">
+    <title lang="vi">Lưu giữ hồn quê</title>
+    <sub-title lang="vi">Giao lưu văn hóa thị trấn Như Quỳnh, huyện Văn Lâm</sub-title>
+  </programme>
+  <programme start="20211010104500 +0700" stop="20211010110000 +0700" channel="hung.yen">
+    <title lang="vi">Phóng sự</title>
+    <sub-title lang="vi">Phân loại, xử lý rác thải - Nhìn từ huyện Kim Động</sub-title>
+  </programme>
+  <programme start="20211010110000 +0700" stop="20211010112000 +0700" channel="hung.yen">
+    <title lang="vi">Nhìn từ Phố Hiến</title>
+  </programme>
+  <programme start="20211010112000 +0700" stop="20211010112500 +0700" channel="hung.yen">
+    <title lang="vi">Cùng suy ngẫm</title>
+    <sub-title lang="vi">Phân biệt đối xử</sub-title>
+  </programme>
+  <programme start="20211010112500 +0700" stop="20211010113000 +0700" channel="hung.yen">
+    <title lang="vi">Ống kính phóng viên</title>
+  </programme>
+  <programme start="20211010113000 +0700" stop="20211010115000 +0700" channel="hung.yen">
+    <title lang="vi">Bản tin trưa</title>
+  </programme>
+  <programme start="20211010115000 +0700" stop="20211010120000 +0700" channel="hung.yen">
+    <title lang="vi">Điểm báo</title>
+  </programme>
+  <programme start="20211010120000 +0700" stop="20211010133000 +0700" channel="hung.yen">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Kẻ giấu mặt - Tập 12, 13</sub-title>
+  </programme>
+  <programme start="20211010133000 +0700" stop="20211010140000 +0700" channel="hung.yen">
+    <title lang="vi">Thế giới động vật</title>
+    <sub-title lang="vi">Myanmar vương quốc bí ẩn của tự nhiên - Phần 6</sub-title>
+  </programme>
+  <programme start="20211010140000 +0700" stop="20211010142500 +0700" channel="hung.yen">
+    <title lang="vi">Hưng Yên với mọi miền đất nước</title>
+    <sub-title lang="vi">Ông già muối</sub-title>
+  </programme>
+  <programme start="20211010142500 +0700" stop="20211010143000 +0700" channel="hung.yen">
+    <title lang="vi">Tháo nút thắt - Giải phóng mặt bằng nhanh</title>
+  </programme>
+  <programme start="20211010143000 +0700" stop="20211010150000 +0700" channel="hung.yen">
+    <title lang="vi">Phim tài liệu</title>
+    <sub-title lang="vi">Những cơ hội cho hòa bình</sub-title>
+  </programme>
+  <programme start="20211010150000 +0700" stop="20211010170500 +0700" channel="hung.yen">
+    <title lang="vi">Sân khấu</title>
+    <sub-title lang="vi">Gọi đò</sub-title>
+  </programme>
+  <programme start="20211010170500 +0700" stop="20211010172000 +0700" channel="hung.yen">
+    <title lang="vi">Chương trình thiếu nhi</title>
+    <sub-title lang="vi">Ai là đồ ngốc</sub-title>
+  </programme>
+  <programme start="20211010172000 +0700" stop="20211010173000 +0700" channel="hung.yen">
+    <title lang="vi">Bản tin Chính phủ</title>
+  </programme>
+  <programme start="20211010173000 +0700" stop="20211010182000 +0700" channel="hung.yen">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Thợ săn ma túy - Tập 23</sub-title>
+  </programme>
+  <programme start="20211010182000 +0700" stop="20211010182500 +0700" channel="hung.yen">
+    <title lang="vi">Box nhộn</title>
+  </programme>
+  <programme start="20211010182500 +0700" stop="20211010185000 +0700" channel="hung.yen">
+    <title lang="vi">Gương mặt nghệ sỹ Hưng Yên</title>
+    <sub-title lang="vi">Họa sĩ Lý Văn Vinh</sub-title>
+  </programme>
+  <programme start="20211010185000 +0700" stop="20211010185500 +0700" channel="hung.yen">
+    <title lang="vi">Bản tin quốc tế</title>
+  </programme>
+  <programme start="20211010185500 +0700" stop="20211010190000 +0700" channel="hung.yen">
+    <title lang="vi">Thông tin sức khỏe</title>
+  </programme>
+  <programme start="20211010190000 +0700" stop="20211010194500 +0700" channel="hung.yen">
+    <title lang="vi">Tiếp sóng thời sự VTV</title>
+  </programme>
+  <programme start="20211010194500 +0700" stop="20211010201500 +0700" channel="hung.yen">
+    <title lang="vi">Thời sự Hưng Yên</title>
+  </programme>
+  <programme start="20211010201500 +0700" stop="20211010202000 +0700" channel="hung.yen">
+    <title lang="vi">An toàn giao thông</title>
+  </programme>
+  <programme start="20211010202000 +0700" stop="20211010205500 +0700" channel="hung.yen">
+    <title lang="vi">Phim tài liệu</title>
+    <sub-title lang="vi">Đồng chí Lê Đức Thọ</sub-title>
+  </programme>
+  <programme start="20211010205500 +0700" stop="20211010222500 +0700" channel="hung.yen">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Cha cõng con</sub-title>
+  </programme>
+  <programme start="20211010222500 +0700" stop="20211010224500 +0700" channel="hung.yen">
+    <title lang="vi">Nhìn từ Phố Hiến</title>
+  </programme>
+  <programme start="20211010224500 +0700" stop="20211010230000 +0700" channel="hung.yen">
+    <title lang="vi">Văn hóa và đời sống</title>
+  </programme>
+  <programme start="20211010230000 +0700" stop="20211011053000 +0700" channel="hung.yen">
+    <title lang="vi">Thời sự Hưng Yên</title>
+  </programme>
+  <programme start="20211011053000 +0700" stop="20211011054500 +0700" channel="hung.yen">
+    <title lang="vi">Sống khỏe cùng Yoga</title>
+  </programme>
+  <programme start="20211011054500 +0700" stop="20211011055900 +0700" channel="hung.yen">
+    <title lang="vi">Đất và Người Hưng Yên</title>
+    <sub-title lang="vi">Đình chùa Hiến - Di tích lịch sử văn hóa Quốc gia</sub-title>
+  </programme>
+  <programme start="20211011055900 +0700" stop="20211011062500 +0700" channel="hung.yen">
+    <title lang="vi">Thời sự Hưng Yên</title>
+  </programme>
+  <programme start="20211011062500 +0700" stop="20211011063000 +0700" channel="hung.yen">
+    <title lang="vi">Bản tin thể thao</title>
+  </programme>
+  <programme start="20211011063000 +0700" stop="20211011065000 +0700" channel="hung.yen">
+    <title lang="vi">Nhìn từ Phố Hiến</title>
+  </programme>
+  <programme start="20211011065000 +0700" stop="20211011065800 +0700" channel="hung.yen">
+    <title lang="vi">Ống kính phóng viên</title>
+  </programme>
+  <programme start="20211011065800 +0700" stop="20211011083600 +0700" channel="hung.yen">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Tôi thấy hoa vàng trên cỏ xanh</sub-title>
+  </programme>
+  <programme start="20211011083600 +0700" stop="20211011084500 +0700" channel="hung.yen">
+    <title lang="vi">Chương trình thiếu nhi</title>
+    <sub-title lang="vi">Đoàn tàu</sub-title>
+  </programme>
+  <programme start="20211011084500 +0700" stop="20211011085000 +0700" channel="hung.yen">
+    <title lang="vi">5 plus</title>
+    <sub-title lang="vi">Tình yêu không hẹn trước - Phần 3</sub-title>
+  </programme>
+  <programme start="20211011085000 +0700" stop="20211011090000 +0700" channel="hung.yen">
+    <title lang="vi">Lực lượng vũ trang</title>
+  </programme>
+  <programme start="20211011090000 +0700" stop="20211011093500 +0700" channel="hung.yen">
+    <title lang="vi">Phim tài liệu</title>
+    <sub-title lang="vi">Cách mạng công nghiệp 4.0 và cơ hội với Việt Nam</sub-title>
+  </programme>
+  <programme start="20211011093500 +0700" stop="20211011100200 +0700" channel="hung.yen">
+    <title lang="vi">Thế giới động vật</title>
+    <sub-title lang="vi">Myanmar vương quốc bí ẩn của tự nhiên - Phần 5</sub-title>
+  </programme>
+  <programme start="20211011100200 +0700" stop="20211011104500 +0700" channel="hung.yen">
+    <title lang="vi">Lưu giữ hồn quê</title>
+    <sub-title lang="vi">Giao lưu văn hóa thị trấn Như Quỳnh, huyện Văn Lâm</sub-title>
+  </programme>
+  <programme start="20211011104500 +0700" stop="20211011110000 +0700" channel="hung.yen">
+    <title lang="vi">Phóng sự</title>
+    <sub-title lang="vi">Phân loại, xử lý rác thải - Nhìn từ huyện Kim Động</sub-title>
+  </programme>
+  <programme start="20211011110000 +0700" stop="20211011112000 +0700" channel="hung.yen">
+    <title lang="vi">Nhìn từ Phố Hiến</title>
+  </programme>
+  <programme start="20211011112000 +0700" stop="20211011112500 +0700" channel="hung.yen">
+    <title lang="vi">Cùng suy ngẫm</title>
+    <sub-title lang="vi">Phân biệt đối xử</sub-title>
+  </programme>
+  <programme start="20211011112500 +0700" stop="20211011113000 +0700" channel="hung.yen">
+    <title lang="vi">Ống kính phóng viên</title>
+  </programme>
+  <programme start="20211011113000 +0700" stop="20211011115000 +0700" channel="hung.yen">
+    <title lang="vi">Bản tin trưa</title>
+  </programme>
+  <programme start="20211011115000 +0700" stop="20211011120000 +0700" channel="hung.yen">
+    <title lang="vi">Điểm báo</title>
+  </programme>
+  <programme start="20211011120000 +0700" stop="20211011133000 +0700" channel="hung.yen">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Kẻ giấu mặt - Tập 12, 13</sub-title>
+  </programme>
+  <programme start="20211011133000 +0700" stop="20211011140000 +0700" channel="hung.yen">
+    <title lang="vi">Thế giới động vật</title>
+    <sub-title lang="vi">Myanmar vương quốc bí ẩn của tự nhiên - Phần 6</sub-title>
+  </programme>
+  <programme start="20211011140000 +0700" stop="20211011142500 +0700" channel="hung.yen">
+    <title lang="vi">Hưng Yên với mọi miền đất nước</title>
+    <sub-title lang="vi">Ông già muối</sub-title>
+  </programme>
+  <programme start="20211011142500 +0700" stop="20211011143000 +0700" channel="hung.yen">
+    <title lang="vi">Tháo nút thắt - Giải phóng mặt bằng nhanh</title>
+  </programme>
+  <programme start="20211011143000 +0700" stop="20211011150000 +0700" channel="hung.yen">
+    <title lang="vi">Phim tài liệu</title>
+    <sub-title lang="vi">Những cơ hội cho hòa bình</sub-title>
+  </programme>
+  <programme start="20211011150000 +0700" stop="20211011170500 +0700" channel="hung.yen">
+    <title lang="vi">Sân khấu</title>
+    <sub-title lang="vi">Gọi đò</sub-title>
+  </programme>
+  <programme start="20211011170500 +0700" stop="20211011172000 +0700" channel="hung.yen">
+    <title lang="vi">Chương trình thiếu nhi</title>
+    <sub-title lang="vi">Ai là đồ ngốc</sub-title>
+  </programme>
+  <programme start="20211011172000 +0700" stop="20211011173000 +0700" channel="hung.yen">
+    <title lang="vi">Bản tin Chính phủ</title>
+  </programme>
+  <programme start="20211011173000 +0700" stop="20211011182000 +0700" channel="hung.yen">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Thợ săn ma túy - Tập 23</sub-title>
+  </programme>
+  <programme start="20211011182000 +0700" stop="20211011182500 +0700" channel="hung.yen">
+    <title lang="vi">Box nhộn</title>
+  </programme>
+  <programme start="20211011182500 +0700" stop="20211011185000 +0700" channel="hung.yen">
+    <title lang="vi">Gương mặt nghệ sỹ Hưng Yên</title>
+    <sub-title lang="vi">Họa sĩ Lý Văn Vinh</sub-title>
+  </programme>
+  <programme start="20211011185000 +0700" stop="20211011185500 +0700" channel="hung.yen">
+    <title lang="vi">Bản tin quốc tế</title>
+  </programme>
+  <programme start="20211011185500 +0700" stop="20211011190000 +0700" channel="hung.yen">
+    <title lang="vi">Thông tin sức khỏe</title>
+  </programme>
+  <programme start="20211011190000 +0700" stop="20211011194500 +0700" channel="hung.yen">
+    <title lang="vi">Tiếp sóng thời sự VTV</title>
+  </programme>
+  <programme start="20211011194500 +0700" stop="20211011201500 +0700" channel="hung.yen">
+    <title lang="vi">Thời sự Hưng Yên</title>
+  </programme>
+  <programme start="20211011201500 +0700" stop="20211011202000 +0700" channel="hung.yen">
+    <title lang="vi">An toàn giao thông</title>
+  </programme>
+  <programme start="20211011202000 +0700" stop="20211011205500 +0700" channel="hung.yen">
+    <title lang="vi">Phim tài liệu</title>
+    <sub-title lang="vi">Đồng chí Lê Đức Thọ</sub-title>
+  </programme>
+  <programme start="20211011205500 +0700" stop="20211011222500 +0700" channel="hung.yen">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Cha cõng con</sub-title>
+  </programme>
+  <programme start="20211011222500 +0700" stop="20211011224500 +0700" channel="hung.yen">
+    <title lang="vi">Nhìn từ Phố Hiến</title>
+  </programme>
+  <programme start="20211011224500 +0700" stop="20211011230000 +0700" channel="hung.yen">
+    <title lang="vi">Văn hóa và đời sống</title>
+  </programme>
+</tv>

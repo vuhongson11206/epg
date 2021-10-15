@@ -1,0 +1,370 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="tay.ninh">
+    <display-name lang="vi">Tây Ninh</display-name>
+    <url>http://www.tayninhtv.vn</url>
+  </channel>
+  <programme start="20211010000000 +0700" stop="20211010003000 +0700" channel="tay.ninh">
+    <title lang="vi">: Phim truyện Việt Nam: Người ở bên  khi tôi 16 (Tập 01)</title>
+  </programme>
+  <programme start="20211010003000 +0700" stop="20211010020000 +0700" channel="tay.ninh">
+    <title lang="vi">: Phim truyện Trung Quốc:  Vương quốc thần bí  (Tập 30-31)</title>
+  </programme>
+  <programme start="20211010020000 +0700" stop="20211010022000 +0700" channel="tay.ninh">
+    <title lang="vi">: Bản tin Kinh tế- Tài chính</title>
+  </programme>
+  <programme start="20211010022000 +0700" stop="20211010025000 +0700" channel="tay.ninh">
+    <title lang="vi">: Ca nhạc: Thương người nơi xa</title>
+  </programme>
+  <programme start="20211010025000 +0700" stop="20211010030000 +0700" channel="tay.ninh">
+    <title lang="vi">: Khỏe để sống vui: Số 08- Những lưu ý khi tạo hình cánh mũi</title>
+  </programme>
+  <programme start="20211010030000 +0700" stop="20211010034500 +0700" channel="tay.ninh">
+    <title lang="vi">: Phim truyện Việt Nam: Nhà chung (Tập 17)</title>
+  </programme>
+  <programme start="20211010034500 +0700" stop="20211010041500 +0700" channel="tay.ninh">
+    <title lang="vi">: Truyền hình Quân khu 7</title>
+  </programme>
+  <programme start="20211010041500 +0700" stop="20211010050000 +0700" channel="tay.ninh">
+    <title lang="vi">: Phim truyện Việt Nam: Chị em nhà Đông Các (Tập 05)</title>
+  </programme>
+  <programme start="20211010050000 +0700" stop="20211010050500 +0700" channel="tay.ninh">
+    <title lang="vi">: Đài hiệu- Giới thiệu chương trình</title>
+  </programme>
+  <programme start="20211010050500 +0700" stop="20211010051000 +0700" channel="tay.ninh">
+    <title lang="vi">: Bài tập thể dục sáng</title>
+  </programme>
+  <programme start="20211010051000 +0700" stop="20211010052500 +0700" channel="tay.ninh">
+    <title lang="vi">: Chuyên mục: Chuyển đổi số</title>
+  </programme>
+  <programme start="20211010052500 +0700" stop="20211010053000 +0700" channel="tay.ninh">
+    <title lang="vi">: Chuyện Đông Tây kỳ thú</title>
+  </programme>
+  <programme start="20211010053000 +0700" stop="20211010060000 +0700" channel="tay.ninh">
+    <title lang="vi">: Ca nhạc: Giai điệu Tổ Quốc</title>
+  </programme>
+  <programme start="20211010060000 +0700" stop="20211010063000 +0700" channel="tay.ninh">
+    <title lang="vi">: 24h chuyển động</title>
+  </programme>
+  <programme start="20211010063000 +0700" stop="20211010064500 +0700" channel="tay.ninh">
+    <title lang="vi">: Tây Ninh ngày mới</title>
+  </programme>
+  <programme start="20211010064500 +0700" stop="20211010070000 +0700" channel="tay.ninh">
+    <title lang="vi">: Xem để ngẫm: Tập 38- Xin sếp đừng lo</title>
+  </programme>
+  <programme start="20211010070000 +0700" stop="20211010074500 +0700" channel="tay.ninh">
+    <title lang="vi">: Phim truyện Hàn Quốc: Cái giá của tham vọng  (Tập 04)</title>
+  </programme>
+  <programme start="20211010074500 +0700" stop="20211010080000 +0700" channel="tay.ninh">
+    <title lang="vi">: Văn hóa giao thông</title>
+  </programme>
+  <programme start="20211010080000 +0700" stop="20211010082000 +0700" channel="tay.ninh">
+    <title lang="vi">: Hồ sơ mật: Anna-Người phụ nữ đã đấu tranh chống lại ISIS - Phần 2 (Tập 02)</title>
+  </programme>
+  <programme start="20211010082000 +0700" stop="20211010083000 +0700" channel="tay.ninh">
+    <title lang="vi">: Thấu lý thấm tình</title>
+  </programme>
+  <programme start="20211010083000 +0700" stop="20211010091500 +0700" channel="tay.ninh">
+    <title lang="vi">: Phim truyện Việt Nam: Thế thái nhân tình  (Tập 40)</title>
+  </programme>
+  <programme start="20211010091500 +0700" stop="20211010093000 +0700" channel="tay.ninh">
+    <title lang="vi">: Kết nối Đông Nam Bộ</title>
+  </programme>
+  <programme start="20211010093000 +0700" stop="20211010094000 +0700" channel="tay.ninh">
+    <title lang="vi">: Trực tiếp: Bản tin sáng</title>
+  </programme>
+  <programme start="20211010094000 +0700" stop="20211010095000 +0700" channel="tay.ninh">
+    <title lang="vi">: Chuyên mục: An toàn giao thông</title>
+  </programme>
+  <programme start="20211010095000 +0700" stop="20211010102000 +0700" channel="tay.ninh">
+    <title lang="vi">: Phim tài liệu: Việt Nam thời đại Hồ Chí Minh- Biên niên sử truyền hình- Năm  1979</title>
+  </programme>
+  <programme start="20211010102000 +0700" stop="20211010105000 +0700" channel="tay.ninh">
+    <title lang="vi">: Tuyệt phẩm Bolero- Tập 32</title>
+  </programme>
+  <programme start="20211010105000 +0700" stop="20211010111500 +0700" channel="tay.ninh">
+    <title lang="vi">: Giao lộ bình an</title>
+  </programme>
+  <programme start="20211010111500 +0700" stop="20211010113000 +0700" channel="tay.ninh">
+    <title lang="vi">: Chuyên mục: Trang tuổi thơ</title>
+  </programme>
+  <programme start="20211010113000 +0700" stop="20211010115000 +0700" channel="tay.ninh">
+    <title lang="vi">: Trực tiếp: Bản tin trưa</title>
+  </programme>
+  <programme start="20211010115000 +0700" stop="20211010120000 +0700" channel="tay.ninh">
+    <title lang="vi">: Bản tin thời tiết</title>
+  </programme>
+  <programme start="20211010120000 +0700" stop="20211010125000 +0700" channel="tay.ninh">
+    <title lang="vi">: Phim truyện Việt Nam: Chị em nhà Đông Các (Tập 06)</title>
+  </programme>
+  <programme start="20211010125000 +0700" stop="20211010130000 +0700" channel="tay.ninh">
+    <title lang="vi">: Chuyện Đông Tây kỳ thú</title>
+  </programme>
+  <programme start="20211010130000 +0700" stop="20211010133000 +0700" channel="tay.ninh">
+    <title lang="vi">: Phim truyện Việt Nam: Người ở bên  khi tôi 16 (Tập 02)</title>
+  </programme>
+  <programme start="20211010133000 +0700" stop="20211010134000 +0700" channel="tay.ninh">
+    <title lang="vi">: Bản tin thể thao</title>
+  </programme>
+  <programme start="20211010134000 +0700" stop="20211010151000 +0700" channel="tay.ninh">
+    <title lang="vi">: Phim truyện Trung Quốc: Vương quốc thần bí (Tập 32-33)</title>
+  </programme>
+  <programme start="20211010151000 +0700" stop="20211010153500 +0700" channel="tay.ninh">
+    <title lang="vi">: Văn nghệ thiếu nhi: Mầm chồi lá -Tập 50</title>
+  </programme>
+  <programme start="20211010153500 +0700" stop="20211010160500 +0700" channel="tay.ninh">
+    <title lang="vi">: Chương trình: Hạnh phúc ở đâu? Khách mời: Ca sĩ Đam San</title>
+  </programme>
+  <programme start="20211010160500 +0700" stop="20211010161500 +0700" channel="tay.ninh">
+    <title lang="vi">: Chuyên mục: Phòng, chống dịch bệnh COVID-19</title>
+  </programme>
+  <programme start="20211010161500 +0700" stop="20211010163000 +0700" channel="tay.ninh">
+    <title lang="vi">: Bản tin tiếng Anh</title>
+  </programme>
+  <programme start="20211010163000 +0700" stop="20211010164500 +0700" channel="tay.ninh">
+    <title lang="vi">: Trực tiếp: Bản tin chiều</title>
+  </programme>
+  <programme start="20211010164500 +0700" stop="20211010165000 +0700" channel="tay.ninh">
+    <title lang="vi">: Bản tin thời tiết</title>
+  </programme>
+  <programme start="20211010165000 +0700" stop="20211010170000 +0700" channel="tay.ninh">
+    <title lang="vi">: Chuyên mục: Sức khỏe cho mọi người</title>
+  </programme>
+  <programme start="20211010170000 +0700" stop="20211010175000 +0700" channel="tay.ninh">
+    <title lang="vi">: Phim truyện Hàn Quốc: Cái giá của tham vọng  (Tập 05)</title>
+  </programme>
+  <programme start="20211010175000 +0700" stop="20211010180000 +0700" channel="tay.ninh">
+    <title lang="vi">: Bản tin Kinh tế-Tài chính</title>
+  </programme>
+  <programme start="20211010180000 +0700" stop="20211010183000 +0700" channel="tay.ninh">
+    <title lang="vi">: 24h Chuyển động</title>
+  </programme>
+  <programme start="20211010183000 +0700" stop="20211010185000 +0700" channel="tay.ninh">
+    <title lang="vi">: Trực tiếp: Thời sự Tây Ninh</title>
+  </programme>
+  <programme start="20211010185000 +0700" stop="20211010190000 +0700" channel="tay.ninh">
+    <title lang="vi">: Thông báo cần biết</title>
+  </programme>
+  <programme start="20211010190000 +0700" stop="20211010194500 +0700" channel="tay.ninh">
+    <title lang="vi">: Tiếp chuyển Thời sự VTV1</title>
+  </programme>
+  <programme start="20211010194500 +0700" stop="20211010200500 +0700" channel="tay.ninh">
+    <title lang="vi">: Thời sự Tây Ninh</title>
+  </programme>
+  <programme start="20211010200500 +0700" stop="20211010202000 +0700" channel="tay.ninh">
+    <title lang="vi">: Chuyên mục: Những vấn đề hôm nay</title>
+  </programme>
+  <programme start="20211010202000 +0700" stop="20211010210500 +0700" channel="tay.ninh">
+    <title lang="vi">: Phim truyện cuối tuần: Một ngày kỳ lạ (P1)</title>
+  </programme>
+  <programme start="20211010210500 +0700" stop="20211010211000 +0700" channel="tay.ninh">
+    <title lang="vi">: Bản tin Covid-19</title>
+  </programme>
+  <programme start="20211010211000 +0700" stop="20211010211500 +0700" channel="tay.ninh">
+    <title lang="vi">: Thấu lý thấm tình</title>
+  </programme>
+  <programme start="20211010211500 +0700" stop="20211010220000 +0700" channel="tay.ninh">
+    <title lang="vi">: Phim truyện cuối tuần: Một ngày kỳ lạ (P2)</title>
+  </programme>
+  <programme start="20211010220000 +0700" stop="20211010221000 +0700" channel="tay.ninh">
+    <title lang="vi">: Chuyên mục: Học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh</title>
+  </programme>
+  <programme start="20211010221000 +0700" stop="20211010221500 +0700" channel="tay.ninh">
+    <title lang="vi">: Chuyện Đông Tây kỳ thú</title>
+  </programme>
+  <programme start="20211010221500 +0700" stop="20211010224500 +0700" channel="tay.ninh">
+    <title lang="vi">: 24h chuyển động</title>
+  </programme>
+  <programme start="20211010224500 +0700" stop="20211010230000 +0700" channel="tay.ninh">
+    <title lang="vi">: Hồ sơ mật: Anna- Người phụ nữ đã đấu tranh chống lại ISIS - Phần 2 (Tập 02)</title>
+  </programme>
+  <programme start="20211010230000 +0700" stop="20211010231500 +0700" channel="tay.ninh">
+    <title lang="vi">: Xem để ngẫm: Tập 38- Xin sếp đừng lo</title>
+  </programme>
+  <programme start="20211010231500 +0700" stop="20211010234500 +0700" channel="tay.ninh">
+    <title lang="vi">: Giao lộ bình an</title>
+  </programme>
+  <programme start="20211010234500 +0700" stop="20211011000000 +0700" channel="tay.ninh">
+    <title lang="vi">: Bản tin thể thao</title>
+  </programme>
+  <programme start="20211011000000 +0700" stop="20211011003000 +0700" channel="tay.ninh">
+    <title lang="vi">: Game show: Xạ thủ đua tài - Tập 09</title>
+  </programme>
+  <programme start="20211011003000 +0700" stop="20211011021000 +0700" channel="tay.ninh">
+    <title lang="vi">: Phim truyện Trung Quốc: Vương quốc thần bí (Tập 32-33)</title>
+  </programme>
+  <programme start="20211011021000 +0700" stop="20211011022000 +0700" channel="tay.ninh">
+    <title lang="vi">: Bản tin Kinh tế-Tài chính</title>
+  </programme>
+  <programme start="20211011022000 +0700" stop="20211011023500 +0700" channel="tay.ninh">
+    <title lang="vi">: Kết nối Đông Nam Bộ</title>
+  </programme>
+  <programme start="20211011023500 +0700" stop="20211011030000 +0700" channel="tay.ninh">
+    <title lang="vi">: Tuyệt phẩm Bolero- Số 32</title>
+  </programme>
+  <programme start="20211011030000 +0700" stop="20211011031000 +0700" channel="tay.ninh">
+    <title lang="vi">: Khỏe để sống vui: Số 09- Những lưu ý khi thu nhỏ lỗ chân lông to</title>
+  </programme>
+  <programme start="20211011031000 +0700" stop="20211011034000 +0700" channel="tay.ninh">
+    <title lang="vi">: Truyền hình Quân khu 7</title>
+  </programme>
+  <programme start="20211011034000 +0700" stop="20211011041500 +0700" channel="tay.ninh">
+    <title lang="vi">: Phim tài liệu:Việt Nam thời đại Hồ Chí Minh-Biên niên sử truyền hình: Năm1979</title>
+  </programme>
+  <programme start="20211011041500 +0700" stop="20211011050000 +0700" channel="tay.ninh">
+    <title lang="vi">: Phim truyện Việt Nam: Chị em nhà Đông Các  (Tập 06)</title>
+  </programme>
+  <programme start="20211011050000 +0700" stop="20211011050500 +0700" channel="tay.ninh">
+    <title lang="vi">: Đài hiệu- Giới thiệu chương trình</title>
+  </programme>
+  <programme start="20211011050500 +0700" stop="20211011051000 +0700" channel="tay.ninh">
+    <title lang="vi">: Bài tập thể dục sáng</title>
+  </programme>
+  <programme start="20211011051000 +0700" stop="20211011052000 +0700" channel="tay.ninh">
+    <title lang="vi">: Chuyên mục: Học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh</title>
+  </programme>
+  <programme start="20211011052000 +0700" stop="20211011053000 +0700" channel="tay.ninh">
+    <title lang="vi">: Chuyện Đông Tây kỳ thú</title>
+  </programme>
+  <programme start="20211011053000 +0700" stop="20211011060000 +0700" channel="tay.ninh">
+    <title lang="vi">: Phim tài liệu:Việt Nam thời đại Hồ Chí Minh- Biên niên sử truyền hình: Năm 1980</title>
+  </programme>
+  <programme start="20211011060000 +0700" stop="20211011063000 +0700" channel="tay.ninh">
+    <title lang="vi">: 24h Chuyển động</title>
+  </programme>
+  <programme start="20211011063000 +0700" stop="20211011064500 +0700" channel="tay.ninh">
+    <title lang="vi">: Tây Ninh ngày mới</title>
+  </programme>
+  <programme start="20211011064500 +0700" stop="20211011070000 +0700" channel="tay.ninh">
+    <title lang="vi">: Phim Sitcom: Những đứa con từ trên trời rơi xuống- P2 (Tập 39)</title>
+  </programme>
+  <programme start="20211011070000 +0700" stop="20211011074500 +0700" channel="tay.ninh">
+    <title lang="vi">: Phim truyện Hàn Quốc: Cái giá của tham vọng (Tập 05)</title>
+  </programme>
+  <programme start="20211011074500 +0700" stop="20211011080000 +0700" channel="tay.ninh">
+    <title lang="vi">: Chuyên mục: Trang tuổi thơ</title>
+  </programme>
+  <programme start="20211011080000 +0700" stop="20211011081000 +0700" channel="tay.ninh">
+    <title lang="vi">: Khỏe để sống vui: Số 09: Những lưu ý khi thu nhỏ lỗ chân lông to</title>
+  </programme>
+  <programme start="20211011081000 +0700" stop="20211011082000 +0700" channel="tay.ninh">
+    <title lang="vi">: Bản tin tiếng Anh</title>
+  </programme>
+  <programme start="20211011082000 +0700" stop="20211011083000 +0700" channel="tay.ninh">
+    <title lang="vi">: Thấu lý thấm tình</title>
+  </programme>
+  <programme start="20211011083000 +0700" stop="20211011092500 +0700" channel="tay.ninh">
+    <title lang="vi">: Phim truyện nước ngoài: Một ngày kỳ lạ (P1)</title>
+  </programme>
+  <programme start="20211011092500 +0700" stop="20211011093000 +0700" channel="tay.ninh">
+    <title lang="vi">: Chuyện Đông Tây kỳ thú</title>
+  </programme>
+  <programme start="20211011093000 +0700" stop="20211011094000 +0700" channel="tay.ninh">
+    <title lang="vi">: Trực tiếp: Bản tin sáng</title>
+  </programme>
+  <programme start="20211011094000 +0700" stop="20211011095000 +0700" channel="tay.ninh">
+    <title lang="vi">: Chuyên mục: Sức khỏe cho mọi người</title>
+  </programme>
+  <programme start="20211011095000 +0700" stop="20211011105000 +0700" channel="tay.ninh">
+    <title lang="vi">: Phim truyện nước ngoài: Một ngày kỳ lạ (P2)</title>
+  </programme>
+  <programme start="20211011105000 +0700" stop="20211011111500 +0700" channel="tay.ninh">
+    <title lang="vi">: Phim tài liệu:Việt Nam thời đại Hồ Chí Minh- Biên niên sử truyền hình: Năm  1981</title>
+  </programme>
+  <programme start="20211011111500 +0700" stop="20211011113000 +0700" channel="tay.ninh">
+    <title lang="vi">: Chuyên mục: Tây Ninh xây dựng Nông thôn mới</title>
+  </programme>
+  <programme start="20211011113000 +0700" stop="20211011115000 +0700" channel="tay.ninh">
+    <title lang="vi">: Trực tiếp: Bản tin trưa</title>
+  </programme>
+  <programme start="20211011115000 +0700" stop="20211011120000 +0700" channel="tay.ninh">
+    <title lang="vi">: Bản tin thời tiết</title>
+  </programme>
+  <programme start="20211011120000 +0700" stop="20211011124500 +0700" channel="tay.ninh">
+    <title lang="vi">: Phim truyện Việt Nam: Chị em nhà Đông Các  (Tập 07)</title>
+  </programme>
+  <programme start="20211011124500 +0700" stop="20211011130000 +0700" channel="tay.ninh">
+    <title lang="vi">: Chuyện Đông Tây kỳ thú</title>
+  </programme>
+  <programme start="20211011130000 +0700" stop="20211011133000 +0700" channel="tay.ninh">
+    <title lang="vi">: Game show: Xạ thủ đua tài- Tập 10</title>
+  </programme>
+  <programme start="20211011133000 +0700" stop="20211011134000 +0700" channel="tay.ninh">
+    <title lang="vi">: Bản tin thể thao</title>
+  </programme>
+  <programme start="20211011134000 +0700" stop="20211011151000 +0700" channel="tay.ninh">
+    <title lang="vi">: Phim truyện Trung Quốc: Vương quốc thần bí (Tập 34-35)</title>
+  </programme>
+  <programme start="20211011151000 +0700" stop="20211011153500 +0700" channel="tay.ninh">
+    <title lang="vi">: Phim hoạt hình:  Thành phố xe hơi- Tập 30</title>
+  </programme>
+  <programme start="20211011153500 +0700" stop="20211011155000 +0700" channel="tay.ninh">
+    <title lang="vi">: Chương trình tiếng Khmer</title>
+  </programme>
+  <programme start="20211011155000 +0700" stop="20211011161500 +0700" channel="tay.ninh">
+    <title lang="vi">: Tài tử cải lương: Khói bếp chiều quê</title>
+  </programme>
+  <programme start="20211011161500 +0700" stop="20211011163000 +0700" channel="tay.ninh">
+    <title lang="vi">: Bản tin tiếng Anh</title>
+  </programme>
+  <programme start="20211011163000 +0700" stop="20211011164500 +0700" channel="tay.ninh">
+    <title lang="vi">: Trực tiếp Bản tin chiều</title>
+  </programme>
+  <programme start="20211011164500 +0700" stop="20211011165000 +0700" channel="tay.ninh">
+    <title lang="vi">: Bản tin thời tiết</title>
+  </programme>
+  <programme start="20211011165000 +0700" stop="20211011170000 +0700" channel="tay.ninh">
+    <title lang="vi">: Chuyên mục: Pháp luật về dân quân tự vệ</title>
+  </programme>
+  <programme start="20211011170000 +0700" stop="20211011175000 +0700" channel="tay.ninh">
+    <title lang="vi">: Phim truyện Hàn  Quốc: Cái giá của tham vọng (Tập 06)</title>
+  </programme>
+  <programme start="20211011175000 +0700" stop="20211011180000 +0700" channel="tay.ninh">
+    <title lang="vi">: Bản tin Kinh tế-Tài chính</title>
+  </programme>
+  <programme start="20211011180000 +0700" stop="20211011183000 +0700" channel="tay.ninh">
+    <title lang="vi">: 24h Chuyển động</title>
+  </programme>
+  <programme start="20211011183000 +0700" stop="20211011185000 +0700" channel="tay.ninh">
+    <title lang="vi">: Trực tiếp: Thời sự Tây Ninh</title>
+  </programme>
+  <programme start="20211011185000 +0700" stop="20211011190000 +0700" channel="tay.ninh">
+    <title lang="vi">: Thông báo cần biết</title>
+  </programme>
+  <programme start="20211011190000 +0700" stop="20211011194500 +0700" channel="tay.ninh">
+    <title lang="vi">: Tiếp chuyển Thời sự VTV1</title>
+  </programme>
+  <programme start="20211011194500 +0700" stop="20211011200500 +0700" channel="tay.ninh">
+    <title lang="vi">: Thời sự Tây Ninh</title>
+  </programme>
+  <programme start="20211011200500 +0700" stop="20211011205000 +0700" channel="tay.ninh">
+    <title lang="vi">: Phim truyện Trung Quốc: Nữ pháp y phá án  (Tập 33)</title>
+  </programme>
+  <programme start="20211011205000 +0700" stop="20211011205500 +0700" channel="tay.ninh">
+    <title lang="vi">: Bản tin COVID- 19</title>
+  </programme>
+  <programme start="20211011205500 +0700" stop="20211011210000 +0700" channel="tay.ninh">
+    <title lang="vi">: Thấu lý thấm tình</title>
+  </programme>
+  <programme start="20211011210000 +0700" stop="20211011214500 +0700" channel="tay.ninh">
+    <title lang="vi">: Phim truyện Việt Nam: Thế thái nhân tình (Tập 41)</title>
+  </programme>
+  <programme start="20211011214500 +0700" stop="20211011215500 +0700" channel="tay.ninh">
+    <title lang="vi">: Chuyên mục: An ninh Tây Ninh</title>
+  </programme>
+  <programme start="20211011215500 +0700" stop="20211011220000 +0700" channel="tay.ninh">
+    <title lang="vi">: Chuyện Đông Tây kỳ thú</title>
+  </programme>
+  <programme start="20211011220000 +0700" stop="20211011223000 +0700" channel="tay.ninh">
+    <title lang="vi">: 24h Chuyển động</title>
+  </programme>
+  <programme start="20211011223000 +0700" stop="20211011224500 +0700" channel="tay.ninh">
+    <title lang="vi">: Phim Sitcom: Những đứa con từ trên trời rơi xuống- P2 (Tập 39)</title>
+  </programme>
+  <programme start="20211011224500 +0700" stop="20211011230000 +0700" channel="tay.ninh">
+    <title lang="vi">: Bản tin thể thao</title>
+  </programme>
+  <programme start="20211011230000 +0700" stop="20211011234500 +0700" channel="tay.ninh">
+    <title lang="vi">: Phim truyện Việt Nam: Nhà chung (Tập 18)</title>
+  </programme>
+</tv>

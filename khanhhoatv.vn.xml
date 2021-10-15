@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="khanh.hoa">
+    <display-name lang="vi">Khánh Hòa</display-name>
+    <url>http://www.ktv.org.vn</url>
+  </channel>
+  <programme start="20211007000000 +0700" stop="20211007013000 +0700" channel="khanh.hoa">
+    <title lang="vi">PHIM NƯỚC NGOÀI: Ỷ thiên đồ long ký - Tập 34+35</title>
+  </programme>
+  <programme start="20211007013000 +0700" stop="20211007015500 +0700" channel="khanh.hoa">
+    <title lang="vi">TRUYỀN HÌNH TIẾNG DÂN TỘC: Dời làng kinh nghiệm từ Đồng Mít</title>
+  </programme>
+  <programme start="20211007015500 +0700" stop="20211007032500 +0700" channel="khanh.hoa">
+    <title lang="vi">PHIM VIỆT NAM: Cô gái kiêu kỳ - Tập 2+3</title>
+  </programme>
+  <programme start="20211007032500 +0700" stop="20211007041000 +0700" channel="khanh.hoa">
+    <title lang="vi">KHÁM PHÁ THẾ GIỚI: Chim ác</title>
+  </programme>
+  <programme start="20211007041000 +0700" stop="20211007043500 +0700" channel="khanh.hoa">
+    <title lang="vi">KHOA GIÁO: Người giữ cát</title>
+  </programme>
+  <programme start="20211007043500 +0700" stop="20211007060000 +0700" channel="khanh.hoa">
+    <title lang="vi">PHIM NƯỚC NGOÀI: Ký ức tình yêu - Tập 27+28</title>
+  </programme>
+  <programme start="20211007060000 +0700" stop="20211007063000 +0700" channel="khanh.hoa">
+    <title lang="vi">KHỞI ĐỘNG NGÀY MỚI</title>
+  </programme>
+  <programme start="20211007063000 +0700" stop="20211007064500 +0700" channel="khanh.hoa">
+    <title lang="vi">CẢI CÁCH HÀNH CHÍNH: Thủ tục Biên phòng điện tử cảng biển</title>
+  </programme>
+  <programme start="20211007064500 +0700" stop="20211007065000 +0700" channel="khanh.hoa">
+    <title lang="vi">PHIM TRÊN KTV</title>
+  </programme>
+  <programme start="20211007065000 +0700" stop="20211007070500 +0700" channel="khanh.hoa">
+    <title lang="vi">KÝ SỰ SÔNG CÁI LỚN CÁI BÉ: Tập 12: Nhớ soạn giả Hà Triều – Hoa Phượng</title>
+  </programme>
+  <programme start="20211007070500 +0700" stop="20211007083500 +0700" channel="khanh.hoa">
+    <title lang="vi">PHIM VIỆT NAM: Cô gái kiêu kỳ - Tập 2+3</title>
+  </programme>
+  <programme start="20211007083500 +0700" stop="20211007090000 +0700" channel="khanh.hoa">
+    <title lang="vi">THỜI TRANG QUỐC TẾ THU ĐÔNG 2021 – SỐ 21</title>
+  </programme>
+  <programme start="20211007090000 +0700" stop="20211007094500 +0700" channel="khanh.hoa">
+    <title lang="vi">PHIM KHOA HỌC: Cuộc sống ở Tây Tạng – Tập 1: Ngôi nhà của cha mẹ</title>
+  </programme>
+  <programme start="20211007094500 +0700" stop="20211007100500 +0700" channel="khanh.hoa">
+    <title lang="vi">PHÓNG SỰ: Chợ Thanh Phước</title>
+  </programme>
+  <programme start="20211007100500 +0700" stop="20211007102500 +0700" channel="khanh.hoa">
+    <title lang="vi">XIẾC ẢO THUẬT QUỐC TẾ</title>
+  </programme>
+  <programme start="20211007102500 +0700" stop="20211007105000 +0700" channel="khanh.hoa">
+    <title lang="vi">HOẠT HÌNH: Học viện phép thuật - Tập 21</title>
+  </programme>
+  <programme start="20211007105000 +0700" stop="20211007110000 +0700" channel="khanh.hoa">
+    <title lang="vi">THỜI SỰ THẾ GIỚI</title>
+  </programme>
+  <programme start="20211007110000 +0700" stop="20211007114500 +0700" channel="khanh.hoa">
+    <title lang="vi">PHIM NƯỚC NGOÀI: Dẫu mưa hay nắng - Tập 3</title>
+  </programme>
+  <programme start="20211007114500 +0700" stop="20211007120000 +0700" channel="khanh.hoa">
+    <title lang="vi">THỜI SỰ KHÁNH HÒA</title>
+  </programme>
+  <programme start="20211007120000 +0700" stop="20211007125000 +0700" channel="khanh.hoa">
+    <title lang="vi">PHIM NƯỚC NGOÀI: Truyền thuyết phi đao - Tập 6</title>
+  </programme>
+  <programme start="20211007125000 +0700" stop="20211007133500 +0700" channel="khanh.hoa">
+    <title lang="vi">PHIM VIỆT NAM: Sông phố nhà ghe  - Tập 26</title>
+  </programme>
+  <programme start="20211007133500 +0700" stop="20211007134500 +0700" channel="khanh.hoa">
+    <title lang="vi">THỜI SỰ THẾ GIỚI</title>
+  </programme>
+  <programme start="20211007134500 +0700" stop="20211007140000 +0700" channel="khanh.hoa">
+    <title lang="vi">BẢN TIN TIẾNG ANH</title>
+  </programme>
+  <programme start="20211007140000 +0700" stop="20211007144000 +0700" channel="khanh.hoa">
+    <title lang="vi">PHIM NƯỚC NGOÀI: Bất khả xâm phạm - Tập 14</title>
+  </programme>
+  <programme start="20211007144000 +0700" stop="20211007151500 +0700" channel="khanh.hoa">
+    <title lang="vi">TRÒ CHUYỆN CÙNG BÁC SĨ</title>
+  </programme>
+  <programme start="20211007151500 +0700" stop="20211007153000 +0700" channel="khanh.hoa">
+    <title lang="vi">CHUYÊN MỤC SỨC KHỎE: Tăng cường sức đề kháng phòng bệnh</title>
+  </programme>
+  <programme start="20211007153000 +0700" stop="20211007160000 +0700" channel="khanh.hoa">
+    <title lang="vi">VĂN HÓA THẾ GIỚI : Nghệ thuật múa dân gian thế giới – Phần 2</title>
+  </programme>
+  <programme start="20211007160000 +0700" stop="20211007160500 +0700" channel="khanh.hoa">
+    <title lang="vi">PHÓNG SỰ: Xâm hại tình dục trẻ em, nỗi đau còn mãi</title>
+  </programme>
+  <programme start="20211007160500 +0700" stop="20211007163000 +0700" channel="khanh.hoa">
+    <title lang="vi">THỜI TRANG QUỐC TẾ THU ĐÔNG 2021 – SỐ 21</title>
+  </programme>
+  <programme start="20211007163000 +0700" stop="20211007163500 +0700" channel="khanh.hoa">
+    <title lang="vi">BẠN CẦN BIẾT</title>
+  </programme>
+  <programme start="20211007163500 +0700" stop="20211007165000 +0700" channel="khanh.hoa">
+    <title lang="vi">KHÁNH HÒA QUÊ HƯƠNG CON NGƯỜI: Chung tay thực hiện an sinh</title>
+  </programme>
+  <programme start="20211007165000 +0700" stop="20211007171500 +0700" channel="khanh.hoa">
+    <title lang="vi">HOẠT HÌNH: Những nàng tiên Balala – Phần 1 - Tập 14</title>
+  </programme>
+  <programme start="20211007171500 +0700" stop="20211007180000 +0700" channel="khanh.hoa">
+    <title lang="vi">PHIM NƯỚC NGOÀI: Khi chị em trả thù  - Tập 71</title>
+  </programme>
+  <programme start="20211007180000 +0700" stop="20211007181500 +0700" channel="khanh.hoa">
+    <title lang="vi">TRUYỀN HÌNH NHÂN ĐẠO</title>
+  </programme>
+  <programme start="20211007181500 +0700" stop="20211007183000 +0700" channel="khanh.hoa">
+    <title lang="vi">NHỊP SỐNG 24/7</title>
+  </programme>
+  <programme start="20211007183000 +0700" stop="20211007184000 +0700" channel="khanh.hoa">
+    <title lang="vi">THỜI SỰ THẾ GIỚI</title>
+  </programme>
+  <programme start="20211007184000 +0700" stop="20211007184500 +0700" channel="khanh.hoa">
+    <title lang="vi">NÉT ĐẸP CUỘC SỐNG: Người vùng biển</title>
+  </programme>
+  <programme start="20211007184500 +0700" stop="20211007190000 +0700" channel="khanh.hoa">
+    <title lang="vi">PHIM TRÊN KTV</title>
+  </programme>
+  <programme start="20211007190000 +0700" stop="20211007194500 +0700" channel="khanh.hoa">
+    <title lang="vi">THỜI SỰ ĐÀI THVN</title>
+  </programme>
+  <programme start="20211007194500 +0700" stop="20211007200500 +0700" channel="khanh.hoa">
+    <title lang="vi">THỜI SỰ KHÁNH HÒA</title>
+  </programme>
+  <programme start="20211007200500 +0700" stop="20211007201000 +0700" channel="khanh.hoa">
+    <title lang="vi">BẢN TIN DỰ BÁO THỜI TIẾT</title>
+  </programme>
+  <programme start="20211007201000 +0700" stop="20211007210000 +0700" channel="khanh.hoa">
+    <title lang="vi">PHIM NƯỚC NGOÀI: Bất khả xâm phạm - Tập 15</title>
+  </programme>
+  <programme start="20211007210000 +0700" stop="20211007214500 +0700" channel="khanh.hoa">
+    <title lang="vi">PHIM VIỆT NAM: Duyên định kim tiền - Tập 17</title>
+  </programme>
+  <programme start="20211007214500 +0700" stop="20211007215000 +0700" channel="khanh.hoa">
+    <title lang="vi">PHIM TRÊN KTV</title>
+  </programme>
+  <programme start="20211007215000 +0700" stop="20211007224000 +0700" channel="khanh.hoa">
+    <title lang="vi">PHIM NƯỚC NGOÀI: Truyền thuyết phi đao - Tập 6</title>
+  </programme>
+  <programme start="20211007224000 +0700" stop="20211007225000 +0700" channel="khanh.hoa">
+    <title lang="vi">BẢN TIN CUỐI NGÀY</title>
+  </programme>
+  <programme start="20211007225000 +0700" stop="20211007230000 +0700" channel="khanh.hoa">
+    <title lang="vi">THỜI SỰ THẾ GIỚI</title>
+  </programme>
+  <programme start="20211007230000 +0700" stop="20211007231500 +0700" channel="khanh.hoa">
+    <title lang="vi">BẢN TIN TIẾNG ANH</title>
+  </programme>
+  <programme start="20211007231500 +0700" stop="20211007234500 +0700" channel="khanh.hoa">
+    <title lang="vi">VĂN HÓA THẾ GIỚI: Nghệ thuật múa dân gian thế giới – Phần 2</title>
+  </programme>
+  <programme start="20211008000000 +0700" stop="20211008013000 +0700" channel="khanh.hoa">
+    <title lang="vi">PHIM NƯỚC NGOÀI: Ỷ thiên đồ long ký - Tập 36+37</title>
+  </programme>
+  <programme start="20211008013000 +0700" stop="20211008015500 +0700" channel="khanh.hoa">
+    <title lang="vi">THỜI TRANG QUỐC TẾ THU ĐÔNG 2021 – SỐ 21</title>
+  </programme>
+  <programme start="20211008015500 +0700" stop="20211008032500 +0700" channel="khanh.hoa">
+    <title lang="vi">PHIM VIỆT NAM: Cô gái kiêu kỳ - Tập 4+5</title>
+  </programme>
+  <programme start="20211008032500 +0700" stop="20211008033500 +0700" channel="khanh.hoa">
+    <title lang="vi">PHÓNG SỰ: Xâm hại tình dục trẻ em, nỗi đau còn mãi</title>
+  </programme>
+  <programme start="20211008033500 +0700" stop="20211008043000 +0700" channel="khanh.hoa">
+    <title lang="vi">TỌA ĐÀM: Ielts Face off</title>
+  </programme>
+  <programme start="20211008043000 +0700" stop="20211008051500 +0700" channel="khanh.hoa">
+    <title lang="vi">PHIM NƯỚC NGOÀI: Ký ức tình yêu - Tập 29 – Cuối</title>
+  </programme>
+  <programme start="20211008051500 +0700" stop="20211008060000 +0700" channel="khanh.hoa">
+    <title lang="vi">PHIM NƯỚC NGOÀI: Khi chị em trả thù  - Tập 1</title>
+  </programme>
+  <programme start="20211008060000 +0700" stop="20211008063000 +0700" channel="khanh.hoa">
+    <title lang="vi">KHỞI ĐỘNG NGÀY MỚI</title>
+  </programme>
+  <programme start="20211008063000 +0700" stop="20211008064500 +0700" channel="khanh.hoa">
+    <title lang="vi">CHÍNH SÁCH LAO ĐỘNG CUỘC SỐNG: Cần sớm giải quyết hỗ trợ covid - 19 từ chính sách của tỉnh</title>
+  </programme>
+  <programme start="20211008064500 +0700" stop="20211008065000 +0700" channel="khanh.hoa">
+    <title lang="vi">PHIM TRÊN KTV</title>
+  </programme>
+  <programme start="20211008065000 +0700" stop="20211008070500 +0700" channel="khanh.hoa">
+    <title lang="vi">PHÓNG SỰ: Nối dài bước chân xa</title>
+  </programme>
+  <programme start="20211008070500 +0700" stop="20211008083500 +0700" channel="khanh.hoa">
+    <title lang="vi">PHIM VIỆT NAM: Cô gái kiêu kỳ - Tập 4+5</title>
+  </programme>
+  <programme start="20211008083500 +0700" stop="20211008090000 +0700" channel="khanh.hoa">
+    <title lang="vi">KHOA GIÁO: Người giữ cát</title>
+  </programme>
+  <programme start="20211008090000 +0700" stop="20211008094500 +0700" channel="khanh.hoa">
+    <title lang="vi">KHÁM PHÁ THẾ GIỚI: Chim ác</title>
+  </programme>
+  <programme start="20211008094500 +0700" stop="20211008101000 +0700" channel="khanh.hoa">
+    <title lang="vi">LIÊN HOAN NGHỆ THUẬT XIẾC VIỄN ĐÔNG LẦN 1 – VÒNG LOẠI III: PHẦN 1</title>
+  </programme>
+  <programme start="20211008101000 +0700" stop="20211008102500 +0700" channel="khanh.hoa">
+    <title lang="vi">KHÁNH HÒA QUÊ HƯƠNG CON NGƯỜI: Chung tay thực hiện an sinh</title>
+  </programme>
+  <programme start="20211008102500 +0700" stop="20211008105000 +0700" channel="khanh.hoa">
+    <title lang="vi">HOẠT HÌNH: Học viện phép thuật - Tập 22</title>
+  </programme>
+  <programme start="20211008105000 +0700" stop="20211008110000 +0700" channel="khanh.hoa">
+    <title lang="vi">THỜI SỰ THẾ GIỚI</title>
+  </programme>
+  <programme start="20211008110000 +0700" stop="20211008114500 +0700" channel="khanh.hoa">
+    <title lang="vi">PHIM NƯỚC NGOÀI: Dẫu mưa hay nắng - Tập 4</title>
+  </programme>
+  <programme start="20211008114500 +0700" stop="20211008120000 +0700" channel="khanh.hoa">
+    <title lang="vi">THỜI SỰ KHÁNH HÒA</title>
+  </programme>
+  <programme start="20211008120000 +0700" stop="20211008125000 +0700" channel="khanh.hoa">
+    <title lang="vi">PHIM NƯỚC NGOÀI: Truyền thuyết phi đao - Tập 7</title>
+  </programme>
+  <programme start="20211008125000 +0700" stop="20211008133500 +0700" channel="khanh.hoa">
+    <title lang="vi">PHIM VIỆT NAM: Sông phố nhà ghe  - Tập 27</title>
+  </programme>
+  <programme start="20211008133500 +0700" stop="20211008134500 +0700" channel="khanh.hoa">
+    <title lang="vi">THỜI SỰ THẾ GIỚI</title>
+  </programme>
+  <programme start="20211008134500 +0700" stop="20211008140000 +0700" channel="khanh.hoa">
+    <title lang="vi">BẢN TIN TIẾNG ANH</title>
+  </programme>
+  <programme start="20211008140000 +0700" stop="20211008144500 +0700" channel="khanh.hoa">
+    <title lang="vi">PHIM NƯỚC NGOÀI: Bất khả xâm phạm - Tập 15</title>
+  </programme>
+  <programme start="20211008144500 +0700" stop="20211008153000 +0700" channel="khanh.hoa">
+    <title lang="vi">THẾ GIỚI ĐỘNG VẬT: Những quái vật nhỏ bé – Phần 1: Xung đột</title>
+  </programme>
+  <programme start="20211008153000 +0700" stop="20211008154500 +0700" channel="khanh.hoa">
+    <title lang="vi">TRUYỀN HÌNH NHÂN ĐẠO</title>
+  </programme>
+  <programme start="20211008154500 +0700" stop="20211008160000 +0700" channel="khanh.hoa">
+    <title lang="vi">TỔNG HỢP BÓNG ĐÁ</title>
+  </programme>
+  <programme start="20211008160000 +0700" stop="20211008161500 +0700" channel="khanh.hoa">
+    <title lang="vi">KÝ SỰ SÔNG CÁI LỚN CÁI BÉ: Tập 13: Loài cây mạnh mẽ giữa đồng bằng</title>
+  </programme>
+  <programme start="20211008161500 +0700" stop="20211008163000 +0700" channel="khanh.hoa">
+    <title lang="vi">CHUYỆN ÂM NHẠC: Đôi bờ</title>
+  </programme>
+  <programme start="20211008163000 +0700" stop="20211008163500 +0700" channel="khanh.hoa">
+    <title lang="vi">NÉT ĐẸP CUỘC SỐNG: Nghĩa đồng bào trong đại dịch</title>
+  </programme>
+  <programme start="20211008163500 +0700" stop="20211008165000 +0700" channel="khanh.hoa">
+    <title lang="vi">NÔNG NGHIỆP NÔNG THÔN: Khôi phục chuỗi cung ứng nông sản sau dịch covid-19</title>
+  </programme>
+  <programme start="20211008165000 +0700" stop="20211008171500 +0700" channel="khanh.hoa">
+    <title lang="vi">HOẠT HÌNH: Những nàng tiên Balala – Phần 1 - Tập 15</title>
+  </programme>
+  <programme start="20211008171500 +0700" stop="20211008180000 +0700" channel="khanh.hoa">
+    <title lang="vi">PHIM NƯỚC NGOÀI: Khi chị em trả thù  - Tập 72</title>
+  </programme>
+  <programme start="20211008180000 +0700" stop="20211008181500 +0700" channel="khanh.hoa">
+    <title lang="vi">PHÓNG SỰ: Nỗ lực phòng chống dịch</title>
+  </programme>
+  <programme start="20211008181500 +0700" stop="20211008183000 +0700" channel="khanh.hoa">
+    <title lang="vi">NHỊP SỐNG 24/7</title>
+  </programme>
+  <programme start="20211008183000 +0700" stop="20211008184000 +0700" channel="khanh.hoa">
+    <title lang="vi">THỜI SỰ THẾ GIỚI</title>
+  </programme>
+  <programme start="20211008184000 +0700" stop="20211008184500 +0700" channel="khanh.hoa">
+    <title lang="vi">NÉT ĐẸP CUỘC SỐNG: Nghĩa đồng bào trong đại dịch</title>
+  </programme>
+  <programme start="20211008184500 +0700" stop="20211008190000 +0700" channel="khanh.hoa">
+    <title lang="vi">PHIM TRÊN KTV</title>
+  </programme>
+  <programme start="20211008190000 +0700" stop="20211008194500 +0700" channel="khanh.hoa">
+    <title lang="vi">THỜI SỰ ĐÀI THVN</title>
+  </programme>
+  <programme start="20211008194500 +0700" stop="20211008200500 +0700" channel="khanh.hoa">
+    <title lang="vi">THỜI SỰ KHÁNH HÒA</title>
+  </programme>
+  <programme start="20211008200500 +0700" stop="20211008201000 +0700" channel="khanh.hoa">
+    <title lang="vi">BẢN TIN DỰ BÁO THỜI TIẾT</title>
+  </programme>
+  <programme start="20211008201000 +0700" stop="20211008210000 +0700" channel="khanh.hoa">
+    <title lang="vi">PHIM NƯỚC NGOÀI: Bất khả xâm phạm - Tập 16</title>
+  </programme>
+  <programme start="20211008210000 +0700" stop="20211008214500 +0700" channel="khanh.hoa">
+    <title lang="vi">PHIM VIỆT NAM: Duyên định kim tiền - Tập 18</title>
+  </programme>
+  <programme start="20211008214500 +0700" stop="20211008215000 +0700" channel="khanh.hoa">
+    <title lang="vi">PHIM TRÊN KTV</title>
+  </programme>
+  <programme start="20211008215000 +0700" stop="20211008224000 +0700" channel="khanh.hoa">
+    <title lang="vi">PHIM NƯỚC NGOÀI: Truyền thuyết phi đao - Tập 7</title>
+  </programme>
+  <programme start="20211008224000 +0700" stop="20211008225000 +0700" channel="khanh.hoa">
+    <title lang="vi">BẢN TIN CUỐI NGÀY</title>
+  </programme>
+  <programme start="20211008225000 +0700" stop="20211008230000 +0700" channel="khanh.hoa">
+    <title lang="vi">THỜI SỰ THẾ GIỚI</title>
+  </programme>
+  <programme start="20211008230000 +0700" stop="20211008231500 +0700" channel="khanh.hoa">
+    <title lang="vi">BẢN TIN TIẾNG ANH</title>
+  </programme>
+  <programme start="20211008231500 +0700" stop="20211008234000 +0700" channel="khanh.hoa">
+    <title lang="vi">TRUYỀN HÌNH TIẾNG DÂN TỘC: Dời làng kinh nghiệm từ Đồng Mít</title>
+  </programme>
+</tv>

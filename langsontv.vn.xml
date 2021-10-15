@@ -1,0 +1,472 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="lang.son">
+    <display-name lang="vi">Lạng Sơn</display-name>
+    <url>http://www.langsontv.vn</url>
+  </channel>
+  <programme start="20210925060000 +0700" stop="20210925060200 +0700" channel="lang.son">
+    <title lang="vi">Hình hiệu LSTV</title>
+  </programme>
+  <programme start="20210925060200 +0700" stop="20210925061200 +0700" channel="lang.son">
+    <title lang="vi">Bản tin sáng</title>
+    <sub-title lang="vi">Ngày 25/09/2021</sub-title>
+  </programme>
+  <programme start="20210925061200 +0700" stop="20210925061500 +0700" channel="lang.son">
+    <title lang="vi">Quốc tế sáng</title>
+  </programme>
+  <programme start="20210925061500 +0700" stop="20210925061600 +0700" channel="lang.son">
+    <title lang="vi">Dự báo thời tiết</title>
+  </programme>
+  <programme start="20210925061600 +0700" stop="20210925062200 +0700" channel="lang.son">
+    <title lang="vi">Văn bản mới</title>
+  </programme>
+  <programme start="20210925062200 +0700" stop="20210925062700 +0700" channel="lang.son">
+    <title lang="vi">Mỗi ngày một cuốn sách</title>
+  </programme>
+  <programme start="20210925062700 +0700" stop="20210925063300 +0700" channel="lang.son">
+    <title lang="vi">Lạng Sơn qua báo chí TW</title>
+  </programme>
+  <programme start="20210925063300 +0700" stop="20210925064400 +0700" channel="lang.son">
+    <title lang="vi">Sixcom</title>
+  </programme>
+  <programme start="20210925064400 +0700" stop="20210925064900 +0700" channel="lang.son">
+    <title lang="vi">Vấn đề hôm nay</title>
+  </programme>
+  <programme start="20210925064900 +0700" stop="20210925065500 +0700" channel="lang.son">
+    <title lang="vi">Trang truyền hình thành phố</title>
+  </programme>
+  <programme start="20210925065500 +0700" stop="20210925070200 +0700" channel="lang.son">
+    <title lang="vi">Lao động và công đoàn</title>
+  </programme>
+  <programme start="20210925070200 +0700" stop="20210925072200 +0700" channel="lang.son">
+    <title lang="vi">Ký sự</title>
+    <sub-title lang="vi">Huyền thoại Phú Quốc - Tập 14</sub-title>
+  </programme>
+  <programme start="20210925072200 +0700" stop="20210925072900 +0700" channel="lang.son">
+    <title lang="vi">Phim hoạt hình</title>
+    <sub-title lang="vi">Trong thư viện</sub-title>
+  </programme>
+  <programme start="20210925072900 +0700" stop="20210925073600 +0700" channel="lang.son">
+    <title lang="vi">Đại đoàn kết toàn dân</title>
+  </programme>
+  <programme start="20210925073600 +0700" stop="20210925074600 +0700" channel="lang.son">
+    <title lang="vi">Diễn đàn doanh nghiệp</title>
+  </programme>
+  <programme start="20210925074600 +0700" stop="20210925075700 +0700" channel="lang.son">
+    <title lang="vi">Vui khỏe mỗi ngày</title>
+  </programme>
+  <programme start="20210925075700 +0700" stop="20210925081600 +0700" channel="lang.son">
+    <title lang="vi">Văn hóa Việt</title>
+    <sub-title lang="vi">Chùa Huế - Tập 2</sub-title>
+  </programme>
+  <programme start="20210925081600 +0700" stop="20210925082800 +0700" channel="lang.son">
+    <title lang="vi">Thông tin thị trường vùng cao</title>
+  </programme>
+  <programme start="20210925082800 +0700" stop="20210925083800 +0700" channel="lang.son">
+    <title lang="vi">Chuyện thật như đùa</title>
+  </programme>
+  <programme start="20210925083800 +0700" stop="20210925085900 +0700" channel="lang.son">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20210925085900 +0700" stop="20210925090900 +0700" channel="lang.son">
+    <title lang="vi">Bản tin sáng</title>
+    <sub-title lang="vi">Ngày 25/09/2021</sub-title>
+  </programme>
+  <programme start="20210925090900 +0700" stop="20210925091200 +0700" channel="lang.son">
+    <title lang="vi">Quốc tế sáng</title>
+  </programme>
+  <programme start="20210925091200 +0700" stop="20210925092800 +0700" channel="lang.son">
+    <title lang="vi">Bản tin tiếng Trung</title>
+  </programme>
+  <programme start="20210925092800 +0700" stop="20210925095700 +0700" channel="lang.son">
+    <title lang="vi">Truyền hình tiếng Dao</title>
+  </programme>
+  <programme start="20210925095700 +0700" stop="20210925101700 +0700" channel="lang.son">
+    <title lang="vi">Trailer giới thiệu</title>
+  </programme>
+  <programme start="20210925101700 +0700" stop="20210925102100 +0700" channel="lang.son">
+    <title lang="vi">Thời sự tổng hợp</title>
+    <sub-title lang="vi">Ngày 24/09/2021</sub-title>
+  </programme>
+  <programme start="20210925102100 +0700" stop="20210925103100 +0700" channel="lang.son">
+    <title lang="vi">An toàn sống</title>
+  </programme>
+  <programme start="20210925103100 +0700" stop="20210925104300 +0700" channel="lang.son">
+    <title lang="vi">Bảo hiểm xã hội với cuộc sống</title>
+  </programme>
+  <programme start="20210925104300 +0700" stop="20210925104500 +0700" channel="lang.son">
+    <title lang="vi">Phụ nữ Xứ Lạng hôm nay</title>
+  </programme>
+  <programme start="20210925104500 +0700" stop="20210925105400 +0700" channel="lang.son">
+    <title lang="vi">An toàn giao thông</title>
+  </programme>
+  <programme start="20210925105400 +0700" stop="20210925114400 +0700" channel="lang.son">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Đội chống khủng bố Liệp ảnh - Phần 2 -Tập 16</sub-title>
+  </programme>
+  <programme start="20210925115900 +0700" stop="20210925121800 +0700" channel="lang.son">
+    <title lang="vi">Học hát dân ca</title>
+  </programme>
+  <programme start="20210925114400 +0700" stop="20210925120000 +0700" channel="lang.son">
+    <title lang="vi">Bản tin trưa</title>
+    <sub-title lang="vi">Ngày 25/09/2021</sub-title>
+  </programme>
+  <programme start="20210925121800 +0700" stop="20210925124300 +0700" channel="lang.son">
+    <title lang="vi">Phim tài liệu</title>
+    <sub-title lang="vi">Việt nam thời đại Hồ Chí Minh - Biên niên sử truyền hình - năm 1986- phần 2</sub-title>
+  </programme>
+  <programme start="20210925124300 +0700" stop="20210925145900 +0700" channel="lang.son">
+    <title lang="vi">Tiếp sóng VTV1</title>
+  </programme>
+  <programme start="20210925145900 +0700" stop="20210925150000 +0700" channel="lang.son">
+    <title lang="vi">Clips mời các bạn…</title>
+  </programme>
+  <programme start="20210925150000 +0700" stop="20210925150000 +0700" channel="lang.son">
+    <title lang="vi">Giới thiệu chương trình</title>
+  </programme>
+  <programme start="20210925150000 +0700" stop="20210925151500 +0700" channel="lang.son">
+    <title lang="vi">Bản tin chiều</title>
+    <sub-title lang="vi">Ngày 25/09/2021</sub-title>
+  </programme>
+  <programme start="20210925151500 +0700" stop="20210925160300 +0700" channel="lang.son">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Bữa tối của Diều hâu - Tập 14</sub-title>
+  </programme>
+  <programme start="20210925160300 +0700" stop="20210925160700 +0700" channel="lang.son">
+    <title lang="vi">Văn bản mới</title>
+  </programme>
+  <programme start="20210925160700 +0700" stop="20210925161600 +0700" channel="lang.son">
+    <title lang="vi">Lạng Sơn qua báo chí TW</title>
+  </programme>
+  <programme start="20210925161600 +0700" stop="20210925162600 +0700" channel="lang.son">
+    <title lang="vi">Sixcom</title>
+  </programme>
+  <programme start="20210925162600 +0700" stop="20210925163300 +0700" channel="lang.son">
+    <title lang="vi">Giáo dục và Đào tạo</title>
+  </programme>
+  <programme start="20210925163300 +0700" stop="20210925163800 +0700" channel="lang.son">
+    <title lang="vi">Sức khỏe và đời sống</title>
+  </programme>
+  <programme start="20210925163800 +0700" stop="20210925171100 +0700" channel="lang.son">
+    <title lang="vi">Truyền hình tiếng Tày</title>
+  </programme>
+  <programme start="20210925171100 +0700" stop="20210925173600 +0700" channel="lang.son">
+    <title lang="vi">Phóng sự</title>
+    <sub-title lang="vi">Sân chơi bổ ích khoa học cho thanh thiếu niên nhi đồng</sub-title>
+  </programme>
+  <programme start="20210925173600 +0700" stop="20210925174600 +0700" channel="lang.son">
+    <title lang="vi">Phim hoạt hình</title>
+    <sub-title lang="vi">Trường học của bói cá</sub-title>
+  </programme>
+  <programme start="20210925174600 +0700" stop="20210925175100 +0700" channel="lang.son">
+    <title lang="vi">Mỗi ngày một cuốn sách</title>
+  </programme>
+  <programme start="20210925175100 +0700" stop="20210925175200 +0700" channel="lang.son">
+    <title lang="vi">Giới thiệu chương trình</title>
+  </programme>
+  <programme start="20210925175200 +0700" stop="20210925184000 +0700" channel="lang.son">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Bữa tối của Diều hâu - Tập 15</sub-title>
+  </programme>
+  <programme start="20210925184000 +0700" stop="20210925190000 +0700" channel="lang.son">
+    <title lang="vi">Đất và người Xứ Lạng</title>
+  </programme>
+  <programme start="20210925190000 +0700" stop="20210925195000 +0700" channel="lang.son">
+    <title lang="vi">Tiếp sóng VTV1</title>
+  </programme>
+  <programme start="20210925195000 +0700" stop="20210925201700 +0700" channel="lang.son">
+    <title lang="vi">Thời sự tổng hợp</title>
+    <sub-title lang="vi">Ngày 25/09/2021</sub-title>
+  </programme>
+  <programme start="20210925201700 +0700" stop="20210925202200 +0700" channel="lang.son">
+    <title lang="vi">Quảng cáo</title>
+  </programme>
+  <programme start="20210925202200 +0700" stop="20210925202300 +0700" channel="lang.son">
+    <title lang="vi">Dự báo thời tiết</title>
+  </programme>
+  <programme start="20210925202300 +0700" stop="20210925202800 +0700" channel="lang.son">
+    <title lang="vi">Bản tin quốc tế</title>
+  </programme>
+  <programme start="20210925202800 +0700" stop="20210925203300 +0700" channel="lang.son">
+    <title lang="vi">Bản tin Thể thao</title>
+  </programme>
+  <programme start="20210925203300 +0700" stop="20210925203800 +0700" channel="lang.son">
+    <title lang="vi">Lạng Sơn điểm đến nơi biên cương</title>
+  </programme>
+  <programme start="20210925203800 +0700" stop="20210925205300 +0700" channel="lang.son">
+    <title lang="vi">Vì an ninh Xứ Lạng</title>
+  </programme>
+  <programme start="20210925205300 +0700" stop="20210925210000 +0700" channel="lang.son">
+    <title lang="vi">Nông nghiệp - Nông thôn Lạng Sơn</title>
+  </programme>
+  <programme start="20210925210000 +0700" stop="20210925214700 +0700" channel="lang.son">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Đội chống khủng bố Liệp ảnh - Phần 2 -Tập 17</sub-title>
+  </programme>
+  <programme start="20210925214700 +0700" stop="20210925215400 +0700" channel="lang.son">
+    <title lang="vi">Khoa học Công nghệ và Đời sống</title>
+  </programme>
+  <programme start="20210925215400 +0700" stop="20210925220200 +0700" channel="lang.son">
+    <title lang="vi">Pháp luật với cuộc sống</title>
+  </programme>
+  <programme start="20210925220200 +0700" stop="20210925220500 +0700" channel="lang.son">
+    <title lang="vi">Cơm nguội</title>
+  </programme>
+  <programme start="20210925220500 +0700" stop="20210925223300 +0700" channel="lang.son">
+    <title lang="vi">Phim tài liệu</title>
+    <sub-title lang="vi">Việt nam thời đại Hồ Chí Minh - Biên niên sử truyền hình - năm 1986- phần 2</sub-title>
+  </programme>
+  <programme start="20210925223300 +0700" stop="20210925224900 +0700" channel="lang.son">
+    <title lang="vi">Đất và người Xứ Lạng</title>
+  </programme>
+  <programme start="20210925224900 +0700" stop="20210925230400 +0700" channel="lang.son">
+    <title lang="vi">Sixcom</title>
+  </programme>
+  <programme start="20210925230400 +0700" stop="20210925230900 +0700" channel="lang.son">
+    <title lang="vi">Văn bản mới</title>
+  </programme>
+  <programme start="20210925230900 +0700" stop="20210925231400 +0700" channel="lang.son">
+    <title lang="vi">Mỗi ngày một cuốn sách</title>
+  </programme>
+  <programme start="20210925231400 +0700" stop="20210925233400 +0700" channel="lang.son">
+    <title lang="vi">Ký sự</title>
+    <sub-title lang="vi">Huyền thoại Phú Quốc - Tập 14</sub-title>
+  </programme>
+  <programme start="20210925233400 +0700" stop="20210925235800 +0700" channel="lang.son">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20210925235800 +0700" stop="20210926060000 +0700" channel="lang.son">
+    <title lang="vi">Kết thúc chương trình</title>
+  </programme>
+  <programme start="20210926060000 +0700" stop="20210926060200 +0700" channel="lang.son">
+    <title lang="vi">Hình hiệu LSTV</title>
+  </programme>
+  <programme start="20210926060200 +0700" stop="20210926061200 +0700" channel="lang.son">
+    <title lang="vi">Bản tin sáng</title>
+    <sub-title lang="vi">Ngày 25/09/2021</sub-title>
+  </programme>
+  <programme start="20210926061200 +0700" stop="20210926061500 +0700" channel="lang.son">
+    <title lang="vi">Quốc tế sáng</title>
+  </programme>
+  <programme start="20210926061500 +0700" stop="20210926061600 +0700" channel="lang.son">
+    <title lang="vi">Dự báo thời tiết</title>
+  </programme>
+  <programme start="20210926061600 +0700" stop="20210926062200 +0700" channel="lang.son">
+    <title lang="vi">Văn bản mới</title>
+  </programme>
+  <programme start="20210926062200 +0700" stop="20210926062700 +0700" channel="lang.son">
+    <title lang="vi">Mỗi ngày một cuốn sách</title>
+  </programme>
+  <programme start="20210926062700 +0700" stop="20210926063300 +0700" channel="lang.son">
+    <title lang="vi">Lạng Sơn qua báo chí TW</title>
+  </programme>
+  <programme start="20210926063300 +0700" stop="20210926064400 +0700" channel="lang.son">
+    <title lang="vi">Sixcom</title>
+  </programme>
+  <programme start="20210926064400 +0700" stop="20210926064900 +0700" channel="lang.son">
+    <title lang="vi">Vấn đề hôm nay</title>
+  </programme>
+  <programme start="20210926064900 +0700" stop="20210926065500 +0700" channel="lang.son">
+    <title lang="vi">Trang truyền hình thành phố</title>
+  </programme>
+  <programme start="20210926065500 +0700" stop="20210926070200 +0700" channel="lang.son">
+    <title lang="vi">Lao động và công đoàn</title>
+  </programme>
+  <programme start="20210926070200 +0700" stop="20210926072200 +0700" channel="lang.son">
+    <title lang="vi">Ký sự</title>
+    <sub-title lang="vi">Huyền thoại Phú Quốc - Tập 14</sub-title>
+  </programme>
+  <programme start="20210926072200 +0700" stop="20210926072900 +0700" channel="lang.son">
+    <title lang="vi">Phim hoạt hình</title>
+    <sub-title lang="vi">Trong thư viện</sub-title>
+  </programme>
+  <programme start="20210926072900 +0700" stop="20210926073600 +0700" channel="lang.son">
+    <title lang="vi">Đại đoàn kết toàn dân</title>
+  </programme>
+  <programme start="20210926073600 +0700" stop="20210926074600 +0700" channel="lang.son">
+    <title lang="vi">Diễn đàn doanh nghiệp</title>
+  </programme>
+  <programme start="20210926074600 +0700" stop="20210926075700 +0700" channel="lang.son">
+    <title lang="vi">Vui khỏe mỗi ngày</title>
+  </programme>
+  <programme start="20210926075700 +0700" stop="20210926081600 +0700" channel="lang.son">
+    <title lang="vi">Văn hóa Việt</title>
+    <sub-title lang="vi">Chùa Huế - Tập 2</sub-title>
+  </programme>
+  <programme start="20210926081600 +0700" stop="20210926082800 +0700" channel="lang.son">
+    <title lang="vi">Thông tin thị trường vùng cao</title>
+  </programme>
+  <programme start="20210926082800 +0700" stop="20210926083800 +0700" channel="lang.son">
+    <title lang="vi">Chuyện thật như đùa</title>
+  </programme>
+  <programme start="20210926083800 +0700" stop="20210926085900 +0700" channel="lang.son">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+  <programme start="20210926085900 +0700" stop="20210926090900 +0700" channel="lang.son">
+    <title lang="vi">Bản tin sáng</title>
+    <sub-title lang="vi">Ngày 25/09/2021</sub-title>
+  </programme>
+  <programme start="20210926090900 +0700" stop="20210926091200 +0700" channel="lang.son">
+    <title lang="vi">Quốc tế sáng</title>
+  </programme>
+  <programme start="20210926091200 +0700" stop="20210926092800 +0700" channel="lang.son">
+    <title lang="vi">Bản tin tiếng Trung</title>
+  </programme>
+  <programme start="20210926092800 +0700" stop="20210926095700 +0700" channel="lang.son">
+    <title lang="vi">Truyền hình tiếng Dao</title>
+  </programme>
+  <programme start="20210926095700 +0700" stop="20210926101700 +0700" channel="lang.son">
+    <title lang="vi">Trailer giới thiệu</title>
+  </programme>
+  <programme start="20210926101700 +0700" stop="20210926102100 +0700" channel="lang.son">
+    <title lang="vi">Thời sự tổng hợp</title>
+    <sub-title lang="vi">Ngày 24/09/2021</sub-title>
+  </programme>
+  <programme start="20210926102100 +0700" stop="20210926103100 +0700" channel="lang.son">
+    <title lang="vi">An toàn sống</title>
+  </programme>
+  <programme start="20210926103100 +0700" stop="20210926104300 +0700" channel="lang.son">
+    <title lang="vi">Bảo hiểm xã hội với cuộc sống</title>
+  </programme>
+  <programme start="20210926104300 +0700" stop="20210926104500 +0700" channel="lang.son">
+    <title lang="vi">Phụ nữ Xứ Lạng hôm nay</title>
+  </programme>
+  <programme start="20210926104500 +0700" stop="20210926105400 +0700" channel="lang.son">
+    <title lang="vi">An toàn giao thông</title>
+  </programme>
+  <programme start="20210926105400 +0700" stop="20210926114400 +0700" channel="lang.son">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Đội chống khủng bố Liệp ảnh - Phần 2 -Tập 16</sub-title>
+  </programme>
+  <programme start="20210926115900 +0700" stop="20210926121800 +0700" channel="lang.son">
+    <title lang="vi">Học hát dân ca</title>
+  </programme>
+  <programme start="20210926114400 +0700" stop="20210926120000 +0700" channel="lang.son">
+    <title lang="vi">Bản tin trưa</title>
+    <sub-title lang="vi">Ngày 25/09/2021</sub-title>
+  </programme>
+  <programme start="20210926121800 +0700" stop="20210926124300 +0700" channel="lang.son">
+    <title lang="vi">Phim tài liệu</title>
+    <sub-title lang="vi">Việt nam thời đại Hồ Chí Minh - Biên niên sử truyền hình - năm 1986- phần 2</sub-title>
+  </programme>
+  <programme start="20210926124300 +0700" stop="20210926145900 +0700" channel="lang.son">
+    <title lang="vi">Tiếp sóng VTV1</title>
+  </programme>
+  <programme start="20210926145900 +0700" stop="20210926150000 +0700" channel="lang.son">
+    <title lang="vi">Clips mời các bạn…</title>
+  </programme>
+  <programme start="20210926150000 +0700" stop="20210926150000 +0700" channel="lang.son">
+    <title lang="vi">Giới thiệu chương trình</title>
+  </programme>
+  <programme start="20210926150000 +0700" stop="20210926151500 +0700" channel="lang.son">
+    <title lang="vi">Bản tin chiều</title>
+    <sub-title lang="vi">Ngày 25/09/2021</sub-title>
+  </programme>
+  <programme start="20210926151500 +0700" stop="20210926160300 +0700" channel="lang.son">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Bữa tối của Diều hâu - Tập 14</sub-title>
+  </programme>
+  <programme start="20210926160300 +0700" stop="20210926160700 +0700" channel="lang.son">
+    <title lang="vi">Văn bản mới</title>
+  </programme>
+  <programme start="20210926160700 +0700" stop="20210926161600 +0700" channel="lang.son">
+    <title lang="vi">Lạng Sơn qua báo chí TW</title>
+  </programme>
+  <programme start="20210926161600 +0700" stop="20210926162600 +0700" channel="lang.son">
+    <title lang="vi">Sixcom</title>
+  </programme>
+  <programme start="20210926162600 +0700" stop="20210926163300 +0700" channel="lang.son">
+    <title lang="vi">Giáo dục và Đào tạo</title>
+  </programme>
+  <programme start="20210926163300 +0700" stop="20210926163800 +0700" channel="lang.son">
+    <title lang="vi">Sức khỏe và đời sống</title>
+  </programme>
+  <programme start="20210926163800 +0700" stop="20210926171100 +0700" channel="lang.son">
+    <title lang="vi">Truyền hình tiếng Tày</title>
+  </programme>
+  <programme start="20210926171100 +0700" stop="20210926173600 +0700" channel="lang.son">
+    <title lang="vi">Phóng sự</title>
+    <sub-title lang="vi">Sân chơi bổ ích khoa học cho thanh thiếu niên nhi đồng</sub-title>
+  </programme>
+  <programme start="20210926173600 +0700" stop="20210926174600 +0700" channel="lang.son">
+    <title lang="vi">Phim hoạt hình</title>
+    <sub-title lang="vi">Trường học của bói cá</sub-title>
+  </programme>
+  <programme start="20210926174600 +0700" stop="20210926175100 +0700" channel="lang.son">
+    <title lang="vi">Mỗi ngày một cuốn sách</title>
+  </programme>
+  <programme start="20210926175100 +0700" stop="20210926175200 +0700" channel="lang.son">
+    <title lang="vi">Giới thiệu chương trình</title>
+  </programme>
+  <programme start="20210926175200 +0700" stop="20210926184000 +0700" channel="lang.son">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Bữa tối của Diều hâu - Tập 15</sub-title>
+  </programme>
+  <programme start="20210926184000 +0700" stop="20210926190000 +0700" channel="lang.son">
+    <title lang="vi">Đất và người Xứ Lạng</title>
+  </programme>
+  <programme start="20210926190000 +0700" stop="20210926195000 +0700" channel="lang.son">
+    <title lang="vi">Tiếp sóng VTV1</title>
+  </programme>
+  <programme start="20210926195000 +0700" stop="20210926201700 +0700" channel="lang.son">
+    <title lang="vi">Thời sự tổng hợp</title>
+    <sub-title lang="vi">Ngày 25/09/2021</sub-title>
+  </programme>
+  <programme start="20210926201700 +0700" stop="20210926202200 +0700" channel="lang.son">
+    <title lang="vi">Quảng cáo</title>
+  </programme>
+  <programme start="20210926202200 +0700" stop="20210926202300 +0700" channel="lang.son">
+    <title lang="vi">Dự báo thời tiết</title>
+  </programme>
+  <programme start="20210926202300 +0700" stop="20210926202800 +0700" channel="lang.son">
+    <title lang="vi">Bản tin quốc tế</title>
+  </programme>
+  <programme start="20210926202800 +0700" stop="20210926203300 +0700" channel="lang.son">
+    <title lang="vi">Bản tin Thể thao</title>
+  </programme>
+  <programme start="20210926203300 +0700" stop="20210926203800 +0700" channel="lang.son">
+    <title lang="vi">Lạng Sơn điểm đến nơi biên cương</title>
+  </programme>
+  <programme start="20210926203800 +0700" stop="20210926205300 +0700" channel="lang.son">
+    <title lang="vi">Vì an ninh Xứ Lạng</title>
+  </programme>
+  <programme start="20210926205300 +0700" stop="20210926210000 +0700" channel="lang.son">
+    <title lang="vi">Nông nghiệp - Nông thôn Lạng Sơn</title>
+  </programme>
+  <programme start="20210926210000 +0700" stop="20210926214700 +0700" channel="lang.son">
+    <title lang="vi">Phim truyện</title>
+    <sub-title lang="vi">Đội chống khủng bố Liệp ảnh - Phần 2 -Tập 17</sub-title>
+  </programme>
+  <programme start="20210926214700 +0700" stop="20210926215400 +0700" channel="lang.son">
+    <title lang="vi">Khoa học Công nghệ và Đời sống</title>
+  </programme>
+  <programme start="20210926215400 +0700" stop="20210926220200 +0700" channel="lang.son">
+    <title lang="vi">Pháp luật với cuộc sống</title>
+  </programme>
+  <programme start="20210926220200 +0700" stop="20210926220500 +0700" channel="lang.son">
+    <title lang="vi">Cơm nguội</title>
+  </programme>
+  <programme start="20210926220500 +0700" stop="20210926223300 +0700" channel="lang.son">
+    <title lang="vi">Phim tài liệu</title>
+    <sub-title lang="vi">Việt nam thời đại Hồ Chí Minh - Biên niên sử truyền hình - năm 1986- phần 2</sub-title>
+  </programme>
+  <programme start="20210926223300 +0700" stop="20210926224900 +0700" channel="lang.son">
+    <title lang="vi">Đất và người Xứ Lạng</title>
+  </programme>
+  <programme start="20210926224900 +0700" stop="20210926230400 +0700" channel="lang.son">
+    <title lang="vi">Sixcom</title>
+  </programme>
+  <programme start="20210926230400 +0700" stop="20210926230900 +0700" channel="lang.son">
+    <title lang="vi">Văn bản mới</title>
+  </programme>
+  <programme start="20210926230900 +0700" stop="20210926231400 +0700" channel="lang.son">
+    <title lang="vi">Mỗi ngày một cuốn sách</title>
+  </programme>
+  <programme start="20210926231400 +0700" stop="20210926233400 +0700" channel="lang.son">
+    <title lang="vi">Ký sự</title>
+    <sub-title lang="vi">Huyền thoại Phú Quốc - Tập 14</sub-title>
+  </programme>
+  <programme start="20210926233400 +0700" stop="20210926235800 +0700" channel="lang.son">
+    <title lang="vi">Ca nhạc</title>
+  </programme>
+</tv>
